@@ -1,0 +1,58 @@
+add_info: Additional time series
+additional_information_blurb: The time series below consists of ranges of numbers instead of individual values.
+  For technical reasons, the presentation in the form of interactive charts and tables is only possible for time series with purely numerical values,
+  therefore the time series is presented here in PDF format.
+select_all: Select all
+clear_all: Clear all
+clear_selections: Clear selections
+variable_hint: Available when '%field' is selected
+no_data_hint: No options available because of filters above
+footnote: Specification
+specification: Specification
+details: Details
+download_headline: Download Headline CSV
+download_headline_title: Download headline data as CSV
+download_source: Download Source CSV
+download_source_title: Download source data as CSV
+download_chart: Download Chart CSV
+download_chart_image: Download Chart Image
+download_table: Download Table CSV
+download_csv: Download CSV
+download_csv_title: Download as CSV
+source: Source
+sources: Sources
+geographical_area: Geographical Area
+unit_of_measurement: Unit of measurement
+copyright: Copyright
+units_type: Units type
+dataset_size_warning: There are too many datasets to show on the chart. Not all
+  will be shown until you remove some selections.
+view_indicator_list: View this goal's indicator list
+sub_categories: Selection
+sub_categories_dns: Sub-categories
+series_help: Select here what should be displayed in the chart and in the table.
+series_help_dns: Select here what should be displayed in the chart and in the table.
+legend_help: Click on the legend to remove individual lines from the chart.
+chart: Chart
+table: Table
+map: Map
+loading_map: Loading map
+national_metadata: National Metadata
+metadata: Metadata
+dns_metadata_blurb: This table includes additional information to the above visualized indicators, i.e. a short definition of this indicator and a description of the politically determined target values as well as explaining the political intention behind selecting this indicator.
+national_metadata_blurb: The international organisations (custodian agencies) that are responsible for the respective SDG-indicator publish methodological guidelines
+  for the calculation of the indicator - so-called global metadata.<br><br>Displayed here are the national time series that fit the global metadata best as well as their
+  comparability to the global metadata. Please find further methodical and country-specific information of the time series in the related national metadata sheet.
+global_metadata: Global Metadata
+global_metadata_blurb: This table provides information on metadata for SDG
+  indicators.
+  <a href="https://unstats.un.org/sdgs/metadata/">Global metadata</a>
+  is provided by the UN Statistics Division.
+history: Indicator status summary
+history_blurb: The synoptic table provides information about the evaluation of the indicator for Germany in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <i>(Evaluation of the indicator report 2018)</i>
+edit: Edit
+edit_data: Edit Data
+edit_metadata: Edit Metadata
+timeseries: Time series
+no_selection: No disaggregations are available for this indicator
+contentAndProgress: Content and progress
