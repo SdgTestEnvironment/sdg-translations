@@ -5,6 +5,8 @@ reporting_status: Berichtsstatus
 statistics_in_progress: In Bearbeitung
 not_applicable: Nicht zutreffend
 status_by_goal: Status nach Ziel
+un_designated_tier: Status nach Tier Klassifiaktion
+un_custodian_agency: Status nach Custodian Agency
 nebel: Keine Bewertung möglich
 x: Keine Bewertung möglich
 sonne: Bei Fortsetzung der Entwicklung beträgt die Abweichung vom Zielwert weniger als 5&nbsp;% der Differenz zwischen Zielwert und aktuellem Wert
