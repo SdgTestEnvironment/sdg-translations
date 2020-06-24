@@ -13,6 +13,7 @@ download_chart: Grafik im CSV-Format speichern
 download_chart_image: Grafik als Bild speichern
 download_csv: im CSV-Format speichern
 download_csv_title: im CSV-Format speichern
+download_geojson: Im GeoJSON Format Speichern
 download_headline: Speichern der Headline im CSV-Format
 download_headline_title: Speichern der Headline im CSV-Format
 download_source: Daten im CSV-Format speichern
