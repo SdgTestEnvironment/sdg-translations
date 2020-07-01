@@ -1,3 +1,6 @@
+mapTitle_indicator_8-5-1: Test map title
+mapUnit_indicator_8-5-1: Test map unit
+
 add_info: Zusätzliche Zeitreihen
 additional_information_blurb: Die untenstehende Zeitreihe besteht aus Zahlenspannen anstelle einzelner Werte.
   Aus techischen Gründen ist die Darstellung in Form von interaktiven Grafiken und Tabellen nur für Zeitreihen mit rein numerischen Werten möglich,
