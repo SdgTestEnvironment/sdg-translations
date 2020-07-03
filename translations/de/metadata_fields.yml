@@ -24,7 +24,7 @@ indicator_name: Indikatorenbezeichnung
 indicator_sort_order: Indikatorenreihenfolge (in der Zielübersicht)
 info_url_1: Zusätzliche Informationen
 national_data_update_url: Letzte Änderung des Codes <small>(Daten)</small> #Daten zuletzt aktualisiert am
-national_geographical_coverage: Geogr. Abdeckung
+national_geographical_coverage: Geographische Abdeckung
 national_indicator_available: Verfügbare Zeitreihenbezeichnung
 national_indicator_description: Indikatorenbeschreibung
 national_metadata_update_url: Letzte Änderung des Codes <small>(Texte)</small> #Metadaten zuletzt aktualisiert am
@@ -91,7 +91,7 @@ source_url_6: Link zur <br>Datenquelle
 target: Unterziel
 target_id: Unterzielnummerierung
 un_custodian_agency: Custodian Agency
-un_designated_tier: Tier Klassifikation
+un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Klicken Sie hier um weitere Informationen zur UN-Tier-Klassifikation zu erhalten."> Tier Klassifikation</a>
 other_info: Weitere Informationen
 quality_assurance: Qualitätssicherung
 international_comparability: Vergleichbarkeit mit internationalen Daten/Standards
