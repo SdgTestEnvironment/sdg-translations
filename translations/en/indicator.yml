@@ -19,8 +19,6 @@ download_chart_image: Download Chart Image
 download_table: Download Table CSV
 download_csv: Download CSV
 download_csv_title: Download as CSV
-download_geojson: Download GeoJSON
-embedded_feature_tab_title: Additional data
 source: Source
 sources: Sources
 geographical_area: Geographical Area
