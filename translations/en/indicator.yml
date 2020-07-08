@@ -16,6 +16,7 @@ download_source: Download Source CSV
 download_source_title: Download source data as CSV
 download_chart: Download Chart CSV
 download_chart_image: Download Chart Image
+download_geojson: Download as GeoJSON
 download_table: Download Table CSV
 download_csv: Download CSV
 download_csv_title: Download as CSV
