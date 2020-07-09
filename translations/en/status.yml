@@ -1,7 +1,7 @@
-status_blurb: 'Here you can have a look at how many of the SDG indicators can be calculated for Germany at this time. The time series for the calculation of the indicators are based on data of official statistics, as well as on other sources.<br>Not all of the globally agreed SDG indicators can be backed up with statistical data. There can be various reasons for this: Certain internationally relevant indicators cannot be calculated sensibly for Germany. SDG indicators to which this applies are marked as <span class="status notapplicable"> Not applicable </span>.
-  For other SDG indicators there are not all necessary statistical source data available yet. They are recognisable by being marked as <span class="status notstarted"> Exploring data sources </span>.
-  <br>When there is data available, the SDG indicator is marked as <span class="status complete"> Reported online </span>. 
-  <br>If the data is available and being processed right now, the SDG indicator is marked as <span class="status inprogress"> Statistics in process </span>.'
+status_blurb: 'Here you can have a look at how many of the SDG indicators can be calculated for Germany at this time. The time series for the calculation of the indicators are based on data of official statistics, as well as on other sources.<br>Not all of the globally agreed SDG indicators can be backed up with statistical data. There can be various reasons for this: Certain internationally relevant indicators cannot be calculated sensibly for Germany. SDG indicators to which this applies are marked as <span class="status notapplicable">&nbspNot applicable </span>.
+  For other SDG indicators there are not all necessary statistical source data available yet. They are recognisable by being marked as <span class="status notstarted">&nbspExploring data sources </span>.
+  <br>When there is data available, the SDG indicator is marked as <span class="status complete">&nbspReported online </span>. 
+  <br>If the data is available and being processed right now, the SDG indicator is marked as <span class="status inprogress">&nbspStatistics in process </span>.'
 reporting_status: Reporting Status
 overall_reporting_status: Overall Reporting Status
 reported_online: Reported online
