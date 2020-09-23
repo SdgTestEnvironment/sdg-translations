@@ -217,6 +217,7 @@ under-five mortality rate (per 1 000 live births): Kindersterblichkeit unter 5 J
 #3.2.2
 neonatal mortality rate: Sterberate bei Neugeborenen
 neonatal mortality rate (per 1 000 live births): Sterberate bei Neugeborenen
+neonatal mortality: Neugeborenensterblichkeit
 #3.3.1
 hiv incidence: Auftreten von HIV
 hiv incidence (per 1 000 inhabitants): Auftreten von HIV
@@ -242,6 +243,7 @@ d) chronic respiratory disease: d) Sterblichkeit aufgrund von chronischen Atemwe
 #3.4.2
 suicide mortality rate: Selbstmordsterblichkeit
 suicide mortality rate (per 100 000 inhabitants): Selbstmordsterblichkeit
+mortality due to suicide: Sterblichkeit infolge von Suizid
 #3.5.1
 inpatient treatment of dependence syndrom due to psychoactive substance use: Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen
 inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen
