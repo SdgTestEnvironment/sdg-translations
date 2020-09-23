@@ -242,6 +242,7 @@ d) chronic respiratory disease: d) Mortality rate attributed to chronic respirat
 #3.4.2
 suicide mortality rate: Suicide mortality rate
 suicide mortality rate (per 100 000 inhabitants): Suicide mortality rate
+mortality due to suicide: Mortality due to suicide
 #3.5.1
 inpatient treatment of dependence syndrom due to psychoactive substance use: Inpatient treatment of dependence syndrom due to psychoactive substance use
 inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Inpatient treatment of dependence syndrom due to psychoactive substance use
@@ -286,6 +287,7 @@ protein-energy malnutrition: Mortality rate attributed to protein-energy malnutr
 #3.9.3
 mortality rate attributed to unintentional poisoning: Mortality rate attributed to unintentional poisoning
 mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Mortality rate attributed to unintentional poisoning
+mortality rate due to unintentional poisoning: Mortality rate due to unintentional poisoning
 #3.a.1
 current tobacco use among persons aged 15 years and older: Current tobacco use among persons aged 15 years and older
 current tobacco use among persons aged 15 years and older (%): Current tobacco use among persons aged 15 years and older
