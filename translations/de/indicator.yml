@@ -37,8 +37,8 @@ national_metadata: Nationale Metadaten
 dns_metadata_blurb: Diese Übersicht beinhaltet zusätzliche Informationen zu den oben dargestellten Indikatoren, wie eine kurze Definition des Indikators und eine Beschreibung des politisch festgelegten Zielwertes sowie die politische Intention für die Auswahl des Indikators.
 national_metadata_blurb: Die für den jeweiligen SDG-Indikator zuständigen internationalen Organisationen (Custodian Agencies) veröffentlichen methodische Vorgaben zur
   Berechnung des Indikators - die sogenannten globalen Metadaten.<br><br>Hier werden die am besten dazu geeigneten, national verfügbaren Zeitreihen bereitgestellt und ihre
-  Vergleichbarkeit mit den globalen Metadaten ausgewiesen. Zugehörige methodische und länderspezifische Informationen dieser Zeitreihen finden Sie im nationalen
-  Metadatenblatt.
+  Vergleichbarkeit mit den globalen Metadaten ausgewiesen. Zugehörige methodische und länderspezifische Informationen dieser Zeitreihen finden Sie in den nationalen
+  Metadaten.
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
 select_all: Alle auswählen
