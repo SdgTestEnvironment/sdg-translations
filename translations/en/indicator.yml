@@ -22,6 +22,7 @@ download_csv: Download CSV
 download_csv_title: Download as CSV
 source: Source
 sources: Sources
+statistics: Statistics
 geographical_area: Geographical Area
 unit_of_measurement: Unit of measurement
 copyright: Copyright
