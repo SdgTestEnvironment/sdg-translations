@@ -6,6 +6,7 @@ chart: Grafik
 clear_all: Auswahl aufheben
 clear_selections: Auswahl aufheben
 footnote: Anmerkung
+data_not_available: Für die getroffen Auswahl stehen keine Daten zur Verfügung.
 dataset_size_warning: Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden.
 details: Details
