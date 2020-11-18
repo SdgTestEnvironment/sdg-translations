@@ -248,6 +248,11 @@ a) cardiovascular disease: a) Herz-Kreislauferkrankungen
 b) cancer: b) bösartigen Neubildungen
 c) diabetes mellitus: c) Diabetes mellitus
 d) chronic respiratory disease: d) chronischen Atemwegserkrankungen
+cardiovascular disease: Herz-Kreislauferkrankungen
+cancer: Bösartigen Neubildungen
+diabetes mellitus: Diabetes mellitus
+chronic respiratory disease: Chronischen Atemwegserkrankungen
+
 #3.4.2
 suicide mortality rate: Selbstmordsterblichkeit
 suicide mortality rate (per 100 000 inhabitants): Selbstmordsterblichkeit
@@ -287,14 +292,14 @@ giving birth between 15 to under 20 years: Geburten im Alter von 15 bis unter 20
 giving birth between 15 to under 20 years (per 1 000 women of same age): Geburten im Alter von 15 bis unter 20 Jahren
 #3.9.2
 type of disease: Art der Erkrankung
-mortality rate attributed to : Sterblichkeit aufgrund von
-mortality rate attributed to (per 100 000 inhabitants): Sterblichkeit aufgrund von
+mortality rate attributed to : Sterblichkeit infolge von
+mortality rate attributed to (per 100 000 inhabitants): Sterblichkeit infolge von
 diarrhoea: Durchfallerkrankungen
 intestinal nematode infections: intestinalen Nematodeninfektionen
 protein-energy malnutrition: Energie- und Eiweißmangelernährung
-mortality rate attributed to diarrhoea: Sterblichkeit aufgrund von Durchfallerkrankungen
-mortality rate attributed to intestinal nematode infections: Sterblichkeit aufgrund von intestinalen Nematodeninfektionen
-mortality rate attributed to protein-energy malnutrition: Sterblichkeit aufgrund von Energie- und Eiweißmangelernährung
+mortality rate attributed to diarrhoea: Sterblichkeit infolge von Durchfallerkrankungen
+mortality rate attributed to intestinal nematode infections: Sterblichkeit infolge von intestinalen Nematodeninfektionen
+mortality rate attributed to protein-energy malnutrition: Sterblichkeit infolge von Energie- und Eiweißmangelernährung
 #3.9.3
 mortality rate attributed to unintentional poisoning: Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
 mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
