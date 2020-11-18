@@ -44,6 +44,8 @@ timeseries: "Zeitreihe"
 area: Gebiet
 method of calculation: Berechnungsmethode
 investor: Investor
+general government: Staat 
+corporation: Unternehmen
 
 #ages
 0 - unknown age: Unbekanntes Alter
