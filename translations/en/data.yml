@@ -43,6 +43,7 @@ Year: Year
 timeseries: Time series
 area: Area
 method of calculation: Method of calculation
+investor: Investor
 
 #ages
 0 - unknown age: Unknown Age
