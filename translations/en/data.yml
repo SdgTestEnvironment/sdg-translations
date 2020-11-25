@@ -45,7 +45,7 @@ area: Area
 method of calculation: Method of calculation
 sector: Sector
 general government: General government 
-corporation: Corporation
+corporations: Corporations
 
 #ages
 0 - unknown age: Unknown Age
@@ -217,6 +217,7 @@ live births in hospitals: Live births in hospitals
 child deliveries in hospitals: Child deliveries in hospitals
 live births in hospitals (%): Live births in hospitals
 live births total: Total live births in Germany
+live births in germany: Live births in Germany
 #3.2.1
 infant mortality rate (under 1 year): Infant mortality rate (under 1 year)
 infant mortality rate (under 1 year) (per 1 000 live births): Infant mortality rate (under 1 year)
@@ -733,7 +734,7 @@ goverment spending on environmental protection (cofog section 5) (bn eur): Gover
 goverment expenditure on environmental protection (cofog division 5) (bn eur): Goverment expenditure on environmental protection (COFOG division 5)
 goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur): Goverment expenditure on recreation, culture and religion (COFOG division 8)
 #11.6.1
-total municipal solid waste generated: Total municipal solid waste generated
+total municipal solid waste generated: Municipal solid waste in total
 municipal solid waste regularly collected and treated: Municipal solid waste regularly collected and treated
 #11.6.2
 population weighted annual mean levels of pm10 (ug/m3): Population weighted annual mean levels of PM10  # &micro; #
