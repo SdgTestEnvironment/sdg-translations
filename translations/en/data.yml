@@ -524,6 +524,8 @@ level of waterstress: Level of waterstress
 "level of water stress (%):": "Level of water stress"
 share of withdrawal in renewable water resources: Share of withdrawal in renewable water resources
 share of withdrawal in renewable water resources (excluding cooling water): Share of withdrawal in renewable water resources (excluding cooling water)
+level of water stress - share of withdrawal in renewable water resources: "Level of water stress: share of withdrawal in renewable water resources"
+level of water stress - share of withdrawal in renewable water resources, excluding cooling water: "Level of water stress: share of withdrawal in renewable water resources, excluding cooling water"
 #6.5.1
 degree of integrated water resources management implementation: Degree of integrated water resources management implementation
 degree of integrated water resources management implementation (%): Degree of integrated water resources management implementation
