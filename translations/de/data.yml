@@ -504,6 +504,8 @@ level of waterstress: Nutzung der Wasserressourcen
 "level of water stress (%):": "Nutzung der Wasserressourcen"
 share of withdrawal in renewable water resources: Anteil der Gewinnung an den erneuerbaren Wasserressourcen
 share of withdrawal in renewable water resources (excluding cooling water): Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)
+level of water stress - share of withdrawal in renewable water resources: "Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen"
+level of water stress - share of withdrawal in renewable water resources, excluding cooling water: "Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)"
 #6.5.1
 degree of integrated water resources management implementation: Grad der Implementierung eines integrierten Wasserressourcenmanagements
 degree of integrated water resources management implementation (%): Grad der Implementierung eines integrierten Wasserressourcenmanagements
