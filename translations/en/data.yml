@@ -276,7 +276,7 @@ d) alcohol and other psychoactive substances (other psychoactive substances): Al
 b) alcohol and other psychoactive substances: Alcohol and other psychoactive substances
 #3.5.2
 conversion: Conversion
-by un factors: By un factors
+by un factors: By UN factors
 by national factors: By national factors
 alcohol consumption (conversion by un factors): Alcohol consumption (conversion by UN factors)
 alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alcohol consumption (conversion by UN factors)
@@ -346,8 +346,8 @@ a) children and youths in grades 2/3 with a minimum proficiency level in (%): "a
 b) children and youths at the end of lower primary education with a minimum proficiency level in (%): b) Children and youths at the end of lower primary education with a minimum proficiency level in
 c) children and youths at the end of lower secondary education with a minimum proficiency level in: "c) Children and youths at the end of lower secondary education with a minimum proficiency level in"
 c) children and youths at the end of lower secondary education with a minimum proficiency level in (%): "c) Children and youths at the end of lower secondary education with a minimum proficiency level in"
-mathematics: mathematics
-reading: reading
+mathematics: Mathematics
+reading: Reading
 education level: Education level
 b) at the end of lower primary education: b) At the end of lower primary education
 c) at the end of lower secondary education: c) At the end of lower secondary education
@@ -385,8 +385,8 @@ level of proficiency: Level of proficiency
 "adult population achieving at least a fixed level of proficiency in functional a) literacy skills (%):": "Adult population achieving at least a fixed level of proficiency in functional: a) literacy skills"
 "adult population achieving at least a fixed level of proficiency in functional b) numeracy skills:": "Adult population achieving at least a fixed level of proficiency in functional: b) numeracy skills"
 "adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Adult population achieving at least a fixed level of proficiency in functional: b) numeracy skills"
-minimum requirement level i: minimum requirement level I
-minimum requirement level ii: minimum requirement level II
+minimum requirement level i: Minimum requirement level I
+minimum requirement level ii: Minimum requirement level II
 skill: Skill
 a) literacy skills: a) Literacy skills
 b) numeracy skills: b) Numeracy skills
@@ -415,13 +415,13 @@ oda (gross disbursements) for imputed student costs: ODA (gross disbursements) f
 oda (gross disbursements) for scholarships: ODA (gross disbursements) for scholarships
 "oda (gross disbursements) for scholarships (mn usd, constant prices (2016))": ODA (gross disbursements) for scholarships
 #5.1.1
-area of law: Area of Law
+area of law: Area of law
 "legal frameworks that promote, enforce and monitor gender equality regarding:": "Legal frameworks that promote, enforce and monitor gender equality regarding:"
 "legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Legal frameworks that promote, enforce and monitor gender equality regarding:"
-employment and economic benefits: employment and economic benefits
-marriage and family: marriage and family
-overarching legal frameworks and public life: overarching legal frameworks and public life
-violence against women: violence against women
+employment and economic benefits: Employment and economic benefits
+marriage and family: Marriage and family
+overarching legal frameworks and public life: Overarching legal frameworks and public life
+violence against women: Violence against women
 #5.2.1
 female victims of criminal offences having/ had an intimate relationship with the suspect: Female victims of criminal offences having/ had a intimate relationship with the suspect
 female victims of criminal offences having/ had an intimate relationship with the suspect (number): Female victims of criminal offences having/ had a intimate relationship with the suspect
@@ -517,13 +517,15 @@ water use efficiency (2010 = 100): Water use efficiency
 economic sector: Economic sector
 "a) agriculture, forestry and fishing (nace rev 2, section a)": "Agriculture, forestry and fishing (NACE Rev. 2, section A)"
 "b) mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, sections B, C, D, F)"
-"c) services (nace rev 2, sections e, g to t)": "Services (NACE Rev. 2, sections E, G, to T)"
+"c) services (nace rev 2, sections e, g to t)": "Services (NACE Rev. 2, sections E, G to T)"
 #6.4.2
 level of waterstress: Level of waterstress
 "level of water stress:": "Level of water stress"
 "level of water stress (%):": "Level of water stress"
 share of withdrawal in renewable water resources: Share of withdrawal in renewable water resources
 share of withdrawal in renewable water resources (excluding cooling water): Share of withdrawal in renewable water resources (excluding cooling water)
+level of water stress - share of withdrawal in renewable water resources: "Level of water stress: share of withdrawal in renewable water resources"
+level of water stress - share of withdrawal in renewable water resources, excluding cooling water: "Level of water stress: share of withdrawal in renewable water resources, excluding cooling water"
 #6.5.1
 degree of integrated water resources management implementation: Degree of integrated water resources management implementation
 degree of integrated water resources management implementation (%): Degree of integrated water resources management implementation
@@ -644,6 +646,7 @@ gross value added of small-scale industries in manufacturing (%): Gross value ad
 "co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010))": CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP
 co2 emissions per gross value added (price adjusted) in manufacturing industries: CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries
 co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries
+co2 emission per real gdp: CO<sub>2</sub> emissions per real GDP
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries (g/EUR)
 #9.5.1
@@ -770,10 +773,10 @@ compliance with the stockholm convention (%): Compliance with the Stockholm Conv
 type of waste treatment: Type of waste treatment
 a) hazardous waste generated per capita: a) Hazardous waste generated per capita
 b) hazardous waste treated: b) Hazardous waste treated
-deposit onto or into land and land treatment and release into water bodies: deposit onto or into land and land treatment and release into water bodies
-energy recovery: energy recovery
-incineration: incineration
-recovery other than energy recovery: recovery other than energy recovery
+deposit onto or into land and land treatment and release into water bodies: Deposit onto or into land and land treatment and release into water bodies
+energy recovery: Energy recovery
+incineration: Incineration
+recovery other than energy recovery: Recovery other than energy recovery
 #12.5.1
 municipal waste recycled: Municipal waste recycled
 national recycling rate of municipal waste: National recycling rate of municipal waste
@@ -792,6 +795,8 @@ sustainability programme: Sustainability Programme
 #13.2.1
 intended nationally determined contribution of the eu and its member states: Intendet Nationally Determined Contribution of the EU and its member states
 climate action plans 2050: Climate action plans
+#13.2.2
+greenhouse gas emissions: Total greenhouse gas emissions
 #14.3.1
 average ph-concentration in the german bight: Average pH-concentration in the German Bight
 average ph-concentration in the german bight (ph-value): Average pH-concentration in the German Bight

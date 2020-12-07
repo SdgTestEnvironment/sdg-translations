@@ -252,10 +252,10 @@ a) cardiovascular disease: a) Herz-Kreislauferkrankungen
 b) cancer: b) bösartigen Neubildungen
 c) diabetes mellitus: c) Diabetes mellitus
 d) chronic respiratory disease: d) chronischen Atemwegserkrankungen
-cardiovascular disease: Herz-Kreislauferkrankungen
-cancer: Bösartigen Neubildungen
+cardiovascular disease: Herz-Kreislauferkrankung
+cancer: Bösartige Neubildungen
 diabetes mellitus: Diabetes mellitus
-chronic respiratory disease: Chronischen Atemwegserkrankungen
+chronic respiratory disease: Chronische Atemwegserkrankungen
 
 #3.4.2
 suicide mortality rate: Selbstmordsterblichkeit
@@ -497,13 +497,15 @@ water use efficiency (2010 = 100): Wasserproduktivität
 economic sector: Wirtschaftszweig
 "a) agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
 "b) mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
-"c) services (nace rev 2, sections e, g to t)": "Dienstleistungen (NACE Rev. 2, Abschnitte E, G to T)"
+"c) services (nace rev 2, sections e, g to t)": "Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)"
 #6.4.2
 level of waterstress: Nutzung der Wasserressourcen
 "level of water stress:": "Nutzung der Wasserressourcen"
 "level of water stress (%):": "Nutzung der Wasserressourcen"
 share of withdrawal in renewable water resources: Anteil der Gewinnung an den erneuerbaren Wasserressourcen
 share of withdrawal in renewable water resources (excluding cooling water): Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)
+level of water stress - share of withdrawal in renewable water resources: "Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen"
+level of water stress - share of withdrawal in renewable water resources, excluding cooling water: "Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)"
 #6.5.1
 degree of integrated water resources management implementation: Grad der Implementierung eines integrierten Wasserressourcenmanagements
 degree of integrated water resources management implementation (%): Grad der Implementierung eines integrierten Wasserressourcenmanagements
@@ -624,6 +626,7 @@ gross value added of small-scale industries in manufacturing (%): Bruttowertsch�
 "co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010))": CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP
 co2 emissions per gross value added (price adjusted) in manufacturing industries: CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
 co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
+co2 emission per real gdp: CO<sub>2</sub>-Emissionen zum realen BIP
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR)
 #9.5.1
@@ -772,6 +775,8 @@ sustainability programme: Nachhaltigkeitsstrategie
 #13.2.1
 intended nationally determined contribution of the eu and its member states: National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten
 climate action plan 2050: Klimaschutzplan 2050
+#13.2.2
+greenhouse gas emissions: Treibhausgasemissionen insgesamt
 #14.3.1
 average ph-concentration in the german bight: Durchschnittliche pH-Konzentration in der Deutschen Bucht
 average ph-concentration in the german bight (ph-value): Durchschnittliche pH-Konzentration in der Deutschen Bucht
