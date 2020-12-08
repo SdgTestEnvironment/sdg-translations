@@ -46,6 +46,7 @@ method of calculation: Berechnungsmethode
 sector: Sektor
 general government: Staat 
 corporations: Unternehmen
+no unit: "/"
 
 #ages
 0 - unknown age: Unbekanntes Alter
