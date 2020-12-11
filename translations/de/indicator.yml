@@ -3,8 +3,8 @@ additional_information_blurb: Die untenstehende Zeitreihe besteht aus Zahlenspan
   Aus techischen Gründen ist die Darstellung in Form von interaktiven Grafiken und Tabellen nur für Zeitreihen mit rein numerischen Werten möglich,
   daher wird die Zeitreihe hier im PDF-Format dargestellt.
 chart: Grafik
-clear_all: Auswahl aufheben
-clear_selections: Auswahl aufheben
+clear_all: Auswahl<br>aufheben
+clear_selections: Auswahl<br>aufheben
 footnote: Anmerkung
 data_not_available: Für die getroffen Auswahl stehen keine Daten zur Verfügung.
 dataset_size_warning: Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen.
@@ -42,7 +42,7 @@ national_metadata_blurb: Die für den jeweiligen SDG-Indikator zuständigen inte
   Metadaten.
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
-select_all: Alle auswählen
+select_all: Alle<br>auswählen
 series_help: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
 series_help_dns: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
 source: Datenquelle
@@ -60,4 +60,3 @@ view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
 no_selection: Für diesen Indikator stehen keine Disaggregationnen zur Verfügung
 
 contentAndProgress: Inhalt und Entwicklung
-
