@@ -3,6 +3,7 @@ computation_calculations: Calculations
 computation_definitions: Definitions
 computation_units: Unit of measurement
 comparison_sdg: Comparability with global metadata
+copyright: Copyright
 goal_meta_link: Link to the global metadata of this indicator
 goal_meta_national_link: Link to national metadata
 indicator: Indicator number
