@@ -44,7 +44,7 @@ timeseries: "Zeitreihe"
 area: Gebiet
 method of calculation: Berechnungsmethode
 sector: Sektor
-general government: Staat 
+general government: Staat
 corporations: Unternehmen
 no unit: "/"
 
@@ -628,7 +628,7 @@ gross value added of small-scale industries in manufacturing (%): Bruttowertsch�
 "co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010))": CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP
 co2 emissions per gross value added (price adjusted) in manufacturing industries: CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
 co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
-co2 emission per real gdp: CO<sub>2</sub>-Emissionen zum realen BIP
+co2 emission per real gdp: CO&#8322;-Emissionen zum realen BIP
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR)
 #9.5.1
