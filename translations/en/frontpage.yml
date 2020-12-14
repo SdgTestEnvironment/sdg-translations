@@ -1,14 +1,14 @@
-heading: "National Data for UN-SDGs"
+heading: Indicators of the UN-Sustainable Development Goals
 heading_dns: "Sustainable Development in Germany"
 # instructions: Click on each goal, or %before_link search, %after_link
 #   for German statistics for Sustainable Development Goal global
 #   indicators.
-indstructions_dns: Click on eack goal, or %before_link search %after_link
+indstructions_dns: Click on each goal, or %before_link search %after_link
   for the indicators of the German Sustainability Strategy
 link_18_title: Click here to get to the DESTATIS page about the German Sustainability Strategy
 
-instructions: Click on each goal, or %before_link search, %after_link
-  for German statistics for Sustainable Development Goal global
+instructions: Click on each goal, or %before_link search %after_link
+  for the German statistics for Sustainable Development Goal global
   indicators.
 download_all: Download all data
 zip_file: ZIP file

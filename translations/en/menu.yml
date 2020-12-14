@@ -1,8 +1,8 @@
 menu: Menu
-reporting_status: Availability&nbspof&nbspData
+reporting_status: Data&nbspavailability
 about: About
 about_short: About
-about_platform: The&nbspSDG&#8209;Online&nbspplatform
+about_platform: SDG&nbsponline&nbspplatform
 about_navigation: Navigation
 about_guidance: Guidance
 about_this_site: About&nbspthis&nbspsite
@@ -11,10 +11,10 @@ platform: platform
 publications: Publications
 guidance: Guidance
 linkToDnsPlatform: <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/DNS Wheel.png" title="To the page of the national indicators" alt="Link DNS" style="width:24px;height:24px;"/><span class="hidden-sm hidden-md hidden-lg">DNS-Platform</span>
-faq: FAQ
-facts: Interesting Facts
+faq: FAQs
+facts: Useful information
 facts_agenda: Agenda 2030
-facts_dns: DNS
+facts_dns: German Sustainable Development Strategy (DNS)
 contact_us: Contact us
 cookies: Cookies
 imprint: Legal Notice
