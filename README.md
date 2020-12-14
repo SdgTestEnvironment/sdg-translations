@@ -1,5 +1,2 @@
 
-
-
-
 # sdg-translations
