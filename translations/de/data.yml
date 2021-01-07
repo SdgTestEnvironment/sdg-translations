@@ -108,7 +108,7 @@ litres of pure alcohol per capita: Liter puren Alkohols pro Einwohner
 mn t: Mill. t
 mn tkm: Mill. tkm
 t per capita: t je Einwohner
-per 100 000 employees: Je 100 000 Beschäftigte
+per 100 000 in employment: Je 100 000 Erwerbstätige
 mn pkm: Mill. Pkm
 micrograms per cubic meter: Mikrogramm pro Kubikmeter
 kg per capita: kg je Einwohner
@@ -251,9 +251,9 @@ since 2019: Seit 2019
 mortality rate of persons aged 30 to under 70 years attributed to: "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von"
 mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von"
 a) cardiovascular disease: a) Herz-Kreislauferkrankungen
-b) cancer: b) bösartigen Neubildungen
+b) cancer: b) Bösartigen Neubildungen
 c) diabetes mellitus: c) Diabetes mellitus
-d) chronic respiratory disease: d) chronischen Atemwegserkrankungen
+d) chronic respiratory disease: d) Chronischen Atemwegserkrankungen
 cardiovascular disease: Herz-Kreislauferkrankung
 cancer: Bösartige Neubildungen
 diabetes mellitus: Diabetes mellitus
@@ -303,9 +303,9 @@ mortality rate attributed to (per 100 000 inhabitants): Sterblichkeit infolge vo
 diarrhoea: Durchfallerkrankungen
 intestinal nematode infections: intestinalen Nematodeninfektionen
 protein-energy malnutrition: Energie- und Eiweißmangelernährung
-mortality rate attributed to diarrhoea: Sterblichkeit infolge von Durchfallerkrankungen
-mortality rate attributed to intestinal nematode infections: Sterblichkeit infolge von intestinalen Nematodeninfektionen
-mortality rate attributed to protein-energy malnutrition: Sterblichkeit infolge von Energie- und Eiweißmangelernährung
+a) diarrhoea: a) Durchfallerkrankungen
+b) intestinal nematode infections: b) Intestinalen Nematodeninfektionen
+c) protein-energy malnutrition: c) Energie- und Eiweißmangelernährung
 #3.9.3
 mortality rate attributed to unintentional poisoning: Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
 mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
@@ -769,6 +769,8 @@ recycling rate in %: Recyclingquote (%)
 type of waste: Abfallart
 total waste: Abfallaufkommen insgesamt
 municipal waste: Siedlungsabfälle insgesamt
+recycling rate: Recyclingquote
+recycled waste: Stoffliche Verwertung
 #12.6.1
 organisations with emas registration: Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)
 organisations with emas registration (number): Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)
@@ -836,7 +838,7 @@ seizures by authorities concerning the protection of species (number): Aufgriffe
 a) oda (commitments) for biodiversity: Verpflichtungen für Biodiversität
 b) environmental protection expenditure: Umweltschutzausgaben
 #15.b.1
-a) oda (gross disbursements) to the forestry sector: Bruttoentwicklungsausgaben für den Forstsektor
+b) oda (gross disbursements) to the forestry sector: Bruttoentwicklungsausgaben für den Forstsektor
 "oda (commitments) for biodiversity (mn usd, constant prices (2016))": Bruttoentwicklungsausgaben für den Forstsektor
 "oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))": Verpflichtungen für Biodiversität
 #15.c.1
@@ -859,6 +861,9 @@ children at acute risk of harm with signs of physical abuse: Akute Kindeswohlgef
 children at acute risk of harm with signs of physical abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung
 children at acute risk of harm with signs of psychological abuse: Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung
 children at acute risk of harm with signs of psychological abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung
+form of abuse: Form der Misshandlung
+physical abuse: Körperliche Misshandlung
+psychological abuse: Psychische Misshandlung
 #16.2.2
 victims of human trafficking: Opfer von Menschenhandel
 exploitation of labour: Ausbeutung der Arbeitskraft
@@ -882,6 +887,9 @@ exploitation of labour: Ausbeutung der Arbeitskraft
 "exploitation of labour, 21 to under 60 years": Ausbeutung der Arbeitskraft, 21 bis unter 60 Jahre
 "exploitation of labour, male": Ausbeutung der Arbeitskraft, Männlich
 "exploitation of labour, female":  Ausbeutung der Arbeitskraft, Weiblich
+form of exploitation: Form der Ausbeutung
+exploitation of labour: Ausbeutung der Arbeitskraft
+sexual exploitation: Sexuelle Ausbeutung
 #16.3.1
 a) police reporting rate for physical assault: Anzeigequote bei Körperverletzung
 a) police reporting rate for physical assault (%): Anzeigequote bei Körperverletzung

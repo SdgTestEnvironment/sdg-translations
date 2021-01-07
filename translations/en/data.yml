@@ -107,7 +107,7 @@ litres of pure alcohol per capita: Litres of pure alcohol per capita
 mn t: Mn t
 mn tkm: Mn tkm
 t per capita: t per capita
-per 100 000 employees: Per 100 000 employees
+per 100 000 in employment: Per 100,000 in employment
 mn pkm: Mn pkm
 micrograms per cubic meter: Micrograms per cubic meter
 kg per capita: kg per capita
@@ -248,10 +248,10 @@ since 2019: Since 2019
 #3.4.1
 mortality rate of persons aged 30 to under 70 years attributed to: "Mortality rate of persons aged 30 to under 70 years attributed to"
 mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Mortality rate of persons aged 30 to under 70 years attributed to"
-a) cardiovascular disease: a) cardiovascular disease
-b) cancer: b) cancer
-c) diabetes mellitus: c) diabetes mellitus
-d) chronic respiratory disease: d) chronic respiratory disease
+a) cardiovascular disease: a) Cardiovascular disease
+b) cancer: b) Cancer
+c) diabetes mellitus: c) Diabetes mellitus
+d) chronic respiratory disease: d) Chronic respiratory disease
 cardiovascular disease: Cardiovascular disease
 cancer: Cancer
 diabetes mellitus: Diabetes mellitus
@@ -304,9 +304,9 @@ diarrhoea: Mortality rate attributed to diarrhoea
 intestinal nematode infections: Mortality rate attributed to intestinal nematode infections
 protein-energy malnutrition: Mortality rate attributed to protein-energy malnutrition
 mortality due to WASH: Mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene
-mortality rate attributed to diarrhoea: Mortality from diarrhoea
-mortality rate attributed to protein-energy malnutrition: Mortality from protein-energy malnutrition
-mortality rate attributed to intestinal nematode infections: Mortality from intestinal nematode infections
+a) mortality rate attributed to diarrhoea: a) Mortality from diarrhoea
+b) mortality rate attributed to protein-energy malnutrition: b) Mortality from protein-energy malnutrition
+c) mortality rate attributed to intestinal nematode infections: c) Mortality from intestinal nematode infections
 #3.9.3
 mortality rate attributed to unintentional poisoning: Mortality rate attributed to unintentional poisoning
 mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Mortality rate attributed to unintentional poisoning
@@ -788,6 +788,8 @@ recycling rate in %: Recycling rate (%)
 type of waste: Type of waste
 total waste: Total waste
 municipal waste: Municipal waste
+recycling rate: Recycling rate
+recycled waste: Recycled waste
 #12.6.1
 organisations with emas registration: Organisations with EMAS registration
 organisations with emas registration (number): Organisations with EMAS registration
@@ -855,7 +857,7 @@ seizures by authorities concerning the protection of species (number): Seizures 
 a) oda (commitments) for biodiversity: ODA (commitments) for biodiversity
 b) environmental protection expenditure: Environmental protection expenditure
 #15.b.1
-a) oda (gross disbursements) to the forestry sector: ODA (gross disbursements) to the forestry sector
+b) oda (gross disbursements) to the forestry sector: ODA (gross disbursements) to the forestry sector
 "oda (commitments) for biodiversity (mn usd, constant prices (2016))": ODA (gross disbursements) to the forestry sector
 "oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))": ODA (commitments) for biodiversity
 #15.c.1
@@ -878,6 +880,9 @@ children at acute risk of harm with signs of physical abuse: Children at acute r
 children at acute risk of harm with signs of physical abuse (%): Children at acute risk of harm with signs of physical abuse
 children at acute risk of harm with signs of psychological abuse: Children at acute risk of harm with signs of psychological abuse
 children at acute risk of harm with signs of psychological abuse (%): Children at acute risk of harm with signs of psychological abuse
+form of abuse: Form of abuse
+physical abuse: Physical abuse
+psychological abuse: Psychological abuse
 #16.2.2
 victims of human trafficking: Victims of human trafficking
 exploitation of labour: Exploitation of labour
@@ -901,6 +906,9 @@ exploitation of labour: Exploitation of labour
 "exploitation of labour, 21 to under 60 years": Exploitation of labour, 21 to under 60 years
 "exploitation of labour, male": Exploitation of labour, male
 "exploitation of labour, female": Exploitation of labour, female
+form of exploitation: Form of exploitation
+exploitation of labour: Exploitation of labour
+sexual exploitation: Sexual exploitation
 #16.3.1
 a) police reporting rate for physical assault: Police reporting rate for physical assault
 a) police reporting rate for physical assault (%): Police reporting rate for physical assault
