@@ -861,6 +861,9 @@ children at acute risk of harm with signs of physical abuse: Akute Kindeswohlgef
 children at acute risk of harm with signs of physical abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung
 children at acute risk of harm with signs of psychological abuse: Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung
 children at acute risk of harm with signs of psychological abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung
+form of abuse: Form der Misshandlung
+physical abuse: Körperliche Misshandlung
+psychological abuse: Psychische Misshandlung
 #16.2.2
 victims of human trafficking: Opfer von Menschenhandel
 exploitation of labour: Ausbeutung der Arbeitskraft
@@ -884,6 +887,9 @@ exploitation of labour: Ausbeutung der Arbeitskraft
 "exploitation of labour, 21 to under 60 years": Ausbeutung der Arbeitskraft, 21 bis unter 60 Jahre
 "exploitation of labour, male": Ausbeutung der Arbeitskraft, Männlich
 "exploitation of labour, female":  Ausbeutung der Arbeitskraft, Weiblich
+form of exploitation: Form der Ausbeutung
+exploitation of labour: Ausbeutung der Arbeitskraft
+sexual exploitation: Sexuelle Ausbeutung
 #16.3.1
 a) police reporting rate for physical assault: Anzeigequote bei Körperverletzung
 a) police reporting rate for physical assault (%): Anzeigequote bei Körperverletzung
