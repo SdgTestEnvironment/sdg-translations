@@ -317,7 +317,7 @@ current tobacco use among persons aged 15 years and older (%): Current tobacco u
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population): Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%): Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)
 #3.b.1
-"coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance": Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance
+"coverage of dtp containing vaccine at school entrance": Coverage of DTP containing vaccine at school entrance
 "coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance (%)": Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance
 coverage of measles containing vaccine at school entrance: Coverage of measles containing vaccine at school entrance
 coverage of measles containing vaccine at school entrance (%): Coverage of measles containing vaccine at school entrance
@@ -585,6 +585,7 @@ unemployment rate (%): Unemployment rate
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
 young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%): Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
+neet rates of young people (15 to under 25 years), by sex: Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
 #8.7.1
 "young victims being exploited or intended to being exploited": Young victims being exploited or intended to being exploited
 #8.8.1
@@ -923,9 +924,11 @@ seized arms and parts (number): Seized arms and parts
 #16.5.1
 population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years): Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years)
 private persons (donors) suspected in the context of corruption offences: Private persons (donors) suspected in the context of corruption offences
+population who had the impression that public officials are corruptible: Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years)
 #16.5.2
 businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years): Businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years)
 businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%): Businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years)
+businesses who had the impression that public officials are corruptible: Businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years)
 #16.6.2
 population satisfied with their experience of government services during the previous two years: Population satisfied with their experience of government services during the previous two years
 population satisfied with their experience of government services during the previous two years (%): Population satisfied with their experience of government services during the previous two years
