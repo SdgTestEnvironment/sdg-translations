@@ -316,7 +316,7 @@ current tobacco use among persons aged 15 years and older (%): Tabakgebrauch in 
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
 #3.b.1
-"coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance": DTP-Impfquote zum Schuleintritt
+"coverage of dtp containing vaccine at school entrance": DTP-Impfquote zum Schuleintritt
 "coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance (%)": DTP-Impfquote zum Schuleintritt
 coverage of measles containing vaccine at school entrance: Masern-Impfquote zum Schuleintritt
 coverage of measles containing vaccine at school entrance (%): Masern-Impfquote zum Schuleintritt
@@ -351,6 +351,7 @@ reading: Lesen
 education level: Ausbildungsgrad
 b) at the end of lower primary education: b) Am Ende der Grundschule
 c) at the end of lower secondary education: c) Am Ende der Sekundarstufe I
+children and youth with a minimum proficiency level in reading and mathematics: Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik
 #4.2.2
 children in child day care at the age of 5: Kinder in Kindertagesbetreuung im Alter von 5 Jahren
 children in child day care at the age of 5 (%): Kinder in Kindertagesbetreuung im Alter von 5 Jahren
@@ -566,6 +567,7 @@ unemployment rate (%): Erwerbslosenquote
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
 young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
+neet rates of young people (15 to under 25 years), by sex: Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
 #8.7.1
 "young victims being exploited or intended to being exploited": "Junge Opfer, die ausgebeutet werden oder ausgebeutet werden sollen"
 #8.8.1
@@ -649,6 +651,9 @@ gross value added of high-tech industries to total manufacturing value added: Br
 gross value added of high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe
 gross value added of medium-high-tech industries to total manufacturing value added: Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe
 gross value added of medium-high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe
+technological intensity: Technologieintensität
+medium-high-tech: Medium-High-Tech
+High-Tech: High-Tech
 #9.c.1
 technology: Technologie
 "households covered by:": "Haushalte, die mit:"
@@ -904,9 +909,10 @@ seized arms and parts (number): Sichergestellte Waffen und Waffenteile
 #16.5.1
 population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years): Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
 private persons (donors) suspected in the context of corruption offences: Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten
+population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years): Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
 #16.5.2
 businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years): Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
-businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%): Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
+businesses who had the impression that public officials are corruptible: Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
 #16.6.2
 population satisfied with their experience of government services during the previous two years: Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war
 population satisfied with their experience of government services during the previous two years (%): Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war

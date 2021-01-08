@@ -317,7 +317,7 @@ current tobacco use among persons aged 15 years and older (%): Current tobacco u
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population): Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%): Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)
 #3.b.1
-"coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance": Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance
+"coverage of dtp containing vaccine at school entrance": Coverage of DTP containing vaccine at school entrance
 "coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance (%)": Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance
 coverage of measles containing vaccine at school entrance: Coverage of measles containing vaccine at school entrance
 coverage of measles containing vaccine at school entrance (%): Coverage of measles containing vaccine at school entrance
@@ -352,6 +352,7 @@ reading: Reading
 education level: Education level
 b) at the end of lower primary education: b) At the end of lower primary education
 c) at the end of lower secondary education: c) At the end of lower secondary education
+children and youth with a minimum proficiency level in reading and mathematics: Children and youth with a minimum proficiency level in reading and mathematics
 #4.2.2
 children in child day care at the age of 5: Children in child day care at the age of 5
 children in child day care at the age of 5 (%): Children in child day care at the age of 5
@@ -585,6 +586,7 @@ unemployment rate (%): Unemployment rate
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
 young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%): Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
+neet rates of young people (15 to under 25 years), by sex: Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
 #8.7.1
 "young victims being exploited or intended to being exploited": Young victims being exploited or intended to being exploited
 #8.8.1
@@ -668,6 +670,9 @@ gross value added of high-tech industries to total manufacturing value added: Gr
 gross value added of high-tech industries to total manufacturing value added (%): Gross value added of high-tech industries to total manufacturing value added
 gross value added of medium-high-tech industries to total manufacturing value added: Gross value added of medium-high-tech industries to total manufacturing value added
 gross value added of medium-high-tech industries to total manufacturing value added (%): Gross value added of medium-high-tech industries to total manufacturing value added
+technological intensity: Technological intensity
+medium-high-tech: Medium-high-tech
+High-Tech: High-tech
 #9.c.1
 technology: Technology
 "households covered by:": "Households covered by:"
@@ -923,9 +928,11 @@ seized arms and parts (number): Seized arms and parts
 #16.5.1
 population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years): Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years)
 private persons (donors) suspected in the context of corruption offences: Private persons (donors) suspected in the context of corruption offences
+population who had the impression that public officials are corruptible: Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years)
 #16.5.2
 businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years): Businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years)
 businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%): Businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years)
+businesses who had the impression that public officials are corruptible: Businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years)
 #16.6.2
 population satisfied with their experience of government services during the previous two years: Population satisfied with their experience of government services during the previous two years
 population satisfied with their experience of government services during the previous two years (%): Population satisfied with their experience of government services during the previous two years
