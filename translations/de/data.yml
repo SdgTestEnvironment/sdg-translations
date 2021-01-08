@@ -316,7 +316,7 @@ current tobacco use among persons aged 15 years and older (%): Tabakgebrauch in 
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
 #3.b.1
-"coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance": DTP-Impfquote zum Schuleintritt
+"coverage of dtp containing vaccine at school entrance": DTP-Impfquote zum Schuleintritt
 "coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance (%)": DTP-Impfquote zum Schuleintritt
 coverage of measles containing vaccine at school entrance: Masern-Impfquote zum Schuleintritt
 coverage of measles containing vaccine at school entrance (%): Masern-Impfquote zum Schuleintritt
@@ -566,6 +566,7 @@ unemployment rate (%): Erwerbslosenquote
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
 young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
+neet rates of young people (15 to under 25 years), by sex: Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
 #8.7.1
 "young victims being exploited or intended to being exploited": "Junge Opfer, die ausgebeutet werden oder ausgebeutet werden sollen"
 #8.8.1
@@ -904,9 +905,10 @@ seized arms and parts (number): Sichergestellte Waffen und Waffenteile
 #16.5.1
 population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years): Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
 private persons (donors) suspected in the context of corruption offences: Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten
+population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years): Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
 #16.5.2
 businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years): Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
-businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%): Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
+businesses who had the impression that public officials are corruptible: Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
 #16.6.2
 population satisfied with their experience of government services during the previous two years: Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war
 population satisfied with their experience of government services during the previous two years (%): Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war
