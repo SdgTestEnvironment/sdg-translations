@@ -1,10 +1,11 @@
-status_blurb: 'Here you can have a look at how many of the SDG indicators currently can be calculated for Germany. The time series for the calculation of the indicators are based mainly on data of official statistics, as well as on other sources.<br>Not all of the globally agreed SDG indicators can be backed up with time series. There can be various reasons for this: Certain 
-  internationally relevant indicators cannot be sensibly calculated for Germany or are to be measured on a global scale only. 
-  SDG indicators to which this applies are marked with a grey tag <span class="status notapplicable">&nbspNot applicable </span>.
-  For other SDG indicators, not all the necessary statistical source data are available yet. 
-  They are recognisable by a red batch <span class="status notstarted">&nbspExploring data sources </span>.
-  <br>When there are data available, the SDG indicator is labelled with a green batch <span class="status complete">&nbspReported online </span>. 
-  <br>If data are available and are being processed right now, the SDG indicator is marked with an orange tag <span class="status inprogress">&nbspStatistics in process </span>.'
+status_blurb: 'The reporting status gives you an overview of how many Sustainable Development Goal global indicators (<a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/"> Sustainable Development Goals, SDGs</a>)
+  of the United Nations 2030 Agenda
+  can currently be calculated for Germany. The time series for the calculation of the indicators are mainly based on data from official statistics, but also use data collected
+  by many other institutions.
+  Where data are available, the indicator is marked as <span class="status complete">&nbspReported online </span>. A suitable data source is still being sought for other indicators. These indicators are marked as
+  <span class="status notstarted">&nbspExploring data sources </span>. Time series are not available for all globally agreed indicators. There can be various reasons for this: the calculation of certain
+  internationally relevant indicators for Germany alone makes little sense or the indicators can only be compiled in a global context. Such indicators are marked
+  as <span class="status notapplicable">&nbspNot applicable </span>.'
 reporting_status: Reporting Status
 overall_reporting_status: Overall Reporting Status
 reported_online: Reported online
