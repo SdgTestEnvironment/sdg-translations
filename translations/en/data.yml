@@ -87,7 +87,6 @@ type of waste treatment: Type of waste treatment
 type of waste water: Type of waste water
 treatment: Treatment
 
-
 #Characteristics
 copied or moved a file and folder: Copying or moving of files and folders
 installed software or applications (apps): Installing software or apps
@@ -253,7 +252,7 @@ safely treated wastewater (total): Safely treated wastewater (total)
 untreated wastewater that does not have to undergo treatment: Untreated wastewater that does not have to undergo treatment
 
 
-#Characteristics
+#Time series
 #Z_01021_1
 at-risk-of-poverty rate (according to eurostat definition) (%): At-risk-of-poverty rate
 #Z_01022_1

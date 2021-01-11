@@ -1,3 +1,4 @@
+
 #Einheiten
 1 000: Anzahl in 1 000
 bn eur: Milliarden EUR
@@ -36,6 +37,7 @@ recycled waste in 1 000 t: Stoffliche Verwertung (1 000 t)
 recycling rate in %: Recyclingquote (%)
 t per capita: Tonnen pro Kopf
 1 000 t: 1 000 Tonnen
+
 #Kategorien
 activities: Aktivitäten
 age: Altersklasse
@@ -84,7 +86,8 @@ urbanisation: Verstädterungsgrad
 type of waste treatment: Art der Abfallbehandlung
 type of waste water: Art des Abwassers
 treatment: Behandlung
-#Ausprägungen
+#
+Ausprägungen
 copied or moved a file and folder: Kopieren oder Verschieben von Dateien und Ordnern
 installed software or applications (apps): Installation von Software oder Anwendungen (Apps)
 used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts: Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken
@@ -247,6 +250,7 @@ cooling water: Kühlwasser
 other wastewater that does not have to undergo treatment: Sonstiges Abwasser
 safely treated wastewater (total): Sicher behandeltes Abwasser (insgesamt)
 untreated wastewater that does not have to undergo treatment: Abwasser, das keiner Abwasserbehandlung bedarf
+
 #Zeitreihen
 #Z_01021_1
 at-risk-of-poverty rate (according to eurostat definition) (%): Armutsgefährdungsquote
