@@ -442,7 +442,7 @@
 #Z_08041_1
 'rmc': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
 #Z_08041_2
-'rmc per capita': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP'
+'rmc per real gdp': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP'
 #Z_08042_1
 'dmc': 'Inländische Materialverwendung (DMC)'
 #Z_08042_2
@@ -736,3 +736,4 @@
 
 #Zusatz
 'total': 'Insgesamt'
+'timeseries': 'Zeitreihe'

@@ -442,8 +442,7 @@
 #Z_08041_1
 'rmc': 'Raw material consumption (RMC)'
 #Z_08041_2
-'rmc per capita': 'Raw material consumption (RMC) per real GDP'
-'
+'rmc per real gdp': 'Raw material consumption (RMC) per real GDP'
 #Z_08042_1
 'dmc': 'Domestic material consumption (DMC)'
 #Z_08042_2
@@ -737,3 +736,4 @@
 
 #Addition
 'total': 'Total'
+'timeseries': 'Time series'
