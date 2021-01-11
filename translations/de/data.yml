@@ -442,11 +442,11 @@
 #Z_08041_1
 'rmc': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
 #Z_08041_2
-'rmc per capita': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) je Einwohner'
-#Z_08041_3
-'rmc per real gdp': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP'
+'rmc per capita': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP'
 #Z_08042_1
 'dmc': 'Inländische Materialverwendung (DMC)'
+#Z_08042_2
+'dmc per real gdp': 'Inländische Materialverwendung (DMC) zum realen BIP'
 #Z_08051_1
 'average hourly earnings of employees': 'Durchschnittlicher Stundenlohn Beschäftigter'
 #Z_08051_2
@@ -588,7 +588,7 @@
 #Z_14041_1
 'fish stocks within biologically sustainable levels (%)': 'Nachhaltig befischte Fischbestände'
 #Z_14041_2
-'proportion of fish stocks monitoed based on the maximum sustainable yield (msy) approach in all managed stocks': 'Verhältnis der untersuchten Fischbestände (basierend auf dem Ansatz der höchsten nachhaltigen Ergiebigkeit) an allen bewirtschafteten Beständen'
+'proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks': 'Verhältnis der untersuchten Fischbestände (basierend auf dem Ansatz der höchsten nachhaltigen Ergiebigkeit) an allen bewirtschafteten Beständen'
 #Z_14051_1
 'protected marine area (%)': 'Meeresschutzgebiete'
 #Z_14051_2

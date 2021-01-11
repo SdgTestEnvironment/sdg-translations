@@ -142,7 +142,7 @@
 'a) agriculture, forestry and fishing (nace rev 2, section a)': 'Agriculture, forestry and fishing (NACE Rev. 2, section A)'
 'agriculture': 'Agriculture'
 'b) mimec (nace rev 2, sections b, c, d, f)': 'MIMEC (NACE Rev. 2, sections B, C, D, F)'
-'b) at the end of lower primary education': 'b) At the end of lower primary educatio'
+'b) at the end of lower primary education': 'b) At the end of lower primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
 'a) schools with access to electricity': 'a) Schools with access to electricity'
 'e) schools with access to basic drinking water': 'e) Schools with access to basic drinking water'
@@ -230,7 +230,7 @@
 'psychological abuse': 'Psychological abuse'
 'current accounts': 'Current accounts'
 'online accounts': 'Online accounts'
-'exploitation of labour': 'Exploitation of labour'
+'exploitation of labour': 'Labour exploitation'
 'sexual exploitation': 'Sexual exploitation'
 'oof (net disbursements)': 'OOF (net disbursements)'
 'officially supported export credits (net disbursements)': 'Officially supported export credits (net disbursements)'
@@ -247,7 +247,7 @@
 'recovery other than energy recovery': 'Recovery other than energy recovery'
 'cooling water': 'Cooling water'
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
-'safely treated wastewater (total)': 'Safely treated wastewater (total)'
+'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
 
 #Time series
@@ -442,11 +442,12 @@
 #Z_08041_1
 'rmc': 'Raw material consumption (RMC)'
 #Z_08041_2
-'rmc per capita': 'Raw material consumption (RMC) per capita'
-#Z_08041_3
-'rmc per real gdp': 'Raw material consumption (RMC) per real GDP'
+'rmc per capita': 'Raw material consumption (RMC) per real GDP'
+'
 #Z_08042_1
 'dmc': 'Domestic material consumption (DMC)'
+#Z_08042_2
+'dmc per real gdp': 'Domestic material consumption (DMC) per real GDP'
 #Z_08051_1
 'average hourly earnings of employees': 'Average hourly earnings of employees'
 #Z_08051_2
@@ -588,7 +589,7 @@
 #Z_14041_1
 'fish stocks within biologically sustainable levels (%)': 'Fish stocks within biologically sustainable levels'
 #Z_14041_2
-'proportion of fish stocks monitoed based on the maximum sustainable yield (msy) approach in all managed stocks': 'Proportion of fish stocks monitored on maximum sustainable yield (MSY) approach in all managed stocks'
+'proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks': 'Proportion of fish stocks monitored on maximum sustainable yield (MSY) approach in all managed stocks'
 #Z_14051_1
 'protected marine area (%)': 'Protected marine areas'
 #Z_14051_2
