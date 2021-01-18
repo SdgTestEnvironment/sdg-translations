@@ -30,6 +30,7 @@
 'per 100 000 live birth': 'Je 100 000 Lebendgeborene'
 'per 100 000 in employment': 'Je 100 000 Erwerbstätige'
 'ph-value': 'pH-Wert'
+'per real gdp (2010 = 100)': 'Pro realem BIP (2010 = 100)'
 'per 1 mn inhabitants': 'Je 1 Million Einwohner'
 '%': 'Prozent'
 'recycled waste in 1 000 t': 'Stoffliche Verwertung (1 000 t)'
@@ -92,18 +93,16 @@
 'used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken'
 'transferred files between computer and other devices': 'Übertragung von Dateien zwischen Computern und anderen Geräten'
 'written code in a programming language': 'Schreiben eines Programmes in einer Programmiersprache'
-'under 1 year': 'Unter 1 Jahr'
-'under 5 years': 'Unter 5 Jahren'
-'13 years and under': '13 Jahre und jünger'
-'under 14 years': 'Unter 14 Jahren'
-'under 15 years': 'Unter 15 Jahren'
-'17 years and under': '17 Jahre und jünger'
-'under 18 years': 'Unter 18 Jahren'
+'under 1 year': '11 Monate und weniger'
+'under 5 years': '4 Jahre und weniger'
+'under 14 years': '13 Jahre und weniger'
+'under 15 years': '14 Jahre und weniger'
+'under 18 years': '17 Jahre und weniger'
 '10 to under 15 years': '10 bis unter 15 Jahre'
 '14 to under 18 years': '14 bis unter 18 Jahre'
 '15 to under 20 years': '15 bis unter 20 Jahre'
 '15 to under 25 years': '15 bis unter 25 Jahre'
-'15 years and over': '15 Jahre und mehr'
+'15 years and over': '15 Jahren und mehr'
 '16 to under 25 years': '16 bis unter 25 Jahre'
 '16 to under 75 years': '16 bis unter 75 Jahre'
 '18 to under 21 years': '18 bis unter 21 Jahre'
@@ -124,7 +123,6 @@
 '60 years and over': '60 Jahre und mehr'
 '65 years and over': '65 Jahre und mehr'
 'unknown age': 'Alter unbekannt'
-'0 - unknown age': 'Alter unbekannt'
 'marriage and family': 'Ehe und Familie'
 'employment and economic benefits': 'Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'violence against women': 'Gewalt gegen Frauen'
@@ -434,19 +432,15 @@
 #Z_07021_2
 'renewable energy share in gross final energy consumption': 'Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch'
 #Z_07031_1
-'energy intensity measured in terms of primary energy and gdp': 'Energieintensität gemessen in Bezug auf Primärenergie und BIP'
+'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen in Primärenergie in Relation zum BIP'
 #Z_08011_1
 'annual growth rate of real gdp per capita (%)': 'Jährliche Wachstumsrate des realen BIP pro Kopf'
 #Z_08021_1
 'annual growth rate of real gdp per employed person (%)': 'Jährliche Wachstumsrate des realen BIP pro Beschäftigten'
 #Z_08041_1
 'rmc': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
-#Z_08041_2
-'rmc per real gdp': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP'
 #Z_08042_1
 'dmc': 'Inländische Materialverwendung (DMC)'
-#Z_08042_2
-'dmc per real gdp': 'Inländische Materialverwendung (DMC) zum realen BIP'
 #Z_08051_1
 'average hourly earnings of employees': 'Durchschnittlicher Stundenlohn Beschäftigter'
 #Z_08051_2

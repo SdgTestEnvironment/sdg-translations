@@ -30,6 +30,7 @@
 'per 100 000 live birth': 'Per 100 000 live birth'
 'per 100 000 in employment': 'Per 100,000 in employment'
 'ph-value': 'pH-value'
+'per real gdp (2010 = 100)': 'Per real GDP (2010 = 100)'
 'per 1 mn inhabitants': 'Per 1 million inhabitants'
 '%': 'Percentage'
 'recycled waste in 1 000 t': 'Recycled waste in 1 000 t'
@@ -92,18 +93,16 @@
 'used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts'
 'transferred files between computer and other devices': 'Transferring files between computer and other devices'
 'written code in a programming language': 'Writing code in a programming language'
-'under 1 year': 'Under 1 year old'
-'under 5 years': 'Under 5 years old'
-'13 years and under': '13 years and younger'
-'under 14 years': 'Under 14 years old'
-'under 15 years': 'Under 15 years old'
-'17 years and under': '17 years and younger'
-'under 18 years': 'Under 18 years old'
+'under 1 year': '11 month and under'
+'under 5 years': '4 years and under'
+'under 14 years': '13 years and under'
+'under 15 years': '15 years and under'
+'under 18 years': '17 years and under'
 '10 to under 15 years': '10 to under 15 years'
 '14 to under 18 years': '14 to under 18 years old'
 '15 to under 20 years': '15 to under 20 years'
 '15 to under 25 years': '15 to under 25 years old'
-'15 years and over': '15 years old and over'
+'15 years and over': '15 years and over'
 '16 to under 25 years': '16 to under 25 years old'
 '16 to under 75 years': '16 to under 75 years old'
 '18 to under 21 years': '18 to under 21 years old'
@@ -115,16 +114,15 @@
 '25 to under 45 years': '25 to under 45 years old'
 '25 to under 64 years': '25 to under 64 years old'
 '25 to under 75 years': '25 to under 75 years old'
-'25 years and over': '25 years old and over'
+'25 years and over': '25 years and over'
 '30 to under 45 years': '30 to under 45 years old'
 '30 to under 70 years': '30 to under 70 years old'
 '45 to under 55 years': '45 to under 55 years old'
 '45 to under 65 years': '45 to under 65 years old'
 '55 to under 65 years': '55 to under 65 years old'
-'60 years and over': '60 years old and over'
-'65 years and over': '65 years old and over'
+'60 years and over': '60 years and over'
+'65 years and over': '65 years and over'
 'unknown age': 'Unknown age'
-'0 - unknown age': 'Unknown age'
 'marriage and family': 'Marriage and family'
 'employment and economic benefits': 'Employment and economic benefit'
 'violence against women': 'violence against women'
@@ -434,19 +432,15 @@
 #Z_07021_2
 'renewable energy share in gross final energy consumption': 'Renewable energy share in gross final energy consumption'
 #Z_07031_1
-'energy intensity measured in terms of primary energy and gdp': 'Energy intensity measured in terms of primary energy and GDP'
+'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
 #Z_08011_1
 'annual growth rate of real gdp per capita (%)': 'Annual growth rate of real GDP per capita'
 #Z_08021_1
 'annual growth rate of real gdp per employed person (%)': 'Annual growth rate of real GDP per employed person'
 #Z_08041_1
 'rmc': 'Raw material consumption (RMC)'
-#Z_08041_2
-'rmc per real gdp': 'Raw material consumption (RMC) per real GDP'
 #Z_08042_1
 'dmc': 'Domestic material consumption (DMC)'
-#Z_08042_2
-'dmc per real gdp': 'Domestic material consumption (DMC) per real GDP'
 #Z_08051_1
 'average hourly earnings of employees': 'Average hourly earnings of employees'
 #Z_08051_2
