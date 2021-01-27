@@ -37,6 +37,9 @@
 'recycling rate in %': 'Recyclingquote (%)'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
+'relative to gdp': 'Verhältnis zum BIP (%)'
+'eur per inhabitant': 'EUR je Einwohner'
+'as proportion of total gross value added': 'Verhältnis zur Bruttowertschöpfung insgesamt (%)'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -318,7 +321,7 @@
 #Z_03042_1
 'mortality due to suicide': 'Sterblichkeit infolge von Suizid'
 #Z_03051_1
-'inpatient treatment of substance use disorders': 'Stationäre Behandlung von Suchterkrankungen'
+'inpatient treatment of substance use disorders': 'Stationäre Behandlung bei Substanzmissbrauch'
 #Z_03051_2
 'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren'
 #Z_03052_1
@@ -362,9 +365,9 @@
 #Z_04051_1
 'gender parity index': 'Geschlechtsparitätsindex'
 #Z_04061_1
-'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Erwachsene Bevölkerung, die mindestens über Grundkompetenzent in a) Lesen und b) Rechnen verfügt'
+'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Erwachsene Bevölkerung, die mindestens über Grundkompetenzen in a) Lesen und b) Rechnen verfügt'
 #Z_04081_1
-'equipment of schools': 'Schulen mit Grundausstattung'
+'equipment of schools': 'Anteil der Schulen mit Basisversorgung'
 #Z_04091_1
 'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben für Studienplatzkosten'
 #Z_04091_2
@@ -380,7 +383,7 @@
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird'
 #Z_05051_1
-'seats held by women in national parliament': 'Sitze im nationalen Parlament, die Frauen inne haben'
+'seats held by women in national parliament': 'Sitze im nationalen Parlament, die Frauen innehaben'
 #Z_05051_2
 'seats held by women in regional parliaments': 'Sitze in den Landesparlamenten, die Frauen inne haben'
 #Z_05052_1
@@ -472,7 +475,7 @@
 #Z_09012_2
 'freight transport': 'Güterverkehr'
 #Z_09021_1
-'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
+'manufacturing gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe'
 #Z_09021_2
 'manufacturing gross value added as a proportion of total gross value added': 'Verhältnis der Bruttowertschöpfung im Verarbeitenden Gewerbe an der Bruttowertschöpfung insgesamt'
 #Z_09021_3
@@ -522,7 +525,15 @@
 #Z_10091_1
 'net development expenditures': 'Nettoentwicklungsausgaben'
 #Z_11011_1
-'material deprivation for the housing dimension': 'Materielle Deprivation bezogen auf die Wohn-Dimension'
+'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
+#Z_11011_2
+'population considering their dwelling as too dark': 'Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet'
+#Z_11011_3
+'population living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt'
+#Z_11011_4
+'population living in an area with noise pollution': 'Bevölkerung mit Lärmbelästigung in deren Wohnumgebung'
+#Z_11011_5
+'material deprivation for the housing dimension': 'Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)'
 #Z_11021_1
 'population that has convenient access to public transport (within 500 meters) (%)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)'
 #Z_11021_2

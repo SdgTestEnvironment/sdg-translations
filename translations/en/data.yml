@@ -37,6 +37,9 @@
 'recycling rate in %': 'Recycling rate in %'
 't per capita': 't per capita'
 '1 000 t': '1 000 tonnes'
+'relative to gdp': 'Relative to GDP (%)'
+'eur per inhabitant': 'EUR per inhabitant'
+'as proportion of total gross value added': 'As proportion of total gross value added (%)'
 
 #Categories
 'activities': 'Activities'
@@ -93,7 +96,7 @@
 'used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts'
 'transferred files between computer and other devices': 'Transferring files between computer and other devices'
 'written code in a programming language': 'Writing code in a programming language'
-'under 1 year': '11 month and under'
+'under 1 year': '11 months and under'
 'under 5 years': '4 years and under'
 'under 14 years': '13 years and under'
 'under 15 years': '15 years and under'
@@ -358,13 +361,13 @@
 #Z_04031_1
 'participation rate in formal and non-formal education and training in the previous 12 months': 'Participation rate in formal and non-formal education and training in the previous 12 months'
 #Z_04041_1
-'persons with computer-related activities in the last 12 months': 'Persons with computer-related activities in the last 12 months'
+'persons with computer-related activities in the last 12 months': 'Persons with computer-related activities in the previous 12 months'
 #Z_04051_1
 'gender parity index': 'Gender Parity Index'
 #Z_04061_1
 'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills'
 #Z_04081_1
-'equipment of schools': 'Schools offering basic services'
+'equipment of schools': 'Proportion of schools offering basic services'
 #Z_04091_1
 'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
 #Z_04091_2
@@ -472,7 +475,7 @@
 #Z_09012_2
 'freight transport': 'Freight transport'
 #Z_09021_1
-'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
+'manufacturing gross value added': 'Manufacturing gross value added'
 #Z_09021_2
 'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
 #Z_09021_3
@@ -522,7 +525,15 @@
 #Z_10091_1
 'net development expenditures': 'Net development expenditures'
 #Z_11011_1
-'material deprivation for the housing dimension': 'Material deprivation for the housing dimension'
+'population living in households with moisture damages': 'Population living in households with moisture damages'
+#Z_11011_2
+'population considering their dwelling as too dark': 'Population considering their dwelling as too dark'
+#Z_11011_3
+'population living in an area with crime, violence or vandalism': 'Population living in an area with crime, violence or vandalism'
+#Z_11011_4
+'population living in an area with noise pollution': 'Population living in an area with noise pollution'
+#Z_11011_5
+'material deprivation for the housing dimension': 'Material deprivation for the housing dimension, total (1-4 items)'
 #Z_11021_1
 'population that has convenient access to public transport (within 500 meters) (%)': 'Population that has convenient access to public transport (within 500 meters)'
 #Z_11021_2
@@ -716,7 +727,7 @@
 #Z_17151_3
 'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
 #Z_17182_1
-'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Countries with national statistical legislation that complies with the Fundamental Principles of Offical Statistics'
+'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
 #Z_17191_1
 'oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries'
 #Z_17191_2
