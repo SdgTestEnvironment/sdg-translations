@@ -19,7 +19,6 @@
 'mn tkm': 'Million tonne-kilometres'
 'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
 'mn usd, constant prices (2018)': 'Million USD, constant prices (2018)'
-'no unit': 'No unit'
 'number': 'Number'
 'per 100 inhabitants': 'Per 100 inhabitants'
 'per 1 000 inhabitants': 'Per 1 000 inhabitants'
@@ -126,10 +125,10 @@
 '60 years and over': '60 years and older'
 '65 years and over': '65 years and older'
 'unknown age': 'Unknown age'
-'marriage and family': 'Marriage and family'
-'employment and economic benefits': 'Employment and economic benefit'
-'violence against women': 'violence against women'
-'overarching legal frameworks and public life': 'Overarching legal frameworks and public life'
+'area 4 marriage and family': 'Area 4: Marriage and family'
+'area 3 employment and economic benefits': 'Area 3: Employment and economic benefit'
+'area 2 violence against women': 'Area 2: Violence against women'
+'area 1 overarching legal frameworks and public life': 'Area 1: Overarching legal frameworks and public life'
 'class 3 areas (elevation 2500-3500 meters)': 'Class 3 areas (elavation 2500-3500 meters)'
 'class 4 areas (elevation 1500-2500 meters)': 'Class 4 areas (elavation 1500-2500 meters)'
 'class 5 areas (elevation 1000-1500 meters)': 'Class 5 areas (elavation 1000-1500 meters)'
@@ -264,6 +263,10 @@
 'population covered by health insurance (%)': 'Population covered by health insurance'
 #Z_01053_1
 'strategy for adaptation to climate change': 'Strategy for Adaptation to Climate Change'
+#Z_01061_1
+'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
+#Z_01061_2
+'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
 'a) government expenditure on health (cofog division 7) (%)': 'Government expenditure on health (COFOG division 7)'
 #Z_01062_2

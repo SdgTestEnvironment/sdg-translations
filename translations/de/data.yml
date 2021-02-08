@@ -19,7 +19,6 @@
 'mn tkm': 'Millionen Tonnenkilometer'
 'mn usd, constant prices (2016)': 'Millionen USD, konstante Preise (2016)'
 'mn usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
-'no unit': 'Keine Einheit'
 'number': 'Anzahl'
 'per 100 inhabitants': 'Je 100 Einwohner'
 'per 1 000 inhabitants': 'Je 1 000 Einwohner'
@@ -126,10 +125,10 @@
 '60 years and over': '60 Jahre und älter'
 '65 years and over': '65 Jahre und älter'
 'unknown age': 'Alter unbekannt'
-'marriage and family': 'Ehe und Familie'
-'employment and economic benefits': 'Erwerbstätigkeit und wirtschaftlicher Nutzen'
-'violence against women': 'Gewalt gegen Frauen'
-'overarching legal frameworks and public life': 'Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben'
+'area 4 marriage and family': 'Area 4: Ehe und Familie'
+'area 3 employment and economic benefits': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
+'area 2 violence against women': 'Area 2: Gewalt gegen Frauen'
+'area 1 overarching legal frameworks and public life': 'Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben'
 'class 3 areas (elevation 2500-3500 meters)': 'Gebiete der Klasse 3 (Höhe 2500-3500 Meter)'
 'class 4 areas (elevation 1500-2500 meters)': 'Gebiete der Klasse 4 (Höhe 1500-2500 Meter)'
 'class 5 areas (elevation 1000-1500 meters)': 'Gebiete der Klasse 5 (Höhe 1000-1500 Meter)'
@@ -264,6 +263,10 @@
 'population covered by health insurance (%)': 'Bevölkerung mit Krankenversicherungsschutz'
 #Z_01053_1
 'strategy for adaptation to climate change': 'Anpassungsstrategie an den Klimawandel'
+#Z_01061_1
+'oda (gross disbursements) for poverty reduction': 'Bruttozahlungen (ODA)zur Minderung der Armut'
+#Z_01061_2
+'oda (commitments) for poverty reduction': 'Verpflichtungen (ODA) zur Minderung der Armut'
 #Z_01062_1
 'a) government expenditure on health (cofog division 7) (%)': 'Staatsausgaben für Gesundheit (COFOG Abteilung 7)'
 #Z_01062_2
