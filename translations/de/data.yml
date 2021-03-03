@@ -743,6 +743,8 @@
 'death registration': 'Registrierung der Sterbefälle'
 
 #Zusatz
-'total': 'Insgesamt'
-'timeseries': 'Zeitreihe'
-'year': 'Jahr'
+total: Insgesamt
+timeseries: Zeitreihe
+year: Jahr
+
+#Old stuff that may still be needed
