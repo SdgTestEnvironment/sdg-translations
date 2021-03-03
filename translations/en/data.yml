@@ -299,6 +299,8 @@
 'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
 #Z_02071_1
 'export refunds': 'Export refunds'
+#Z_02081_1
+'food Price Index (food items and alcohol-free beverages)': 'Food Price Index (food items and alcohol-free beverages)'
 #Z_03011_1
 'maternal mortality (per 100 000 live births)': 'Maternal mortality'
 #Z_03012_1
@@ -390,7 +392,7 @@
 #Z_05052_1
 'women in managerial positions (%)': 'Women in managerial positions'
 #Z_05081_1
-'penetration rate mobile communication': 'Penetration rate mobile communication'
+'mobile penetration rate': 'Mobile penetration rate'
 #Z_05081_2
 'private households with at least one mobile phone (%)': 'Private households with at least one mobile phone'
 #Z_06011_1
@@ -688,7 +690,7 @@
 #Z_17071_1
 'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
 #Z_17081_1
-'population (16 to 74 years) using the internet in the last three months': 'Population (16 to 74 years) using the internet in the last three months'
+'proportion of individuals using the Internet': 'Proportion of individuals using the Internet'
 #Z_17091_1
 'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
 #Z_17091_2
