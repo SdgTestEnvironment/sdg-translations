@@ -743,6 +743,9 @@
 'death registration': 'Death registration'
 
 #Addition
-'total': 'Total'
-'timeseries': 'Time series'
-'year': 'Year'
+
+#Zusatz
+total: Total
+timeseries: Time series
+year: Year
+Year: Year
