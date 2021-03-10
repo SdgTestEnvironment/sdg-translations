@@ -86,6 +86,7 @@
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'standard accounting system': 'Standard-Rechnungslegungsinstrument'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -247,6 +248,8 @@
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
+'seea tables': 'SEEA Tabellen'
+'tsa tables': 'TSA Tabellen'
 
 #Zeitreihen
 #Z_01021_1
@@ -741,6 +744,8 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_12101_1
+'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 
 #Zusatz
 total: Insgesamt
@@ -749,3 +754,5 @@ year: Jahr
 Year: Jahr
 
 #Old stuff that may still be needed
+'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
+'population (16 to 74 years) using the internet in the last three months': 'Bevölkerung (16 bis 74 Jahre), die das Internet in den letzten drei Monaten genutzt hat'

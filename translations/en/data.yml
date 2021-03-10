@@ -86,6 +86,7 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'standard accounting system': 'Standard accounting system'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -247,6 +248,8 @@
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
+'seea tables': 'SEEA tables'
+'tsa tables': 'TSA tables'
 
 #Time series
 #Z_01021_1
@@ -741,6 +744,8 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_12101_1
+'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 
 #Addition
 
@@ -749,3 +754,7 @@ total: Total
 timeseries: Time series
 year: Year
 Year: Year
+
+#Old stuff that may still be needed
+'penetration rate mobile communication': 'Penetration rate mobile communication'
+'population (16 to 74 years) using the internet in the last three months': 'Population (16 to 74 years) using the internet in the last three months'
