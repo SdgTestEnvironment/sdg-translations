@@ -70,6 +70,7 @@
 'sex': 'Sex'
 'skill': 'Skill'
 'speed': 'Speed'
+'standard accounting system': 'Standard accounting system'
 'subject': 'Subject'
 'substance': 'Substance'
 'technology': 'Technology'
@@ -86,7 +87,6 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
-'standard accounting system': 'Standard accounting system'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -202,6 +202,8 @@
 'c) 10 mbps to under 30 mbps': 'c) 10 mbps to under 30 mbps'
 'd) 30 mbps to under 100 mbps': 'd) 30 mbps to under 100 mbps'
 'e) 100 mbps and over': 'e) 100 mbps and over'
+'seea tables': 'SEEA tables'
+'tsa tables': 'TSA tables'
 'reading': 'Reading'
 'mathematics': 'Mathematics'
 'a) drugs': 'Drugs'
@@ -248,8 +250,6 @@
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
-'seea tables': 'SEEA tables'
-'tsa tables': 'TSA tables'
 
 #Time series
 #Z_01021_1
@@ -588,6 +588,8 @@
 'organisations with emas registration (number)': 'Organisations with EMAS registration'
 #Z_12071_1
 'sustainability programme': 'Sustainability Programme'
+#Z_12101_1
+'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_13021_1
 'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
 #Z_13021_2
@@ -744,8 +746,6 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_12101_1
-'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 
 #Addition
 

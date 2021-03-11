@@ -70,6 +70,7 @@
 'sex': 'Geschlecht'
 'skill': 'Fähigkeit'
 'speed': 'Geschwindigkeit'
+'standard accounting system': 'Standard-Rechnungslegungsinstrument'
 'subject': 'Schulfach'
 'substance': 'Substanz'
 'technology': 'Technologie'
@@ -86,7 +87,6 @@
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
-'standard accounting system': 'Standard-Rechnungslegungsinstrument'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -202,6 +202,8 @@
 'c) 10 mbps to under 30 mbps': 'c) 10 Mbit/s bis unter 30 Mbit/s'
 'd) 30 mbps to under 100 mbps': 'd) 30 Mbit/s bis unter 100 Mbit/s'
 'e) 100 mbps and over': 'e) 100 Mbit/s und mehr'
+'seea tables': 'SEEA Tabellen'
+'tsa tables': 'TSA Tabellen'
 'reading': 'Lesen'
 'mathematics': 'Mathematik'
 'a) drugs': 'Drogen'
@@ -248,8 +250,6 @@
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
-'seea tables': 'SEEA Tabellen'
-'tsa tables': 'TSA Tabellen'
 
 #Zeitreihen
 #Z_01021_1
@@ -588,6 +588,8 @@
 'organisations with emas registration (number)': 'Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)'
 #Z_12071_1
 'sustainability programme': 'Nachhaltigkeitsstrategie'
+#Z_12101_1
+'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_13021_1
 'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'
 #Z_13021_2
@@ -744,8 +746,6 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_12101_1
-'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 
 #Zusatz
 total: Insgesamt
