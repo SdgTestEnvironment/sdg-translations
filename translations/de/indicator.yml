@@ -54,6 +54,7 @@ table: Tabelle
 timeseries: Zeitreihe
 unit_of_measurement: Einheit
 copyright: Copyright
+unit: Einheit
 units_type: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
