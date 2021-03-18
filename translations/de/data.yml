@@ -255,9 +255,9 @@
 #Z_01021_1
 'at-risk-of-poverty rate (according to eurostat definition) (%)': 'Armutsgefährdungsquote'
 #Z_01022_1
-'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
+'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 #Z_01022_2
-'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
+'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 #Z_01031_1
 'unemployed persons with unemployment benefits (%)': 'Arbeitslose Leistungsbezieher'
 #Z_01031_2
@@ -476,6 +476,8 @@
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'Verpflichtungen zur Handelshilfe (ODA und OOF)'
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
+#Z_09011_1
+'rural Access Index': 'Index der ländlichen Anbindung'
 #Z_09012_1
 'passenger transport': 'Personenverkehr'
 #Z_09012_2
@@ -640,6 +642,8 @@
 'b) oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben für den Forstsektor'
 #Z_16011_1
 'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
+#Z_16012_1
+'conflict-related deaths': 'Konfliktbezogene Todesfälle'
 #Z_16013_1
 'population subjected to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
 #Z_16013_2
@@ -695,7 +699,7 @@
 #Z_17071_1
 'gross fixed capital formation on environmental protection': 'Bruttoanlageinvestitionen für Umweltschutz'
 #Z_17081_1
-'proportion of individuals using the Internet': 'Anteil der Internetnutzerinnen und -nutzer'
+'proportion of individuals using the internet': 'Anteil der Internetnutzerinnen und -nutzer'
 #Z_17091_1
 'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17091_2
@@ -750,6 +754,7 @@
 #Zusatz
 total: Insgesamt
 timeseries: Zeitreihe
+Series: Zeitreihe
 year: Jahr
 Year: Jahr
 

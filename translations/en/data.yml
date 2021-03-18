@@ -255,9 +255,9 @@
 #Z_01021_1
 'at-risk-of-poverty rate (according to eurostat definition) (%)': 'At-risk-of-poverty rate'
 #Z_01022_1
-'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'At-risk-of-poverty or social exclusion'
+'severely materially deprived persons': 'Severely materially deprived persons'
 #Z_01022_2
-'extensive material deprivation (%)': 'Extensive material deprivation'
+'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 #Z_01031_1
 'unemployed persons with unemployment benefits (%)': 'Unemployed persons with unemployment benefits'
 #Z_01031_2
@@ -476,6 +476,8 @@
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
+#Z_09011_1
+'rural Access Index': 'Rural Access Index'
 #Z_09012_1
 'passenger transport': 'Passenger transport'
 #Z_09012_2
@@ -640,6 +642,8 @@
 'b) oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 #Z_16011_1
 'victims of intentional homicide': 'Victims of intentional homicide'
+#Z_16012_1
+'conflict-related deaths': 'Conflict-related deaths'
 #Z_16013_1
 'population subjected to physical violence': 'Population subjected to physical violence'
 #Z_16013_2
@@ -695,7 +699,7 @@
 #Z_17071_1
 'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
 #Z_17081_1
-'proportion of individuals using the Internet': 'Proportion of individuals using the Internet'
+'proportion of individuals using the internet': 'Proportion of individuals using the Internet'
 #Z_17091_1
 'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
 #Z_17091_2
@@ -752,6 +756,7 @@
 #Zusatz
 total: Total
 timeseries: Time series
+Series: Time series
 year: Year
 Year: Year
 
