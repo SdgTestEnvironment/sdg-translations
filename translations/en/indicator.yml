@@ -34,6 +34,7 @@ dataset_size_warning: There are too many datasets to show on the chart. Not all
 view_indicator_list: View this goal's indicator list
 sub_categories: Selection
 sub_categories_dns: Sub-categories
+series: Series
 series_help: Select here what should be displayed in the chart and in the table.
 series_help_dns: Select here what should be displayed in the chart and in the table.
 legend_help: Click on the legend to remove individual lines from the chart.
