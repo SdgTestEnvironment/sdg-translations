@@ -113,7 +113,7 @@
 '21 to under 25 years': '21 to under 25 years'
 '21 to under 60 years': '21 to under 60 years'
 '25 to under 45 years': '25 to under 45 years'
-'25 to under 64 years': '25 to under 64 years'
+'25 to under 65 years': '25 to under 65 years'
 '25 to under 75 years': '25 to under 75 years'
 '25 years and over': '25 years and older'
 '30 to under 45 years': '30 to under 45 years'
@@ -122,6 +122,7 @@
 '45 to under 65 years': '45 to under 65 years'
 '55 to under 65 years': '55 to under 65 years'
 '60 years and over': '60 years and older'
+'65 to under 75 years': '65 to under 75 years'
 '65 years and over': '65 years and older'
 'unknown age': 'Unknown age'
 'area 4 marriage and family': 'Area 4: Marriage and family'
@@ -477,7 +478,7 @@
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
 #Z_09011_1
-'rural Access Index': 'Rural Access Index'
+'ruralaccess index': 'Rural Access Index'
 #Z_09012_1
 'passenger transport': 'Passenger transport'
 #Z_09012_2
@@ -761,5 +762,7 @@ year: Year
 Year: Year
 
 #Old stuff that may still be needed
+'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'At-risk-of-poverty or social exclusion'
+'extensive material deprivation (%)': 'Extensive material deprivation'
 'penetration rate mobile communication': 'Penetration rate mobile communication'
 'population (16 to 74 years) using the internet in the last three months': 'Population (16 to 74 years) using the internet in the last three months'

@@ -113,7 +113,7 @@
 '21 to under 25 years': '21 bis unter 25 Jahre'
 '21 to under 60 years': '21 bis unter 60 Jahre'
 '25 to under 45 years': '25 bis unter 45 Jahre'
-'25 to under 64 years': '25 bis unter 64 Jahre'
+'25 to under 65 years': '25 bis unter 65 Jahre'
 '25 to under 75 years': '25 bis unter 75 Jahre'
 '25 years and over': '25 Jahre und älter'
 '30 to under 45 years': '30 bis unter 45 Jahre'
@@ -122,6 +122,7 @@
 '45 to under 65 years': '45 bis unter 65 Jahre'
 '55 to under 65 years': '55 bis unter 65 Jahre'
 '60 years and over': '60 Jahre und älter'
+'65 to under 75 years': '65 bis unter 75 Jahre'
 '65 years and over': '65 Jahre und älter'
 'unknown age': 'Alter unbekannt'
 'area 4 marriage and family': 'Area 4: Ehe und Familie'
@@ -477,7 +478,7 @@
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
 #Z_09011_1
-'rural Access Index': 'Index der ländlichen Anbindung'
+'ruralaccess index': 'Index der ländlichen Anbindung'
 #Z_09012_1
 'passenger transport': 'Personenverkehr'
 #Z_09012_2
@@ -759,5 +760,7 @@ year: Jahr
 Year: Jahr
 
 #Old stuff that may still be needed
+'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
+'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
 'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
 'population (16 to 74 years) using the internet in the last three months': 'Bevölkerung (16 bis 74 Jahre), die das Internet in den letzten drei Monaten genutzt hat'
