@@ -478,7 +478,7 @@
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
 #Z_09011_1
-'ruralaccess index': 'Rural Access Index'
+'rural access index': 'Rural Access Index'
 #Z_09012_1
 'passenger transport': 'Passenger transport'
 #Z_09012_2
@@ -570,15 +570,15 @@
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
 #Z_12041_1
-'compliance with the basel convention (%)': 'Compliance with the Basel Convention'
+'compliance with the basel convention (%)': 'Basel Convention'
 #Z_12041_2
-'compliance with the montreal protocol (%)': 'Compliance with the Montreal Protocol'
+'compliance with the montreal protocol (%)': 'Montreal Protocol'
 #Z_12041_3
-'compliance with the rotterdam convention (%)': 'Compliance with the Rotterdam Convention'
+'compliance with the rotterdam convention (%)': 'Rotterdam Convention'
 #Z_12041_4
-'compliance with the stockholm convention (%)': 'Compliance with the Stockholm Convention'
+'compliance with the stockholm convention (%)': 'Stockholm Convention'
 #Z_12041_5
-'compliance with the minamata convention (%)': 'Compliance with the Minamata Convention'
+'compliance with the minamata convention (%)': 'Minamata Convention'
 #Z_12042_1
 'a) hazardous waste generated per capita': 'Hazardous waste generated per capita'
 #Z_12042_2
