@@ -2,10 +2,10 @@ status_blurb: 'The reporting status gives you an overview of how many Sustainabl
   of the United Nations 2030 Agenda
   can currently be calculated for Germany. The time series for the calculation of the indicators are mainly based on data from official statistics, but also use data collected
   by many other institutions.
-  Where data are available, the indicator is marked as <span class="status complete">&nbspReported online </span>. A suitable data source is still being sought for other indicators. These indicators are marked as
-  <span class="status notstarted">&nbspExploring data sources </span>. Time series are not available for all globally agreed indicators. There can be various reasons for this: the calculation of certain
+  Where data are available, the indicator is marked as <span class="status complete"> Reported online </span>. A suitable data source is still being sought for other indicators. These indicators are marked as
+  <span class="status notstarted"> Exploring data sources </span>. Time series are not available for all globally agreed indicators. There can be various reasons for this: the calculation of certain
   internationally relevant indicators for Germany alone makes little sense or the indicators can only be compiled in a global context. Such indicators are marked
-  as <span class="status notapplicable">&nbspNot applicable </span>.'
+  as <span class="status notapplicable"> Not applicable </span>.'
 reporting_status: Reporting Status
 overall_reporting_status: Overall Reporting Status
 reported_online: Reported online
