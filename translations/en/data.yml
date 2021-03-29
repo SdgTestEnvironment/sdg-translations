@@ -61,6 +61,7 @@
 'observation status': 'Observation status'
 'profession': 'Profession'
 'organisational form': 'Organisational form'
+'antimicrobial-resistant organisms': 'Antimicrobial-resistant organism'
 'product type': 'Product type'
 'level of proficiency': 'Level of proficiency'
 'reporting type': 'Reporting type'
@@ -87,6 +88,7 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'household expenditures on health': 'Household expenditures on health'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -180,6 +182,8 @@
 'b) dentists': 'Dentists'
 'public': 'Public'
 'private': 'Private'
+'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli)'
+'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistant Staphylococcus aureus (MRSA)'
 'minimum requirement level i': 'Minimum requirement level I'
 'minimum requirement level ii': 'Minimum requirement level II'
 'b) at risk': 'At risk'
@@ -251,6 +255,8 @@
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
+'greater 10 percentage': 'Greater 10 %'
+'greater 25 percentage': 'Greater 25 %'
 
 #Time series
 #Z_01021_1
@@ -361,6 +367,8 @@
 'health workers, according to the practising concept (with direct patient contact)': 'Health workers (practising concept)'
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Average of 13 IHR core capacity scores'
+#Z_03132_1
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Percentage of bloodstream infections due to selected antimicrobial-resistant organisms'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
 #Z_04022_1
@@ -751,6 +759,8 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_03082_1
+'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
 
 #Addition
 
@@ -762,6 +772,7 @@ year: Year
 Year: Year
 
 #Old stuff that may still be needed
+'25 to under 64 years': '25 to under 64 years'
 'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'At-risk-of-poverty or social exclusion'
 'extensive material deprivation (%)': 'Extensive material deprivation'
 'penetration rate mobile communication': 'Penetration rate mobile communication'
