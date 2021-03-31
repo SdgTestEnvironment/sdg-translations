@@ -4,6 +4,7 @@
 'eur': 'EUR'
 'eur/h': 'EUR pro Stunde'
 'eur per inhabitant': 'EUR je Einwohner'
+'g/dl': 'Gramm pro Deziliter'
 'g/eur constant (2010)': 'Gramm pro EUR, konstant (2010)'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
@@ -53,6 +54,7 @@
 'facilities': 'Ausstattung'
 'region': 'Region'
 'frequency': 'Häufigkeit'
+'household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
 'indicator': 'Indikator'
 'items': 'Probleme'
@@ -88,7 +90,6 @@
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
-'household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -103,11 +104,18 @@
 'under 18 years': '17 Jahre und jünger'
 '10 to under 15 years': '10 bis unter 15 Jahre'
 '14 to under 18 years': '14 bis unter 18 Jahre'
+'15 years': '15 Jahre'
+'15.5 years': '15,5 Jahre'
 '15 to under 20 years': '15 bis unter 20 Jahre'
 '15 to under 25 years': '15 bis unter 25 Jahre'
 '15 years and over': '15 Jahre und älter'
+'16 years': '16 Jahre'
+'16.5 years': '16,5 Jahre'
 '16 to under 25 years': '16 bis unter 25 Jahre'
 '16 to under 75 years': '16 bis unter 75 Jahre'
+'17 years': '17 Jahre'
+'17.5 years': '17,5 Jahre'
+'18 years': '18 Jahre'
 '18 to under 21 years': '18 bis unter 21 Jahre'
 '18 to under 30 years': '18 bis unter 30 Jahre'
 '18 to under 65 years': '18 bis unter 65 Jahre'
@@ -166,6 +174,8 @@
 'mecklenburg western pomerania': 'Mecklenburg-Vorpommern'
 'lower saxony': 'Niedersachsen'
 'north rhine-westphalia': 'Nordrhein-Westfalen'
+'greater 10 percentage': 'Größer 10 %'
+'greater 25 percentage': 'Größer 25 %'
 'sdg indicator 4-2-2': 'SDG-Indikator 4.2.2'
 'sdg indicator 4-3-1 (adults)': 'SDG-Indikator 4.3.1 (Erwachsene)'
 'sdg indicator 4-3-1 (youth)': 'SDG-Indikator 4.3.1 (Jugendliche)'
@@ -182,8 +192,8 @@
 'b) dentists': 'Zahnärzte'
 'public': 'Öffentlich'
 'private': 'Privat'
-'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli, die gegen Cephalosporine der 3. Generation resistent sind (z. B. ESBL- E. coli)'
-'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistentem Staphylococcus aureus (MRSA)'
+'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli mit Resistenz gegenüber 3. Generations-Cephalosporinen (z. B. ESBL- E. coli)'
+'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistente Staphylococcus aureus (MRSA)'
 'minimum requirement level i': 'Mindestniveau Stufe I'
 'minimum requirement level ii': 'Mindestniveau Stufe II'
 'b) at risk': 'Gefährdet'
@@ -255,8 +265,6 @@
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
-'greater 10 percentage': 'Größer 10 %'
-'greater 25 percentage': 'Größer 25 %'
 
 #Zeitreihen
 #Z_01021_1
@@ -272,7 +280,7 @@
 #Z_01053_1
 'strategy for adaptation to climate change': 'Anpassungsstrategie an den Klimawandel'
 #Z_01061_1
-'oda (gross disbursements) for poverty reduction': 'Bruttozahlungen (ODA)zur Minderung der Armut'
+'oda (gross disbursements) for poverty reduction': 'Bruttozahlungen (ODA) zur Minderung der Armut'
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'Verpflichtungen (ODA) zur Minderung der Armut'
 #Z_01062_1
@@ -287,6 +295,8 @@
 'overweight among children under the age of 5 years (%)': 'Übergewicht bei Kindern'
 #Z_02022_2
 'wasting among children under the age of 5 years (%)': 'Untergewicht bei Kindern'
+#Z_02023_1
+'hb concentrations in female adolescents (g/dl)': 'Hb-Konzentrationen bei weiblichen Jugendlichen'
 #Z_02031_1
 'labour productivity': 'Arbeitsproduktivität'
 #Z_02041_1
@@ -345,6 +355,8 @@
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
 'giving birth': 'Geburten junger Frauen'
+#Z_03082_1
+'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 #Z_03092_1
 'mortality due to wash': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
@@ -596,7 +608,7 @@
 #Z_12051_2
 'recycled waste': 'Stoffliche Verwertung'
 #Z_12061_1
-'organisations with emas registration (number)': 'Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)'
+'organisations with emas registration (number)': 'Organisationen mit EMAS-Registrierung'
 #Z_12071_1
 'sustainability programme': 'Nachhaltigkeitsstrategie'
 #Z_12101_1
@@ -759,8 +771,6 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_03082_1
-'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 
 #Zusatz
 total: Insgesamt
@@ -770,7 +780,6 @@ year: Jahr
 Year: Jahr
 
 #Old stuff that may still be needed
-'25 to under 64 years': '25 bis unter 64 Jahre'
 'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
 'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
 'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
