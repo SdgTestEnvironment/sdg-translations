@@ -47,6 +47,7 @@
 'area of law': 'Area of law'
 'classification': 'Classification'
 'conversion': 'Conversion'
+'declination': 'Declination'
 'disability': 'Disability status'
 'economic sector': 'Economic sector'
 'educational level': 'Educational level'
@@ -70,6 +71,7 @@
 'level of risk of extinction': 'Level of risk of extinction'
 'sea': 'Sea'
 'sector': 'Sector'
+'series': 'Series'
 'sex': 'Sex'
 'skill': 'Skill'
 'speed': 'Speed'
@@ -145,6 +147,8 @@
 'class 6 areas (elevation  300-1000 meters)': 'Class 6 areas (elavation 300-1000 meters)'
 'by un factors': 'By UN factors'
 'by national factors': 'By national factors'
+'admissible applications': 'Admissible applications'
+'rejected applications': 'Rejected applications'
 'persons with disability': 'Persons with disability'
 'mobility impaired people': 'Mobility impaired people'
 'c) services (nace rev 2, sections e, g to t)': 'Services (NACE Rev. 2, sections E, G to T)'
@@ -206,6 +210,8 @@
 'greater north sea': 'Greater North Sea'
 'general government': 'General government'
 'corporations': 'Corporations'
+'applications finally processed': 'Applications finally processed'
+'applications received': 'Applications received'
 'divers': 'Divers'
 'female': 'Female'
 'male': 'Male'
@@ -683,6 +689,8 @@
 'c) police reporting rate for robbery (%)': 'Police reporting rate for robbery'
 #Z_16032_1
 'unsentenced detainees (%)': 'Unsentenced detainees'
+#Z_16033_1
+'requests for the implementation of a dispute resolution procedureRequests for the implementation of a dispute resolution procedure': 'Requests for the implementation of a dispute resolution procedure'
 #Z_16042_1
 'seized arms and parts (number)': 'Seized arms and parts'
 #Z_16051_1

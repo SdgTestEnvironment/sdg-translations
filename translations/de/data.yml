@@ -47,6 +47,7 @@
 'area of law': 'Rechtsgebiet'
 'classification': 'Klassifikation'
 'conversion': 'Umrechnung'
+'declination': 'Bescheinigung'
 'disability': 'Behinderungsstatus'
 'economic sector': 'Wirtschaftszweig'
 'educational level': 'Bildungsniveau'
@@ -70,6 +71,7 @@
 'level of risk of extinction': 'Gefährdungskategorie'
 'sea': 'Meer'
 'sector': 'Sektor'
+'series': 'Zeitreihe'
 'sex': 'Geschlecht'
 'skill': 'Fähigkeit'
 'speed': 'Geschwindigkeit'
@@ -145,6 +147,8 @@
 'class 6 areas (elevation  300-1000 meters)': 'Gebiete der Klasse 6 (Höhe  300-1000 Meter)'
 'by un factors': 'Mittels UN-Faktoren'
 'by national factors': 'Mittels nationaler Faktoren'
+'admissible applications': 'Zulässige Anträge'
+'rejected applications': 'Abgelehnte Anträge'
 'persons with disability': 'Personen mit Behinderung'
 'mobility impaired people': 'Menschen mit Mobilitätseinschränkung'
 'c) services (nace rev 2, sections e, g to t)': 'Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)'
@@ -206,6 +210,8 @@
 'greater north sea': 'Nordsee'
 'general government': 'Staat'
 'corporations': 'Unternehmen'
+'applications finally processed': 'Abschließend bearbeitete Anträge'
+'applications received': 'Eingegangene Anträge'
 'divers': 'Divers'
 'female': 'Weiblich'
 'male': 'Männlich'
@@ -683,6 +689,8 @@
 'c) police reporting rate for robbery (%)': 'Anzeigequote bei Raub'
 #Z_16032_1
 'unsentenced detainees (%)': 'Nicht-verurteilte Gefangene'
+#Z_16033_1
+'requests for the implementation of a dispute resolution procedureRequests for the implementation of a dispute resolution procedure': 'Anträge auf Durchführung eines Streitbeilegungsverfahrens'
 #Z_16042_1
 'seized arms and parts (number)': 'Sichergestellte Waffen und Waffenteile'
 #Z_16051_1
