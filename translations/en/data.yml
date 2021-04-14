@@ -730,9 +730,9 @@
 #Z_17081_1
 'proportion of individuals using the internet': 'Proportion of individuals using the Internet'
 #Z_17091_1
-'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
+'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
 #Z_17091_2
-'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
+'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Annual growth rate of real GDP'
 #Z_17131_10
@@ -790,7 +790,8 @@ year: Year
 Year: Year
 
 #Old stuff that may still be needed
-'proportion of individuals using the internet': 'Proportion of individuals using the Internet'
+'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
+'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
 '25 to under 64 years': '25 to under 64 years'
 'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'At-risk-of-poverty or social exclusion'
 'extensive material deprivation (%)': 'Extensive material deprivation'

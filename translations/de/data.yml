@@ -730,9 +730,9 @@
 #Z_17081_1
 'proportion of individuals using the internet': 'Anteil der Internetnutzerinnen und -nutzer'
 #Z_17091_1
-'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation)': 'Zusagen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17091_2
-'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation)': 'Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Jährliche Wachstumsrate des realen BIP'
 #Z_17131_10
@@ -792,3 +792,5 @@ Year: Jahr
 'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
 'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
 'population (16 to 74 years) using the internet in the last three months': 'Bevölkerung (16 bis 74 Jahre), die das Internet in den letzten drei Monaten genutzt hat'
+'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
