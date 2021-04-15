@@ -71,7 +71,7 @@
 'level of risk of extinction': 'Level of risk of extinction'
 'sea': 'Sea'
 'sector': 'Sector'
-'time series': 'Time series'
+'time series': 'Series'
 'sex': 'Sex'
 'skill': 'Skill'
 'speed': 'Speed'
@@ -92,6 +92,7 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'source': 'Data source'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -271,6 +272,8 @@
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
+'who': 'World Health Organization (WHO)'
+'ecdc': 'European Centre for Disease Prevention and Control'
 
 #Time series
 #Z_01021_1
@@ -690,7 +693,7 @@
 #Z_16032_1
 'unsentenced detainees (%)': 'Unsentenced detainees'
 #Z_16033_1
-'requests for the implementation of a dispute resolution procedureRequests for the implementation of a dispute resolution procedure': 'Requests for the implementation of a dispute resolution procedure'
+'requests for the implementation of a dispute resolution procedure': 'Requests for the implementation of a dispute resolution procedure'
 #Z_16042_1
 'seized arms and parts (number)': 'Seized arms and parts'
 #Z_16051_1

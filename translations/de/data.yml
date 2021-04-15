@@ -92,6 +92,7 @@
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'source': 'Datenquelle'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -271,6 +272,8 @@
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
+'who': 'Weltgesundheitsorganisation (WHO)'
+'ecdc': 'Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)'
 
 #Zeitreihen
 #Z_01021_1
@@ -690,7 +693,7 @@
 #Z_16032_1
 'unsentenced detainees (%)': 'Nicht-verurteilte Gefangene'
 #Z_16033_1
-'requests for the implementation of a dispute resolution procedureRequests for the implementation of a dispute resolution procedure': 'Anträge auf Durchführung eines Streitbeilegungsverfahrens'
+'requests for the implementation of a dispute resolution procedure': 'Anträge auf Durchführung eines Streitbeilegungsverfahrens'
 #Z_16042_1
 'seized arms and parts (number)': 'Sichergestellte Waffen und Waffenteile'
 #Z_16051_1
