@@ -20,6 +20,7 @@
 'mn tkm': 'Million tonne-kilometres'
 'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
 'mn usd, constant prices (2018)': 'Million USD, constant prices (2018)'
+'mn usd, constant prices (2019)': 'Million USD, constant prices (2019)'
 'number': 'Number'
 'per 100 inhabitants': 'Per 100 inhabitants'
 'per 1 000 inhabitants': 'Per 1,000 inhabitants'
@@ -74,6 +75,7 @@
 'time series': 'Series'
 'sex': 'Sex'
 'skill': 'Skill'
+'source': 'Data source'
 'speed': 'Speed'
 'standard accounting system': 'Standard accounting system'
 'subject': 'Subject'
@@ -92,7 +94,6 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
-'source': 'Data source'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -219,6 +220,8 @@
 'unknown': 'Unknown'
 'a) literacy skills': 'a) Literacy skills'
 'b) numeracy skills': 'b) Numeracy skills'
+'ecdc': 'European Centre for Disease Prevention and Control'
+'who': 'World Health Organization (WHO)'
 'a) over 144 kbps to under 2 mbps': 'a) Over 144 kbps to under 2 mbps'
 'b) 2 mbps to under 10 mbps': 'b) 2 mbps to under 10 mbps'
 'c) 10 mbps to under 30 mbps': 'c) 10 mbps to under 30 mbps'
@@ -272,8 +275,14 @@
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
-'who': 'World Health Organization (WHO)'
-'ecdc': 'European Centre for Disease Prevention and Control'
+'dengue': 'Dengue'
+'echinococcosis': 'Echinococcosis'
+'leprosy': 'Leprosy'
+'buruli ulcer': 'Buruli ulcer'
+'human african trypanosomiasis': 'Human African Trypanosomiasis'
+'leishmaniases': 'Leishmaniases'
+'rabies': 'Rabies'
+'yaws': 'Yaws'
 
 #Time series
 #Z_01021_1
@@ -507,7 +516,7 @@
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
 #Z_09011_1
-'rural access index': 'Rural Access Index'
+'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
 'passenger transport': 'Passenger transport'
 #Z_09012_2
@@ -628,6 +637,8 @@
 'climate action plan 2050': 'Climate Action Plan 2050'
 #Z_13022_1
 'greenhouse gas emissions': 'Total greenhouse gas emissions'
+#Z_13041_1
+'international climate finance for the reduction of greenhouse gases and adaptation to climate change': 'International climate finance for the reduction of greenhouse gases and adaptation to climate change'
 #Z_14031_1
 'average ph-concentration in the german bight (ph-value)': 'Average pH-concentration in the German Bight'
 #Z_14041_1
@@ -782,6 +793,10 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_03035_1
+'people requiring interventions against neglected tropical diseases': 'People requiring interventions against neglected tropical diseases'
+#Z_03035_2
+'inpatient treatment of neglected tropical diseases': 'Inpatient treatment of neglected tropical diseases'
 
 #Addition
 
@@ -793,6 +808,7 @@ year: Year
 Year: Year
 
 #Old stuff that may still be needed
+'rural access index': 'Rural Access Index'
 'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
 'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
 '25 to under 64 years': '25 to under 64 years'

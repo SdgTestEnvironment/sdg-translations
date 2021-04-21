@@ -20,6 +20,7 @@
 'mn tkm': 'Millionen Tonnenkilometer'
 'mn usd, constant prices (2016)': 'Millionen USD, konstante Preise (2016)'
 'mn usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
+'mn usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
 'number': 'Anzahl'
 'per 100 inhabitants': 'Je 100 Einwohner'
 'per 1 000 inhabitants': 'Je 1 000 Einwohner'
@@ -74,6 +75,7 @@
 'time series': 'Zeitreihe'
 'sex': 'Geschlecht'
 'skill': 'Fähigkeit'
+'source': 'Datenquelle'
 'speed': 'Geschwindigkeit'
 'standard accounting system': 'Standard-Rechnungslegungsinstrument'
 'subject': 'Schulfach'
@@ -92,7 +94,6 @@
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
-'source': 'Datenquelle'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -219,6 +220,8 @@
 'unknown': 'Unbekannt'
 'a) literacy skills': 'a) Lesen'
 'b) numeracy skills': 'b) Rechnen'
+'ecdc': 'Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)'
+'who': 'Weltgesundheitsorganisation (WHO)'
 'a) over 144 kbps to under 2 mbps': 'a) Über 144 kbit/s bis unter 2 Mbit/s'
 'b) 2 mbps to under 10 mbps': 'b) 2 Mbit/s bis unter 10 Mbit/s'
 'c) 10 mbps to under 30 mbps': 'c) 10 Mbit/s bis unter 30 Mbit/s'
@@ -272,8 +275,14 @@
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
-'who': 'Weltgesundheitsorganisation (WHO)'
-'ecdc': 'Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)'
+'dengue': 'Dengue'
+'echinococcosis': 'Echinokokkose'
+'leprosy': 'Lepra'
+'buruli ulcer': 'Infektion der Haut durch sonstige Mykobakterien'
+'human african trypanosomiasis': 'Afrikanische Trypanosomiasis'
+'leishmaniases': 'Leishmaniose'
+'rabies': 'Tollwut'
+'yaws': 'Frambösie'
 
 #Zeitreihen
 #Z_01021_1
@@ -507,7 +516,7 @@
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
 #Z_09011_1
-'rural access index': 'Index der ländlichen Anbindung'
+'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
 'passenger transport': 'Personenverkehr'
 #Z_09012_2
@@ -628,6 +637,8 @@
 'climate action plan 2050': 'Klimaschutzplan 2050'
 #Z_13022_1
 'greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
+#Z_13041_1
+'international climate finance for the reduction of greenhouse gases and adaptation to climate change': 'Deutsche Zahlungen vorrangig an Entwicklungs- und Schwellenländer zur Klimafinanzierung'
 #Z_14031_1
 'average ph-concentration in the german bight (ph-value)': 'Durchschnittliche pH-Konzentration in der Deutschen Bucht'
 #Z_14041_1
@@ -782,6 +793,10 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_03035_1
+'people requiring interventions against neglected tropical diseases': 'Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten'
+#Z_03035_2
+'inpatient treatment of neglected tropical diseases': 'Stationäre Behandlung bei vernachlässigten Tropenkrankheiten'
 
 #Zusatz
 total: Insgesamt
@@ -791,6 +806,7 @@ year: Jahr
 Year: Jahr
 
 #Old stuff that may still be needed
+'rural access index': 'Index der ländlichen Anbindung'
 'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
 'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
 'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
