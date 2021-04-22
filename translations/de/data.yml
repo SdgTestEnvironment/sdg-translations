@@ -39,6 +39,7 @@
 '%': 'Prozent'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
+'mj/d': 'Megajoule pro Tag'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -246,12 +247,20 @@
 'road transport': 'Straßenverkehr'
 'transport via pipeline crude oil': 'Rohrfernleitungen: Rohöl'
 'a) cardiovascular disease': 'a) Herz-Kreislauferkrankung'
+'leprosy': 'Lepra'
+'buruli ulcer': 'Infektion der Haut durch sonstige Mykobakterien'
+'human african trypanosomiasis': 'Afrikanische Trypanosomiasis'
+'leishmaniases': 'Leishmaniose'
+'rabies': 'Tollwut'
+'yaws': 'Frambösie'
 'b) cancer': 'b) Bösartige Neubildungen'
 'c) diabetes mellitus': 'c) Diabetes mellitus'
 'd) chronic respiratory disease': 'd) Chronische Atemwegserkrankungen'
 'a) diarrhoea': 'a) Durchfallerkrankungen'
 'b) intestinal nematode infections': 'b) Intestinale Nematodeninfektionen'
 'c) protein-energy malnutrition': 'c) Energie- und Eiweißmangelernährung'
+'dengue': 'Dengue'
+'echinococcosis': 'Echinokokkose'
 'physical abuse': 'Körperliche Misshandlung'
 'psychological abuse': 'Psychische Misshandlung'
 'current accounts': 'Girokonten'
@@ -275,14 +284,9 @@
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
-'dengue': 'Dengue'
-'echinococcosis': 'Echinokokkose'
-'leprosy': 'Lepra'
-'buruli ulcer': 'Infektion der Haut durch sonstige Mykobakterien'
-'human african trypanosomiasis': 'Afrikanische Trypanosomiasis'
-'leishmaniases': 'Leishmaniose'
-'rabies': 'Tollwut'
-'yaws': 'Frambösie'
+'germany': 'Deutschland'
+'former federal territory': 'Früheres Bundesgebiet'
+'new german states': 'Neue Länder'
 
 #Zeitreihen
 #Z_01021_1
@@ -357,6 +361,10 @@
 'malaria incidence (per 1 000 inhabitants)': 'Auftreten von Malaria'
 #Z_03034_1
 'hepatitis b incidence (per 100 000 inhabitants)': 'Auftreten von Hepatitis B'
+#Z_03035_1
+'people requiring interventions against neglected tropical diseases': 'Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten'
+#Z_03035_2
+'inpatient treatment of neglected tropical diseases': 'Stationäre Behandlung bei vernachlässigten Tropenkrankheiten'
 #Z_03041_1
 'mortality at the age of 30 to under 70 years': 'Sterblichkeit im Alter von 30 bis unter 70 Jahren'
 #Z_03042_1
@@ -638,7 +646,7 @@
 #Z_13022_1
 'greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
-'international climate finance for the reduction of greenhouse gases and adaptation to climate change': 'Deutsche Zahlungen vorrangig an Entwicklungs- und Schwellenländer zur Klimafinanzierung'
+'climate finance flows to developing countries': 'Zahlungen zur Klimafinanzierung an Entwicklungsländer'
 #Z_14031_1
 'average ph-concentration in the german bight (ph-value)': 'Durchschnittliche pH-Konzentration in der Deutschen Bucht'
 #Z_14041_1
@@ -793,10 +801,8 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_03035_1
-'people requiring interventions against neglected tropical diseases': 'Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten'
-#Z_03035_2
-'inpatient treatment of neglected tropical diseases': 'Stationäre Behandlung bei vernachlässigten Tropenkrankheiten'
+#Z_02012_1
+'average energy supply': 'Mittlere Energiezufuhr'
 
 #Zusatz
 total: Insgesamt

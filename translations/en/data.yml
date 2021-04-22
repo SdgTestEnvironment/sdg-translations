@@ -39,6 +39,7 @@
 '%': 'Percentage'
 't per capita': 'Tonnes per capita'
 '1 000 t': '1,000 tonnes'
+'mj/d': 'Megajoule per day'
 
 #Categories
 'activities': 'Activities'
@@ -246,12 +247,20 @@
 'road transport': 'Road transport'
 'transport via pipeline crude oil': 'Pipelines: crude oil'
 'a) cardiovascular disease': 'a) Cardiovascular disease'
+'leprosy': 'Leprosy'
+'buruli ulcer': 'Buruli ulcer'
+'human african trypanosomiasis': 'Human African Trypanosomiasis'
+'leishmaniases': 'Leishmaniases'
+'rabies': 'Rabies'
+'yaws': 'Yaws'
 'b) cancer': 'b) Cancer'
 'c) diabetes mellitus': 'c) Diabetes mellitus'
 'd) chronic respiratory disease': 'd) Chronic respiratory disease'
 'a) diarrhoea': 'a) Diarrhoea'
 'b) intestinal nematode infections': 'b) Intestinal nematode infections'
 'c) protein-energy malnutrition': 'c) Protein-energy malnutrition'
+'dengue': 'Dengue'
+'echinococcosis': 'Echinococcosis'
 'physical abuse': 'Physical abuse'
 'psychological abuse': 'Psychological abuse'
 'current accounts': 'Current accounts'
@@ -275,14 +284,9 @@
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
-'dengue': 'Dengue'
-'echinococcosis': 'Echinococcosis'
-'leprosy': 'Leprosy'
-'buruli ulcer': 'Buruli ulcer'
-'human african trypanosomiasis': 'Human African Trypanosomiasis'
-'leishmaniases': 'Leishmaniases'
-'rabies': 'Rabies'
-'yaws': 'Yaws'
+'germany': 'Germany'
+'former federal territory': 'Former Federal territory'
+'new german states': 'New German states'
 
 #Time series
 #Z_01021_1
@@ -357,6 +361,10 @@
 'malaria incidence (per 1 000 inhabitants)': 'Malaria incidence'
 #Z_03034_1
 'hepatitis b incidence (per 100 000 inhabitants)': 'Hepatitis B incidence'
+#Z_03035_1
+'people requiring interventions against neglected tropical diseases': 'People requiring interventions against neglected tropical diseases'
+#Z_03035_2
+'inpatient treatment of neglected tropical diseases': 'Inpatient treatment of neglected tropical diseases'
 #Z_03041_1
 'mortality at the age of 30 to under 70 years': 'Mortality at the age of 30 to under 70 years'
 #Z_03042_1
@@ -638,7 +646,7 @@
 #Z_13022_1
 'greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
-'international climate finance for the reduction of greenhouse gases and adaptation to climate change': 'International climate finance for the reduction of greenhouse gases and adaptation to climate change'
+'climate finance flows to developing countries': 'Climate finance flows to developing countries'
 #Z_14031_1
 'average ph-concentration in the german bight (ph-value)': 'Average pH-concentration in the German Bight'
 #Z_14041_1
@@ -793,10 +801,8 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_03035_1
-'people requiring interventions against neglected tropical diseases': 'People requiring interventions against neglected tropical diseases'
-#Z_03035_2
-'inpatient treatment of neglected tropical diseases': 'Inpatient treatment of neglected tropical diseases'
+#Z_02012_1
+'average energy supply': 'Average energy supply'
 
 #Addition
 
