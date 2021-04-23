@@ -11,6 +11,7 @@
 'kg per capita': 'Kilogramm pro Kopf'
 'litres of pure alcohol per capita': 'Liter puren Alkohols pro Kopf'
 'micrograms per qubic meters': 'Mikrogramm pro Kubikmeter'
+'mj/d': 'Megajoule pro Tag'
 'mj/eur': 'Megajoule pro EUR'
 'mn eur': 'Millionen EUR'
 'mn h': 'Millionen Stunden'
@@ -39,7 +40,6 @@
 '%': 'Prozent'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
-'mj/d': 'Megajoule pro Tag'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -140,6 +140,9 @@
 '65 to under 75 years': '65 bis unter 75 Jahre'
 '65 years and over': '65 Jahre und älter'
 'unknown age': 'Alter unbekannt'
+'germany': 'Deutschland'
+'new german states': 'Neue Länder'
+'former federal territory': 'Früheres Bundesgebiet'
 'area 4 marriage and family': 'Area 4: Ehe und Familie'
 'area 3 employment and economic benefits': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'area 2 violence against women': 'Area 2: Gewalt gegen Frauen'
@@ -248,7 +251,7 @@
 'transport via pipeline crude oil': 'Rohrfernleitungen: Rohöl'
 'a) cardiovascular disease': 'a) Herz-Kreislauferkrankung'
 'leprosy': 'Lepra'
-'buruli ulcer': 'Infektion der Haut durch sonstige Mykobakterien'
+'buruli ulcer': 'Buruli-Ulkus'
 'human african trypanosomiasis': 'Afrikanische Trypanosomiasis'
 'leishmaniases': 'Leishmaniose'
 'rabies': 'Tollwut'
@@ -284,9 +287,6 @@
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
-'germany': 'Deutschland'
-'former federal territory': 'Früheres Bundesgebiet'
-'new german states': 'Neue Länder'
 
 #Zeitreihen
 #Z_01021_1
@@ -311,6 +311,8 @@
 'b) government expenditure on education (cofog division 9) (%)': 'Staatsausgaben für Bildung (COFOG Abteilung 9)'
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung (COFOG Abteilung 10)'
+#Z_02012_1
+'average energy supply': 'Mittlere Energiezufuhr'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Kleinwuchs bei Kindern'
 #Z_02022_1
@@ -801,8 +803,6 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_02012_1
-'average energy supply': 'Mittlere Energiezufuhr'
 
 #Zusatz
 total: Insgesamt

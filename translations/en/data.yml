@@ -11,6 +11,7 @@
 'kg per capita': 'Kilogram per capita'
 'litres of pure alcohol per capita': 'Litres of pure alcohol per capita'
 'micrograms per qubic meters': 'Micrograms per cubic meters'
+'mj/d': 'Megajoule per day'
 'mj/eur': 'Megajoule per EUR'
 'mn eur': 'Million EUR'
 'mn h': 'Million hours'
@@ -39,7 +40,6 @@
 '%': 'Percentage'
 't per capita': 'Tonnes per capita'
 '1 000 t': '1,000 tonnes'
-'mj/d': 'Megajoule per day'
 
 #Categories
 'activities': 'Activities'
@@ -140,6 +140,9 @@
 '65 to under 75 years': '65 to under 75 years'
 '65 years and over': '65 years and older'
 'unknown age': 'Unknown age'
+'germany': 'Germany'
+'new german states': 'New German states'
+'former federal territory': 'Former Federal territory'
 'area 4 marriage and family': 'Area 4: Marriage and family'
 'area 3 employment and economic benefits': 'Area 3: Employment and economic benefit'
 'area 2 violence against women': 'Area 2: Violence against women'
@@ -284,9 +287,6 @@
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
-'germany': 'Germany'
-'former federal territory': 'Former Federal territory'
-'new german states': 'New German states'
 
 #Time series
 #Z_01021_1
@@ -311,6 +311,8 @@
 'b) government expenditure on education (cofog division 9) (%)': 'Government expenditure on education (COFOG division 9)'
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection (COFOG division 10)'
+#Z_02012_1
+'average energy supply': 'Average energy supply'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Stunting among children'
 #Z_02022_1
@@ -801,8 +803,6 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_02012_1
-'average energy supply': 'Average energy supply'
 
 #Addition
 
