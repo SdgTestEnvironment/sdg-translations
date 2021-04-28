@@ -656,9 +656,9 @@
 #Z_14041_2
 'proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks': 'Proportion of fish stocks monitored on maximum sustainable yield (MSY) approach in all managed stocks'
 #Z_14051_1
-'protected marine area (%)': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
+'marine key biodiversity areas (kbas) covered by protected areas (%)': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
 #Z_14051_2
-'marine key biodiversity areas (kbas) covered by protected areas (%)': 'Marine areas covered by protected areas'
+'protected marine area (%)': 'Marine areas covered by protected areas'
 #Z_14061_1
 'degree of combat illegal, unreported and unregulated fishing (/)': 'Degree of combat illegal, unreported and unregulated fishing'
 #Z_14081_1
@@ -666,9 +666,9 @@
 #Z_15011_1
 'forest area (%)': 'Forest area as a proportion of total land area'
 #Z_15012_1
-'protected terrestrial areas (%)': 'Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas'
+'key biodiversity areas (kbas) covered by protected areas (%)': 'Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas'
 #Z_15012_2
-'key biodiversity areas (kbas) covered by protected areas (%)': 'Terrestrial and freshwater areas covered by protected areas'
+'protected terrestrial areas (%)': 'Terrestrial and freshwater areas covered by protected areas'
 #Z_15021_1
 'above-ground biomass stock in forest': 'Above-ground biomass stock in forest'
 #Z_15021_2
