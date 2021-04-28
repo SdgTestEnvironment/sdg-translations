@@ -49,7 +49,7 @@
 'area of law': 'Rechtsgebiet'
 'classification': 'Klassifikation'
 'conversion': 'Umrechnung'
-'declination': 'Bescheinigung'
+'declination': 'Ausgang des Antragsverfahrens'
 'disability': 'Behinderungsstatus'
 'economic sector': 'Wirtschaftszweig'
 'educational level': 'Bildungsniveau'
@@ -57,7 +57,7 @@
 'facilities': 'Ausstattung'
 'region': 'Region'
 'frequency': 'Häufigkeit'
-'household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
+'household expenditures on health': 'Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
 'indicator': 'Indikator'
 'items': 'Probleme'
@@ -656,9 +656,9 @@
 #Z_14041_2
 'proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks': 'Verhältnis der untersuchten Fischbestände (basierend auf dem Ansatz der höchsten nachhaltigen Ergiebigkeit) an allen bewirtschafteten Beständen'
 #Z_14051_1
-'protected marine area (%)': 'Meeresschutzgebiete'
+'protected marine area (%)': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
 #Z_14051_2
-'marine key biodiversity areas (kbas) covered by protected areas (%)': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
+'marine key biodiversity areas (kbas) covered by protected areas (%)': 'Meeresfläche, die unter Schutz steht'
 #Z_14061_1
 'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, nicht gemeldeter und ungeregelter Fischerei'
 #Z_14081_1
@@ -666,9 +666,9 @@
 #Z_15011_1
 'forest area (%)': 'Waldfläche im Verhältnis zur gesamten Landfläche'
 #Z_15012_1
-'protected terrestrial areas (%)': 'Schutzgebiete an Land'
+'protected terrestrial areas (%)': 'Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen'
 #Z_15012_2
-'key biodiversity areas (kbas) covered by protected areas (%)': 'Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
+'key biodiversity areas (kbas) covered by protected areas (%)': 'Fläche der Land- und Süßwasserökosysteme , die unter Schutz steht'
 #Z_15021_1
 'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
 #Z_15021_2
