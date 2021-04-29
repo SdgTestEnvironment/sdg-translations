@@ -224,7 +224,7 @@
 'unknown': 'Unknown'
 'a) literacy skills': 'a) Literacy skills'
 'b) numeracy skills': 'b) Numeracy skills'
-'ecdc': 'European Centre for Disease Prevention and Control'
+'ecdc': 'European Centre for Disease Prevention and Control (ECDC)'
 'who': 'World Health Organization (WHO)'
 'a) over 144 kbps to under 2 mbps': 'a) Over 144 kbps to under 2 mbps'
 'b) 2 mbps to under 10 mbps': 'b) 2 mbps to under 10 mbps'
@@ -803,6 +803,10 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_11072_1
+'physical harassment': 'Physical harassment'
+#Z_11072_2
+'sexual harassment': 'Sexual harassment'
 
 #Addition
 

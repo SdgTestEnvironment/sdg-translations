@@ -803,6 +803,10 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_11072_1
+'physical harassment': 'Körperliche Belästigung'
+#Z_11072_2
+'sexual harassment': 'Sexuelle Belästigung'
 
 #Zusatz
 total: Insgesamt
