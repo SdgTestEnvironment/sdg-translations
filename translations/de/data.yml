@@ -617,6 +617,10 @@
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Bevölkerungsgewichtete Jahresmittelwerte von PM10'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
+#Z_11072_1
+'physical harassment': 'Körperliche Belästigung'
+#Z_11072_2
+'sexual harassment': 'Sexuelle Belästigung'
 #Z_12041_1
 'compliance with the basel convention (%)': 'Basler Übereinkommen'
 #Z_12041_2
@@ -803,10 +807,6 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_11072_1
-'physical harassment': 'Körperliche Belästigung'
-#Z_11072_2
-'sexual harassment': 'Sexuelle Belästigung'
 
 #Zusatz
 total: Insgesamt
