@@ -809,6 +809,8 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_05022_1
+'women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months': 'women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months'
 
 #Addition
 
@@ -818,6 +820,8 @@ timeseries: Time series
 Series: Time series
 year: Year
 Year: Year
+sex of victim: Sex of victims
+age of victim: Age of victims
 
 #Old stuff that may still be needed
 'rural access index': 'Rural Access Index'
