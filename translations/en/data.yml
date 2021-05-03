@@ -727,6 +727,8 @@
 'private persons (donors) suspected in the context of corruption offences': 'Private persons (donors) suspected in the context of corruption offences'
 #Z_16052_1
 'businesses who had the impression that public officials are corruptible': 'Businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years'
+#Z_16061_1
+'proportion of primary government expenditures to original approved budget': 'Proportion of primary government expenditures to original approved budget'
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years (%)': 'Population satisfied with their experience of government services during the previous two years'
 #Z_16071_1
@@ -807,8 +809,6 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_16061_1
-'proportion of primary government expenditures to original approved budget': 'Proportion of primary government expenditures to original approved budget'
 
 #Addition
 

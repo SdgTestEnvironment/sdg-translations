@@ -727,6 +727,8 @@
 'private persons (donors) suspected in the context of corruption offences': 'Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten'
 #Z_16052_1
 'businesses who had the impression that public officials are corruptible': 'Unternehmen, die den Eindruck hatten, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren'
+#Z_16061_1
+'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years (%)': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
 #Z_16071_1
@@ -807,8 +809,6 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_16061_1
-'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
 
 #Zusatz
 total: Insgesamt
