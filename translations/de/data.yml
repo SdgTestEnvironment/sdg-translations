@@ -140,6 +140,10 @@
 '65 to under 75 years': '65 bis unter 75 Jahre'
 '65 years and over': '65 Jahre und älter'
 'unknown age': 'Alter unbekannt'
+'(a) national education policies': '(a) nationale Bildungspolitik'
+'(b) curricula': '(b) Lehrpläne'
+'(c) teacher education': '(c) Ausbildung von Lehrkräften'
+'(d) student assessment': '(d) Leistungsbewertung der Lernenden'
 'germany': 'Deutschland'
 'new german states': 'Neue Länder'
 'former federal territory': 'Früheres Bundesgebiet'
@@ -225,7 +229,7 @@
 'a) literacy skills': 'a) Lesen'
 'b) numeracy skills': 'b) Rechnen'
 'ecdc': 'Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)'
-'who': 'Weltgesundheit&shy;sorganisation (WHO)'
+'who': 'Weltgesundheitsorganisation (WHO)'
 'a) over 144 kbps to under 2 mbps': 'a) Über 144 kbit/s bis unter 2 Mbit/s'
 'b) 2 mbps to under 10 mbps': 'b) 2 Mbit/s bis unter 10 Mbit/s'
 'c) 10 mbps to under 30 mbps': 'c) 10 Mbit/s bis unter 30 Mbit/s'
@@ -421,6 +425,8 @@
 'gender parity index': 'Geschlechtsparitätsindex'
 #Z_04061_1
 'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Erwachsene Bevölkerung, die mindestens über Grundkompetenzen in a) Lesen und b) Rechnen verfügt'
+#Z_04071_1
+'integration of (i) global citizenship education and (ii) education for sustainable development in the education system': 'Integration von (i) politischer Bildung im globalen Maßstab und (ii) Bildung für nachhaltige Entwicklung im Bildungswesen'
 #Z_04081_1
 'equipment of schools': 'Anteil der Schulen mit Basisversorgung'
 #Z_04091_1
@@ -431,6 +437,8 @@
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
 'female victims of criminal offences having/ had an intimate relationship with the suspect (number)': 'Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen'
+#Z_05022_1
+'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch eine andere Person als einen intimen Partner'
 #Z_05031_1
 'married girls': 'Verheiratete Mädchen'
 #Z_05032_1
@@ -809,8 +817,6 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_05022_1
-'women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months': 'Frauen und Mädchen im Alter von 15 Jahren und älter, die in den vorangegangenen 12 Monaten sexueller Gewalt durch andere Personen als einen Intimpartner ausgesetzt waren'
 
 #Zusatz
 total: Insgesamt
@@ -820,6 +826,7 @@ year: Jahr
 Year: Jahr
 sex of victim: Geschlecht der Opfer
 age of victim: Alter der Opfer
+area2: Bereich
 
 #Old stuff that may still be needed
 'rural access index': 'Index der ländlichen Anbindung'

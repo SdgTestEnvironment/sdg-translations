@@ -140,6 +140,10 @@
 '65 to under 75 years': '65 to under 75 years'
 '65 years and over': '65 years and older'
 'unknown age': 'Unknown age'
+'(a) national education policies': '(a) national education policies'
+'(b) curricula': '(b) curricula'
+'(c) teacher education': '(c) teacher education'
+'(d) student assessment': '(d) student assessment'
 'germany': 'Germany'
 'new german states': 'New German states'
 'former federal territory': 'Former Federal territory'
@@ -421,6 +425,8 @@
 'gender parity index': 'Gender Parity Index'
 #Z_04061_1
 'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills'
+#Z_04071_1
+'integration of (i) global citizenship education and (ii) education for sustainable development in the education system': 'Integration of (i) global citizenship education and (ii) education for sustainable development in the education system'
 #Z_04081_1
 'equipment of schools': 'Proportion of schools offering basic services'
 #Z_04091_1
@@ -431,6 +437,8 @@
 'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
 #Z_05021_1
 'female victims of criminal offences having/ had an intimate relationship with the suspect (number)': 'Female victims of criminal offences having/ had an intimate relationship with the suspect'
+#Z_05022_1
+'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
 #Z_05031_1
 'married girls': 'Married girls'
 #Z_05032_1
@@ -809,8 +817,6 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_05022_1
-'women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months': 'women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months'
 
 #Addition
 
@@ -822,6 +828,7 @@ year: Year
 Year: Year
 sex of victim: Gender of victims
 age of victim: Age of victims
+area2: Area
 
 #Old stuff that may still be needed
 'rural access index': 'Rural Access Index'
