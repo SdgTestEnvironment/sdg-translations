@@ -1,15 +1,14 @@
-status_blurb: 'Der Berichtsstatus gibt Ihnen einen Überblick, wie viele Indikatoren zu den globalen Nachhaltigkeitszielen (<a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals, SDGs</a>) der Agenda 2030 der Vereinten Nationen für Deutschland zurzeit berechnet werden können. Die Zeitreihen für die Berechnung der Indikatoren basieren überwiegend auf Daten der amtlichen Statistik, nutzen aber auch Erhebungen zahlreicher weiterer Institutionen.<br>Stehen Daten zur Verfügung, wird der Indikator als <span class="status complete"> Daten verfügbar </span> markiert. Für andere Indikatoren wird noch nach einer geeigneten Datenquelle gesucht. Diese sind an der Markierung <span class="status notstarted"> Datenquellenanalyse </span> erkennbar. Es liegen nicht zu allen der global vereinbarten Indikatoren Zeitreihen vor. Dafür kann es verschiedene Gründe geben: Bestimmte international relevante Indikatoren lassen sich nicht sinnvoll für Deutschland berechnen oder sind nur im globalen Kontext zu beantworten. Solche Indikatoren sind als <span class="status notapplicable"> Nicht zutreffend </span> markiert.'
-exploring_data_sources: Datenquellenanalyse
+status_blurb: 'Der Berichtsstatus gibt Ihnen einen Überblick, wie viele Indikatoren zu den globalen Nachhaltigkeitszielen (<a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals, SDGs</a>)
+  der Agenda 2030 der Vereinten Nationen für Deutschland zurzeit berechnet werden können. Die Zeitreihen für die Berechnung der Indikatoren basieren überwiegend auf Daten der amtlichen Statistik, nutzen aber
+  auch Erhebungen zahlreicher weiterer Institutionen.<br>Stehen Daten zur Verfügung, wird der Indikator als <span class="status complete"> Verfügbar </span> markiert. Für andere Indikatoren wird noch nach einer
+  geeigneten Datenquelle gesucht. Diese sind an der Markierung <span class="notstarted"> Nicht verfügbar </span> erkennbar. Es liegen nicht zu allen der global vereinbarten Indikatoren Zeitreihen vor. Dafür kann
+  es verschiedene Gründe geben: Bestimmte international relevante Indikatoren lassen sich nicht sinnvoll für Deutschland berechnen oder sind nur im globalen Kontext zu beantworten. Solche Indikatoren sind als
+  <span class="status notapplicable"> Nicht zutreffend </span> markiert.'
+exploring_data_sources: Nicht verfügbar
 overall_reporting_status: Übersicht zum Berichtsstatus der
-reported_online: Daten verfügbar
+reported_online: Verfügbar
 reporting_status: Berichtsstatus
 statistics_in_progress: In Bearbeitung
 not_applicable: Nicht zutreffend
 status_by_goal: Status nach Ziel
-nebel: Keine Bewertung möglich
-x: Keine Bewertung möglich
-sonne: Bei Fortsetzung der Entwicklung beträgt die Abweichung vom Zielwert weniger als 5&nbsp;% der Differenz zwischen Zielwert und aktuellem Wert
-leicht bewölkt: Bei Fortsetzung der Entwicklung würde das Ziel voraussichtlich um mindestens 5&nbsp;%, aber maximal um 20&nbsp;% der Differenz zwischen Zielwert und aktuellem Wert verfehlt
-wolke: Der Indikator entwickelt sich zwar in die gewünschte Richtung auf das Ziel zu, bei Fortsetzung der Entwicklung würde das Ziel im Zieljahr aber um mehr als 20&nbsp;% verfehlt
-blitz: Der Indikator entwickelt sich nicht in die gewünschte Richtung und somit vergrößert sich der Abstand zum Ziel
 status_by_field: Status nach %field
