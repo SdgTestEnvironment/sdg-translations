@@ -398,13 +398,13 @@
 #Z_03101_2
 'current tobacco use among persons aged 15 years and older (%)': 'Current tobacco use among persons aged 15 years and older'
 #Z_03111_1
-'coverage of dtp containing vaccine at school entrance': 'Coverage of DTP containing vaccine at school entrance'
+'dtp vaccination rate at school entrance': 'DTP vaccination rate at school entrance'
 #Z_03111_2
-'coverage of hpv containing vaccine of 15 years old girls (%)': 'Coverage of HPV containing vaccine of 15 years old girls'
+'hpv vaccination rate among 15 years old girls': 'HPV vaccination rate among 15 years old girls'
 #Z_03111_3
-'coverage of measles containing vaccine at school entrance (%)': 'Coverage of measles containing vaccine at school entrance'
+'measles vaccination rate at sschool entrance': 'Measles vaccination rate at sschool entrance'
 #Z_03111_4
-'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Coverage of pneumococcal conjugate vaccine at school entrance'
+'pneumococcal vaccination rate at school entrance': 'Pneumococcal vaccination rate at school entrance'
 #Z_03112_1
 'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
@@ -831,6 +831,10 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'coverage of dtp containing vaccine at school entrance': 'Coverage of DTP containing vaccine at school entrance'
+'coverage of hpv containing vaccine of 15 years old girls (%)': 'Coverage of HPV containing vaccine of 15 years old girls'
+'coverage of measles containing vaccine at school entrance (%)': 'Coverage of measles containing vaccine at school entrance'
+'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Coverage of pneumococcal conjugate vaccine at school entrance'
 'rural access index': 'Rural Access Index'
 'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
 'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'

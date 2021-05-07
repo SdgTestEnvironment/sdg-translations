@@ -398,13 +398,13 @@
 #Z_03101_2
 'current tobacco use among persons aged 15 years and older (%)': 'Tabakgebrauch in der Bevölkerung ab 15 Jahren'
 #Z_03111_1
-'coverage of dtp containing vaccine at school entrance': 'DTP-Impfquote zum Schuleintritt'
+'dtp vaccination rate at school entrance': 'DTP-Impfquote zum Schuleintritt'
 #Z_03111_2
-'coverage of hpv containing vaccine of 15 years old girls (%)': 'HPV-Impfquote bei 15-jährigen Mädchen'
+'hpv vaccination rate among 15 years old girls': 'HPV-Impfquote bei 15-jährigen Mädchen'
 #Z_03111_3
-'coverage of measles containing vaccine at school entrance (%)': 'Masern-Impfquote zum Schuleintritt'
+'measles vaccination rate at sschool entrance': 'Masern-Impfquote zum Schuleintritt'
 #Z_03111_4
-'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Pneumokokken-Impfquote zum Schuleintritt'
+'pneumococcal vaccination rate at school entrance': 'Pneumokokken-Impfquote zum Schuleintritt'
 #Z_03112_1
 'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor'
 #Z_03121_1
@@ -829,6 +829,10 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'coverage of dtp containing vaccine at school entrance': 'DTP-Impfquote zum Schuleintritt'
+'coverage of hpv containing vaccine of 15 years old girls (%)': 'HPV-Impfquote bei 15-jährigen Mädchen'
+'coverage of measles containing vaccine at school entrance (%)': 'Masern-Impfquote zum Schuleintritt'
+'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Pneumokokken-Impfquote zum Schuleintritt'
 'rural access index': 'Index der ländlichen Anbindung'
 'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
 'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
