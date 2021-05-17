@@ -4,8 +4,8 @@ computation_definitions: Definitions
 computation_units: Unit of measurement
 comparison_sdg: Comparability with global metadata
 copyright: Copyright
-goal_meta_link: Link to the global metadata of this indicator
-goal_meta_national_link: Link to national metadata
+goal_meta_link: Global metadata
+goal_meta_national_link: National metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
 dns_indicator_definition: Definition<small> (Text from the Indicator Report 2018)</small>
