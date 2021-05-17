@@ -51,7 +51,7 @@
 'conversion': 'Conversion'
 'declination': 'Outcome of the application process'
 'disability': 'Disability status'
-'economic sector': 'Economic sector'
+'economic sector': 'Economic activity'
 'educational level': 'Educational level'
 'education level': 'Education level'
 'facilities': 'Facilities'
@@ -310,11 +310,11 @@
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
-'a) government expenditure on health (cofog division 7) (%)': 'Government expenditure on health (COFOG division 7)'
+'a) government expenditure on health (cofog division 7) (%)': 'Government expenditure on health'
 #Z_01062_2
-'b) government expenditure on education (cofog division 9) (%)': 'Government expenditure on education (COFOG division 9)'
+'b) government expenditure on education (cofog division 9) (%)': 'Government expenditure on education'
 #Z_01062_3
-'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection (COFOG division 10)'
+'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection'
 #Z_02012_1
 'average energy supply': 'Average energy supply'
 #Z_02021_1
@@ -342,7 +342,7 @@
 #Z_02052_3
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
 #Z_02061_1
-'agriculture orientation index for government expenditures': '"Agriculture orientation index" for government expenditures'
+'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
 #Z_02062_1
 'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
 #Z_02071_1
@@ -442,7 +442,7 @@
 #Z_05031_1
 'married girls': 'Married girls'
 #Z_05032_1
-'victims of female genital mutilation (number)': 'Victims of female genital mutilation'
+'victims of female genital mutilation (number)': 'Female victims of genital mutilation'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 #Z_05051_1
@@ -720,9 +720,9 @@
 #Z_16022_1
 'victims of human trafficking': 'Victims of human trafficking'
 #Z_16031_1
-'a) police reporting rate for physical assault (%)': 'Police reporting rate for physical assault'
+'a) police reporting rate for physical assault (%)': 'Reporting rate for physical assault'
 #Z_16031_2
-'c) police reporting rate for robbery (%)': 'Police reporting rate for robbery'
+'c) police reporting rate for robbery (%)': 'Reporting rate for robbery'
 #Z_16032_1
 'unsentenced detainees (%)': 'Unsentenced detainees'
 #Z_16033_1

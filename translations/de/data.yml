@@ -310,11 +310,11 @@
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'Verpflichtungen (ODA) zur Minderung der Armut'
 #Z_01062_1
-'a) government expenditure on health (cofog division 7) (%)': 'Staatsausgaben für Gesundheit (COFOG Abteilung 7)'
+'a) government expenditure on health (cofog division 7) (%)': 'Staatsausgaben für Gesundheit'
 #Z_01062_2
-'b) government expenditure on education (cofog division 9) (%)': 'Staatsausgaben für Bildung (COFOG Abteilung 9)'
+'b) government expenditure on education (cofog division 9) (%)': 'Staatsausgaben für Bildung'
 #Z_01062_3
-'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung (COFOG Abteilung 10)'
+'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung'
 #Z_02012_1
 'average energy supply': 'Mittlere Energiezufuhr'
 #Z_02021_1
@@ -342,7 +342,7 @@
 #Z_02052_3
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
 #Z_02061_1
-'agriculture orientation index for government expenditures': '"Agriculture Orientation Index" für Staatsausgaben'
+'agriculture orientation index for government expenditures': 'Agrarorientierungs-Index für Staatsausgaben'
 #Z_02062_1
 'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben für die Landwirtschaft'
 #Z_02071_1
@@ -442,7 +442,7 @@
 #Z_05031_1
 'married girls': 'Verheiratete Mädchen'
 #Z_05032_1
-'victims of female genital mutilation (number)': 'Opfer von Verstümmelung weiblicher Genitalien'
+'victims of female genital mutilation (number)': 'Weibliche Opfer von Genitalverstümmelung'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird'
 #Z_05051_1
