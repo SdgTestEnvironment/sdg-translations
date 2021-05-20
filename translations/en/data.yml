@@ -166,7 +166,7 @@
 'a) agriculture, forestry and fishing (nace rev 2, section a)': 'Agriculture, forestry and fishing (NACE Rev. 2, section A)'
 'agriculture': 'Agriculture'
 'b) mimec (nace rev 2, sections b, c, d, f)': 'MIMEC (NACE Rev. 2, sections B, C, D, F)'
-'b) at the end of lower primary education': 'b) At the end of lower primary education'
+'b) at the end of lower primary education': 'b) At the end of primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
 'a) schools with access to electricity': 'a) Schools with access to electricity'
 'e) schools with access to basic drinking water': 'e) Schools with access to basic drinking water'
@@ -708,7 +708,7 @@
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
 #Z_16013_1
-'population subjected to physical violence': 'Population subjected to physical violence'
+'population subjected to physical violence': 'Population who were exposed to physical violence'
 #Z_16013_2
 'population who were victims of criminal offences': 'Population who were victims of criminal offences'
 #Z_16013_3
