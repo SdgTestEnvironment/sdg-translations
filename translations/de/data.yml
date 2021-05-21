@@ -406,7 +406,7 @@
 #Z_03111_4
 'pneumococcal vaccination rate at school entrance': 'Pneumokokken-Impfquote zum Schuleintritt'
 #Z_03112_1
-'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor'
+'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für medizinische Forschung und grundlegende Gesundheitsversorgung'
 #Z_03121_1
 'health workers, according to the practising concept (with direct patient contact)': 'Gesundheitspersonal (mit direktem Patientenkontakt)'
 #Z_03131_1
@@ -430,9 +430,9 @@
 #Z_04081_1
 'equipment of schools': 'Anteil der Schulen mit Basisversorgung'
 #Z_04091_1
-'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben für Studienplatzkosten'
-#Z_04091_2
 'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben für Stipendien'
+#Z_04091_2
+'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben für Studienplatzkosten'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
@@ -446,9 +446,7 @@
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird'
 #Z_05051_1
-'seats held by women in national parliament': 'Sitze im nationalen Parlament, die Frauen innehaben'
-#Z_05051_2
-'seats held by women in regional parliaments': 'Sitze in den Landesparlamenten, die Frauen inne haben'
+'seats held by women in national parliament': 'Frauenanteil im Parlament'
 #Z_05052_1
 'women in managerial positions (%)': 'Frauen in Führungspositionen'
 #Z_05081_1
@@ -724,7 +722,7 @@
 #Z_16031_2
 'c) police reporting rate for robbery (%)': 'Anzeigequote bei Raub'
 #Z_16032_1
-'unsentenced detainees (%)': 'Nicht-verurteilte Gefangene'
+'unsentenced detainees (%)': 'Nicht strafrechtlich verurteilte Inhaftierte'
 #Z_16033_1
 'requests for the implementation of a dispute resolution procedure': 'Anträge auf Durchführung eines Streitbeilegungsverfahrens'
 #Z_16042_1
@@ -833,6 +831,7 @@ area2: Bereich
 'coverage of hpv containing vaccine of 15 years old girls (%)': 'HPV-Impfquote bei 15-jährigen Mädchen'
 'coverage of measles containing vaccine at school entrance (%)': 'Masern-Impfquote zum Schuleintritt'
 'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Pneumokokken-Impfquote zum Schuleintritt'
+'seats held by women in regional parliaments': 'Sitze in den Landesparlamenten, die Frauen inne haben'
 'rural access index': 'Index der ländlichen Anbindung'
 'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
 'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
