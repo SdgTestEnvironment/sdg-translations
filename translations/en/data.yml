@@ -36,6 +36,7 @@
 'as proportion of total gross value added': 'As proportion of total gross value added (%)'
 'ph-value': 'pH-value'
 'per real gdp (2010 = 100)': 'Per real GDP (2010 = 100)'
+'per real gdp (2015 = 100)': 'Per real GDP (2015 = 100)'
 'per 1 mn inhabitants': 'Per 1 million inhabitants'
 '%': 'Percentage'
 't per capita': 'Tonnes per capita'
@@ -644,7 +645,7 @@
 #Z_12051_1
 'recycling rate': 'Recycling rate'
 #Z_12051_2
-'recycled waste': 'Recycled waste'
+'recycled waste': 'Material recovery'
 #Z_12061_1
 'organisations with emas registration (number)': 'Organisations with EMAS registration'
 #Z_12071_1
