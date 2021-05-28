@@ -535,9 +535,9 @@
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
-'passenger transport': 'Passenger transport'
+'passenger transports': 'Passenger transports'
 #Z_09012_2
-'freight transport': 'Freight transport'
+'freight transports': 'Freight transports'
 #Z_09021_1
 'manufacturing gross value added': 'Manufacturing gross value added'
 #Z_09021_2
@@ -701,7 +701,7 @@
 #Z_15071_2
 'seizures by authorities concerning the protection of species (number)': 'Seizures by authorities concerning the protection of species'
 #Z_15091_1
-'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets'
+'number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets': 'Number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets'
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
@@ -841,6 +841,8 @@ area2: Area
 'coverage of measles containing vaccine at school entrance (%)': 'Coverage of measles containing vaccine at school entrance'
 'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Coverage of pneumococcal conjugate vaccine at school entrance'
 'seats held by women in regional parliaments': 'Seats held by women in regional parliaments'
+'passenger transport': 'Passenger transport'
+'freight transport': 'Freight transport'
 'rural access index': 'Rural Access Index'
 'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
 'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
