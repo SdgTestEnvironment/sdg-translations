@@ -29,6 +29,7 @@ global: "- Global"
 national: "- National"
 indicator_link_sdg: "Related global indicator:"
 indicator_link_dns: "Related national indicator:"
+indicator_link_dns_short: "National:"
 next_indicator: Next indicator
 prev_indicator: Previous indicator
 next_goal: Next goal
