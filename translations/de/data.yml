@@ -522,7 +522,7 @@ no unit: "Keine Einheit"
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Nicht-tödlich'
 #Z_08091_1
-'share of tourism industries to total value added (%)': 'Anteil des Tourismusbereichs an der gesamten Bruttowertschöpfung'
+'share of tourism industries to total value added (%)': 'Touristischer BWS-Anteil an gesamter inländischer Bruttowertschöpfung (BWS)'
 #Z_08101_1
 'a) branches of payment service providers (per 100 000 adults)': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2
@@ -533,6 +533,8 @@ no unit: "Keine Einheit"
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'Verpflichtungen zur Handelshilfe (ODA und OOF)'
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
+#Z_08121_1
+'existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy': 'Grad der nationalen Einhaltung der Arbeitsrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationaler Gesetzesgrundlagen, nach Geschlecht und Migrationsstatus'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
@@ -612,7 +614,9 @@ no unit: "Keine Einheit"
 #Z_11031_4
 'population growth rate': 'Bevölkerungsentwicklung'
 #Z_11032_1
-'cities with a legally required direct participation of civil society in urban planning and management (%)': 'Städte mit gesetzlich vorgeschriebener öffentlicher Beteiligung bei der Stadtplanung'
+'cities with a legally required direct participation of civil society in urban planning and management (%)': 'Anteil der Städte mit einer regulär und
+> demokratisch funktionierenden Struktur für die Direktbeteiligung der
+> Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
 'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Staatsausgaben für Umweltschutz (COFOG Abteilung 5)'
 #Z_11041_2

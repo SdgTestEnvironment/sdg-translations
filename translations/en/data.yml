@@ -521,7 +521,7 @@
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Non-fatal'
 #Z_08091_1
-'share of tourism industries to total value added (%)': 'Share of tourism industries to total value added'
+'share of tourism industries to total value added (%)': 'Tourism gross value added (GVA) as a proportion of total GVA'
 #Z_08101_1
 'a) branches of payment service providers (per 100 000 adults)': 'Branches of payment service providers'
 #Z_08101_2
@@ -532,6 +532,8 @@
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
+#Z_08121_1
+'existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy': 'Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
