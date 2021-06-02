@@ -704,7 +704,7 @@ no unit: "Keine Einheit"
 #Z_15071_2
 'seizures by authorities concerning the protection of species (number)': 'Aufgriffe aufgrund des Artenschutzes'
 #Z_15091_1
-'number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets': 'Anzahl der Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben, und die bei der Umsetzung dieser Zielvorgaben gemeldeten Fortschritte'
+'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Anzahl der Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben, und die bei der Umsetzung dieser Zielvorgaben gemeldeten Fortschritte'
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'Verpflichtungen (ODA) für Biodiversität'
 #Z_15101_2
@@ -837,17 +837,3 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
-'coverage of dtp containing vaccine at school entrance': 'DTP-Impfquote zum Schuleintritt'
-'coverage of hpv containing vaccine of 15 years old girls (%)': 'HPV-Impfquote bei 15-jährigen Mädchen'
-'coverage of measles containing vaccine at school entrance (%)': 'Masern-Impfquote zum Schuleintritt'
-'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Pneumokokken-Impfquote zum Schuleintritt'
-'seats held by women in regional parliaments': 'Sitze in den Landesparlamenten, die Frauen inne haben'
-'passenger transport': 'Personenverkehr'
-'freight transport': 'Güterverkehr'
-'rural access index': 'Index der ländlichen Anbindung'
-'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
-'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
-'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
-'population (16 to 74 years) using the internet in the last three months': 'Bevölkerung (16 bis 74 Jahre), die das Internet in den letzten drei Monaten genutzt hat'
-'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
-'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'

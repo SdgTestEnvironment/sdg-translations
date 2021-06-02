@@ -22,6 +22,7 @@
 'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
 'mn usd, constant prices (2018)': 'Million USD, constant prices (2018)'
 'mn usd, constant prices (2019)': 'Million USD, constant prices (2019)'
+no unit: "No Unit"
 'number': 'Number'
 'per 100 inhabitants': 'Per 100 inhabitants'
 'per 1 000 inhabitants': 'Per 1,000 inhabitants'
@@ -703,7 +704,7 @@
 #Z_15071_2
 'seizures by authorities concerning the protection of species (number)': 'Seizures by authorities concerning the protection of species'
 #Z_15091_1
-'number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets': 'Number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets'
+'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets'
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
@@ -838,18 +839,3 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'coverage of dtp containing vaccine at school entrance': 'Coverage of DTP containing vaccine at school entrance'
-'coverage of hpv containing vaccine of 15 years old girls (%)': 'Coverage of HPV containing vaccine of 15 years old girls'
-'coverage of measles containing vaccine at school entrance (%)': 'Coverage of measles containing vaccine at school entrance'
-'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Coverage of pneumococcal conjugate vaccine at school entrance'
-'seats held by women in regional parliaments': 'Seats held by women in regional parliaments'
-'passenger transport': 'Passenger transport'
-'freight transport': 'Freight transport'
-'rural access index': 'Rural Access Index'
-'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
-'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
-'25 to under 64 years': '25 to under 64 years'
-'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'At-risk-of-poverty or social exclusion'
-'extensive material deprivation (%)': 'Extensive material deprivation'
-'penetration rate mobile communication': 'Penetration rate mobile communication'
-'population (16 to 74 years) using the internet in the last three months': 'Population (16 to 74 years) using the internet in the last three months'
