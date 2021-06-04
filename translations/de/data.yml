@@ -825,6 +825,10 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_15041_1
+'key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
+#Z_15041_2
+'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
 
 #Zusatz
 total: Insgesamt
