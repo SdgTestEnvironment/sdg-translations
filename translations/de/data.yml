@@ -428,7 +428,7 @@ no unit: "Keine Einheit"
 #Z_04061_1
 'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Erwachsene Bevölkerung, die mindestens über Grundkompetenzen in a) Lesen und b) Rechnen verfügt'
 #Z_04071_1
-'integration of (i) global citizenship education and (ii) education for sustainable development in the education system': 'Integration von (i) politischer Bildung im globalen Maßstab und (ii) Bildung für nachhaltige Entwicklung im Bildungswesen'
+'integration of (i) global citizenship education and (ii) education for sustainable development in the education system': 'Integration von "Global Citizenship Education" und "Bildung für nachhaltige Entwicklung" im Bildungswesen'
 #Z_04081_1
 'equipment of schools': 'Anteil der Schulen mit Basisversorgung'
 #Z_04091_1
@@ -695,6 +695,10 @@ no unit: "Keine Einheit"
 'forest area net change rate': 'Jährliche Veränderung der Waldfläche'
 #Z_15021_4
 'forest area under an independently verified forest management certification scheme': 'Waldflächen mit einem unabhängig geprüften Wald-Management-System'
+#Z_15041_1
+'key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
+#Z_15041_2
+'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
 #Z_15042_1
 'mountain green cover index': '"Mountain Green Cover" Index'
 #Z_15051_1
@@ -825,10 +829,6 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_15041_1
-'key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
-#Z_15041_2
-'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
 
 #Zusatz
 total: Insgesamt
