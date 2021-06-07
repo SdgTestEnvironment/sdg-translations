@@ -333,9 +333,9 @@ no unit: "Keine Einheit"
 'organically farmed agricultural land (data from destatis)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
 #Z_02041_2
 'organically farmed agricultural land (data from bmel)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
-#Z_02051_1
-'animal genetic resources (number)': 'Tiergenetische Ressourcen'
 #Z_02051_2
+'animal genetic resources (number)': 'Tiergenetische Ressourcen'
+#Z_02051_1
 'plant genetic resources (number)': 'Pflanzengenetische Ressourcen'
 #Z_02052_1
 'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
@@ -414,7 +414,7 @@ no unit: "Keine Einheit"
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
 #Z_03132_1
-'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Anteil von Infektionen des Blutkreislaufs durch ausgewählte antimikrobiell-resistente Organismen'
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Prozentanteil der Blutvergiftungen, die von bestimmten gegen antimikrobielle Wirkstoffe resistenten Organismen verursacht werden'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
 #Z_04022_1
@@ -533,8 +533,6 @@ no unit: "Keine Einheit"
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'Verpflichtungen zur Handelshilfe (ODA und OOF)'
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
-#Z_08121_1
-'existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy': 'Grad der nationalen Einhaltung der Arbeitsrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationaler Gesetzesgrundlagen, nach Geschlecht und Migrationsstatus'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
@@ -655,10 +653,6 @@ no unit: "Keine Einheit"
 'sustainability programme': 'Nachhaltigkeitsstrategie'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
-#Z_13021_1
-'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'
-#Z_13021_2
-'climate action plan 2050': 'Klimaschutzplan 2050'
 #Z_13022_1
 'greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
@@ -841,3 +835,5 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'
+'climate action plan 2050': 'Klimaschutzplan 2050'

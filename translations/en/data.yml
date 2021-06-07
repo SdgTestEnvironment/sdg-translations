@@ -333,9 +333,9 @@ no unit: "No Unit"
 'organically farmed agricultural land (data from destatis)': 'Organically farmed agricultural land (data from Destatis)'
 #Z_02041_2
 'organically farmed agricultural land (data from bmel)': 'Organically farmed agricultural land (data from BMEL)'
-#Z_02051_1
-'animal genetic resources (number)': 'Animal genetic resources'
 #Z_02051_2
+'animal genetic resources (number)': 'Animal genetic resources'
+#Z_02051_1
 'plant genetic resources (number)': 'Plant genetic resources'
 #Z_02052_1
 'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
@@ -533,8 +533,6 @@ no unit: "No Unit"
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
-#Z_08121_1
-'existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy': 'Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
@@ -655,10 +653,6 @@ no unit: "No Unit"
 'sustainability programme': 'Sustainability Programme'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
-#Z_13021_1
-'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
-#Z_13021_2
-'climate action plan 2050': 'Climate Action Plan 2050'
 #Z_13022_1
 'greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
@@ -843,3 +837,5 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
+'climate action plan 2050': 'Climate Action Plan 2050'
