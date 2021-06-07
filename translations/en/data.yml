@@ -333,10 +333,10 @@ no unit: "No Unit"
 'organically farmed agricultural land (data from destatis)': 'Organically farmed agricultural land (data from Destatis)'
 #Z_02041_2
 'organically farmed agricultural land (data from bmel)': 'Organically farmed agricultural land (data from BMEL)'
-#Z_02051_2
-'animal genetic resources (number)': 'Animal genetic resources'
 #Z_02051_1
 'plant genetic resources (number)': 'Plant genetic resources'
+#Z_02051_2
+'animal genetic resources (number)': 'Animal genetic resources'
 #Z_02052_1
 'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
 #Z_02052_2
@@ -614,9 +614,9 @@ no unit: "No Unit"
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management (%)': 'Cities with a legally required direct participation of civil society in urban planning and management'
 #Z_11041_1
-'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Government expenditure on environmental protection (COFOG division 5)'
+'goverment expenditure on protection of biodiversity and landscape (COFOG division 5.4) (bn eur)': 'Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)'
 #Z_11041_2
-'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Government expenditure on recreation, culture and religion (COFOG division 8)'
+'goverment expenditure on cultural services (COFOG division 8.2) (bn eur)': 'Government expenditure on cultural services (COFOG division 8.2)'
 #Z_11061_1
 'municipal solid waste regularly collected and treated': 'Municipal solid waste regularly collected and treated'
 #Z_11061_2
@@ -837,5 +837,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Government expenditure on environmental protection (COFOG division 5)'
+'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Government expenditure on recreation, culture and religion (COFOG division 8)'
 'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
 'climate action plan 2050': 'Climate Action Plan 2050'

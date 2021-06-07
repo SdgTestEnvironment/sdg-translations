@@ -333,10 +333,10 @@ no unit: "Keine Einheit"
 'organically farmed agricultural land (data from destatis)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
 #Z_02041_2
 'organically farmed agricultural land (data from bmel)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
-#Z_02051_2
-'animal genetic resources (number)': 'Tiergenetische Ressourcen'
 #Z_02051_1
 'plant genetic resources (number)': 'Pflanzengenetische Ressourcen'
+#Z_02051_2
+'animal genetic resources (number)': 'Tiergenetische Ressourcen'
 #Z_02052_1
 'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
 #Z_02052_2
@@ -614,9 +614,9 @@ no unit: "Keine Einheit"
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management (%)': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
-'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Staatsausgaben für Umweltschutz (COFOG Abteilung 5)'
+'goverment expenditure on protection of biodiversity and landscape (COFOG division 5.4) (bn eur)': 'Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)'
 #Z_11041_2
-'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Staatsausgaben für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Abteilung 8)'
+'goverment expenditure on cultural services (COFOG division 8.2) (bn eur)': 'Staatsausgaben für Kultur (COFOG Abteilung 8.2)'
 #Z_11061_1
 'municipal solid waste regularly collected and treated': 'Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden'
 #Z_11061_2
@@ -835,5 +835,7 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Staatsausgaben für Umweltschutz (COFOG Abteilung 5)'
+'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Staatsausgaben für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Abteilung 8)'
 'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'
 'climate action plan 2050': 'Klimaschutzplan 2050'
