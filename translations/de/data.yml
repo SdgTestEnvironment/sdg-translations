@@ -280,7 +280,7 @@ no unit: "Keine Einheit"
 'officially supported export credits (net disbursements)': 'Öffentlich unterstützte Exportkredite (Nettoauszahlungen)'
 'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
 'private sector flows at market terms (net disbursements)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)'
-'private concessional flows (net disbursements)': 'Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen)'
+'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoauszahlungen)'
 'total waste': 'Abfallaufkommen insgesamt'
 'municipal waste': 'Siedlungsabfälle insgesamt'
 'river water bodies': 'Fließgewässer'
@@ -484,9 +484,9 @@ no unit: "Keine Einheit"
 #Z_06061_3
 'sub-indicator 4: water bodies with good quality': 'Subindikator 4: Gewässer mit guter Wasserqualität'
 #Z_06071_1
-'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für Wasser und Sanitär'
+'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben für Wasser und Sanitär'
 #Z_06071_2
-'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
+'ODA (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
 #Z_07011_1
 'population with access to electricity': 'Bevölkerung mit Zugang zu Elektrizität'
 #Z_07011_2
@@ -530,9 +530,9 @@ no unit: "Keine Einheit"
 #Z_08102_1
 'accounts at payment service providers (1 000)': 'Konten bei Zahlungsverkehrsdienstleistern'
 #Z_08111_1
-'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'Verpflichtungen zur Handelshilfe (ODA und OOF)'
+'aid for trade commitments (oda and oof)': 'Verpflichtungen für Handelshilfe (ODA und OOF)'
 #Z_08111_2
-'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
+'aid for trade gross disbursements (oda and oof)': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
@@ -558,9 +558,9 @@ no unit: "Keine Einheit"
 #Z_09052_1
 'researchers in full-time equivalents (per 1 mn inhabitants)': 'Wissenschaftler in Vollzeitäquivalenten'
 #Z_09061_1
-'oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur'
+'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur'
 #Z_09061_2
-'oda (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für Infrastruktur'
+'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben für Infrastruktur'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
@@ -614,9 +614,9 @@ no unit: "Keine Einheit"
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management (%)': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
-'goverment expenditure on protection of biodiversity and landscape (COFOG division 5.4) (bn eur)': 'Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)'
+'goverment expenditure on protection of biodiversity and landscape (cofog division 5.4) (bn eur)': 'Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)'
 #Z_11041_2
-'goverment expenditure on cultural services (COFOG division 8.2) (bn eur)': 'Staatsausgaben für Kultur (COFOG Abteilung 8.2)'
+'goverment expenditure on cultural services (cofog division 8.2) (bn eur)': 'Staatsausgaben für Kultur (COFOG Abteilung 8.2)'
 #Z_11061_1
 'municipal solid waste regularly collected and treated': 'Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden'
 #Z_11061_2
@@ -700,7 +700,7 @@ no unit: "Keine Einheit"
 #Z_15071_1
 'documents issued for the import and export of protected species (number)': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
-'seizures by authorities concerning the protection of species (number)': 'Aufgriffe aufgrund des Artenschutzes'
+'seizures by authorities concerning the protection of species (number)': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
 #Z_15091_1
 'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Anzahl der Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben, und die bei der Umsetzung dieser Zielvorgaben gemeldeten Fortschritte'
 #Z_15101_1
@@ -835,6 +835,10 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für Wasser und Sanitär'
+'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
+'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'Verpflichtungen zur Handelshilfe (ODA und OOF)'
+'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
 'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Staatsausgaben für Umweltschutz (COFOG Abteilung 5)'
 'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Staatsausgaben für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Abteilung 8)'
 'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'

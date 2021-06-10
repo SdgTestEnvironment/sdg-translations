@@ -279,8 +279,8 @@ no unit: "No Unit"
 'oof (net disbursements)': 'OOF (net disbursements)'
 'officially supported export credits (net disbursements)': 'Officially supported export credits (net disbursements)'
 'oda (net disbursements)': 'ODA (net disbursements)'
-'private sector flows at market terms (net disbursements)': 'Private Sector Flows at market terms (net disbursement)'
-'private concessional flows (net disbursements)': 'Private Concessional Flows at market terms (net disbursements)'
+'private sector flows at market terms (net disbursements)': 'Private sector flows at market terms (net disbursement)'
+'private concessional flows (net disbursements)': 'Private concessional flows (net disbursements)'
 'total waste': 'Total waste'
 'municipal waste': 'Municipal waste'
 'river water bodies': 'River water bodies'
@@ -484,9 +484,9 @@ no unit: "No Unit"
 #Z_06061_3
 'sub-indicator 4: water bodies with good quality': 'Sub-indicator 4: Water bodies with good quality'
 #Z_06071_1
-'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'ODA (gross disbursements) for water and sanitation'
+'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
 #Z_06071_2
-'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'ODA (gross disbursements) for other related water and sanitation purposes'
+'ODA (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
 #Z_07011_1
 'population with access to electricity': 'Population with access to electricity'
 #Z_07011_2
@@ -530,9 +530,9 @@ no unit: "No Unit"
 #Z_08102_1
 'accounts at payment service providers (1 000)': 'Accounts at payment service providers'
 #Z_08111_1
-'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
+'aid for trade commitments (oda and oof)': 'ODA and OOF (commitments) for aid for trade'
 #Z_08111_2
-'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
+'aid for trade gross disbursements (oda and oof)': 'ODA and OOF (gross disbursement) for aid for trade'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
@@ -558,9 +558,9 @@ no unit: "No Unit"
 #Z_09052_1
 'researchers in full-time equivalents (per 1 mn inhabitants)': 'Researchers in full-time equivalents'
 #Z_09061_1
-'oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to infrastructure'
+'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
 #Z_09061_2
-'oda (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'ODA (gross disbursements) to infrastructure'
+'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
@@ -614,9 +614,9 @@ no unit: "No Unit"
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management (%)': 'Cities with a legally required direct participation of civil society in urban planning and management'
 #Z_11041_1
-'goverment expenditure on protection of biodiversity and landscape (COFOG division 5.4) (bn eur)': 'Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)'
+'goverment expenditure on protection of biodiversity and landscape (cofog division 5.4) (bn eur)': 'Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)'
 #Z_11041_2
-'goverment expenditure on cultural services (COFOG division 8.2) (bn eur)': 'Government expenditure on cultural services (COFOG division 8.2)'
+'goverment expenditure on cultural services (cofog division 8.2) (bn eur)': 'Government expenditure on cultural services (COFOG division 8.2)'
 #Z_11061_1
 'municipal solid waste regularly collected and treated': 'Municipal solid waste regularly collected and treated'
 #Z_11061_2
@@ -837,6 +837,10 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'ODA (gross disbursements) for water and sanitation'
+'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'ODA (gross disbursements) for other related water and sanitation purposes'
+'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
+'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
 'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Government expenditure on environmental protection (COFOG division 5)'
 'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Government expenditure on recreation, culture and religion (COFOG division 8)'
 'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
