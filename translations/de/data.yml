@@ -29,10 +29,10 @@ no unit: "Keine Einheit"
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live birth': 'Je 1 000 Lebendgeborene'
 'per 10 000 inhabitants': 'Je 10 000 Einwohner'
-'per 10 000 adults': 'Je 100 000 Erwachsene'
+'per 100 000 adults': 'Je 100 000 Erwachsene'
 'per 100 000 inhabitants': 'Je 100 000 Einwohner'
 'per 100 000 live birth': 'Je 100 000 Lebendgeborene'
-'per 100 000 in employment': 'Je 100 000 Mitarbeiter'
+'per 100 000 in employment': 'Je 100 000 Erwerbstätige'
 'relative to gdp': 'Verhältnis zum BIP (%)'
 'as proportion of total gross value added': 'Verhältnis zur Bruttowertschöpfung insgesamt (%)'
 'ph-value': 'pH-Wert'
@@ -486,7 +486,7 @@ no unit: "Keine Einheit"
 #Z_06071_1
 'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben für Wasser und Sanitär'
 #Z_06071_2
-'ODA (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
+'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
 #Z_07011_1
 'population with access to electricity': 'Bevölkerung mit Zugang zu Elektrizität'
 #Z_07011_2
@@ -522,7 +522,7 @@ no unit: "Keine Einheit"
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Nicht-tödlich'
 #Z_08091_1
-'share of tourism industries to total value added (%)': 'Touristischer BWS-Anteil an gesamter inländischer Bruttowertschöpfung (BWS)'
+'share of tourism industries to total value added (%)': 'Bruttowertschöpfung der Tourismuswirtschaft'
 #Z_08101_1
 'a) branches of payment service providers (per 100 000 adults)': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2

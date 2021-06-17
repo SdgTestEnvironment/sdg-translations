@@ -29,10 +29,10 @@ no unit: "No Unit"
 'per 1 000 women of same age': 'Per 1,000 women of same age'
 'per 1 000 live birth': 'Per 1,000 live birth'
 'per 10 000 inhabitants': 'Per 10,000 inhabitants'
-'per 10 000 adults': 'Per 10,000 adults'
+'per 100 000 adults': 'Per 100,000 adults'
 'per 100 000 inhabitants': 'Per 100,000 inhabitants'
 'per 100 000 live birth': 'Per 100,000 live birth'
-'per 100 000 in employment': 'Per 100,000 employees'
+'per 100 000 in employment': 'Per 100,000 persons in employment'
 'relative to gdp': 'Relative to GDP (%)'
 'as proportion of total gross value added': 'As proportion of total gross value added (%)'
 'ph-value': 'pH-value'
@@ -400,13 +400,13 @@ no unit: "No Unit"
 #Z_03101_2
 'current tobacco use among persons aged 15 years and older (%)': 'Current tobacco use among persons aged 15 years and older'
 #Z_03111_1
-'dtp vaccination rate at school entrance': 'DTP vaccination rate at school entrance'
+'dtp vaccination rate at school entrance': 'DTP vaccination coverage at school entry'
 #Z_03111_2
-'hpv vaccination rate among 15 years old girls': 'HPV vaccination rate among 15 years old girls'
+'hpv vaccination rate among 15 years old girls': 'HPV vaccination coverage among 15 year-old girls'
 #Z_03111_3
-'measles vaccination rate at sschool entrance': 'Measles vaccination rate at sschool entrance'
+'measles vaccination rate at sschool entrance': 'Measles vaccination coverage at school entry'
 #Z_03111_4
-'pneumococcal vaccination rate at school entrance': 'Pneumococcal vaccination rate at school entrance'
+'pneumococcal vaccination rate at school entrance': 'Pneumococcal vaccination coverage at school entry'
 #Z_03112_1
 'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
@@ -486,7 +486,7 @@ no unit: "No Unit"
 #Z_06071_1
 'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
 #Z_06071_2
-'ODA (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
+'oda (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
 #Z_07011_1
 'population with access to electricity': 'Population with access to electricity'
 #Z_07011_2
@@ -522,7 +522,7 @@ no unit: "No Unit"
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Non-fatal'
 #Z_08091_1
-'share of tourism industries to total value added (%)': 'Tourism gross value added (GVA) as a proportion of total GVA'
+'share of tourism industries to total value added (%)': 'Gross value added of the tourism industry'
 #Z_08101_1
 'a) branches of payment service providers (per 100 000 adults)': 'Branches of payment service providers'
 #Z_08101_2
@@ -837,6 +837,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'per 10 000 adults': 'Per 10,000 adults'
 'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'ODA (gross disbursements) for water and sanitation'
 'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'ODA (gross disbursements) for other related water and sanitation purposes'
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
