@@ -318,7 +318,7 @@ no unit: "No Unit"
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection'
 #Z_02012_1
-'average energy supply': 'Average energy supply'
+'Material deprivation: The household cannot afford to eat a full meal every other day': 'Material deprivation: The household cannot afford to eat a full meal every other day'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Stunting among children'
 #Z_02022_1
@@ -391,6 +391,12 @@ no unit: "No Unit"
 'giving birth': 'Births of young women'
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
+#Z_03091_1
+'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)'
+#Z_03091_2
+'long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)': 'Long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)'
+#Z_03091_3
+'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)'
 #Z_03092_1
 'mortality due to wash': 'Mortality due to contact to contaminated water, inadequate sanitation and lack of hygiene'
 #Z_03093_1
@@ -838,6 +844,7 @@ area2: Area
 
 #Old stuff that may still be needed
 'per 10 000 adults': 'Per 10,000 adults'
+'average energy supply': 'Average energy supply'
 'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'ODA (gross disbursements) for water and sanitation'
 'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'ODA (gross disbursements) for other related water and sanitation purposes'
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'

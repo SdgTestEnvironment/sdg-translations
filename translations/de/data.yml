@@ -318,7 +318,7 @@ no unit: "Keine Einheit"
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung'
 #Z_02012_1
-'average energy supply': 'Mittlere Energiezufuhr'
+'Material deprivation: The household cannot afford to eat a full meal every other day': 'Materielle Entbehrung: Der Haushalt kann es sich nicht leisten jeden zweiten Tag eine vollwertige Mahlzeit einzunehmen'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Kleinwuchs bei Kindern'
 #Z_02022_1
@@ -391,6 +391,12 @@ no unit: "Keine Einheit"
 'giving birth': 'Geburten junger Frauen'
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
+#Z_03091_1
+'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre)'
+#Z_03091_2
+'long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)': 'Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre)'
+#Z_03091_3
+'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre)'
 #Z_03092_1
 'mortality due to wash': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
@@ -835,6 +841,8 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'per 10 000 adults': 'Je 100 000 Erwachsene'
+'average energy supply': 'Mittlere Energiezufuhr'
 'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für Wasser und Sanitär'
 'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'Verpflichtungen zur Handelshilfe (ODA und OOF)'
