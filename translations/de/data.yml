@@ -27,11 +27,11 @@ no unit: "Keine Einheit"
 'per 100 inhabitants': 'Je 100 Einwohner'
 'per 1 000 inhabitants': 'Je 1 000 Einwohner'
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
-'per 1 000 live birth': 'Je 1 000 Lebendgeborene'
+'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 'per 10 000 inhabitants': 'Je 10 000 Einwohner'
 'per 100 000 adults': 'Je 100 000 Erwachsene'
 'per 100 000 inhabitants': 'Je 100 000 Einwohner'
-'per 100 000 live birth': 'Je 100 000 Lebendgeborene'
+'per 100 000 live births': 'Je 100 000 Lebendgeborene'
 'per 100 000 in employment': 'Je 100 000 Erwerbstätige'
 'relative to gdp': 'Verhältnis zum BIP (%)'
 'as proportion of total gross value added': 'Verhältnis zur Bruttowertschöpfung insgesamt (%)'
@@ -42,6 +42,7 @@ no unit: "Keine Einheit"
 '%': 'Prozent'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
+'kj/d': 'Kilojoule pro Tag'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -53,9 +54,11 @@ no unit: "Keine Einheit"
 'conversion': 'Umrechnung'
 'declination': 'Ausgang des Antragsverfahrens'
 'disability': 'Behinderungsstatus'
+'domain': 'Bereich'
 'economic sector': 'Wirtschaftszweig'
 'educational level': 'Bildungsniveau'
 'education level': 'Ausbildungsgrad'
+'ownership': 'Eigentumsverhältnis'
 'facilities': 'Ausstattung'
 'region': 'Region'
 'frequency': 'Häufigkeit'
@@ -69,6 +72,7 @@ no unit: "Keine Einheit"
 'profession': 'Beruf'
 'organisational form': 'Organisationsform'
 'antimicrobial-resistant organisms': 'Antimikrobiell-resistente Organismen'
+'percentiles': 'Perzentile'
 'product type': 'Produkttyp'
 'level of proficiency': 'Leistungsniveau'
 'reporting type': 'Berichtstyp'
@@ -163,6 +167,13 @@ no unit: "Keine Einheit"
 'rejected applications': 'Abgelehnte Anträge'
 'persons with disability': 'Personen mit Behinderung'
 'mobility impaired people': 'Menschen mit Mobilitätseinschränkung'
+'all domains': 'Alle Bereiche'
+'domain 1. migrant rights': 'Bereich 1. Rechte von Migranten'
+'domain 2. whole-of-government/evidence-based policies': 'Bereich 2: Gesamtheitliche/ Evidenzbasierte Politik'
+'domain 3. cooperation and partnerships': 'Bereich 3. Zusammenarbeit und Partnerschaften'
+'domain 4. socioeconomic well-being': 'Bereich 4: Sozioökonomisches Wohlbefinden'
+'domain 5. mobility dimensions of crises': 'Bereich 5. Mobilitätsdimensionen von Krisen'
+'domain 6. safe, orderly and regular migration': 'Bereich 6. Sichere, geordnete und reguläre Migration'
 'c) services (nace rev 2, sections e, g to t)': 'Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)'
 'forestry': 'Forstwirtschaft'
 'a) agriculture, forestry and fishing (nace rev 2, section a)': 'Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)'
@@ -170,6 +181,7 @@ no unit: "Keine Einheit"
 'b) mimec (nace rev 2, sections b, c, d, f)': 'MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)'
 'b) at the end of lower primary education': 'b) Am Ende der Grundschule'
 'c) at the end of lower secondary education': 'c) Am Ende der Sekundarstufe I'
+'property': 'Eigentum'
 'a) schools with access to electricity': 'a) Schulen mit Zugang zu Elektrizität'
 'e) schools with access to basic drinking water': 'e) Schulen mit Zugang zu Trinkwasser'
 'f) schools with access to single-sex basic sanitation facilities': 'f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen'
@@ -210,6 +222,14 @@ no unit: "Keine Einheit"
 'private': 'Privat'
 'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli mit Resistenz gegenüber 3. Generations-Cephalosporinen (z. B. ESBL- E. coli)'
 'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistente Staphylococcus aureus (MRSA)'
+'p10': 'P10'
+'p25': 'P25'
+'p5': 'P5'
+'p50': 'P50'
+'p75': 'P75'
+'p90': 'P90'
+'p95': 'P95'
+'leasehold': 'Pacht'
 'minimum requirement level i': 'Mindestniveau Stufe I'
 'minimum requirement level ii': 'Mindestniveau Stufe II'
 'b) at risk': 'Gefährdet'
@@ -317,8 +337,10 @@ no unit: "Keine Einheit"
 'b) government expenditure on education (cofog division 9) (%)': 'Staatsausgaben für Bildung'
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung'
+#Z_02011_1
+'energy supply': 'Energiezufuhr'
 #Z_02012_1
-'Material deprivation: The household cannot afford to eat a full meal every other day': 'Materielle Entbehrung: Der Haushalt kann es sich nicht leisten jeden zweiten Tag eine vollwertige Mahlzeit einzunehmen'
+'material deprivation for food insecurity': 'Materielle Deprivation bezogen auf Ernährungsunsicherheit'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Kleinwuchs bei Kindern'
 #Z_02022_1
@@ -382,9 +404,9 @@ no unit: "Keine Einheit"
 #Z_03051_2
 'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren'
 #Z_03052_1
-'alcohol consumption (conversion by un factors)': 'Alkoholkonsum (Umrechnung mittels UN-Faktoren)'
+'alcohol consumption (conversion by un factors)': 'Alkoholkonsum (nach UN-Faktoren)'
 #Z_03052_2
-'alcohol consumption (conversion by national factors)': 'Alkoholkonsum (Umrechnung mittels nationaler Faktoren)'
+'alcohol consumption (conversion by national factors)': 'Alkoholkonsum (nach nationalen Faktoren)'
 #Z_03061_1
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
@@ -457,6 +479,12 @@ no unit: "Keine Einheit"
 'seats held by women in national parliament': 'Frauenanteil im Parlament'
 #Z_05052_1
 'women in managerial positions (%)': 'Frauen in Führungspositionen'
+#Z_05071_1
+'owned and leased agricultural land': 'Eigene und gepachtete landwirtschaftlich genutzte Flächen'
+#Z_05071_2
+'female owners of agricultural holdings with the legal form of a sole proprietorship': 'Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen'
+#Z_05071_3
+'agricultural holdings with the legal of a form sole proprietorship': 'Betriebe der Rechtsform Einzelunternehmen'
 #Z_05081_1
 'mobile penetration rate': 'Penetrationsrate Mobilfunk'
 #Z_05081_2
@@ -527,6 +555,8 @@ no unit: "Keine Einheit"
 'fatal occupational accidents (per 100 000 employees)': 'Tödlich'
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Nicht-tödlich'
+#Z_08082_1
+'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Grad der nationalen Einhaltung der Arbeitsrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationaler Gesetzesgrundlagen, nach Geschlecht und Migrationsstatus'
 #Z_08091_1
 'share of tourism industries to total value added (%)': 'Bruttowertschöpfung der Tourismuswirtschaft'
 #Z_08101_1
@@ -593,6 +623,12 @@ no unit: "Keine Einheit"
 'liquid assets to short-term liabilities (%)': 'Verbindlichkeiten'
 #Z_10051_7
 'net open position in foreign exchange to capital (%)': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
+#Z_10072_1
+'policy domains and sub-categories of sdg indicators 10.7.2 for germany': 'Politikbereiche und Unterkategorien des SDG-Indikators 10.7.2 für Deutschland'
+#Z_10073_1
+'total of deaths recorded in germany': 'Gesamtzahl der erfassten Todesfälle in Deutschland'
+#Z_10074_1
+'proportion of people seeking protection as a percentage of the total population': 'Anteil der Schutzsuchende an der gesamten Bevölkerung'
 #Z_10091_1
 'net development expenditures': 'Nettoentwicklungsausgaben'
 #Z_11011_1
@@ -632,9 +668,9 @@ no unit: "Keine Einheit"
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 #Z_11072_1
-'physical harassment': 'Körperliche Belästigung'
+'physical harassment': 'Opfer von körperlicher Belästigung'
 #Z_11072_2
-'sexual harassment': 'Sexuelle Belästigung'
+'sexual harassment': 'Opfer von sexueller Belästigung'
 #Z_12041_1
 'compliance with the basel convention (%)': 'Basler Übereinkommen'
 #Z_12041_2
@@ -703,6 +739,16 @@ no unit: "Keine Einheit"
 'mountain green cover index': '"Mountain Green Cover" Index'
 #Z_15051_1
 'red list index (%)': '"Rote Liste" Index'
+#Z_15061_1
+'contractingparties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
+#Z_15061_2
+'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokoll'
+#Z_15061_3
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
+#Z_15061_4
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
+#Z_15061_5
+'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungsvereinbarungen'
 #Z_15071_1
 'documents issued for the import and export of protected species (number)': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
@@ -841,7 +887,9 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'per 1 000 live birth': 'Je 1 000 Lebendgeborene'
 'per 10 000 adults': 'Je 100 000 Erwachsene'
+'per 100 000 live birth': 'Je 100 000 Lebendgeborene'
 'average energy supply': 'Mittlere Energiezufuhr'
 'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für Wasser und Sanitär'
 'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
