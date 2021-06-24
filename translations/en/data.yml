@@ -9,6 +9,7 @@
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
 'kg per capita': 'Kilogram per capita'
+'kj/d': 'Kilojoule per day'
 'litres of pure alcohol per capita': 'Litres of pure alcohol per capita'
 'micrograms per qubic meters': 'Micrograms per cubic meters'
 'mj/d': 'Megajoule per day'
@@ -42,7 +43,6 @@ no unit: "No Unit"
 '%': 'Percentage'
 't per capita': 'Tonnes per capita'
 '1 000 t': '1,000 tonnes'
-'kj/d': 'Kilojoule per day'
 
 #Categories
 'activities': 'Activities'

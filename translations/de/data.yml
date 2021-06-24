@@ -9,6 +9,7 @@
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
 'kg per capita': 'Kilogramm pro Kopf'
+'kj/d': 'Kilojoule pro Tag'
 'litres of pure alcohol per capita': 'Liter puren Alkohols pro Kopf'
 'micrograms per qubic meters': 'Mikrogramm pro Kubikmeter'
 'mj/d': 'Megajoule pro Tag'
@@ -42,7 +43,6 @@ no unit: "Keine Einheit"
 '%': 'Prozent'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
-'kj/d': 'Kilojoule pro Tag'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -628,7 +628,7 @@ no unit: "Keine Einheit"
 #Z_10073_1
 'total of deaths recorded in germany': 'Gesamtzahl der erfassten Todesfälle in Deutschland'
 #Z_10074_1
-'proportion of people seeking protection as a percentage of the total population': 'Anteil der Schutzsuchende an der gesamten Bevölkerung'
+'proportion of people seeking protection as a percentage of the total population': 'Anteil der Schutzsuchenden an der gesamten Bevölkerung'
 #Z_10091_1
 'net development expenditures': 'Nettoentwicklungsausgaben'
 #Z_11011_1
