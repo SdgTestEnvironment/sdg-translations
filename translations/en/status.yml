@@ -1,5 +1,5 @@
 status_blurb: 'The reporting status provides an overview of how many SDG indicators are reported on this platform.<br>
-  If information is available for an indicator, it is marked as <span class="status complete"> Availabler </span>. For other indicators, a suitable data source is still being sought; these
+  If information is available for an indicator, it is marked as <span class="status complete"> Available </span>. For other indicators, a suitable data source is still being sought; these
   can be identified by the <span class="status notstarted"> Not available </span>  mark. If the time series for an indicator are currently being prepared for presentation on this platform, these indicators are
   marked <span class="status inprogress"> In progress </span>.<br>
   Time series for Germany are not available for all of the globally agreed indicators. There may be various reasons for this: Certain internationally relevant indicators
