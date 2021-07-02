@@ -420,7 +420,7 @@ no unit: "No Unit"
 #Z_03091_3
 'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)'
 #Z_03092_1
-'mortality due to wash': 'Mortality due to contact to contaminated water, inadequate sanitation and lack of hygiene'
+'mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
 'mortality rate due to unintentional poisoning': 'Mortality due to unintentional poisoning'
 #Z_03101_1
@@ -893,6 +893,7 @@ area2: Area
 'per 10 000 adults': 'Per 10,000 adults'
 'per 100 000 live birth': 'Per 100,000 live birth'
 'average energy supply': 'Average energy supply'
+'mortality due to wash': 'Mortality due to contact to contaminated water, inadequate sanitation and lack of hygiene'
 'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'ODA (gross disbursements) for water and sanitation'
 'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'ODA (gross disbursements) for other related water and sanitation purposes'
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
