@@ -88,7 +88,7 @@ no unit: "No Unit"
 'subject': 'Subject'
 'substance': 'Substance'
 'technology': 'Technology'
-'technological intensity': 'Technological intensity'
+'technology sectors': 'Technology sectors'
 'mode of transport': 'Mode of transport'
 'type of disease': 'Type of disease'
 'form of abuse': 'Form of abuse'
@@ -325,8 +325,6 @@ no unit: "No Unit"
 'unemployed persons with unemployment benefits (%)': 'Unemployed persons with unemployment benefits'
 #Z_01031_2
 'population covered by health insurance (%)': 'Population covered by health insurance'
-#Z_01053_1
-'strategy for adaptation to climate change': 'Strategy for Adaptation to Climate Change'
 #Z_01061_1
 'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
 #Z_01061_2
@@ -577,10 +575,6 @@ no unit: "No Unit"
 'freight transports': 'Freight transports'
 #Z_09021_1
 'manufacturing gross value added': 'Manufacturing gross value added'
-#Z_09021_2
-'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
-#Z_09021_3
-'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
 #Z_09022_1
 'manufacturing persons employed (%)': 'Manufacturing persons employed'
 #Z_09031_1
@@ -598,7 +592,7 @@ no unit: "No Unit"
 #Z_09061_2
 'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 #Z_09071_1
-'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
+'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
 'households covered by 3g or lte': 'Households covered by 3G or LTE'
 #Z_10011_1
@@ -889,6 +883,11 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'technological intensity': 'Technological intensity'
+'strategy for adaptation to climate change': 'Strategy for Adaptation to Climate Change'
+'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
+'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
+'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 'per 1 000 live birth': 'Per 1,000 live birth'
 'per 10 000 adults': 'Per 10,000 adults'
 'per 100 000 live birth': 'Per 100,000 live birth'
