@@ -88,7 +88,7 @@ no unit: "Keine Einheit"
 'subject': 'Schulfach'
 'substance': 'Substanz'
 'technology': 'Technologie'
-'technology sectors': 'Technologiesectoren'
+'technology sectors': 'Technologiesektoren'
 'mode of transport': 'Verkehrsträger'
 'type of disease': 'Art der Erkrankung'
 'form of abuse': 'Form der Misshandlung'
@@ -296,11 +296,11 @@ no unit: "Keine Einheit"
 'online accounts': 'Online-Konten'
 'exploitation of labour': 'Ausbeutung der Arbeitskraft'
 'sexual exploitation': 'Sexuelle Ausbeutung'
-'oof (net disbursements)': 'Andere öffentliche Nettoleistungen (OOF)'
-'officially supported export credits (net disbursements)': 'Öffentlich unterstützte Exportkredite (Nettoauszahlungen)'
+'oof (net disbursements)': 'Sonstige öffentliche Nettoausgaben (OOF)'
+'officially supported export credits (net disbursements)': 'Öffentlich unterstützte Exportkredite (Nettoausgaben)'
 'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
-'private sector flows at market terms (net disbursements)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)'
-'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoauszahlungen)'
+'private sector flows at market terms (net disbursements)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)'
+'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)'
 'total waste': 'Abfallaufkommen insgesamt'
 'municipal waste': 'Siedlungsabfälle insgesamt'
 'river water bodies': 'Fließgewässer'
@@ -326,9 +326,9 @@ no unit: "Keine Einheit"
 #Z_01031_2
 'population covered by health insurance (%)': 'Bevölkerung mit Krankenversicherungsschutz'
 #Z_01061_1
-'oda (gross disbursements) for poverty reduction': 'Bruttozahlungen (ODA) zur Minderung der Armut'
+'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
 #Z_01061_2
-'oda (commitments) for poverty reduction': 'Verpflichtungen (ODA) zur Minderung der Armut'
+'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
 #Z_01062_1
 'a) government expenditure on health (cofog division 7) (%)': 'Staatsausgaben für Gesundheit'
 #Z_01062_2
@@ -338,7 +338,7 @@ no unit: "Keine Einheit"
 #Z_02011_1
 'energy supply': 'Energiezufuhr'
 #Z_02012_1
-'material deprivation for food insecurity': 'Materielle Deprivation bezogen auf Ernährungsunsicherheit'
+'material deprivation for food insecurity': 'Materielle Deprivation bezogen auf Ernährungsunsicherheit (Der Haushalt kann sich nicht jeden zweiten Tag eine volle Mahlzeit leisten)'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Kleinwuchs bei Kindern'
 #Z_02022_1
@@ -366,7 +366,7 @@ no unit: "Keine Einheit"
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agrarorientierungs-Index für Staatsausgaben'
 #Z_02062_1
-'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben für die Landwirtschaft'
+'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben (ODA) für die Landwirtschaft'
 #Z_02071_1
 'export refunds': 'Ausfuhrerstattungen'
 #Z_02081_1
@@ -434,7 +434,7 @@ no unit: "Keine Einheit"
 #Z_03111_4
 'pneumococcal vaccination rate at school entrance': 'Pneumokokken-Impfquote zum Schuleintritt'
 #Z_03112_1
-'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für medizinische Forschung und grundlegende Gesundheitsversorgung'
+'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
 #Z_03121_1
 'health workers, according to the practising concept (with direct patient contact)': 'Gesundheitspersonal (mit direktem Patientenkontakt)'
 #Z_03131_1
@@ -458,9 +458,9 @@ no unit: "Keine Einheit"
 #Z_04081_1
 'equipment of schools': 'Anteil der Schulen mit Basisversorgung'
 #Z_04091_1
-'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben für Stipendien'
+'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben (ODA) für Stipendien'
 #Z_04091_2
-'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben für Studienplatzkosten'
+'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
@@ -516,9 +516,9 @@ no unit: "Keine Einheit"
 #Z_06061_3
 'sub-indicator 4: water bodies with good quality': 'Subindikator 4: Gewässer mit guter Wasserqualität'
 #Z_06071_1
-'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben für Wasser und Sanitär'
+'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
 #Z_06071_2
-'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
+'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke'
 #Z_07011_1
 'population with access to electricity': 'Bevölkerung mit Zugang zu Elektrizität'
 #Z_07011_2
@@ -564,9 +564,9 @@ no unit: "Keine Einheit"
 #Z_08102_1
 'accounts at payment service providers (1 000)': 'Konten bei Zahlungsverkehrsdienstleistern'
 #Z_08111_1
-'aid for trade commitments (oda and oof)': 'Verpflichtungen für Handelshilfe (ODA und OOF)'
+'aid for trade commitments (oda and oof)': 'Zusagen (ODA und OOF) für Handelshilfe'
 #Z_08111_2
-'aid for trade gross disbursements (oda and oof)': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
+'aid for trade gross disbursements (oda and oof)': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
@@ -588,9 +588,9 @@ no unit: "Keine Einheit"
 #Z_09052_1
 'researchers in full-time equivalents (per 1 mn inhabitants)': 'Wissenschaftler in Vollzeitäquivalenten'
 #Z_09061_1
-'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur'
+'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 #Z_09061_2
-'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben für Infrastruktur'
+'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und Hightech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
@@ -624,7 +624,7 @@ no unit: "Keine Einheit"
 #Z_10074_1
 'proportion of people seeking protection as a percentage of the total population': 'Anteil der Schutzsuchenden an der gesamten Bevölkerung'
 #Z_10091_1
-'net development expenditures': 'Nettoentwicklungsausgaben'
+'net development expenditures': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
 #Z_11011_1
 'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
 #Z_11011_2
@@ -692,7 +692,7 @@ no unit: "Keine Einheit"
 #Z_13022_1
 'greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
-'climate finance flows to developing countries': 'Zahlungen zur Klimafinanzierung an Entwicklungsländer'
+'climate finance flows': 'Zahlungen zur Klimafinanzierung'
 #Z_14031_1
 'average ph-concentration in the german bight (ph-value)': 'Durchschnittliche pH-Konzentration in der Deutschen Bucht'
 #Z_14041_1
@@ -750,11 +750,11 @@ no unit: "Keine Einheit"
 #Z_15091_1
 'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Anzahl der Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben, und die bei der Umsetzung dieser Zielvorgaben gemeldeten Fortschritte'
 #Z_15101_1
-'a) oda (commitments) for biodiversity': 'Verpflichtungen (ODA) für Biodiversität'
+'a) oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
 #Z_15101_2
 'b) environmental protection expenditure': 'Umweltschutzausgaben'
 #Z_15111_1
-'b) oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben für den Forstsektor'
+'b) oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
 #Z_16011_1
 'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
 #Z_16012_1
@@ -810,9 +810,9 @@ no unit: "Keine Einheit"
 #Z_17012_2
 'proportion of domestic expenditures funded by national taxes and insurance contributions (%)': 'Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden'
 #Z_17021_1
-'proportion of net oda to gni (%)': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE'
+'proportion of oda (net disbursements) to gni': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE'
 #Z_17021_2
-'proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)': 'Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE'
+'proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni)': 'Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungslausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)'
 #Z_17061_1
 'fixed internet broadband access lines': 'Internet-Breitband-Zugänge'
 #Z_17071_1
@@ -820,9 +820,9 @@ no unit: "Keine Einheit"
 #Z_17081_1
 'proportion of individuals using the internet': 'Anteil der Internetnutzerinnen und -nutzer'
 #Z_17091_1
-'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation)': 'Zusagen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda and oof (commitments) for capacity building and national planning (without south-south cooperation)': 'Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17091_2
-'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation)': 'Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation)': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Jährliche Wachstumsrate des realen BIP'
 #Z_17131_10
@@ -860,9 +860,9 @@ no unit: "Keine Einheit"
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
 #Z_17191_1
-'oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern'
+'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten'
 #Z_17191_2
-'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern'
+'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 #Z_17192_2
@@ -886,6 +886,13 @@ area2: Bereich
 'manufacturing gross value added as a proportion of total gross value added': 'Verhältnis der Bruttowertschöpfung im Verarbeitenden Gewerbe an der Bruttowertschöpfung insgesamt'
 'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
 'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe'
+'climate finance flows to developing countries': 'Zahlungen zur Klimafinanzierung an Entwicklungsländer'
+'proportion of net oda to gni (%)': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE'
+'proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)': 'Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE'
+'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation)': 'Zusagen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation)': 'Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern'
+'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern'
 'per 1 000 live birth': 'Je 1 000 Lebendgeborene'
 'per 10 000 adults': 'Je 100 000 Erwachsene'
 'per 100 000 live birth': 'Je 100 000 Lebendgeborene'
