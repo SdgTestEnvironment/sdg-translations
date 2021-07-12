@@ -313,6 +313,8 @@ no unit: "No Unit"
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
+'raw material consumption (rmc)': 'Raw material consumption (RMC)'
+'raw material consumption per real gdp': 'Raw material consumption per real GDP'
 
 #Time series
 #Z_01021_1
