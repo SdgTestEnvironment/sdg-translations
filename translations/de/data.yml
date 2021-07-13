@@ -20,7 +20,6 @@
 'mn t': 'Millionen Tonnen'
 'mn t of co2 equivalents': 'Millionen Tonnen CO2-Äquivalente'
 'mn tkm': 'Millionen Tonnenkilometer'
-'mn usd, constant prices (2016)': 'Millionen USD, konstante Preise (2016)'
 'mn usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
 'mn usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
 no unit: "Keine Einheit"
@@ -101,6 +100,7 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'thematic area': 'Themenbereich'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -244,6 +244,10 @@ no unit: "Keine Einheit"
 'corporations': 'Unternehmen'
 'applications finally processed': 'Abschließend bearbeitete Anträge'
 'applications received': 'Eingegangene Anträge'
+'domestic material consumption (dmc)': 'Inländische Materialverwendung (DMC)'
+'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
+'raw material consumption (rmc)': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
+'raw material consumption per real gdp': 'Inländische Rohstoffverwendung pro realem BIP'
 'divers': 'Divers'
 'female': 'Weiblich'
 'male': 'Männlich'
@@ -313,8 +317,12 @@ no unit: "Keine Einheit"
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
-'raw material consumption (rmc)': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
-'raw material consumption per real gdp': 'Inländische Rohstoffverwendung pro realem BIP'
+'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
+'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
+'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
+'maternity care': 'Mutterschaftsvorsorge'
+'contraceptive and family planning': 'Empfängnisverhütung und Familienplanung'
+'hiv and hpv': 'HIV und HPV'
 
 #Zeitreihen
 #Z_01021_1
@@ -340,7 +348,7 @@ no unit: "Keine Einheit"
 #Z_02011_1
 'energy supply': 'Energiezufuhr'
 #Z_02012_1
-'material deprivation for food insecurity': 'Materielle Deprivation bezogen auf Ernährungsunsicherheit (Der Haushalt kann sich nicht jeden zweiten Tag eine volle Mahlzeit leisten)'
+'material deprivation for food insecurity': 'Materielle Deprivation bezogen auf Ernährungsunsicherheit (der Haushalt kann sich nicht jeden zweiten Tag eine volle Mahlzeit leisten)'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Kleinwuchs bei Kindern'
 #Z_02022_1
@@ -871,6 +879,8 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_05062_1
+'access to sexual and reproductive health care, information and education': 'Zugang zu sexuellen und reproduktiven Gesundheitsleistungen, Informationen und Bildung'
 
 #Zusatz
 total: Insgesamt
@@ -883,10 +893,9 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'mn usd, constant prices (2016)': 'Millionen USD, konstante Preise (2016)'
 'technological intensity': 'Technologieintensität'
 'strategy for adaptation to climate change': 'Anpassungsstrategie an den Klimawandel'
-'manufacturing gross value added as a proportion of total gross value added': 'Verhältnis der Bruttowertschöpfung im Verarbeitenden Gewerbe an der Bruttowertschöpfung insgesamt'
-'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
 'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe'
 'climate finance flows to developing countries': 'Zahlungen zur Klimafinanzierung an Entwicklungsländer'
 'proportion of net oda to gni (%)': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE'

@@ -20,7 +20,6 @@
 'mn t': 'Million tonnes'
 'mn t of co2 equivalents': 'Million tonnes of CO2 equivalents'
 'mn tkm': 'Million tonne-kilometres'
-'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
 'mn usd, constant prices (2018)': 'Million USD, constant prices (2018)'
 'mn usd, constant prices (2019)': 'Million USD, constant prices (2019)'
 no unit: "No Unit"
@@ -101,6 +100,7 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'thematic area': 'Thematic area'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -111,7 +111,7 @@ no unit: "No Unit"
 'under 1 year': '11 months and younger'
 'under 5 years': '4 years and younger'
 'under 14 years': '13 years and younger'
-'under 15 years': '15 years and younger'
+'under 15 years': '14 years and younger'
 'under 18 years': '17 years and younger'
 '10 to under 15 years': '10 to under 15 years'
 '14 to under 18 years': '14 to under 18 years'
@@ -244,6 +244,10 @@ no unit: "No Unit"
 'corporations': 'Corporations'
 'applications finally processed': 'Applications finally processed'
 'applications received': 'Applications received'
+'domestic material consumption (dmc)': 'Domestic material consumption (DMC)'
+'domestic material consumption per real gdp': 'Domestic material consumption per real GDP'
+'raw material consumption (rmc)': 'Raw material consumption (RMC)'
+'raw material consumption per real gdp': 'Raw material consumption per real GDP'
 'divers': 'Divers'
 'female': 'Female'
 'male': 'Male'
@@ -313,8 +317,12 @@ no unit: "No Unit"
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
-'raw material consumption (rmc)': 'Raw material consumption (RMC)'
-'raw material consumption per real gdp': 'Raw material consumption per real GDP'
+'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
+'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
+'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
+'maternity care': 'Maternity Care'
+'contraceptive and family planning': 'Contraceptive and Family Planning'
+'hiv and hpv': 'HIV and HPV'
 
 #Time series
 #Z_01021_1
@@ -871,6 +879,8 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_05062_1
+'access to sexual and reproductive health care, information and education': 'Access to sexual and reproductive health care, information and education'
 
 #Addition
 
@@ -885,10 +895,9 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
 'technological intensity': 'Technological intensity'
 'strategy for adaptation to climate change': 'Strategy for Adaptation to Climate Change'
-'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
-'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
 'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 'climate finance flows to developing countries': 'Climate finance flows to developing countries'
 'proportion of net oda to gni (%)': 'Proportion of net ODA to GNI'
