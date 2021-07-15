@@ -88,6 +88,7 @@ no unit: "Keine Einheit"
 'substance': 'Substanz'
 'technology': 'Technologie'
 'technology sectors': 'Technologiesektoren'
+'thematic area': 'Themenbereich'
 'mode of transport': 'Verkehrsträger'
 'type of disease': 'Art der Erkrankung'
 'form of abuse': 'Form der Misshandlung'
@@ -100,7 +101,6 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
-'thematic area': 'Themenbereich'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -246,6 +246,9 @@ no unit: "Keine Einheit"
 'applications received': 'Eingegangene Anträge'
 'domestic material consumption (dmc)': 'Inländische Materialverwendung (DMC)'
 'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
+'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
+'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
+'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
 'raw material consumption (rmc)': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
 'raw material consumption per real gdp': 'Inländische Rohstoffverwendung pro realem BIP'
 'divers': 'Divers'
@@ -273,6 +276,9 @@ no unit: "Keine Einheit"
 'lte': 'LTE'
 'medium-high-tech': 'Medium-Hightech'
 'high-tech': 'Hightech'
+'maternity care': 'Mutterschaftsvorsorge'
+'contraceptive and family planning': 'Empfängnisverhütung und Familienplanung'
+'hiv and hpv': 'HIV und HPV'
 'inland waterway transport': 'Binnenschifffahrt'
 'rail transport': 'Eisenbahnverkehr'
 'commercial air transport': 'Luftverkehr'
@@ -317,12 +323,6 @@ no unit: "Keine Einheit"
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
-'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
-'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
-'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
-'maternity care': 'Mutterschaftsvorsorge'
-'contraceptive and family planning': 'Empfängnisverhütung und Familienplanung'
-'hiv and hpv': 'HIV und HPV'
 
 #Zeitreihen
 #Z_01021_1
@@ -446,7 +446,7 @@ no unit: "Keine Einheit"
 #Z_03112_1
 'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
 #Z_03121_1
-'health workers, according to the practising concept (with direct patient contact)': 'Gesundheitspersonal (mit direktem Patientenkontakt)'
+'health workers, according to the practising concept (with direct patient contact)': 'Gesundheitspersonal mit direktem Patientenkontakt (practising concept)'
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
 #Z_03132_1
@@ -487,6 +487,8 @@ no unit: "Keine Einheit"
 'seats held by women in national parliament': 'Frauenanteil im Parlament'
 #Z_05052_1
 'women in managerial positions (%)': 'Frauen in Führungspositionen'
+#Z_05062_1
+'access to sexual and reproductive health care, information and education': 'Zugang zu sexuellen und reproduktiven Gesundheitsleistungen, Informationen und Bildung'
 #Z_05071_1
 'owned and leased agricultural land': 'Eigene und gepachtete landwirtschaftlich genutzte Flächen'
 #Z_05071_2
@@ -879,8 +881,6 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_05062_1
-'access to sexual and reproductive health care, information and education': 'Zugang zu sexuellen und reproduktiven Gesundheitsleistungen, Informationen und Bildung'
 
 #Zusatz
 total: Insgesamt

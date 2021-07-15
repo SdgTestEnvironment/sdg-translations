@@ -88,6 +88,7 @@ no unit: "No Unit"
 'substance': 'Substance'
 'technology': 'Technology'
 'technology sectors': 'Technology sectors'
+'thematic area': 'Thematic area'
 'mode of transport': 'Mode of transport'
 'type of disease': 'Type of disease'
 'form of abuse': 'Form of abuse'
@@ -100,7 +101,6 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
-'thematic area': 'Thematic area'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -246,6 +246,9 @@ no unit: "No Unit"
 'applications received': 'Applications received'
 'domestic material consumption (dmc)': 'Domestic material consumption (DMC)'
 'domestic material consumption per real gdp': 'Domestic material consumption per real GDP'
+'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
+'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
+'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
 'raw material consumption (rmc)': 'Raw material consumption (RMC)'
 'raw material consumption per real gdp': 'Raw material consumption per real GDP'
 'divers': 'Divers'
@@ -273,6 +276,9 @@ no unit: "No Unit"
 'lte': 'LTE'
 'medium-high-tech': 'Medium-high-tech'
 'high-tech': 'High-tech'
+'maternity care': 'Maternity Care'
+'contraceptive and family planning': 'Contraceptive and Family Planning'
+'hiv and hpv': 'HIV and HPV'
 'inland waterway transport': 'Inland waterway transport'
 'rail transport': 'Rail transport'
 'commercial air transport': 'Commercial air transport'
@@ -317,12 +323,6 @@ no unit: "No Unit"
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
-'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
-'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
-'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
-'maternity care': 'Maternity Care'
-'contraceptive and family planning': 'Contraceptive and Family Planning'
-'hiv and hpv': 'HIV and HPV'
 
 #Time series
 #Z_01021_1
@@ -446,7 +446,7 @@ no unit: "No Unit"
 #Z_03112_1
 'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
-'health workers, according to the practising concept (with direct patient contact)': 'Health workers (practising concept)'
+'health workers, according to the practising concept (with direct patient contact)': 'Health workers with direct patient contact (practising concept)'
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Average of 13 IHR core capacity scores'
 #Z_03132_1
@@ -487,6 +487,8 @@ no unit: "No Unit"
 'seats held by women in national parliament': 'Proportion of women in the parliament'
 #Z_05052_1
 'women in managerial positions (%)': 'Women in managerial positions'
+#Z_05062_1
+'access to sexual and reproductive health care, information and education': 'Access to sexual and reproductive health care, information and education'
 #Z_05071_1
 'owned and leased agricultural land': 'Owned and leased agricultural land'
 #Z_05071_2
@@ -879,8 +881,6 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_05062_1
-'access to sexual and reproductive health care, information and education': 'Access to sexual and reproductive health care, information and education'
 
 #Addition
 
