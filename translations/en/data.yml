@@ -60,7 +60,7 @@ no unit: "No Unit"
 'ownership': 'Ownership'
 'facilities': 'Facilities'
 'region': 'Region'
-'Feelings of insecurity': 'Feelings of insecurity'
+'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
 'household expenditures on health': 'Household expenditures on health'
 'income quintile': 'Income quintile'
@@ -105,7 +105,7 @@ no unit: "No Unit"
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
-'Using copy or cut and paste tools to duplicate or move information on screen': 'Using copy or cut and paste tools to duplicate or move information on screen'
+'using copy or cut and paste tools to duplicate or move information on screen': 'Using copy or cut and paste tools to duplicate or move information on screen'
 'written code in a programming language': 'Writing code in a programming language'
 'connecting and installing new devices, eg a printer or a modem': 'Connecting and installing new devices, eg a printer or a modem'
 'transferred files between computer and other devices': 'Transferring files between computer and other devices'
