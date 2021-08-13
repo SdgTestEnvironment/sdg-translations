@@ -54,12 +54,13 @@ no unit: "No Unit"
 'declination': 'Outcome of the application process'
 'disability': 'Disability status'
 'domain': 'Domain'
-'economic sector': 'Economic activity'
+'economic sector': 'Economic activities'
 'educational level': 'Educational level'
 'education level': 'Education level'
 'ownership': 'Ownership'
 'facilities': 'Facilities'
 'region': 'Region'
+'Feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
 'household expenditures on health': 'Household expenditures on health'
 'income quintile': 'Income quintile'
@@ -104,10 +105,13 @@ no unit: "No Unit"
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
-'installed software or applications (apps)': 'Installing software or apps'
-'used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts'
-'transferred files between computer and other devices': 'Transferring files between computer and other devices'
+'Using copy or cut and paste tools to duplicate or move information on screen': 'Using copy or cut and paste tools to duplicate or move information on screen'
 'written code in a programming language': 'Writing code in a programming language'
+'connecting and installing new devices, eg a printer or a modem': 'Connecting and installing new devices, eg a printer or a modem'
+'transferred files between computer and other devices': 'Transferring files between computer and other devices'
+'installed software or applications (apps)': 'Installing software or apps'
+'creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
+'used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts'
 'under 1 year': '11 months and younger'
 'under 5 years': '4 years and younger'
 'under 14 years': '13 years and younger'
@@ -167,18 +171,17 @@ no unit: "No Unit"
 'rejected applications': 'Rejected applications'
 'persons with disability': 'Persons with disability'
 'mobility impaired people': 'Mobility impaired people'
-'all domains': 'All Domains'
 'domain 1. migrant rights': 'Domain 1. Migrant rights'
 'domain 2. whole-of-government/evidence-based policies': 'Domain 2. Whole-of-government/ Evidence-based policies'
 'domain 3. cooperation and partnerships': 'Domain 3. Cooperation and partnerships'
 'domain 4. socioeconomic well-being': 'Domain 4. Socioeconomic well-being'
 'domain 5. mobility dimensions of crises': 'Domain 5. Mobility dimensions of crises'
 'domain 6. safe, orderly and regular migration': 'Domain 6. Safe, orderly and regular migration'
-'c) services (nace rev 2, sections e, g to t)': 'Services (NACE Rev. 2, sections E, G to T)'
+'c) services (nace rev 2, sections e, g to t)': 'Services'
 'forestry': 'Forestry'
-'a) agriculture, forestry and fishing (nace rev 2, section a)': 'Agriculture, forestry and fishing (NACE Rev. 2, section A)'
+'a) agriculture, forestry and fishing (nace rev 2, section a)': 'Agriculture, forestry and fishing'
 'agriculture': 'Agriculture'
-'b) mimec (nace rev 2, sections b, c, d, f)': 'MIMEC (NACE Rev. 2, sections B, C, D, F)'
+'b) mimec (nace rev 2, sections b, c, d, f)': 'MIMEC'
 'b) at the end of lower primary education': 'b) At the end of primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
 'property': 'Property'
@@ -186,7 +189,7 @@ no unit: "No Unit"
 'e) schools with access to basic drinking water': 'e) Schools with access to basic drinking water'
 'f) schools with access to single-sex basic sanitation facilities': 'f) Schools with access to single-sex basic sanitation facilities'
 'g) schools with access to basic handwashing facilities (as per the wash indicator definitions)': 'g) Schools with access to basic handwashing facilities'
-'baden-wuerttemberg': 'Baden-Wuerttemberg'
+'baden-wuerttemberg': 'Baden-Württemberg'
 'bavaria': 'Bavaria'
 'rhineland palatinate': 'Rhineland Palatinate'
 'saarland': 'Saarland'
@@ -202,6 +205,10 @@ no unit: "No Unit"
 'mecklenburg western pomerania': 'Mecklenburg Western Pomerania'
 'lower saxony': 'Lower Saxony'
 'north rhine-westphalia': 'North Rhine-Westphalia'
+'very safe': 'Very safe'
+'safe': 'Safe'
+'unsafe': 'Unsafe'
+'very unsafe': 'Very unsafe'
 'greater 10 percentage': 'Greater 10 %'
 'greater 25 percentage': 'Greater 25 %'
 'sdg indicator 4-2-2': 'SDG indicator 4.2.2'
@@ -462,7 +469,7 @@ no unit: "No Unit"
 #Z_04051_1
 'gender parity index': 'Gender Parity Index'
 #Z_04061_1
-'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills'
+'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills'
 #Z_04071_1
 'integration of (i) global citizenship education and (ii) education for sustainable development in the education system': 'Integration of "global citizenship education" and "education for sustainable development" into the education system'
 #Z_04081_1
@@ -482,7 +489,7 @@ no unit: "No Unit"
 #Z_05032_1
 'victims of female genital mutilation (number)': 'Female victims of genital mutilation'
 #Z_05041_1
-'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
+'time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
 #Z_05051_1
 'seats held by women in national parliament': 'Proportion of women in the parliament'
 #Z_05052_1
@@ -562,9 +569,9 @@ no unit: "No Unit"
 #Z_08071_1
 'young victims being exploited or intended to being exploited': 'Young victims being exploited or intended to being exploited'
 #Z_08081_1
-'fatal occupational accidents (per 100 000 employees)': 'Fatal'
+'fatal occupational accidents (per 100 000 employees)': 'Fatal occupational accidents'
 #Z_08081_2
-'non-fatal occupational accidents (per 100 000 employees)': 'Non-fatal'
+'non-fatal occupational accidents (per 100 000 employees)': 'Non-fatal occupational accidents'
 #Z_08082_1
 'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation'
 #Z_08091_1
@@ -630,7 +637,7 @@ no unit: "No Unit"
 #Z_10051_7
 'net open position in foreign exchange to capital (%)': 'Net open position in foreign exchange to capital'
 #Z_10072_1
-'policy domains and sub-categories of sdg indicators 10.7.2 for germany': 'Policy domains and sub-categories of SDG indicators 10.7.2 for Germany'
+'policy domains and sub-categories of sdg indicators 10.7.2 for germany': 'State of migration policies'
 #Z_10073_1
 'total of deaths recorded in germany': 'Total of deaths recorded in Germany'
 #Z_10074_1
@@ -779,6 +786,8 @@ no unit: "No Unit"
 'victims of criminal offences': 'Victims of criminal offences'
 #Z_16014_1
 'population not living in an area with crime, violence or vandalism (%)': 'Population not living in an area with crime, violence or vandalism'
+#Z_16014_2
+'feelings of insecurity in the neighbourhood': 'Feelings of insecurity in the neighbourhood'
 #Z_16021_1
 'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Children at acute risk of harm with signs of abuse'
 #Z_16022_1
@@ -790,7 +799,7 @@ no unit: "No Unit"
 #Z_16032_1
 'unsentenced detainees (%)': 'Unsentenced detainees'
 #Z_16033_1
-'requests for the implementation of a dispute resolution procedure': 'Requests for the implementation of a dispute resolution procedure'
+'consumer conciliation': 'Consumer conciliation'
 #Z_16042_1
 'seized arms and parts (number)': 'Seized arms and parts'
 #Z_16051_1
@@ -895,6 +904,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'all domains': 'All Domains'
+'requests for the implementation of a dispute resolution procedure': 'Requests for the implementation of a dispute resolution procedure'
 'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
 'technological intensity': 'Technological intensity'
 'strategy for adaptation to climate change': 'Strategy for Adaptation to Climate Change'

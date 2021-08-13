@@ -60,12 +60,13 @@ no unit: "Keine Einheit"
 'ownership': 'Eigentumsverhältnis'
 'facilities': 'Ausstattung'
 'region': 'Region'
+'Feelings of insecurity': 'Unsicherheitsgefühl'
 'frequency': 'Häufigkeit'
 'household expenditures on health': 'Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
 'indicator': 'Indikator'
 'items': 'Probleme'
-'level of waterstress': 'Nutzung der Wasserressourcen'
+'level of waterstress': 'Grad der Wasserknappheit'
 'unit multiplicator': 'Einheitsmultiplikator'
 'observation status': 'Beobachtungsstatus'
 'profession': 'Beruf'
@@ -104,10 +105,13 @@ no unit: "Keine Einheit"
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
-'installed software or applications (apps)': 'Installation von Software oder Anwendungen (Apps)'
-'used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken'
-'transferred files between computer and other devices': 'Übertragung von Dateien zwischen Computern und anderen Geräten'
+'Using copy or cut and paste tools to duplicate or move information on screen': 'Verwendung von Werkzeugen zum Kopieren oder Ausschneiden und Einfügen, um Informationen auf dem Bildschirm zu duplizieren oder zu verschieben'
 'written code in a programming language': 'Schreiben eines Programmes in einer Programmiersprache'
+'connecting and installing new devices, eg a printer or a modem': 'Anschließen und Installieren neuer Geräte, z. B. eines Druckers oder eines Modems'
+'transferred files between computer and other devices': 'Übertragung von Dateien zwischen Computern und anderen Geräten'
+'installed software or applications (apps)': 'Installation von Software oder Anwendungen (Apps)'
+'creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts': 'Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen'
+'used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken'
 'under 1 year': '11 Monate und jünger'
 'under 5 years': '4 Jahre und jünger'
 'under 14 years': '13 Jahre und jünger'
@@ -167,18 +171,17 @@ no unit: "Keine Einheit"
 'rejected applications': 'Abgelehnte Anträge'
 'persons with disability': 'Personen mit Behinderung'
 'mobility impaired people': 'Menschen mit Mobilitätseinschränkung'
-'all domains': 'Alle Bereiche'
 'domain 1. migrant rights': 'Bereich 1. Rechte von Migranten'
-'domain 2. whole-of-government/evidence-based policies': 'Bereich 2: Gesamtheitliche/ Evidenzbasierte Politik'
+'domain 2. whole-of-government/evidence-based policies': 'Bereich 2. Gesamtheitliche/ Evidenzbasierte Politik'
 'domain 3. cooperation and partnerships': 'Bereich 3. Zusammenarbeit und Partnerschaften'
-'domain 4. socioeconomic well-being': 'Bereich 4: Sozioökonomisches Wohlbefinden'
+'domain 4. socioeconomic well-being': 'Bereich 4. Sozioökonomisches Wohlbefinden'
 'domain 5. mobility dimensions of crises': 'Bereich 5. Mobilitätsdimensionen von Krisen'
 'domain 6. safe, orderly and regular migration': 'Bereich 6. Sichere, geordnete und reguläre Migration'
-'c) services (nace rev 2, sections e, g to t)': 'Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)'
+'c) services (nace rev 2, sections e, g to t)': 'Dienstleistungen'
 'forestry': 'Forstwirtschaft'
-'a) agriculture, forestry and fishing (nace rev 2, section a)': 'Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)'
+'a) agriculture, forestry and fishing (nace rev 2, section a)': 'Land- und Forstwirtschaft, Fischerei'
 'agriculture': 'Landwirtschaft'
-'b) mimec (nace rev 2, sections b, c, d, f)': 'MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)'
+'b) mimec (nace rev 2, sections b, c, d, f)': 'MIMEC'
 'b) at the end of lower primary education': 'b) Am Ende der Grundschule'
 'c) at the end of lower secondary education': 'c) Am Ende der Sekundarstufe I'
 'property': 'Eigentum'
@@ -202,6 +205,10 @@ no unit: "Keine Einheit"
 'mecklenburg western pomerania': 'Mecklenburg-Vorpommern'
 'lower saxony': 'Niedersachsen'
 'north rhine-westphalia': 'Nordrhein-Westfalen'
+'very safe': 'Sehr sicher'
+'safe': 'Eher sicher'
+'unsafe': 'Eher unsicher'
+'very unsafe': 'Sehr unsicher'
 'greater 10 percentage': 'Größer 10 %'
 'greater 25 percentage': 'Größer 25 %'
 'sdg indicator 4-2-2': 'SDG-Indikator 4.2.2'
@@ -462,7 +469,7 @@ no unit: "Keine Einheit"
 #Z_04051_1
 'gender parity index': 'Geschlechtsparitätsindex'
 #Z_04061_1
-'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Erwachsene Bevölkerung, die mindestens über Grundkompetenzen in a) Lesen und b) Rechnen verfügt'
+'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Erwachsene Bevölkerung, die über ein festgelegtes Mindestniveau in a) Lesen und b) Rechnen verfügt'
 #Z_04071_1
 'integration of (i) global citizenship education and (ii) education for sustainable development in the education system': 'Integration von "Global Citizenship Education" und "Bildung für nachhaltige Entwicklung" im Bildungswesen'
 #Z_04081_1
@@ -482,7 +489,7 @@ no unit: "Keine Einheit"
 #Z_05032_1
 'victims of female genital mutilation (number)': 'Weibliche Opfer von Genitalverstümmelung'
 #Z_05041_1
-'time spent on unpaid domestic and care work': 'Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird'
+'time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_1
 'seats held by women in national parliament': 'Frauenanteil im Parlament'
 #Z_05052_1
@@ -512,7 +519,7 @@ no unit: "Keine Einheit"
 #Z_06032_1
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
 #Z_06041_1
-'water use efficiency': 'Wasserproduktivität'
+'water use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1
 'level of water stress - share of withdrawal in renewable water resources': 'Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen'
 #Z_06042_2
@@ -562,9 +569,9 @@ no unit: "Keine Einheit"
 #Z_08071_1
 'young victims being exploited or intended to being exploited': 'Junge Opfer, die ausgebeutet werden oder ausgebeutet werden sollen'
 #Z_08081_1
-'fatal occupational accidents (per 100 000 employees)': 'Tödlich'
+'fatal occupational accidents (per 100 000 employees)': 'Tödliche Arbeitsunfälle'
 #Z_08081_2
-'non-fatal occupational accidents (per 100 000 employees)': 'Nicht-tödlich'
+'non-fatal occupational accidents (per 100 000 employees)': 'Nicht-tödliche Arbeitsunfälle'
 #Z_08082_1
 'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Grad der nationalen Einhaltung der Arbeitsrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationaler Gesetzesgrundlagen, nach Geschlecht und Migrationsstatus'
 #Z_08091_1
@@ -630,7 +637,7 @@ no unit: "Keine Einheit"
 #Z_10051_7
 'net open position in foreign exchange to capital (%)': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 #Z_10072_1
-'policy domains and sub-categories of sdg indicators 10.7.2 for germany': 'Politikbereiche und Unterkategorien des SDG-Indikators 10.7.2 für Deutschland'
+'policy domains and sub-categories of sdg indicators 10.7.2 for germany': 'Status der Migrationspolitik'
 #Z_10073_1
 'total of deaths recorded in germany': 'Gesamtzahl der erfassten Todesfälle in Deutschland'
 #Z_10074_1
@@ -779,6 +786,8 @@ no unit: "Keine Einheit"
 'victims of criminal offences': 'Opfer von Straftaten'
 #Z_16014_1
 'population not living in an area with crime, violence or vandalism (%)': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
+#Z_16014_2
+'feelings of insecurity in the neighbourhood': 'Unsicherheitsgefühl in der Wohnumgebung'
 #Z_16021_1
 'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Akute Kindeswohlgefährdung mit Anzeichen für Misshandlung'
 #Z_16022_1
@@ -790,7 +799,7 @@ no unit: "Keine Einheit"
 #Z_16032_1
 'unsentenced detainees (%)': 'Nicht strafrechtlich verurteilte Inhaftierte'
 #Z_16033_1
-'requests for the implementation of a dispute resolution procedure': 'Anträge auf Durchführung eines Streitbeilegungsverfahrens'
+'consumer conciliation': 'Verbraucherschlichtung'
 #Z_16042_1
 'seized arms and parts (number)': 'Sichergestellte Waffen und Waffenteile'
 #Z_16051_1
@@ -893,6 +902,8 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'all domains': 'Alle Bereiche'
+'requests for the implementation of a dispute resolution procedure': 'Anträge auf Durchführung eines Streitbeilegungsverfahrens'
 'mn usd, constant prices (2016)': 'Millionen USD, konstante Preise (2016)'
 'technological intensity': 'Technologieintensität'
 'strategy for adaptation to climate change': 'Anpassungsstrategie an den Klimawandel'
