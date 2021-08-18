@@ -785,9 +785,9 @@ no unit: "No Unit"
 #Z_16013_3
 'victims of criminal offences': 'Victims of criminal offences'
 #Z_16014_1
-'population not living in an area with crime, violence or vandalism (%)': 'Population not living in an area with crime, violence or vandalism'
+'feelings of insecurity in the neighbourhood': 'Feelings of insecurity in the neighbourhood (at night)'
 #Z_16014_2
-'feelings of insecurity in the neighbourhood': 'Feelings of insecurity in the neighbourhood'
+'population not living in an area with crime, violence or vandalism (%)': 'Population not living in an area with crime, violence or vandalism'
 #Z_16021_1
 'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Children at acute risk of harm with signs of abuse'
 #Z_16022_1
@@ -904,6 +904,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'Feelings of insecurity': 'Feelings of insecurity'
+'Using copy or cut and paste tools to duplicate or move information on screen': 'Using copy or cut and paste tools to duplicate or move information on screen'
 'all domains': 'All Domains'
 'requests for the implementation of a dispute resolution procedure': 'Requests for the implementation of a dispute resolution procedure'
 'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
