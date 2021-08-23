@@ -481,7 +481,7 @@ no unit: "Keine Einheit"
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
-'female victims of criminal offences having/ had an intimate relationship with the suspect (number)': 'Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen'
+'female victims of sexual violence by an intimate partner': 'Weibliche Opfer sexueller Gewalt durch einen intimen Partner'
 #Z_05022_1
 'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch eine andere Person als einen intimen Partner'
 #Z_05031_1
@@ -787,7 +787,7 @@ no unit: "Keine Einheit"
 #Z_16013_3
 'victims of criminal offences': 'Opfer von Straftaten'
 #Z_16014_1
-'feelings of insecurity in the neighbourhood': 'Unsicherheitsgefühl in der Wohnumgebung (nachts)'
+'feelings of insecurity in the neighbourhood': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)'
 #Z_16014_2
 'population not living in an area with crime, violence or vandalism (%)': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
 #Z_16021_1
@@ -904,6 +904,7 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'female victims of criminal offences having/ had an intimate relationship with the suspect (number)': 'Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen'
 'Feelings of insecurity': 'Unsicherheitsgefühl'
 'Using copy or cut and paste tools to duplicate or move information on screen': 'Verwendung von Werkzeugen zum Kopieren oder Ausschneiden und Einfügen, um Informationen auf dem Bildschirm zu duplizieren oder zu verschieben'
 'all domains': 'Alle Bereiche'
