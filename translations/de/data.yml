@@ -681,9 +681,9 @@ no unit: "Keine Einheit"
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 #Z_11072_1
-'physical harassment': 'Opfer von körperlicher Belästigung'
+'physical harassment': 'Opfer körperlicher Belästigung'
 #Z_11072_2
-'sexual harassment': 'Opfer von sexueller Belästigung'
+'sexual harassment': 'Opfer sexueller Belästigung'
 #Z_12041_1
 'compliance with the basel convention (%)': 'Basler Übereinkommen'
 #Z_12041_2
@@ -735,7 +735,7 @@ no unit: "Keine Einheit"
 #Z_15012_1
 'key biodiversity areas (kbas) covered by protected areas (%)': 'Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen'
 #Z_15012_2
-'protected terrestrial areas (%)': 'Fläche der Land- und Süßwasserökosysteme , die unter Schutz steht'
+'protected terrestrial areas (%)': 'Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht'
 #Z_15021_1
 'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
 #Z_15021_2
@@ -761,9 +761,7 @@ no unit: "Keine Einheit"
 #Z_15061_4
 'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
 #Z_15061_5
-'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
-'number of standard material transfer agreements (smtas) 1': 'Anzahl standardisierter Materialübertragungsvereinbarungen'
-'number of standard material transfer agreements (smtas) 2': 'Anzahl standardisierter Material&shy;übertragungs&shy;vereinbarungen'
+'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungsvereinbarungen'
 #Z_15071_1
 'documents issued for the import and export of protected species (number)': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
