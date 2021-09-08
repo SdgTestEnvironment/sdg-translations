@@ -8,6 +8,7 @@ clear_selections: Clear selections
 variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
 footnote: Comment
+footnotes: Comments
 specification: Specification
 data_not_available:  No data available for this selection of sub-categories and units
 details: Details
@@ -28,6 +29,7 @@ geographical_area: Geographical Area
 unit_of_measurement: Unit of measurement
 copyright: Copyright
 unit: Unit
+units: Unit
 units_type: Units type
 dataset_size_warning: There are too many datasets to show on the chart. Not all
   will be shown until you remove some selections.

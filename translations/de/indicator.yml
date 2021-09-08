@@ -6,6 +6,7 @@ chart: Grafik
 clear_all: Auswahl<br>aufheben
 clear_selections: Auswahl<br>aufheben
 footnote: Anmerkung
+footnotes: Anmerkungen
 data_not_available: Für die getroffen Auswahl stehen keine Daten zur Verfügung.
 dataset_size_warning: Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden.
@@ -56,6 +57,7 @@ timeseries: Zeitreihe
 unit_of_measurement: Einheit
 copyright: Copyright
 unit: Einheit
+units: Einheiten
 units_type: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
