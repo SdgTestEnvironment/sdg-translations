@@ -27,6 +27,7 @@ sources: Sources
 statistics: Statistics
 geographical_area: Geographical Area
 unit_of_measurement: Unit of measurement
+computation_units_plural: Units of measurement
 copyright: Copyright
 unit: Unit
 units: Unit

@@ -55,6 +55,7 @@ sub_categories_dns: Disaggregation
 table: Tabelle
 timeseries: Zeitreihe
 unit_of_measurement: Einheit
+computation_units_plural: Einheiten
 copyright: Copyright
 unit: Einheit
 units: Einheiten
