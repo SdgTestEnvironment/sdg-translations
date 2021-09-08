@@ -7,8 +7,8 @@ clear_all: Clear all
 clear_selections: Clear selections
 variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
-footnote: Comment
-footnotes: Comments
+footnote: Note
+footnotes: Notes
 specification: Specification
 data_not_available:  No data available for this selection of sub-categories and units
 details: Details
@@ -22,10 +22,10 @@ download_geojson: Download as GeoJSON
 download_table: Download Table CSV
 download_csv: Download CSV
 download_csv_title: Download as CSV
-source: Source
-sources: Sources
+source: Data source
+sources: Data sources
 statistics: Statistics
-geographical_area: Geographical Area
+geographical_area: Geographic coverage
 unit_of_measurement: Unit of measurement
 computation_units_plural: Units of measurement
 copyright: Copyright
@@ -38,7 +38,7 @@ view_indicator_list: View this goal's indicator list
 sub_categories: Selection
 sub_categories_dns: Sub-categories
 series: Series
-series_help: Select here what should be displayed in the chart and in the table.
+series_help: Please select here what should be displayed in the chart and/or the table.
 series_help_dns: Select here what should be displayed in the chart and in the table.
 legend_help: Click on the legend to remove individual lines from the chart.
 chart: Chart
@@ -48,14 +48,13 @@ loading_map: Loading map
 national_metadata: National Metadata
 metadata: Metadata
 dns_metadata_blurb: This table includes additional information to the above visualized indicators, i.e. a short definition of this indicator and a description of the politically determined target values as well as explaining the political intention behind selecting this indicator.
-national_metadata_blurb: The international organisations (custodian agencies) that are responsible for the respective SDG-indicator publish methodological guidelines
-  for the calculation of the indicator - so-called global metadata.<br><br>Displayed here are the national time series that fit the global metadata best as well as their
-  comparability with the global metadata. Please find further methodical and country-specific information of the time series in the related national metadata.
+national_metadata_blurb: The international organisations (custodian agencies) that are responsible for the respective SDG-indicator publish methodical explanations
+  for the indicator - the so-called global metadata.<br><br>Here, national time series that fit the global metadata best as well as their
+  comparability with the global metadata are presented. Please find further methodical and country-specific information in the related national metadata.
 global_metadata: Global Metadata
-global_metadata_blurb: This table provides information on metadata for SDG
-  indicators.
-  <a href="https://unstats.un.org/sdgs/metadata/" target=”_blank”>Global metadata</a>
-  is provided by the UN Statistics Division.
+global_metadata_blurb: This table provides information on metadata for SDG indicators.
+  The <a href="https://unstats.un.org/sdgs/metadata/" target=”_blank”>global metadata</a>
+  is provided by the Uited Nations Statistics Division.
 history: Indicator status summary
 history_blurb: The synoptic table provides information about the evaluation of the indicator for Germany in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <i>(Evaluation of the indicator report 2018)</i>
 edit: Edit

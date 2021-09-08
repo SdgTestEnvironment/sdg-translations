@@ -2,7 +2,7 @@ comments_limitations: Weitere Informationen
 computation_calculations: Methodik
 computation_definitions: Definitionen
 computation_units: Einheit
-comparison_sdg: Vergleichbarkeit mit globalen Metadaten
+comparison_sdg: Vergleichbarkeit mit den globalen Metadaten
 copyright: Copyright
 goal_meta_link: Globale Metadaten<small> (nur auf Englisch verfügbar)</small>
 goal_meta_national_link: Nationale Metadaten<small> (nur auf Englisch verfügbar)</small>
@@ -26,7 +26,8 @@ indicator_sort_order: Indikatorenreihenfolge (in der Zielübersicht)
 info_url_1: Zusätzliche Informationen
 national_data_update_url: Letzte Änderung des Codes <small>(Daten)</small> #Daten zuletzt aktualisiert am
 national_geographical_coverage: Geographische Abdeckung
-national_indicator_available: Verfügbare Zeitreihenbezeichnung
+national_indicator_available: Verfügbare Zeitreihe
+national_indicators_available: Verfügbare Zeitreihen
 national_indicator_description: Indikatorenbeschreibung
 national_metadata_update_url: Letzte Änderung des Codes <small>(Texte)</small> #Metadaten zuletzt aktualisiert am
 source_contact_1: Kontaktinformationen
@@ -91,7 +92,7 @@ source_url_5: Datenquelle
 source_url_6: Datenquelle
 target: Unterziel
 target_id: Unterzielnummerierung
-un_custodian_agency: Custodian Agency
+un_custodian_agency: Zuständige internationale Organisation
 un_designated_tier: Tier Klassifikation #<a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Klicken Sie hier um weitere Informationen zur UN-Tier-Klassifikation zu erhalten."> Tier Klassifikation</a>
 other_info: Weitere Informationen
 quality_assurance: Qualitätssicherung
