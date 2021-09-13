@@ -102,6 +102,8 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'field of work': 'Field of work'
+'level of court': 'Level of court'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -331,9 +333,18 @@ no unit: "No Unit"
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
+'political leadership and central administration, foreign affairs': 'Political leadership and central administration, foreign affairs'
+'police': 'Police'
+'education, science, research, cultural affairs': 'Education, science, research, cultural affairs'
+'health, environment, sports and recreation': 'Health, environment, sports and recreation'
+'supreme/constitutional courts': 'Supreme/Constitutional courts'
+'higher-level courts': 'Higher-level courts'
+'lower-level courts': 'Lower-level courts'
 
 #Time series
 #Z_01021_1
+'at-risk-of-poverty rate (according to eurostat definition) (%)': 'At-risk-of-poverty rate'
+#Z_01021_1a
 'at-risk-of-poverty rate (according to eurostat definition) (%)': 'At-risk-of-poverty rate'
 #Z_01022_1
 'severely materially deprived persons': 'Severely materially deprived persons'
@@ -891,6 +902,10 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_16071_3
+'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Proportions of positions of women in the public service compared to the national distribution'
+#Z_16071_4
+'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Ratio of proportion of women in the judiciary to proportion of women in the total population'
 
 #Addition
 

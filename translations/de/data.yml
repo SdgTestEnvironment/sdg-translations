@@ -71,7 +71,7 @@ no unit: "Keine Einheit"
 'observation status': 'Beobachtungsstatus'
 'profession': 'Beruf'
 'organisational form': 'Organisationsform'
-'antimicrobial-resistant organisms': 'Antimikrobiell-resistente Organismen'
+'antimicrobial-resistant organisms': 'Erreger und Resistenz'
 'percentiles': 'Perzentile'
 'product type': 'Produkttyp'
 'level of proficiency': 'Leistungsniveau'
@@ -82,7 +82,7 @@ no unit: "Keine Einheit"
 'time series': 'Zeitreihe'
 'sex': 'Geschlecht'
 'skill': 'Fähigkeit'
-'source': 'Datenquelle'
+'source': 'Surveillance'
 'speed': 'Geschwindigkeit'
 'standard accounting system': 'Standard Gesamtrechnungssystem'
 'subject': 'Schulfach'
@@ -102,6 +102,8 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'field of work': 'Aufgabenbereiche'
+'level of court': 'Gerichtsebene'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -227,8 +229,8 @@ no unit: "Keine Einheit"
 'b) dentists': 'Zahnärzte'
 'public': 'Öffentlich'
 'private': 'Privat'
-'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli mit Resistenz gegenüber 3. Generations-Cephalosporinen (z. B. ESBL- E. coli)'
-'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistente Staphylococcus aureus (MRSA)'
+'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli, 3GCR'
+'methicillin-resistant staphylococcus aureus (mrsa)': 'Staphylococcus aureus, MR'
 'p10': 'P10'
 'p25': 'P25'
 'p5': 'P5'
@@ -264,8 +266,8 @@ no unit: "Keine Einheit"
 'unknown': 'Unbekannt'
 'a) literacy skills': 'a) Lesen'
 'b) numeracy skills': 'b) Rechnen'
-'ecdc': 'Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)'
-'who': 'Weltgesundheitsorganisation (WHO)'
+'ecdc': 'EARS-Net (ECDC)'
+'who': 'GLASS (WHO)'
 'a) over 144 kbps to under 2 mbps': 'a) Über 144 kbit/s bis unter 2 Mbit/s'
 'b) 2 mbps to under 10 mbps': 'b) 2 Mbit/s bis unter 10 Mbit/s'
 'c) 10 mbps to under 30 mbps': 'c) 10 Mbit/s bis unter 30 Mbit/s'
@@ -331,9 +333,18 @@ no unit: "Keine Einheit"
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
+'political leadership and central administration, foreign affairs': 'Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten'
+'police': 'Polizei'
+'education, science, research, cultural affairs': 'Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten'
+'health, environment, sports and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
+'supreme/constitutional courts': 'Oberste/Verfassungsgerichte'
+'higher-level courts': 'Übergeordnete Gerichte'
+'lower-level courts': 'Untergeordnete Gerichte'
 
 #Zeitreihen
 #Z_01021_1
+'at-risk-of-poverty rate (according to eurostat definition) (%)': 'Armutsgefährdungsquote'
+#Z_01021_1a
 'at-risk-of-poverty rate (according to eurostat definition) (%)': 'Armutsgefährdungsquote'
 #Z_01022_1
 'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
@@ -891,6 +902,10 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_16071_3
+'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Stellenverteilung von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung'
+#Z_16071_4
+'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung'
 
 #Zusatz
 total: Insgesamt
