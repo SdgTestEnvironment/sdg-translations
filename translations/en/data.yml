@@ -36,6 +36,7 @@ no unit: "No Unit"
 'relative to gdp': 'Relative to GDP (%)'
 'as proportion of total gross value added': 'As proportion of total gross value added (%)'
 'ph-value': 'pH-value'
+'points': 'Points'
 'per real gdp (2010 = 100)': 'Per real GDP (2010 = 100)'
 'per real gdp (2015 = 100)': 'Per real GDP (2015 = 100)'
 'per 1 mn inhabitants': 'Per 1 million inhabitants'
@@ -62,10 +63,12 @@ no unit: "No Unit"
 'region': 'Region'
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
+'country of origin': 'Country of origin'
 'household expenditures on health': 'Household expenditures on health'
 'income quintile': 'Income quintile'
 'indicator': 'Indicator'
 'items': 'Items'
+'level of court': 'Level of court'
 'level of waterstress': 'Level of waterstress'
 'unit multiplicator': 'Unit multiplicator'
 'observation status': 'Observation status'
@@ -78,6 +81,7 @@ no unit: "No Unit"
 'reporting type': 'Reporting type'
 'level of risk of extinction': 'Level of risk of extinction'
 'sea': 'Sea'
+'field of work': 'Field of work'
 'sector': 'Sector'
 'time series': 'Time series'
 'sex': 'Sex'
@@ -102,8 +106,6 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
-'field of work': 'Field of work'
-'level of court': 'Level of court'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -211,6 +213,12 @@ no unit: "No Unit"
 'safe': 'Safe'
 'unsafe': 'Unsafe'
 'very unsafe': 'Very unsafe'
+'afghanistan': 'Afghanistan'
+'iraq': 'Iraq'
+'iran': 'Iran'
+'russian federation': 'Russian Federation'
+'syria': 'Syria'
+'turkey': 'Turkey'
 'greater 10 percentage': 'Greater 10 %'
 'greater 25 percentage': 'Greater 25 %'
 'sdg indicator 4-2-2': 'SDG indicator 4.2.2'
@@ -221,6 +229,9 @@ no unit: "No Unit"
 'population living in an area with crime, violence or vandalism': 'Population living in an area with crime, violence or vandalism'
 'population living in an area with noise pollution': 'Population living in an area with noise pollution'
 'population living in households with moisture damages': 'Population living in households with moisture damages'
+'higher-level courts': 'Higher-level courts'
+'lower-level courts': 'Lower-level courts'
+'supreme/constitutional courts': 'Supreme/Constitutional courts'
 'share of withdrawal in renewable water resources': 'Share of withdrawal in renewable water resources'
 'share of withdrawal in renewable water resources (excluding cooling water)': 'Share of withdrawal in renewable water resources (excluding cooling water)'
 'd) pharmacists': 'Pharmacists'
@@ -249,6 +260,10 @@ no unit: "No Unit"
 'd) rudiments remaining': 'Rudiments remaining'
 'baltic sea': 'Baltic sea'
 'greater north sea': 'Greater North Sea'
+'political leadership and central administration, foreign affairs': 'Political leadership and central administration, foreign affairs'
+'police': 'Police'
+'education, science, research, cultural affairs': 'Education, science, research, cultural affairs'
+'health, environment, sports and recreation': 'Health, environment, sports and recreation'
 'general government': 'General government'
 'corporations': 'Corporations'
 'applications finally processed': 'Applications finally processed'
@@ -333,13 +348,6 @@ no unit: "No Unit"
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
-'political leadership and central administration, foreign affairs': 'Political leadership and central administration, foreign affairs'
-'police': 'Police'
-'education, science, research, cultural affairs': 'Education, science, research, cultural affairs'
-'health, environment, sports and recreation': 'Health, environment, sports and recreation'
-'supreme/constitutional courts': 'Supreme/Constitutional courts'
-'higher-level courts': 'Higher-level courts'
-'lower-level courts': 'Lower-level courts'
 
 #Time series
 #Z_01021_1
@@ -653,7 +661,7 @@ no unit: "No Unit"
 #Z_10073_1
 'total of deaths recorded in germany': 'Total of deaths recorded in Germany'
 #Z_10074_1
-'proportion of people seeking protection as a percentage of the total population': 'Proportion of people seeking protection as a percentage of the total population'
+'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Proportion of people seeking protection with granted protection status as a percentage of the total population'
 #Z_10091_1
 'net development expenditures': 'Total official and private resource flows for development (net disbursements)'
 #Z_11011_1
@@ -828,6 +836,10 @@ no unit: "No Unit"
 'total female persons in employment (%)': 'Total female persons in employment'
 #Z_16071_2
 'female employees in public sector (%)': 'Female employees in public sector'
+#Z_16071_3
+'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Proportions of positions of women in the public service compared to the national distribution'
+#Z_16071_4
+'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Ratio of proportion of women in the judiciary to proportion of women in the total population'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years (%)': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
 #Z_16091_1
@@ -871,7 +883,7 @@ no unit: "No Unit"
 #Z_17131_3
 'consumption by private households': 'Consumption by private households'
 #Z_17131_4
-'debt level of the total public budget': 'Debt level of the total public budget'
+'debt level of the total public budget': 'Debts of the total public budget'
 #Z_17131_5
 'government fiscal balance': 'Government fiscal balance'
 #Z_17131_6
@@ -902,10 +914,6 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_16071_3
-'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Proportions of positions of women in the public service compared to the national distribution'
-#Z_16071_4
-'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Ratio of proportion of women in the judiciary to proportion of women in the total population'
 
 #Addition
 

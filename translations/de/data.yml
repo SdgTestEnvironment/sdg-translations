@@ -36,6 +36,7 @@ no unit: "Keine Einheit"
 'relative to gdp': 'Verhältnis zum BIP (%)'
 'as proportion of total gross value added': 'Verhältnis zur Bruttowertschöpfung insgesamt (%)'
 'ph-value': 'pH-Wert'
+'points': 'Punkte'
 'per real gdp (2010 = 100)': 'Pro realem BIP (2010 = 100)'
 'per real gdp (2015 = 100)': 'Pro realem BIP (2015 = 100)'
 'per 1 mn inhabitants': 'Je 1 Million Einwohner'
@@ -53,7 +54,7 @@ no unit: "Keine Einheit"
 'conversion': 'Umrechnung'
 'declination': 'Ausgang des Antragsverfahrens'
 'disability': 'Behinderungsstatus'
-'domain': 'Bereich'
+'domain': 'Politikbereiche'
 'economic sector': 'Wirtschaftszweig'
 'educational level': 'Bildungsniveau'
 'education level': 'Ausbildungsgrad'
@@ -62,10 +63,12 @@ no unit: "Keine Einheit"
 'region': 'Region'
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'frequency': 'Häufigkeit'
+'country of origin': 'Herkunftsland'
 'household expenditures on health': 'Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
 'indicator': 'Indikator'
 'items': 'Probleme'
+'level of court': 'Gerichtsebene'
 'level of waterstress': 'Grad der Wasserknappheit'
 'unit multiplicator': 'Einheitsmultiplikator'
 'observation status': 'Beobachtungsstatus'
@@ -78,6 +81,7 @@ no unit: "Keine Einheit"
 'reporting type': 'Berichtstyp'
 'level of risk of extinction': 'Gefährdungskategorie'
 'sea': 'Meer'
+'field of work': 'Aufgabenbereiche'
 'sector': 'Sektor'
 'time series': 'Zeitreihe'
 'sex': 'Geschlecht'
@@ -102,8 +106,6 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
-'field of work': 'Aufgabenbereiche'
-'level of court': 'Gerichtsebene'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -211,6 +213,12 @@ no unit: "Keine Einheit"
 'safe': 'Eher sicher'
 'unsafe': 'Eher unsicher'
 'very unsafe': 'Sehr unsicher'
+'afghanistan': 'Afghanistan'
+'iraq': 'Irak'
+'iran': 'Iran'
+'russian federation': 'Russische Föderation'
+'syria': 'Syrien'
+'turkey': 'Türkei'
 'greater 10 percentage': 'Größer 10 %'
 'greater 25 percentage': 'Größer 25 %'
 'sdg indicator 4-2-2': 'SDG-Indikator 4.2.2'
@@ -221,6 +229,9 @@ no unit: "Keine Einheit"
 'population living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt'
 'population living in an area with noise pollution': 'Bevölkerung mit Lärmbelästigung in deren Wohnumgebung'
 'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
+'higher-level courts': 'Übergeordnete Gerichte'
+'lower-level courts': 'Untergeordnete Gerichte'
+'supreme/constitutional courts': 'Oberste/Verfassungsgerichte'
 'share of withdrawal in renewable water resources': 'Anteil der Gewinnung an den erneuerbaren Wasserressourcen'
 'share of withdrawal in renewable water resources (excluding cooling water)': 'Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
 'd) pharmacists': 'Apotheker'
@@ -249,6 +260,10 @@ no unit: "Keine Einheit"
 'd) rudiments remaining': 'Phänotypische Erhaltungspopulationen'
 'baltic sea': 'Ostsee'
 'greater north sea': 'Nordsee'
+'political leadership and central administration, foreign affairs': 'Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten'
+'police': 'Polizei'
+'education, science, research, cultural affairs': 'Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten'
+'health, environment, sports and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
 'general government': 'Staat'
 'corporations': 'Unternehmen'
 'applications finally processed': 'Abschließend bearbeitete Anträge'
@@ -333,13 +348,6 @@ no unit: "Keine Einheit"
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
-'political leadership and central administration, foreign affairs': 'Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten'
-'police': 'Polizei'
-'education, science, research, cultural affairs': 'Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten'
-'health, environment, sports and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
-'supreme/constitutional courts': 'Oberste/Verfassungsgerichte'
-'higher-level courts': 'Übergeordnete Gerichte'
-'lower-level courts': 'Untergeordnete Gerichte'
 
 #Zeitreihen
 #Z_01021_1
@@ -469,7 +477,7 @@ no unit: "Keine Einheit"
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
 #Z_03132_1
-'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Anteil der Blutvergiftungen, die von bestimmten gegen antimikrobielle Wirkstoffe resistenten Organismen verursacht werden'
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Anteil der resistent getesteten Isolate aus Blutkulturen'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
 #Z_04022_1
@@ -653,7 +661,7 @@ no unit: "Keine Einheit"
 #Z_10073_1
 'total of deaths recorded in germany': 'Gesamtzahl der erfassten Todesfälle in Deutschland'
 #Z_10074_1
-'proportion of people seeking protection as a percentage of the total population': 'Anteil der Schutzsuchenden an der gesamten Bevölkerung'
+'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Anteil der Schutzsuchenden mit anerkanntem Schutzstatus an der gesamten Bevölkerung'
 #Z_10091_1
 'net development expenditures': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
 #Z_11011_1
@@ -828,6 +836,10 @@ no unit: "Keine Einheit"
 'total female persons in employment (%)': 'Weibliche Erwerbstätige insgesamt'
 #Z_16071_2
 'female employees in public sector (%)': 'Weibliche Beschäftigte des öffentlichen Dienstes'
+#Z_16071_3
+'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Stellenverteilung von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung'
+#Z_16071_4
+'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years (%)': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 #Z_16091_1
@@ -871,7 +883,7 @@ no unit: "Keine Einheit"
 #Z_17131_3
 'consumption by private households': 'Konsum privater Haushalte'
 #Z_17131_4
-'debt level of the total public budget': 'Schuldenstand des öffentlichen Gesamthaushaltes'
+'debt level of the total public budget': 'Schulden des Öffentlichen Gesamthaushalts'
 #Z_17131_5
 'government fiscal balance': 'Finanzierungssaldo des Staates'
 #Z_17131_6
@@ -902,10 +914,6 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_16071_3
-'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Stellenverteilung von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung'
-#Z_16071_4
-'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung'
 
 #Zusatz
 total: Insgesamt
