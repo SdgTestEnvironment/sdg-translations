@@ -52,7 +52,7 @@ national_metadata_blurb: The international organisations (custodian agencies) th
   for the indicator - the so-called global metadata.<br><br>Here, national time series that fit the global metadata best as well as their
   comparability with the global metadata are presented. Please find further methodical and country-specific information in the related national metadata.
 global_metadata: Global Metadata
-global_metadata_blurb: This table provides information on metadata for SDG indicators.
+global_metadata_blurb: This tab provides relevant information on the SDG indicators - such as the political target, the primary responsible organisation (custodian agency) and a link to the global metadata.
   The <a href="https://unstats.un.org/sdgs/metadata/" target=”_blank”>global metadata</a>
   is provided by the Uited Nations Statistics Division.
 history: Indicator status summary
