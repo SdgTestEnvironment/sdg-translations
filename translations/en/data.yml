@@ -86,7 +86,6 @@ no unit: "No Unit"
 'time series': 'Time series'
 'sex': 'Sex'
 'skill': 'Skill'
-'source': 'Data source'
 'speed': 'Speed'
 'standard accounting system': 'Standard accounting system'
 'subject': 'Subject'
@@ -281,8 +280,6 @@ no unit: "No Unit"
 'unknown': 'Unknown'
 'a) literacy skills': 'a) Literacy skills'
 'b) numeracy skills': 'b) Numeracy skills'
-'ecdc': 'European Centre for Disease Prevention and Control (ECDC)'
-'who': 'World Health Organization (WHO)'
 'a) over 144 kbps to under 2 mbps': 'a) Over 144 kbps to under 2 mbps'
 'b) 2 mbps to under 10 mbps': 'b) 2 mbps to under 10 mbps'
 'c) 10 mbps to under 30 mbps': 'c) 10 mbps to under 30 mbps'
@@ -635,9 +632,9 @@ no unit: "No Unit"
 #Z_09081_1
 'households covered by 3g or lte': 'Households covered by 3G or LTE'
 #Z_10011_1
-'growth rate of income of the total population (%)': 'Growth rate of income of the total population'
+'growth rate of income of the total population (%)': 'Growth rate of net equivalent income of the total population'
 #Z_10011_2
-'growth rate of income of the bottom 40 per cent of the population (%)': 'Growth rate of income of the bottom 40 per cent of the population'
+'growth rate of income of the bottom 40 per cent of the population (%)': 'rowth rate of net equivalent income of the bottom 40 per cent of the population'
 #Z_10021_1
 'population living below 50% of median income, by sex and age': 'Population living below 50% of median income'
 #Z_10041_1
@@ -928,6 +925,9 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'source': 'Data source'
+'ecdc': 'European Centre for Disease Prevention and Control (ECDC)'
+'who': 'World Health Organization (WHO)'
 'female victims of criminal offences having/ had an intimate relationship with the suspect (number)': 'Female victims of criminal offences having/ had an intimate relationship with the suspect'
 'Feelings of insecurity': 'Feelings of insecurity'
 'Using copy or cut and paste tools to duplicate or move information on screen': 'Using copy or cut and paste tools to duplicate or move information on screen'
