@@ -3,7 +3,6 @@
 'bn eur': 'Billion EUR'
 'eur': 'EUR'
 'eur/h': 'EUR per hour'
-'eur per inhabitant': 'EUR per inhabitant'
 'g/dl': 'Grams per decilitre'
 'g/eur constant (2010)': 'Grams per EUR, constant (2010)'
 '2010 = 100': '2010 = 100'
@@ -12,7 +11,6 @@
 'kcal/d': 'Kilocalories per day'
 'litres of pure alcohol per capita': 'Litres of pure alcohol per capita'
 'micrograms per qubic meters': 'Micrograms per cubic meters'
-'mj/d': 'Megajoule per day'
 'mj/eur': 'Megajoule per EUR'
 'mn eur': 'Million EUR'
 'mn h': 'Million hours'
@@ -32,13 +30,9 @@ no unit: "No Unit"
 'per 100 000 adults': 'Per 100,000 adults'
 'per 100 000 inhabitants': 'Per 100,000 inhabitants'
 'per 100 000 live births': 'Per 100,000 live births'
-'per 100 000 in employment': 'Per 100,000 persons in employment'
-'relative to gdp': 'Relative to GDP (%)'
-'as proportion of total gross value added': 'As proportion of total gross value added (%)'
+'per 100 000 in employment': 'Per 100,000 employees'
 'ph-value': 'pH-value'
 'points': 'Points'
-'per real gdp (2010 = 100)': 'Per real GDP (2010 = 100)'
-'per real gdp (2015 = 100)': 'Per real GDP (2015 = 100)'
 'per 1 mn inhabitants': 'Per 1 million inhabitants'
 '%': 'Percentage'
 't per capita': 'Tonnes per capita'
@@ -368,6 +362,8 @@ no unit: "No Unit"
 #Z_01062_2
 'b) government expenditure on education (cofog division 9) (%)': 'Government expenditure on education'
 #Z_01062_3
+'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection'
+#Z_01062_3a
 'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection'
 #Z_02011_1
 'energy supply': 'Energy intake'
@@ -925,6 +921,12 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'eur per inhabitant': 'EUR per inhabitant'
+'mj/d': 'Megajoule per day'
+'relative to gdp': 'Relative to GDP (%)'
+'as proportion of total gross value added': 'As proportion of total gross value added (%)'
+'per real gdp (2010 = 100)': 'Per real GDP (2010 = 100)'
+'per real gdp (2015 = 100)': 'Per real GDP (2015 = 100)'
 'source': 'Data source'
 'ecdc': 'European Centre for Disease Prevention and Control (ECDC)'
 'who': 'World Health Organization (WHO)'

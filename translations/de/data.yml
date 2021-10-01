@@ -3,7 +3,6 @@
 'bn eur': 'Milliarden EUR'
 'eur': 'EUR'
 'eur/h': 'EUR pro Stunde'
-'eur per inhabitant': 'EUR je Einwohner'
 'g/dl': 'Gramm pro Deziliter'
 'g/eur constant (2010)': 'Gramm pro EUR, konstant (2010)'
 '2010 = 100': '2010 = 100'
@@ -12,7 +11,6 @@
 'kcal/d': 'Kilokalorien pro Tag'
 'litres of pure alcohol per capita': 'Liter puren Alkohols pro Kopf'
 'micrograms per qubic meters': 'Mikrogramm pro Kubikmeter'
-'mj/d': 'Megajoule pro Tag'
 'mj/eur': 'Megajoule pro EUR'
 'mn eur': 'Millionen EUR'
 'mn h': 'Millionen Stunden'
@@ -32,13 +30,9 @@ no unit: "Keine Einheit"
 'per 100 000 adults': 'Je 100 000 Erwachsene'
 'per 100 000 inhabitants': 'Je 100 000 Einwohner'
 'per 100 000 live births': 'Je 100 000 Lebendgeborene'
-'per 100 000 in employment': 'Je 100 000 Erwerbstätige'
-'relative to gdp': 'Verhältnis zum BIP (%)'
-'as proportion of total gross value added': 'Verhältnis zur Bruttowertschöpfung insgesamt (%)'
+'per 100 000 in employment': 'Je 100 000 Mitarbeiter'
 'ph-value': 'pH-Wert'
 'points': 'Punkte'
-'per real gdp (2010 = 100)': 'Pro realem BIP (2010 = 100)'
-'per real gdp (2015 = 100)': 'Pro realem BIP (2015 = 100)'
 'per 1 mn inhabitants': 'Je 1 Million Einwohner'
 '%': 'Prozent'
 't per capita': 'Tonnen pro Kopf'
@@ -369,6 +363,8 @@ no unit: "Keine Einheit"
 'b) government expenditure on education (cofog division 9) (%)': 'Staatsausgaben für Bildung'
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung'
+#Z_01062_3a
+'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung'
 #Z_02011_1
 'energy supply': 'Energiezufuhr'
 #Z_02012_1
@@ -528,7 +524,7 @@ no unit: "Keine Einheit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
-'a) population using safely managed sanitation services (%)': 'Bevölkerung mit einer sicher verwalteten Abwasserversorgung'
+'a) population using safely managed sanitation services (%)': 'Bevölkerung mit einer sicher verwalteten Abwasserentsorgung'
 #Z_06021_2
 'b) population with a bathtub or a shower (%)': 'Bevölkerung mit einer Badewanne oder Dusche'
 #Z_06031_1
@@ -923,6 +919,12 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'eur per inhabitant': 'EUR je Einwohner'
+'mj/d': 'Megajoule pro Tag'
+'relative to gdp': 'Verhältnis zum BIP (%)'
+'as proportion of total gross value added': 'Verhältnis zur Bruttowertschöpfung insgesamt (%)'
+'per real gdp (2010 = 100)': 'Pro realem BIP (2010 = 100)'
+'per real gdp (2015 = 100)': 'Pro realem BIP (2015 = 100)'
 'source': 'Datenquelle'
 'ecdc': 'Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)'
 'who': 'Weltgesundheitsorganisation (WHO)'
