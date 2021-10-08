@@ -374,7 +374,7 @@ no unit: "Keine Einheit"
 #Z_02022_1
 'overweight among children under the age of 5 years (%)': 'Übergewicht'
 #Z_02022_2
-'wasting among children under the age of 5 years (%)': 'Untergewicht'
+'wasting among children under the age of 5 years (%)': 'Auszehrung'
 #Z_02023_1
 'hb concentrations in female adolescents (g/dl)': 'Hb-Konzentrationen bei weiblichen Jugendlichen'
 #Z_02031_1
@@ -428,7 +428,7 @@ no unit: "Keine Einheit"
 #Z_03042_1
 'mortality due to suicide': 'Sterblichkeit infolge von Suizid'
 #Z_03051_1
-'inpatient treatment of substance use disorders': 'Stationäre Behandlung bei Substanzmissbrauch'
+'inpatient treatment of substance use disorders': 'Stationäre Behandlung bei Störungen durch Substanzgebrauch'
 #Z_03051_2
 'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren'
 #Z_03052_1
@@ -494,9 +494,9 @@ no unit: "Keine Einheit"
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
-'female victims of sexual violence by an intimate partner': 'Weibliche Opfer sexueller Gewalt durch einen intimen Partner'
+'female victims of sexual violence by an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Intimpartner/-innen'
 #Z_05022_1
-'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch eine andere Person als einen intimen Partner'
+'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/ -innen waren'
 #Z_05031_1
 'married girls': 'Verheiratete Mädchen'
 #Z_05032_1
@@ -516,9 +516,9 @@ no unit: "Keine Einheit"
 #Z_05071_3
 'agricultural holdings with the legal of a form sole proprietorship': 'Betriebe der Rechtsform Einzelunternehmen'
 #Z_05081_1
-'mobile penetration rate': 'Penetrationsrate Mobilfunk'
-#Z_05081_2
 'private households with at least one mobile phone (%)': 'Privathaushalte mit mindestens einem Mobiltelefon'
+#Z_05081_2
+'mobile penetration rate': 'Penetrationsrate Mobilfunk'
 #Z_06011_1
 'population using safely managed drinking water services (%)': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
 #Z_06011_2
@@ -566,7 +566,7 @@ no unit: "Keine Einheit"
 #Z_08011_1
 'annual growth rate of real gdp per capita (%)': 'Jährliche Wachstumsrate des realen BIP pro Kopf'
 #Z_08021_1
-'annual growth rate of real gdp per employed person (%)': 'Jährliche Wachstumsrate des realen BIP pro Beschäftigten'
+'annual growth rate of real gdp per employed person (%)': 'Jährliche Wachstumsrate des realen BIP je Erwerbstätigen'
 #Z_08041_1
 'rmc': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
 #Z_08042_1
@@ -586,9 +586,9 @@ no unit: "Keine Einheit"
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Nicht-tödliche Arbeitsunfälle'
 #Z_08082_1
-'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Grad der nationalen Einhaltung der Arbeitsrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationaler Gesetzesgrundlagen, nach Geschlecht und Migrationsstatus'
+'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Grad der nationalen Einhaltung der Arbeitsrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationalen Gesetzesgrundlagen'
 #Z_08091_1
-'share of tourism industries to total value added (%)': 'Bruttowertschöpfung der Tourismuswirtschaft'
+'share of tourism industries to total value added (%)': 'Bruttowertschöpfung im Tourismusbereich'
 #Z_08101_1
 'a) branches of payment service providers (per 100 000 adults)': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2
@@ -708,7 +708,7 @@ no unit: "Keine Einheit"
 #Z_12041_5
 'compliance with the minamata convention (%)': 'Minamata Übereinkommen'
 #Z_12042_1
-'a) hazardous waste generated per capita': 'Erzeugte gefährliche Abfälle'
+'a) hazardous waste generated per capita': 'Aufkommen gefährlicher Abfälle'
 #Z_12042_2
 'b) hazardous waste treated': 'Behandelte gefährliche Abfälle'
 #Z_12051_1
@@ -736,7 +736,7 @@ no unit: "Keine Einheit"
 #Z_14051_2
 'protected marine area (%)': 'Meeresfläche, die unter Schutz steht'
 #Z_14061_1
-'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, nicht gemeldeter und ungeregelter Fischerei'
+'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur)': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 #Z_14101_1
@@ -770,9 +770,9 @@ no unit: "Keine Einheit"
 #Z_15061_2
 'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokoll'
 #Z_15061_3
-'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
 #Z_15061_4
-'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
 #Z_15061_5
 'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
 #Z_15071_1
@@ -830,7 +830,7 @@ no unit: "Keine Einheit"
 #Z_16071_2
 'female employees in public sector (%)': 'Weibliche Beschäftigte des öffentlichen Dienstes'
 #Z_16071_3
-'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Stellenverteilung von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung'
+'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Anteil der Stellen von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung'
 #Z_16071_4
 'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung'
 #Z_16072_1
