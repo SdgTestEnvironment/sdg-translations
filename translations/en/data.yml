@@ -49,7 +49,7 @@ no unit: "No Unit"
 'declination': 'Outcome of the application process'
 'disability': 'Disability status'
 'domain': 'Policy area'
-'economic sector': 'Economic activities'
+'economic sector': 'Economic activity'
 'educational level': 'Educational level'
 'education level': 'Education level'
 'ownership': 'Ownership'
@@ -68,7 +68,7 @@ no unit: "No Unit"
 'observation status': 'Observation status'
 'profession': 'Profession'
 'organisational form': 'Organisational form'
-'antimicrobial-resistant organisms': 'Antimicrobial-resistant organism'
+'antimicrobial-resistant organisms': 'Pathogens and resistance'
 'percentiles': 'Percentiles'
 'product type': 'Product type'
 'level of proficiency': 'Level of proficiency'
@@ -652,7 +652,7 @@ no unit: "No Unit"
 #Z_10072_1
 'policy domains and sub-categories of sdg indicators 10.7.2 for germany': 'State of migration policies'
 #Z_10073_1
-'total of deaths recorded in germany': 'Total of deaths recorded in Germany'
+'total of deaths recorded in germany': 'Persons who died during migration'
 #Z_10074_1
 'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Proportion of people seeking protection with granted protection status as a percentage of the total population'
 #Z_10091_1
@@ -907,6 +907,8 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_05091_1
+: 
 
 #Addition
 

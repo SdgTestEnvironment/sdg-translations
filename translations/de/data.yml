@@ -22,18 +22,18 @@
 'mn usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
 no unit: "Keine Einheit"
 'number': 'Anzahl'
-'per 100 inhabitants': 'Je 100 Einwohner'
-'per 1 000 inhabitants': 'Je 1 000 Einwohner'
+'per 100 inhabitants': 'Je 100 Einwohner/ -innen'
+'per 1 000 inhabitants': 'Je 1 000 Einwohner/ -innen'
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
-'per 10 000 inhabitants': 'Je 10 000 Einwohner'
+'per 10 000 inhabitants': 'Je 10 000 Einwohner/ -innen'
 'per 100 000 adults': 'Je 100 000 Erwachsene'
-'per 100 000 inhabitants': 'Je 100 000 Einwohner'
+'per 100 000 inhabitants': 'Je 100 000 Einwohner/ -innen'
 'per 100 000 live births': 'Je 100 000 Lebendgeborene'
-'per 100 000 in employment': 'Je 100 000 Mitarbeiter'
+'per 100 000 in employment': 'Je 100 000 Mitarbeiter/ -innen'
 'ph-value': 'pH-Wert'
 'points': 'Punkte'
-'per 1 mn inhabitants': 'Je 1 Million Einwohner'
+'per 1 mn inhabitants': 'Je 1 Million Einwohner/ -innen'
 '%': 'Prozent'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
@@ -652,7 +652,7 @@ no unit: "Keine Einheit"
 #Z_10072_1
 'policy domains and sub-categories of sdg indicators 10.7.2 for germany': 'Status der Migrationspolitik'
 #Z_10073_1
-'total of deaths recorded in germany': 'Gesamtzahl der erfassten Todesfälle in Deutschland'
+'total of deaths recorded in germany': 'Personen, die während der Migration gestorben sind'
 #Z_10074_1
 'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Anteil der Schutzsuchenden mit anerkanntem Schutzstatus an der gesamten Bevölkerung'
 #Z_10091_1
@@ -672,7 +672,7 @@ no unit: "Keine Einheit"
 #Z_11021_2
 'population that has convenient access to public transport (within 10 minutes walking distance) (%)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)'
 #Z_11031_1
-'ratio of land consumption rate to population growth rate': 'Verhältnis Flächenverbrauchsrate zur Bevölkerungsentwicklung'
+'ratio of land consumption rate to population growth rate': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
 #Z_11031_2
 'proportion of settlement and transport areas to population': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung'
 #Z_11031_3
@@ -907,6 +907,8 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_05091_1
+: 
 
 #Zusatz
 total: Insgesamt
