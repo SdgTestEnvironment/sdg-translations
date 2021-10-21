@@ -1,6 +1,6 @@
 status_blurb: 'Der Berichtsstatus gibt einen Überblick darüber, zu wie vielen SDG-Indikatoren auf dieser Plattform berichtet wird.<br>
   Stehen Informationen zu einem Indikator zur Verfügung wird dieser als <span class="status complete"> Verfügbar </span> markiert. Für andere Indikatoren wird noch nach einer geeigneten Datenquelle gesucht,
-  diese sind an der Markierung <div class="statuses>"<span class="status notstarted"></div> Nicht verfügbar </span> erkennbar. Werden die Zeitreihen für einen Indikator zurzeit für die Darstellung auf dieser Plattform aufbereitet, so befinden
+  diese sind an der Markierung <div class="statuses"><span class="status notstarted"> Nicht verfügbar </span> </div> erkennbar. Werden die Zeitreihen für einen Indikator zurzeit für die Darstellung auf dieser Plattform aufbereitet, so befinden
   sich diese Indikatoren <span class="status inprogress"> In Bearbeitung </span>.<br>
   Nicht zu allen der global vereinbarten Indikatoren liegen Zeitreihen für Deutschland vor. Dafür kann es verschiedene Gründe geben: Bestimmte international relevante Indikatoren
   lassen sich nicht sinnvoll für Deutschland berechnen oder sind nur im globalen Kontext zu beantworten. Solche Indikatoren sind als <span class="status notapplicable"> Nicht zutreffend </span> markiert.'
