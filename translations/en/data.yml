@@ -57,7 +57,7 @@ no unit: "No Unit"
 'region': 'Region'
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
-'country of origin': 'Country of origin'
+'country of origin': 'Country of citizenship'
 'household expenditures on health': 'Household expenditures on health'
 'income quintile': 'Income quintile'
 'indicator': 'Indicator'
@@ -907,7 +907,6 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-
 
 #Addition
 
