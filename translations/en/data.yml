@@ -63,7 +63,7 @@ no unit: "No Unit"
 'indicator': 'Indicator'
 'items': 'Items'
 'level of court': 'Level of court'
-'level of waterstress': 'Level of waterstress'
+'level of waterstress': 'Water use index'
 'unit multiplicator': 'Unit multiplicator'
 'observation status': 'Observation status'
 'profession': 'Profession'
@@ -888,13 +888,15 @@ no unit: "No Unit"
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Labour productivity per hour worked by employee'
 #Z_17141_1
-'national sustainable development strategie (number)': 'National Sustainable Development Strategy'
+'national sustainable development strategie (number)': 'German Sustainable Development Strategy'
 #Z_17151_1
 'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation'
 #Z_17151_2
 'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Proportion of results drawn from country-led result frameworks by providers of development cooperation'
 #Z_17151_3
 'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
+#Z_17151_4
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
 #Z_17191_1

@@ -63,7 +63,7 @@ no unit: "Keine Einheit"
 'indicator': 'Indikator'
 'items': 'Probleme'
 'level of court': 'Gerichtsebene'
-'level of waterstress': 'Grad der Wasserknappheit'
+'level of waterstress': 'Wassernutzungsindex'
 'unit multiplicator': 'Einheitsmultiplikator'
 'observation status': 'Beobachtungsstatus'
 'profession': 'Beruf'
@@ -888,13 +888,15 @@ no unit: "Keine Einheit"
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Arbeitsproduktivität je geleisteter Arbeitnehmerstunde'
 #Z_17141_1
-'national sustainable development strategie (number)': 'Nationale nachhaltige Entwicklungsstrategie'
+'national sustainable development strategie (number)': 'Deutsche Nachhaltigkeitsstrategie'
 #Z_17151_1
 'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
 #Z_17151_2
 'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
 #Z_17151_3
-'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': 'Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden'
+'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden'
+#Z_17151_4
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
 #Z_17191_1
