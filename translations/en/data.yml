@@ -99,6 +99,7 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'legislation': 'Legislation'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -233,8 +234,8 @@ no unit: "No Unit"
 'b) dentists': 'Dentists'
 'public': 'Public'
 'private': 'Private'
-'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli with resistance to 3rd generation cephalosporins (e.g. ESBL- E. coli)'
-'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistant Staphylococcus aureus (MRSA)'
+'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli, 3GCR'
+'methicillin-resistant staphylococcus aureus (mrsa)': 'Staphylococcus aureus, MR'
 'p10': 'P10'
 'p25': 'P25'
 'p5': 'P5'
@@ -339,6 +340,16 @@ no unit: "No Unit"
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
+'convention on biological diversity': 'Convention on Biological Diversity'
+'cartagena protocol': 'Cartagena Protocol'
+'international plant protection convention': 'International Plant Protection Convention'
+'agreement on sanitary and phytosanitary measures of the world trade organisation': 'Agreement on Sanitary and Phytosanitary Measures of the World Trade Organisation'
+'world organisation for animal health': 'World Organisation for Animal Health'
+'convention on international trade in endangered species': 'Convention on International Trade in Endangered Species'
+'ramsar convention': 'Ramsar Convention'
+'convention on the conservation of migratory species of wildanimals': 'Convention on the Conservation of Migratory Species of Wild Animals'
+'world heritage convention': 'World Heritage Convention'
+"international convention for the control and management of ship's ballast water and sediments": "International Convention for the Control and Management of Ship's Ballast Water and Sediments"
 
 #Time series
 #Z_01021_1
@@ -470,7 +481,7 @@ no unit: "No Unit"
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Average of 13 IHR core capacity scores'
 #Z_03132_1
-'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Percentage of bloodstream infections due to selected antimicrobial-resistant organisms'
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Percentage of resistant isolates tested from blood cultures'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
 #Z_04022_1
@@ -784,9 +795,11 @@ no unit: "No Unit"
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
-'b) environmental protection expenditure': 'Environmental protection expenditure'
+'b) oda (disbursements) for biodiversity': 'ODA (disbursements) for biodiversity'
+#Z_15101_3
+'c) environmental protection expenditure': 'Environmental protection expenditure'
 #Z_15111_1
-'b) oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
+'c) oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 #Z_16011_1
 'victims of intentional homicide': 'Victims of intentional homicide'
 #Z_16012_1
@@ -909,6 +922,12 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_15081_1
+'national Legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
+#Z_15081_2
+'national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
+#Z_15081_3
+'online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species': '(2) Online survey on Policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species'
 
 #Addition
 
@@ -923,6 +942,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'b) environmental protection expenditure': 'Environmental protection expenditure'
+'b) oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 'eur per inhabitant': 'EUR per inhabitant'
 'mj/d': 'Megajoule per day'
 'relative to gdp': 'Relative to GDP (%)'
