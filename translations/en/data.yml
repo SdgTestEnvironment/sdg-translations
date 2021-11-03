@@ -62,6 +62,7 @@ no unit: "No Unit"
 'income quintile': 'Income quintile'
 'indicator': 'Indicator'
 'items': 'Items'
+'legislation': 'Legislation'
 'level of court': 'Level of court'
 'level of waterstress': 'Water use index'
 'unit multiplicator': 'Unit multiplicator'
@@ -99,7 +100,6 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
-'legislation': 'Legislation'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -223,6 +223,16 @@ no unit: "No Unit"
 'population living in an area with crime, violence or vandalism': 'Population living in an area with crime, violence or vandalism'
 'population living in an area with noise pollution': 'Population living in an area with noise pollution'
 'population living in households with moisture damages': 'Population living in households with moisture damages'
+'convention on biological diversity': 'Convention on Biological Diversity'
+"international convention for the control and management of ship's ballast water and sediments": "International Convention for the Control and Management of Ship's Ballast Water and Sediments"
+'cartagena protocol': 'Cartagena Protocol'
+'international plant protection convention': 'International Plant Protection Convention'
+'agreement on sanitary and phytosanitary measures of the world trade organisation': 'Agreement on Sanitary and Phytosanitary Measures of the World Trade Organisation'
+'world organisation for animal health': 'World Organisation for Animal Health'
+'convention on international trade in endangered species': 'Convention on International Trade in Endangered Species'
+'ramsar convention': 'Ramsar Convention'
+'convention on the conservation of migratory species of wildanimals': 'Convention on the Conservation of Migratory Species of Wild Animals'
+'world heritage convention': 'World Heritage Convention'
 'higher-level courts': 'Higher-level courts'
 'lower-level courts': 'Lower-level courts'
 'supreme/constitutional courts': 'Supreme/Constitutional courts'
@@ -340,16 +350,6 @@ no unit: "No Unit"
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
-'convention on biological diversity': 'Convention on Biological Diversity'
-'cartagena protocol': 'Cartagena Protocol'
-'international plant protection convention': 'International Plant Protection Convention'
-'agreement on sanitary and phytosanitary measures of the world trade organisation': 'Agreement on Sanitary and Phytosanitary Measures of the World Trade Organisation'
-'world organisation for animal health': 'World Organisation for Animal Health'
-'convention on international trade in endangered species': 'Convention on International Trade in Endangered Species'
-'ramsar convention': 'Ramsar Convention'
-'convention on the conservation of migratory species of wildanimals': 'Convention on the Conservation of Migratory Species of Wild Animals'
-'world heritage convention': 'World Heritage Convention'
-"international convention for the control and management of ship's ballast water and sediments": "International Convention for the Control and Management of Ship's Ballast Water and Sediments"
 
 #Time series
 #Z_01021_1
@@ -761,7 +761,7 @@ no unit: "No Unit"
 #Z_15012_2
 'protected terrestrial areas (%)': 'Terrestrial and freshwater areas covered by protected areas'
 #Z_15021_1
-'above-ground biomass stock in forest': 'Above-ground biomass stock in forest'
+'above-ground biomass stock in forest': 'Carbon balance for the forest ecosystem above ground'
 #Z_15021_2
 'forest area located within protected areas': 'Forest area located within protected areas'
 #Z_15021_3
@@ -790,6 +790,12 @@ no unit: "No Unit"
 'documents issued for the import and export of protected species (number)': 'Documents issued for the import and export of protected species'
 #Z_15071_2
 'seizures by authorities concerning the protection of species (number)': 'Seizures by authorities concerning the protection of species'
+#Z_15081_1
+'national Legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
+#Z_15081_2
+'national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
+#Z_15081_3
+'online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species': '(2) Online survey on Policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species'
 #Z_15091_1
 'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets'
 #Z_15101_1
@@ -922,12 +928,6 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_15081_1
-'national Legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
-#Z_15081_2
-'national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
-#Z_15081_3
-'online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species': '(2) Online survey on Policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species'
 
 #Addition
 
