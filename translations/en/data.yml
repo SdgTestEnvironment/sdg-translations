@@ -88,6 +88,7 @@ no unit: "No Unit"
 'technology': 'Technology'
 'technology sectors': 'Technology sectors'
 'thematic area': 'Thematic area'
+'theme': 'Theme'
 'mode of transport': 'Mode of transport'
 'type of disease': 'Type of disease'
 'form of abuse': 'Form of abuse'
@@ -96,6 +97,7 @@ no unit: "No Unit"
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
 'type of water body': 'Type of water body'
+'typification': 'Typification'
 'urbanisation': 'Degree of urbanisation'
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
@@ -272,13 +274,19 @@ no unit: "No Unit"
 'corporations': 'Corporations'
 'applications finally processed': 'Applications finally processed'
 'applications received': 'Applications received'
+'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
+'population that considers their accommodation too dark': 'Population that considers their accommodation too dark'
 'domestic material consumption (dmc)': 'Domestic material consumption (DMC)'
 'domestic material consumption per real gdp': 'Domestic material consumption per real GDP'
+'rate of overburdening by housing costs': 'Rate of overburdening by housing costs'
 'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
 'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
 'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
+'overcrowding rate': 'Overcrowding rate'
 'raw material consumption (rmc)': 'Raw material consumption (RMC)'
 'raw material consumption per real gdp': 'Raw material consumption per real GDP'
+'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor'
+'population that does not have a toilet for the sole use of their household': 'Population that does not have a toilet for the sole use of their household'
 'divers': 'Divers'
 'female': 'Female'
 'male': 'Male'
@@ -306,6 +314,8 @@ no unit: "No Unit"
 'contraceptive and family planning': 'Section 2: Contraception and family planning'
 'comprehensive sexuality education and information': 'Section 3: Comprehensive sexuality education and information'
 'hiv and hpv': 'Section 4: HIV and HPV'
+'housing conditions': 'Housing conditions'
+'housing deprivation': 'Housing deprivation'
 'inland waterway transport': 'Inland waterway transport'
 'rail transport': 'Rail transport'
 'commercial air transport': 'Commercial air transport'
@@ -342,6 +352,9 @@ no unit: "No Unit"
 'municipal waste': 'Municipal waste'
 'river water bodies': 'River water bodies'
 'open water bodies': 'Open water bodies'
+'rural areas': 'Rural areas'
+'smaller towns and suburbs': 'Smaller towns and suburbs'
+'cities': 'Cities'
 'deposit onto or into land and land treatment and release into water bodies': 'Deposit onto or into land and land treatment and release into water bodies'
 'energy recovery': 'Energy recovery'
 'incineration': 'Incineration'
@@ -678,6 +691,10 @@ no unit: "No Unit"
 'population living in an area with noise pollution': 'Population living in an area with noise pollution'
 #Z_11011_5
 'material deprivation for the housing dimension': 'Material deprivation for the housing dimension, total (1-4 items)'
+#Z_11011_6
+'housing conditions': 'Housing conditions'
+#Z_11011_7
+'housing deprivation': 'Housing deprivation'
 #Z_11021_1
 'population that has convenient access to public transport (within 500 meters) (%)': 'Population that has convenient access to public transport (within 500 meters)'
 #Z_11021_2
@@ -801,7 +818,7 @@ no unit: "No Unit"
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
-'b) oda (disbursements) for biodiversity': 'ODA (disbursements) for biodiversity'
+'b) oda (disbursements) for biodiversity': 'ODA (gross disbursements) for biodiversity'
 #Z_15101_3
 'c) environmental protection expenditure': 'Environmental protection expenditure'
 #Z_15111_1

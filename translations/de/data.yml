@@ -88,6 +88,7 @@ no unit: "Keine Einheit"
 'technology': 'Technologie'
 'technology sectors': 'Technologiesektoren'
 'thematic area': 'Themenbereich'
+'theme': 'Themengebiet'
 'mode of transport': 'Verkehrsträger'
 'type of disease': 'Art der Erkrankung'
 'form of abuse': 'Form der Misshandlung'
@@ -96,6 +97,7 @@ no unit: "Keine Einheit"
 'type of flow': 'Art der Finanzströme'
 'type of waste': 'Abfallart'
 'type of water body': 'Art des Gewässers'
+'typification': 'Räumliche Typologie'
 'urbanisation': 'Verstädterungsgrad'
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
@@ -272,13 +274,19 @@ no unit: "Keine Einheit"
 'corporations': 'Unternehmen'
 'applications finally processed': 'Abschließend bearbeitete Anträge'
 'applications received': 'Eingegangene Anträge'
+'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
+'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 'domestic material consumption (dmc)': 'Inländische Materialverwendung (DMC)'
 'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
+'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
 'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
 'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
 'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
+'overcrowding rate': 'Überbelegungsquote'
 'raw material consumption (rmc)': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
 'raw material consumption per real gdp': 'Inländische Rohstoffverwendung pro realem BIP'
+'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
+'population that does not have a toilet for the sole use of their household': 'Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat'
 'divers': 'Divers'
 'female': 'Weiblich'
 'male': 'Männlich'
@@ -306,6 +314,8 @@ no unit: "Keine Einheit"
 'contraceptive and family planning': 'Abschnitt 2: Empfängnisverhütung und Familienplanung'
 'comprehensive sexuality education and information': 'Abschnitt 3: Umfassende Sexualerziehung und Information'
 'hiv and hpv': 'Abschnitt 4: HIV und HPV'
+'housing conditions': 'Wohnverhältnisse'
+'housing deprivation': 'Deprivation der Unterkunft'
 'inland waterway transport': 'Binnenschifffahrt'
 'rail transport': 'Eisenbahnverkehr'
 'commercial air transport': 'Luftverkehr'
@@ -342,6 +352,9 @@ no unit: "Keine Einheit"
 'municipal waste': 'Siedlungsabfälle insgesamt'
 'river water bodies': 'Fließgewässer'
 'open water bodies': 'Seen und Talsperren'
+'rural areas': 'Ländliche Gebiete'
+'smaller towns and suburbs': 'Kleinere Städte und Vororte'
+'cities': 'Städte'
 'deposit onto or into land and land treatment and release into water bodies': 'Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern'
 'energy recovery': 'Energierückgewinnung'
 'incineration': 'Verbrennung'
@@ -678,6 +691,10 @@ no unit: "Keine Einheit"
 'population living in an area with noise pollution': 'Bevölkerung mit Lärmbelästigung in deren Wohnumgebung'
 #Z_11011_5
 'material deprivation for the housing dimension': 'Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)'
+#Z_11011_6
+'housing conditions': 'Wohnverhältnisse'
+#Z_11011_7
+'housing deprivation': 'Deprivation der Unterkunft'
 #Z_11021_1
 'population that has convenient access to public transport (within 500 meters) (%)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)'
 #Z_11021_2
@@ -801,7 +818,7 @@ no unit: "Keine Einheit"
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
 #Z_15101_2
-'b) oda (disbursements) for biodiversity': 'Auszahlungen (ODA) für Biodiversität'
+'b) oda (disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
 #Z_15101_3
 'c) environmental protection expenditure': 'Umweltschutzausgaben'
 #Z_15111_1
