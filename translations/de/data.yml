@@ -102,6 +102,7 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'Series': 'Themenbereich'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -683,6 +684,10 @@ no unit: "Keine Einheit"
 'net development expenditures': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
 #Z_11011_1
 'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
+#Z_11011_10
+'population that does not have a toilet for the sole use of their household': 'Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat'
+#Z_11011_11
+'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 #Z_11011_2
 'population considering their dwelling as too dark': 'Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet'
 #Z_11011_3
@@ -692,9 +697,13 @@ no unit: "Keine Einheit"
 #Z_11011_5
 'material deprivation for the housing dimension': 'Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)'
 #Z_11011_6
-'housing conditions': 'Wohnverhältnisse'
+'overcrowding rate': 'Überbelegungsquote'
 #Z_11011_7
-'housing deprivation': 'Deprivation der Unterkunft'
+'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
+#Z_11011_8
+'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
+#Z_11011_9
+'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 #Z_11021_1
 'population that has convenient access to public transport (within 500 meters) (%)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)'
 #Z_11021_2
@@ -778,7 +787,7 @@ no unit: "Keine Einheit"
 #Z_15012_2
 'protected terrestrial areas (%)': 'Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht'
 #Z_15021_1
-'above-ground biomass stock in forest': 'Kohlenstoffbilanz des obererdigen Waldökosystems'
+'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
 #Z_15021_2
 'forest area located within protected areas': 'Waldfläche in Schutzgebieten'
 #Z_15021_3
