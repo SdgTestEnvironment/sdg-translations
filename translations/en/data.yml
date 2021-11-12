@@ -37,6 +37,7 @@ no unit: "No Unit"
 '%': 'Percentage'
 't per capita': 'Tonnes per capita'
 '1 000 t': '1,000 tonnes'
+'1 000 m3': '1 000 m³'
 
 #Categories
 'activities': 'Activities'
@@ -89,6 +90,7 @@ no unit: "No Unit"
 'technology sectors': 'Technology sectors'
 'thematic area': 'Thematic area'
 'theme': 'Theme'
+'Series': 'Topic'
 'mode of transport': 'Mode of transport'
 'type of disease': 'Type of disease'
 'form of abuse': 'Form of abuse'
@@ -102,7 +104,6 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
-'Series': 'Topic'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -361,9 +362,9 @@ no unit: "No Unit"
 'incineration': 'Incineration'
 'recovery other than energy recovery': 'Recovery other than energy recovery'
 'cooling water': 'Cooling water'
-'other wastewater that does not have to undergo treatment': 'Other wastewater'
-'safely treated wastewater (total)': 'Wastewater safely treated (total)'
-'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
+'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
+'treated wastewater': 'Treated wastewater'
+'untreated wastewater': 'Untreated wastewater'
 
 #Time series
 #Z_01021_1
@@ -553,7 +554,7 @@ no unit: "No Unit"
 #Z_06021_2
 'b) population with a bathtub or a shower (%)': 'Population with a bathtub or a shower'
 #Z_06031_1
-'wastewater safely treated': 'Wastewater safely treated'
+'wastewater that is safely treated or does not require treatment': 'Wastewater that is safely treated or does not require treatment'
 #Z_06032_1
 'water bodies with good quality': 'Water bodies with good quality'
 #Z_06041_1
@@ -954,6 +955,8 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_17161_1
+'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Progress in multi-stakeholder development effectiveness monitoring frameworks'
 
 #Addition
 
@@ -968,6 +971,10 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'other wastewater that does not have to undergo treatment': 'Other wastewater'
+'safely treated wastewater (total)': 'Wastewater safely treated (total)'
+'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
+'wastewater safely treated': 'Wastewater safely treated'
 'b) environmental protection expenditure': 'Environmental protection expenditure'
 'b) oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 'eur per inhabitant': 'EUR per inhabitant'

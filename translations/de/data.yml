@@ -37,6 +37,7 @@ no unit: "Keine Einheit"
 '%': 'Prozent'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
+'1 000 m3': '1 000 m³'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -89,6 +90,7 @@ no unit: "Keine Einheit"
 'technology sectors': 'Technologiesektoren'
 'thematic area': 'Themenbereich'
 'theme': 'Themengebiet'
+'Series': 'Themenbereich'
 'mode of transport': 'Verkehrsträger'
 'type of disease': 'Art der Erkrankung'
 'form of abuse': 'Form der Misshandlung'
@@ -102,7 +104,6 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
-'Series': 'Themenbereich'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -361,9 +362,9 @@ no unit: "Keine Einheit"
 'incineration': 'Verbrennung'
 'recovery other than energy recovery': 'Verwertung anderer als die der Energierückgewinnung'
 'cooling water': 'Kühlwasser'
-'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
-'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
-'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
+'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
+'treated wastewater': 'Behandeltes Abwasser'
+'untreated wastewater': 'Unbehandeltes Abwasser'
 
 #Zeitreihen
 #Z_01021_1
@@ -553,7 +554,7 @@ no unit: "Keine Einheit"
 #Z_06021_2
 'b) population with a bathtub or a shower (%)': 'Bevölkerung mit einer Badewanne oder Dusche'
 #Z_06031_1
-'wastewater safely treated': 'Sicher behandeltes Abwasser'
+'wastewater that is safely treated or does not require treatment': 'Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist'
 #Z_06032_1
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
 #Z_06041_1
@@ -954,6 +955,8 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_17161_1
+'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritt bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
 
 #Zusatz
 total: Insgesamt
@@ -966,6 +969,10 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
+'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
+'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
+'wastewater safely treated': 'Sicher behandeltes Abwasser'
 'b) environmental protection expenditure': 'Umweltschutzausgaben'
 'b) oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungs-ausgaben (ODA) für den Forstsektor'
 'eur per inhabitant': 'EUR je Einwohner'
