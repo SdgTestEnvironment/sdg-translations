@@ -25,6 +25,7 @@ download_csv_title: Download as CSV
 source: Data source
 sources: Data sources
 statistics: Statistics
+topic: Topic
 geographical_area: Geographic coverage
 unit_of_measurement: Unit of measurement
 computation_units_plural: Units of measurement
