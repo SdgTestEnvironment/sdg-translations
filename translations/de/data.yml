@@ -258,6 +258,8 @@ no unit: "Keine Einheit"
 'p90': 'P90'
 'p95': 'P95'
 'leasehold': 'Pacht'
+'pm10': 'PM10'
+'pm2.5': 'PM2.5'
 'minimum requirement level i': 'Mindestniveau Stufe I'
 'minimum requirement level ii': 'Mindestniveau Stufe II'
 'b) at risk': 'Gefährdet'
@@ -554,6 +556,8 @@ no unit: "Keine Einheit"
 #Z_06021_2
 'b) population with a bathtub or a shower (%)': 'Bevölkerung mit einer Badewanne oder Dusche'
 #Z_06031_1
+'wastewater and cooling water': 'Abwasser und Kühlwasser'
+#Z_06031_2
 'wastewater that is safely treated or does not require treatment': 'Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist'
 #Z_06032_1
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
@@ -683,6 +687,14 @@ no unit: "Keine Einheit"
 'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Anteil der Schutzsuchenden mit anerkanntem Schutzstatus an der gesamten Bevölkerung'
 #Z_10091_1
 'net development expenditures': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
+#Z_11011_06
+'overcrowding rate': 'Überbelegungsquote'
+#Z_11011_07
+'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
+#Z_11011_08
+'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
+#Z_11011_09
+'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 #Z_11011_1
 'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
 #Z_11011_10
@@ -697,14 +709,6 @@ no unit: "Keine Einheit"
 'population living in an area with noise pollution': 'Bevölkerung mit Lärmbelästigung in deren Wohnumgebung'
 #Z_11011_5
 'material deprivation for the housing dimension': 'Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)'
-#Z_11011_6
-'overcrowding rate': 'Überbelegungsquote'
-#Z_11011_7
-'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
-#Z_11011_8
-'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
-#Z_11011_9
-'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 #Z_11021_1
 'population that has convenient access to public transport (within 500 meters) (%)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)'
 #Z_11021_2
@@ -729,6 +733,8 @@ no unit: "Keine Einheit"
 'total municipal solid waste generated': 'Siedlungsabfälle insgesamt'
 #Z_11062_1
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>'
+#Z_11062_2
+'share of the population with excessive exposure to fine particulate matter': 'Anteil der Bevölkerung mit erhöhter Feinstaubexposition'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 #Z_11072_1
@@ -943,6 +949,8 @@ no unit: "Keine Einheit"
 'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden'
 #Z_17151_4
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
+#Z_17161_1
+'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritt bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
 #Z_17191_1
@@ -955,8 +963,6 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_17161_1
-'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritt bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
 
 #Zusatz
 total: Insgesamt

@@ -258,6 +258,8 @@ no unit: "No Unit"
 'p90': 'P90'
 'p95': 'P95'
 'leasehold': 'Leasehold'
+'pm10': 'PM10'
+'pm2.5': 'PM2.5'
 'minimum requirement level i': 'Minimum requirement level I'
 'minimum requirement level ii': 'Minimum requirement level II'
 'b) at risk': 'At risk'
@@ -554,6 +556,8 @@ no unit: "No Unit"
 #Z_06021_2
 'b) population with a bathtub or a shower (%)': 'Population with a bathtub or a shower'
 #Z_06031_1
+'wastewater and cooling water': 'Wastewater and cooling water'
+#Z_06031_2
 'wastewater that is safely treated or does not require treatment': 'Wastewater that is safely treated or does not require treatment'
 #Z_06032_1
 'water bodies with good quality': 'Water bodies with good quality'
@@ -683,6 +687,14 @@ no unit: "No Unit"
 'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Proportion of people seeking protection with granted protection status as a percentage of the total population'
 #Z_10091_1
 'net development expenditures': 'Total official and private resource flows for development (net disbursements)'
+#Z_11011_06
+'overcrowding rate': 'Overcrowding rate'
+#Z_11011_07
+'rate of overburdening by housing costs': 'Rate of overburdening by housing costs'
+#Z_11011_08
+'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor'
+#Z_11011_09
+'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
 #Z_11011_1
 'population living in households with moisture damages': 'Population living in households with moisture damages'
 #Z_11011_10
@@ -697,14 +709,6 @@ no unit: "No Unit"
 'population living in an area with noise pollution': 'Population living in an area with noise pollution'
 #Z_11011_5
 'material deprivation for the housing dimension': 'Material deprivation for the housing dimension, total (1-4 items)'
-#Z_11011_6
-'overcrowding rate': 'Overcrowding rate'
-#Z_11011_7
-'rate of overburdening by housing costs': 'Rate of overburdening by housing costs'
-#Z_11011_8
-'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor'
-#Z_11011_9
-'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
 #Z_11021_1
 'population that has convenient access to public transport (within 500 meters) (%)': 'Population that has convenient access to public transport (within 500 meters)'
 #Z_11021_2
@@ -729,6 +733,8 @@ no unit: "No Unit"
 'total municipal solid waste generated': 'Municipal solid waste in total'
 #Z_11062_1
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Population weighted annual mean levels of PM<sub>10</sub>'
+#Z_11062_2
+'share of the population with excessive exposure to fine particulate matter': 'Share of the population with excessive exposure to fine particulate matter'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
 #Z_11072_1
@@ -943,6 +949,8 @@ no unit: "No Unit"
 'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
 #Z_17151_4
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
+#Z_17161_1
+'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Progress in multi-stakeholder development effectiveness monitoring frameworks'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
 #Z_17191_1
@@ -955,8 +963,6 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_17161_1
-'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Progress in multi-stakeholder development effectiveness monitoring frameworks'
 
 #Addition
 
