@@ -35,9 +35,9 @@ no unit: "Keine Einheit"
 'points': 'Punkte'
 'per 1 mn inhabitants': 'Je 1 Million Einwohner/ -innen'
 '%': 'Prozent'
+'1 000 m3': '1 000 m³'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
-'1 000 m3': '1 000 m³'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -100,7 +100,7 @@ no unit: "Keine Einheit"
 'type of flow': 'Art der Finanzströme'
 'type of waste': 'Abfallart'
 'type of water body': 'Art des Gewässers'
-'typification': 'Räumliche Typologie'
+'typification': 'Verstädterungsgrad'
 'urbanisation': 'Verstädterungsgrad'
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
@@ -699,7 +699,7 @@ no unit: "Keine Einheit"
 #Z_11011_1
 'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
 #Z_11011_10
-'population that does not have a toilet for the sole use of their household': 'Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat'
+'population that does not have a toilet for the sole use of their household': 'Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat'
 #Z_11011_11
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 #Z_11011_2

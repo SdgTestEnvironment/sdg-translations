@@ -35,9 +35,9 @@ no unit: "No Unit"
 'points': 'Points'
 'per 1 mn inhabitants': 'Per 1 million inhabitants'
 '%': 'Percentage'
+'1 000 m3': '1 000 m³'
 't per capita': 'Tonnes per capita'
 '1 000 t': '1,000 tonnes'
-'1 000 m3': '1 000 m³'
 
 #Categories
 'activities': 'Activities'
@@ -100,7 +100,7 @@ no unit: "No Unit"
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
 'type of water body': 'Type of water body'
-'typification': 'Typification'
+'typification': 'Degree of urbanisatio'
 'urbanisation': 'Degree of urbanisation'
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
@@ -358,7 +358,7 @@ no unit: "No Unit"
 'river water bodies': 'River water bodies'
 'open water bodies': 'Open water bodies'
 'rural areas': 'Rural areas'
-'smaller towns and suburbs': 'Smaller towns and suburbs'
+'smaller towns and suburbs': 'Towns and suburbs'
 'cities': 'Cities'
 'deposit onto or into land and land treatment and release into water bodies': 'Deposit onto or into land and land treatment and release into water bodies'
 'energy recovery': 'Energy recovery'
@@ -691,17 +691,17 @@ no unit: "No Unit"
 #Z_11011_06
 'overcrowding rate': 'Overcrowding rate'
 #Z_11011_07
-'rate of overburdening by housing costs': 'Rate of overburdening by housing costs'
+'rate of overburdening by housing costs': 'Housing cost overburden rate'
 #Z_11011_08
-'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor'
+'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor'
 #Z_11011_09
-'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
+'population that has neither a bath, nor a shower in their home': 'Population having neither a bath, nor a shower in their dwelling'
 #Z_11011_1
 'population living in households with moisture damages': 'Population living in households with moisture damages'
 #Z_11011_10
-'population that does not have a toilet for the sole use of their household': 'Population that does not have a toilet for the sole use of their household'
+'population that does not have a toilet for the sole use of their household': 'Population not having indoor flushing toilet for the sole use of their household'
 #Z_11011_11
-'population that considers their accommodation too dark': 'Population that considers their accommodation too dark'
+'population that considers their accommodation too dark': 'Population considering their dwelling as too dark'
 #Z_11011_2
 'population considering their dwelling as too dark': 'Population considering their dwelling as too dark'
 #Z_11011_3
