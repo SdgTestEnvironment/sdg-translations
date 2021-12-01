@@ -105,6 +105,7 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'characteristics': 'Ausprägung'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -368,6 +369,8 @@ no unit: "Keine Einheit"
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
+'available': 'Vorhanden'
+'not available': 'Nicht vorhanden'
 
 #Zeitreihen
 #Z_01021_1
@@ -553,9 +556,9 @@ no unit: "Keine Einheit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
-'a) population using safely managed sanitation services (%)': 'Bevölkerung mit einer sicher verwalteten Abwasserentsorgung'
+'a) population using safely managed sanitation services (%)': 'Sicher verwaltete Abwasserentsorgung'
 #Z_06021_2
-'b) population with a bathtub or a shower (%)': 'Bevölkerung mit einer Badewanne oder Dusche'
+'b) population with a bathtub or a shower (%)': 'Badewanne oder Dusche'
 #Z_06031_1
 'wastewater and cooling water': 'Abwasser und Kühlwasser'
 #Z_06031_2

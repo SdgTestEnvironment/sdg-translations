@@ -105,6 +105,7 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'characteristics': 'Characteristics'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -368,6 +369,8 @@ no unit: "No Unit"
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
+'available': 'Available'
+'not available': 'Not available'
 
 #Time series
 #Z_01021_1
@@ -553,9 +556,9 @@ no unit: "No Unit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Population connected to the public water supply system'
 #Z_06021_1
-'a) population using safely managed sanitation services (%)': 'Population using safely managed sanitation services'
+'a) population using safely managed sanitation services (%)': 'Safely managed sanitation services'
 #Z_06021_2
-'b) population with a bathtub or a shower (%)': 'Population with a bathtub or a shower'
+'b) population with a bathtub or a shower (%)': 'Bathtub or a shower'
 #Z_06031_1
 'wastewater and cooling water': 'Wastewater and cooling water'
 #Z_06031_2
