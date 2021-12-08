@@ -45,6 +45,7 @@ no unit: "No Unit"
 'age of mother': 'Age of mother'
 'area': 'Area'
 'area of law': 'Area of law'
+'characteristics': 'Availability'
 'classification': 'Classification'
 'conversion': 'Conversion'
 'declination': 'Outcome of the application process'
@@ -105,7 +106,6 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
-'characteristics': 'Characteristics'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -165,6 +165,8 @@ no unit: "No Unit"
 'area 3 employment and economic benefits': 'Area 3: Employment and economic benefit'
 'area 2 violence against women': 'Area 2: Violence against women'
 'area 1 overarching legal frameworks and public life': 'Area 1: Overarching legal frameworks and public life'
+'not available': 'Not available'
+'available': 'Available'
 'class 3 areas (elevation 2500-3500 meters)': 'Class 3 areas (elavation 2500-3500 meters)'
 'class 4 areas (elevation 1500-2500 meters)': 'Class 4 areas (elavation 1500-2500 meters)'
 'class 5 areas (elevation 1000-1500 meters)': 'Class 5 areas (elavation 1000-1500 meters)'
@@ -369,8 +371,6 @@ no unit: "No Unit"
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
-'available': 'Available'
-'not available': 'Not available'
 
 #Time series
 #Z_01021_1
@@ -556,9 +556,9 @@ no unit: "No Unit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Population connected to the public water supply system'
 #Z_06021_1
-'a) population using safely managed sanitation services (%)': 'Safely managed sanitation services'
+'toilet': 'Toilet'
 #Z_06021_2
-'b) population with a bathtub or a shower (%)': 'Bathtub or a shower'
+'bathtub or shower': 'Bathtub or shower'
 #Z_06031_1
 'wastewater and cooling water': 'Wastewater and cooling water'
 #Z_06031_2
@@ -696,7 +696,7 @@ no unit: "No Unit"
 #Z_11011_07
 'rate of overburdening by housing costs': 'Housing cost overburden rate'
 #Z_11011_08
-'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor'
+'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor'
 #Z_11011_09
 'population that has neither a bath, nor a shower in their home': 'Population having neither a bath, nor a shower in their dwelling'
 #Z_11011_1
@@ -980,6 +980,8 @@ area2: Area
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
+'a) population using safely managed sanitation services (%)': 'Population using safely managed sanitation services'
+'b) population with a bathtub or a shower (%)': 'Population with a bathtub or a shower'
 'wastewater safely treated': 'Wastewater safely treated'
 'total female persons in employment (%)': 'Total female persons in employment'
 'female employees in public sector (%)': 'Female employees in public sector'

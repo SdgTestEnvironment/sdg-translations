@@ -45,6 +45,7 @@ no unit: "Keine Einheit"
 'age of mother': 'Alter der Mutter'
 'area': 'Gebiet'
 'area of law': 'Rechtsgebiet'
+'characteristics': 'Verfügbarkeit'
 'classification': 'Klassifikation'
 'conversion': 'Umrechnung'
 'declination': 'Ausgang des Antragsverfahrens'
@@ -105,7 +106,6 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
-'characteristics': 'Ausprägung'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -165,6 +165,8 @@ no unit: "Keine Einheit"
 'area 3 employment and economic benefits': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'area 2 violence against women': 'Area 2: Gewalt gegen Frauen'
 'area 1 overarching legal frameworks and public life': 'Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben'
+'not available': 'Nicht vorhanden'
+'available': 'Vorhanden'
 'class 3 areas (elevation 2500-3500 meters)': 'Gebiete der Klasse 3 (Höhe 2500-3500 Meter)'
 'class 4 areas (elevation 1500-2500 meters)': 'Gebiete der Klasse 4 (Höhe 1500-2500 Meter)'
 'class 5 areas (elevation 1000-1500 meters)': 'Gebiete der Klasse 5 (Höhe 1000-1500 Meter)'
@@ -369,8 +371,6 @@ no unit: "Keine Einheit"
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
-'available': 'Vorhanden'
-'not available': 'Nicht vorhanden'
 
 #Zeitreihen
 #Z_01021_1
@@ -556,9 +556,9 @@ no unit: "Keine Einheit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
-'a) population using safely managed sanitation services (%)': 'Sicher verwaltete Abwasserentsorgung'
+'toilet': 'Toilette'
 #Z_06021_2
-'b) population with a bathtub or a shower (%)': 'Badewanne oder Dusche'
+'bathtub or shower': 'Badewanne oder Dusche'
 #Z_06031_1
 'wastewater and cooling water': 'Abwasser und Kühlwasser'
 #Z_06031_2
@@ -978,6 +978,8 @@ area2: Bereich
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
+'a) population using safely managed sanitation services (%)': 'Bevölkerung mit einer sicher verwalteten Abwasserentsorgung'
+'b) population with a bathtub or a shower (%)': 'Bevölkerung mit einer Badewanne oder Dusche'
 'wastewater safely treated': 'Sicher behandeltes Abwasser'
 'total female persons in employment (%)': 'Weibliche Erwerbstätige insgesamt'
 'female employees in public sector (%)': 'Weibliche Beschäftigte des öffentlichen Dienstes'
