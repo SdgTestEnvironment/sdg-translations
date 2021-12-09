@@ -556,9 +556,9 @@ no unit: "Keine Einheit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
-'toilet': 'Toilette'
+'toilet': 'Zugang zu einer Toilette'
 #Z_06021_2
-'bathtub or shower': 'Badewanne oder Dusche'
+'bathtub or shower': 'Zugang zu Badewanne oder Dusche'
 #Z_06031_1
 'wastewater and cooling water': 'Abwasser und Kühlwasser'
 #Z_06031_2
@@ -951,6 +951,10 @@ no unit: "Keine Einheit"
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
 #Z_17161_1
 'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritt bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
+#Z_17171_1
+'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
+#Z_17171_2
+'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
 #Z_17191_1
@@ -963,10 +967,6 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_17171_1
-'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
-#Z_17171_2
-'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
 
 #Zusatz
 total: Insgesamt

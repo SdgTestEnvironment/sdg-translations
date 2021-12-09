@@ -556,9 +556,9 @@ no unit: "No Unit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Population connected to the public water supply system'
 #Z_06021_1
-'toilet': 'Toilet'
+'toilet': 'Access to toilet'
 #Z_06021_2
-'bathtub or shower': 'Bathtub or shower'
+'bathtub or shower': 'Access to bathtub or shower'
 #Z_06031_1
 'wastewater and cooling water': 'Wastewater and cooling water'
 #Z_06031_2
@@ -951,6 +951,10 @@ no unit: "No Unit"
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
 #Z_17161_1
 'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Progress in multi-stakeholder development effectiveness monitoring frameworks'
+#Z_17171_1
+'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'ODA (commitments) to public-private partnerships (PPP) for infrastructure'
+#Z_17171_2
+'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
 #Z_17191_1
@@ -963,10 +967,6 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_17171_1
-'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'ODA (commitments) to public-private partnerships (PPP) for infrastructure'
-#Z_17171_2
-'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure'
 
 #Addition
 
