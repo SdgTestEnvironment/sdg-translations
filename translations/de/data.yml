@@ -165,8 +165,8 @@ no unit: "Keine Einheit"
 'area 3 employment and economic benefits': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'area 2 violence against women': 'Area 2: Gewalt gegen Frauen'
 'area 1 overarching legal frameworks and public life': 'Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben'
-'not available': 'Nicht vorhanden'
-'available': 'Vorhanden'
+'not available': 'Nein'
+'available': 'Ja'
 'class 3 areas (elevation 2500-3500 meters)': 'Gebiete der Klasse 3 (Höhe 2500-3500 Meter)'
 'class 4 areas (elevation 1500-2500 meters)': 'Gebiete der Klasse 4 (Höhe 1500-2500 Meter)'
 'class 5 areas (elevation 1000-1500 meters)': 'Gebiete der Klasse 5 (Höhe 1000-1500 Meter)'
@@ -556,9 +556,9 @@ no unit: "Keine Einheit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
-'toilet': 'Zugang zu einer Toilette'
+'toilet': 'Bevölkerung mit (eigener) Toilette'
 #Z_06021_2
-'bathtub or shower': 'Zugang zu Badewanne oder Dusche'
+'bathtub or shower': 'Bevölkerung mit (eigener) Badewanne oder Dusche'
 #Z_06031_1
 'wastewater and cooling water': 'Abwasser und Kühlwasser'
 #Z_06031_2

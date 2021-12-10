@@ -165,8 +165,8 @@ no unit: "No Unit"
 'area 3 employment and economic benefits': 'Area 3: Employment and economic benefit'
 'area 2 violence against women': 'Area 2: Violence against women'
 'area 1 overarching legal frameworks and public life': 'Area 1: Overarching legal frameworks and public life'
-'not available': 'Not available'
-'available': 'Available'
+'not available': 'No'
+'available': 'Yes'
 'class 3 areas (elevation 2500-3500 meters)': 'Class 3 areas (elavation 2500-3500 meters)'
 'class 4 areas (elevation 1500-2500 meters)': 'Class 4 areas (elavation 1500-2500 meters)'
 'class 5 areas (elevation 1000-1500 meters)': 'Class 5 areas (elavation 1000-1500 meters)'
@@ -502,7 +502,7 @@ no unit: "No Unit"
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Average of 13 IHR core capacity scores'
 #Z_03132_1
-'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Percentage of resistant isolates tested from blood cultures'
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Proportion of resistant isolates tested from blood cultures'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
 #Z_04022_1
@@ -556,9 +556,9 @@ no unit: "No Unit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Population connected to the public water supply system'
 #Z_06021_1
-'toilet': 'Access to toilet'
+'toilet': 'Population with (own) toilet'
 #Z_06021_2
-'bathtub or shower': 'Access to bathtub or shower'
+'bathtub or shower': 'Population with (own) bathtub or shower'
 #Z_06031_1
 'wastewater and cooling water': 'Wastewater and cooling water'
 #Z_06031_2
@@ -664,7 +664,7 @@ no unit: "No Unit"
 #Z_10011_1
 'growth rate of income of the total population (%)': 'Growth rate of net equivalent income of the total population'
 #Z_10011_2
-'growth rate of income of the bottom 40 per cent of the population (%)': 'rowth rate of net equivalent income of the bottom 40 per cent of the population'
+'growth rate of income of the bottom 40 per cent of the population (%)': 'Growth rate of net equivalent income of the bottom 40 per cent of the population'
 #Z_10021_1
 'population living below 50% of median income, by sex and age': 'Population living below 50% of median income'
 #Z_10041_1
@@ -688,7 +688,7 @@ no unit: "No Unit"
 #Z_10073_1
 'total of deaths recorded in germany': 'Persons who died during migration'
 #Z_10074_1
-'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Proportion of people seeking protection with granted protection status as a percentage of the total population'
+'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Proportion of people seeking protection with granted protection status to total population'
 #Z_10091_1
 'net development expenditures': 'Total official and private resource flows for development (net disbursements)'
 #Z_11011_06
