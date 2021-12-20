@@ -14,6 +14,7 @@
 'mj/eur': 'Megajoule pro EUR'
 'mn eur': 'Millionen EUR'
 'mn h': 'Millionen Stunden'
+'mn m3 per a': 'Millionen m³ pro Jahr'
 'mn pkm': 'Millionen Personenkilometer'
 'mn t': 'Millionen Tonnen'
 'mn t of co2 equivalents': 'Millionen Tonnen CO2-Äquivalente'
@@ -35,6 +36,8 @@ no unit: "Keine Einheit"
 'points': 'Punkte'
 'per 1 mn inhabitants': 'Je 1 Million Einwohner/ -innen'
 '%': 'Prozent'
+'% of total land area': '% der gesamten Landfläche'
+'km2': 'km²'
 '1 000 m3': '1 000 m³'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
@@ -560,9 +563,9 @@ no unit: "Keine Einheit"
 #Z_06021_2
 'bathtub or shower': 'Bevölkerung mit (eigener) Badewanne oder Dusche'
 #Z_06031_1
-'wastewater and cooling water': 'Abwasser und Kühlwasser'
-#Z_06031_2
 'wastewater that is safely treated or does not require treatment': 'Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist'
+#Z_06031_2
+'wastewater and cooling water': 'Abwasser und Kühlwasser'
 #Z_06032_1
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
 #Z_06041_1
@@ -576,11 +579,17 @@ no unit: "Keine Einheit"
 #Z_06052_1
 'transboundary basin area with an operational arrangement for water cooperation (%)': 'Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation'
 #Z_06061_1
-'sub-indicator 1: spatial extent of water-related ecosystems': 'Subindikator 1: Fläche der wasserbezogenen Ökosysteme'
+'lakes and rivers permanent water area': 'Seen und Flüsse ständige Wasserfläche'
 #Z_06061_2
-'sub-indicator 3:  quantity discharge of water in rivers': 'Subindikator 3: Wasserabfluss über Flüsse'
+'lakes and rivers permanent water area as a proportion of total land area': 'Seen und Flüsse ständige Wasserfläche im Verhältnis zur gesamten Landfläche'
 #Z_06061_3
-'sub-indicator 4: water bodies with good quality': 'Subindikator 4: Gewässer mit guter Wasserqualität'
+'wetlands area': 'Feuchtgebiete'
+#Z_06061_4
+'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
+#Z_06061_5
+'lakes and rivers permanent water area change': 'Permanente Veränderung der Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
+#Z_06061_6
+'nationally derived quantity of rivers': 'National abgeleitete Menge der Flüsse'
 #Z_06071_1
 'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
 #Z_06071_2
@@ -882,9 +891,9 @@ no unit: "Keine Einheit"
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years (%)': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
 #Z_16071_3
-'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Anteil der Stellen von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung'
+'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Verhältnis von Frauen im öffentlichen Dienst'
 #Z_16071_4
-'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung'
+'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Verhältnis von Frauen in der Justiz'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years (%)': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 #Z_16091_1
@@ -985,6 +994,9 @@ area2: Bereich
 'a) population using safely managed sanitation services (%)': 'Bevölkerung mit einer sicher verwalteten Abwasserentsorgung'
 'b) population with a bathtub or a shower (%)': 'Bevölkerung mit einer Badewanne oder Dusche'
 'wastewater safely treated': 'Sicher behandeltes Abwasser'
+'sub-indicator 1: spatial extent of water-related ecosystems': 'Subindikator 1: Fläche der wasserbezogenen Ökosysteme'
+'sub-indicator 3:  quantity discharge of water in rivers': 'Subindikator 3: Wasserabfluss über Flüsse'
+'sub-indicator 4: water bodies with good quality': 'Subindikator 4: Gewässer mit guter Wasserqualität'
 'total female persons in employment (%)': 'Weibliche Erwerbstätige insgesamt'
 'female employees in public sector (%)': 'Weibliche Beschäftigte des öffentlichen Dienstes'
 'b) environmental protection expenditure': 'Umweltschutzausgaben'
