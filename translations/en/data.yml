@@ -13,6 +13,7 @@
 'micrograms per qubic meters': 'Micrograms per cubic meters'
 'mj/eur': 'Megajoule per EUR'
 'mn eur': 'Million EUR'
+'mn inhabitants': 'Million inhabitants'
 'mn h': 'Million hours'
 'mn m3 per a': 'Million m³ per year'
 'mn pkm': 'Million passenger-kilometre'
@@ -782,7 +783,7 @@ no unit: "No Unit"
 #Z_11062_1
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Population weighted annual mean levels of PM<sub>10</sub>'
 #Z_11062_2
-'share of the population with excessive exposure to fine particulate matter': 'Share of the population with excessive exposure to fine particulate matter'
+'share of the population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
 #Z_11072_1

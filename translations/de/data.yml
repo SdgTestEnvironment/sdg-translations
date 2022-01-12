@@ -13,6 +13,7 @@
 'micrograms per qubic meters': 'Mikrogramm pro Kubikmeter'
 'mj/eur': 'Megajoule pro EUR'
 'mn eur': 'Millionen EUR'
+'mn inhabitants': 'Millionen Einwohner'
 'mn h': 'Millionen Stunden'
 'mn m3 per a': 'Millionen m³ pro Jahr'
 'mn pkm': 'Millionen Personenkilometer'
@@ -246,7 +247,7 @@ no unit: "Keine Einheit"
 'greater 10 percentage': 'Größer 10 %'
 'greater 25 percentage': 'Größer 25 %'
 'poorest': 'Ärmstes Quintil'
-'second': 'Zweiteärmstes Quintil'
+'second': 'Zweitärmstes Quintil'
 'middle': 'Mittleres Quintil'
 'fourth': 'Viertes Quintil'
 'richest': 'Reichstes Quintil'
@@ -622,7 +623,7 @@ no unit: "Keine Einheit"
 #Z_06061_5
 'lakes and rivers permanent water area change': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
 #Z_06061_6
-'nationally derived quantity of rivers': 'Natinal abgeleitete Wassermenge der Flüsse'
+'nationally derived quantity of rivers': 'National abgeleitete Wassermenge der Flüsse'
 #Z_06071_1
 'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
 #Z_06071_2
@@ -782,7 +783,7 @@ no unit: "Keine Einheit"
 #Z_11062_1
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>'
 #Z_11062_2
-'share of the population with excessive exposure to fine particulate matter': 'Anteil der Bevölkerung mit erhöhter Feinstaubexposition'
+'share of the population with excessive exposure to fine particulate matter': 'Bevölkerung mit erhöhter Feinstaubexposition'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 #Z_11072_1
