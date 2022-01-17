@@ -34,10 +34,8 @@ no unit: "Keine Einheit"
 'per 100 000 live births': 'Je 100 000 Lebendgeborene'
 'per 100 000 in employment': 'Je 100 000 Mitarbeiter/ -innen'
 'ph-value': 'pH-Wert'
-'points': 'Punkte'
 'per 1 mn inhabitants': 'Je 1 Million Einwohner/ -innen'
 '%': 'Prozent'
-'% of total land area': '% der gesamten Landfläche'
 'km2': 'km²'
 '1 000 m3': '1 000 m³'
 't per capita': 'Tonnen pro Kopf'
@@ -510,12 +508,6 @@ no unit: "Keine Einheit"
 'giving birth': 'Geburten junger Frauen'
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
-#Z_03091_1
-'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre)'
-#Z_03091_2
-'long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)': 'Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre)'
-#Z_03091_3
-'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre)'
 #Z_03092_1
 'mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
@@ -711,7 +703,7 @@ no unit: "Keine Einheit"
 #Z_10021_1
 'population living below 50% of median income, by sex and age': 'Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt'
 #Z_10031_1
-'proportion of population felt discriminated in their contacts with public services in the last two years': 'Anteil der Bevölkerung, der sich in den letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
+'proportion of population felt discriminated in their contacts with public services in the last two years': 'Bevölkerung, der sich in die letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
 #Z_10041_1
 'labour share of gdp (%)': 'Anteil des Arbeitnehmerentgelts am BIP'
 #Z_10051_1
@@ -744,20 +736,10 @@ no unit: "Keine Einheit"
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
 #Z_11011_09
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
-#Z_11011_1
-'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
 #Z_11011_10
 'population that does not have a toilet for the sole use of their household': 'Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat'
 #Z_11011_11
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
-#Z_11011_2
-'population considering their dwelling as too dark': 'Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet'
-#Z_11011_3
-'population living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt'
-#Z_11011_4
-'population living in an area with noise pollution': 'Bevölkerung mit Lärmbelästigung in deren Wohnumgebung'
-#Z_11011_5
-'material deprivation for the housing dimension': 'Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)'
 #Z_11021_1
 'population that has convenient access to public transport (within 500 meters) (%)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)'
 #Z_11021_2
@@ -986,12 +968,6 @@ no unit: "Keine Einheit"
 'labour productivity per hour worked by employee': 'Arbeitsproduktivität je geleisteter Arbeitnehmerstunde'
 #Z_17141_1
 'national sustainable development strategie (number)': 'Deutsche Nachhaltigkeitsstrategie'
-#Z_17151_1
-'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
-#Z_17151_2
-'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
-#Z_17151_3
-'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden'
 #Z_17151_4
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
 #Z_17161_1
@@ -1012,6 +988,8 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_05072_1
+'degree to which the legal framework guarantees women’s equal rights to land ownership and/or control': 'Grad, in dem der rechtliche Rahmen Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert'
 
 #Zusatz
 total: Insgesamt
@@ -1024,6 +1002,15 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'points': 'Punkte'
+'% of total land area': '% der gesamten Landfläche'
+'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre)'
+'long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)': 'Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre)'
+'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre)'
+'material deprivation for the housing dimension': 'Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)'
+'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
+'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
+'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden'
 'educational level': 'Bildungsniveau'
 'typification': 'Verstädterungsgrad'
 'a) population using safely managed sanitation services (%)': 'Sicher verwaltete Abwasserentsorgung'

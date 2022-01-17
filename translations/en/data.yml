@@ -34,10 +34,8 @@ no unit: "No Unit"
 'per 100 000 live births': 'Per 100,000 live births'
 'per 100 000 in employment': 'Per 100,000 employees'
 'ph-value': 'pH-value'
-'points': 'Points'
 'per 1 mn inhabitants': 'Per 1 million inhabitants'
 '%': 'Percentage'
-'% of total land area': '% of total land area'
 'km2': 'km²'
 '1 000 m3': '1 000 m³'
 't per capita': 'Tonnes per capita'
@@ -510,12 +508,6 @@ no unit: "No Unit"
 'giving birth': 'Births of young women'
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
-#Z_03091_1
-'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)'
-#Z_03091_2
-'long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)': 'Long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)'
-#Z_03091_3
-'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)'
 #Z_03092_1
 'mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
@@ -711,7 +703,7 @@ no unit: "No Unit"
 #Z_10021_1
 'population living below 50% of median income, by sex and age': 'Population living below 50% of median income'
 #Z_10031_1
-'proportion of population felt discriminated in their contacts with public services in the last two years': 'Proportion of population felt discriminated in their contacts with public services in the last two years'
+'proportion of population felt discriminated in their contacts with public services in the last two years': 'Population who felt discriminated in their contacts with public services in the last two years'
 #Z_10041_1
 'labour share of gdp (%)': 'Labour share of GDP'
 #Z_10051_1
@@ -744,20 +736,10 @@ no unit: "No Unit"
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor'
 #Z_11011_09
 'population that has neither a bath, nor a shower in their home': 'Population having neither a bath, nor a shower in their dwelling'
-#Z_11011_1
-'population living in households with moisture damages': 'Population living in households with moisture damages'
 #Z_11011_10
 'population that does not have a toilet for the sole use of their household': 'Population not having indoor flushing toilet for the sole use of their household'
 #Z_11011_11
 'population that considers their accommodation too dark': 'Population considering their dwelling as too dark'
-#Z_11011_2
-'population considering their dwelling as too dark': 'Population considering their dwelling as too dark'
-#Z_11011_3
-'population living in an area with crime, violence or vandalism': 'Population living in an area with crime, violence or vandalism'
-#Z_11011_4
-'population living in an area with noise pollution': 'Population living in an area with noise pollution'
-#Z_11011_5
-'material deprivation for the housing dimension': 'Material deprivation for the housing dimension, total (1-4 items)'
 #Z_11021_1
 'population that has convenient access to public transport (within 500 meters) (%)': 'Population that has convenient access to public transport (within 500 meters)'
 #Z_11021_2
@@ -986,12 +968,6 @@ no unit: "No Unit"
 'labour productivity per hour worked by employee': 'Labour productivity per hour worked by employee'
 #Z_17141_1
 'national sustainable development strategie (number)': 'German Sustainable Development Strategy'
-#Z_17151_1
-'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation'
-#Z_17151_2
-'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Proportion of results drawn from country-led result frameworks by providers of development cooperation'
-#Z_17151_3
-'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
 #Z_17151_4
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
 #Z_17161_1
@@ -1012,6 +988,8 @@ no unit: "No Unit"
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_05072_1
+'degree to which the legal framework guarantees women’s equal rights to land ownership and/or control': 'Degree to which the legal framework guarantees women’s equal rights to land ownership and/or control'
 
 #Addition
 
@@ -1026,6 +1004,15 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'points': 'Points'
+'% of total land area': '% of total land area'
+'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)'
+'long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)': 'Long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)'
+'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)'
+'material deprivation for the housing dimension': 'Material deprivation for the housing dimension, total (1-4 items)'
+'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation'
+'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Proportion of results drawn from country-led result frameworks by providers of development cooperation'
+'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
 'educational level': 'Educational level'
 'typification': 'Degree of urbanisation'
 'a) population using safely managed sanitation services (%)': 'Safely managed sanitation services'
