@@ -576,6 +576,8 @@ no unit: "Keine Einheit"
 'female owners of agricultural holdings with the legal form of a sole proprietorship': 'Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen'
 #Z_05071_3
 'agricultural holdings with the legal of a form sole proprietorship': 'Betriebe der Rechtsform Einzelunternehmen'
+#Z_05072_1
+'Degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
 #Z_05081_1
 'private households with at least one mobile phone (%)': 'Privathaushalte mit mindestens einem Mobiltelefon'
 #Z_05081_2
@@ -988,8 +990,6 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_05072_1
-'degree to which the legal framework guarantees women’s equal rights to land ownership and/or control': 'Grad, in dem der rechtliche Rahmen Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert'
 
 #Zusatz
 total: Insgesamt
