@@ -932,6 +932,8 @@ no unit: "Keine Einheit"
 'proportion of oda (net disbursements) to gni': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE'
 #Z_17021_2
 'proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni)': 'Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)'
+#Z_17051_1
+'number and value of supported outward investment projects to ldcs': 'Anzahl und Wert der geförderten Projekte für Auslandsinvestitionen in LDCs'
 #Z_17061_1
 'fixed internet broadband access lines': 'Internet-Breitband-Zugänge'
 #Z_17071_1
