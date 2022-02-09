@@ -108,6 +108,7 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'bound': 'Bound'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -406,6 +407,8 @@ no unit: "No Unit"
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
+'lower bound': 'Lower bound'
+'upper bound': 'Upper bound'
 
 #Time series
 #Z_01021_1
@@ -1068,5 +1071,3 @@ area2: Area
 'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Government expenditure on recreation, culture and religion (COFOG division 8)'
 'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
 'climate action plan 2050': 'Climate Action Plan 2050'
-'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine and other stimulants in the age group 15 to under 65 years': 'Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine and other stimulants in the age group 15 to under 65 years'
-'border': 'Border'

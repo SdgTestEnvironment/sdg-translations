@@ -108,6 +108,7 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'bound': 'Grenze'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -406,6 +407,8 @@ no unit: "Keine Einheit"
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
+'lower bound': 'Untere Grenze'
+'upper bound': 'Obere Grenze'
 
 #Zeitreihen
 #Z_01021_1
@@ -1066,5 +1069,3 @@ area2: Bereich
 'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Staatsausgaben für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Abteilung 8)'
 'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'
 'climate action plan 2050': 'Klimaschutzplan 2050'
-'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine and other stimulants in the age group 15 to under 65 years': 'Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren'
-'border': 'Grenze'
