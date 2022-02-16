@@ -47,6 +47,7 @@ no unit: "Keine Einheit"
 'age of mother': 'Alter der Mutter'
 'area': 'Gebiet'
 'area of law': 'Rechtsgebiet'
+'bound': 'Grenze'
 'characteristics': 'Verfügbarkeit'
 'classification': 'Klassifikation'
 'conversion': 'Umrechnung'
@@ -108,7 +109,6 @@ no unit: "Keine Einheit"
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
-'bound': 'Grenze'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -599,6 +599,8 @@ no unit: "Keine Einheit"
 'wastewater and cooling water': 'Abwasser und Kühlwasser'
 #Z_06032_1
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
+#Z_06032_2
+'x': 'Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
 #Z_06041_1
 'water use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1

@@ -47,6 +47,7 @@ no unit: "No Unit"
 'age of mother': 'Age of mother'
 'area': 'Area'
 'area of law': 'Area of law'
+'bound': 'Bound'
 'characteristics': 'Availability'
 'classification': 'Classification'
 'conversion': 'Conversion'
@@ -108,7 +109,6 @@ no unit: "No Unit"
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
-'bound': 'Bound'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -599,6 +599,8 @@ no unit: "No Unit"
 'wastewater and cooling water': 'Wastewater and cooling water'
 #Z_06032_1
 'water bodies with good quality': 'Water bodies with good quality'
+#Z_06032_2
+'x': 'Flowing water with good ecological status for total phosphorous'
 #Z_06041_1
 'water use efficiency': 'Water use efficiency'
 #Z_06042_1
