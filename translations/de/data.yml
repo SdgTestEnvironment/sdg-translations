@@ -542,7 +542,7 @@ no unit: "Keine Einheit"
 #Z_04031_1
 'participation rate in formal and non-formal education and training in the previous 12 months': 'Teilnahmequote in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten'
 #Z_04041_1
-'persons with computer-related activities in the last 12 months': 'Personen mit computerbezogenen Aktivitäten in den letzten 12 Monaten'
+'persons with computer-related activities in the last 12 months': 'Anteil der Bevölkerung mit computerbezogenen Aktivitäten'
 #Z_04051_1
 'gender parity index': 'Geschlechtsparitätsindex'
 #Z_04061_1
@@ -600,7 +600,7 @@ no unit: "Keine Einheit"
 #Z_06032_1
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
 #Z_06032_2
-'x': 'Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
+'proportion flowing water with good ecological status for total phosphorous': 'Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
 #Z_06041_1
 'water use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1
