@@ -178,6 +178,8 @@ no unit: "No Unit"
 'area 3 employment and economic benefits': 'Area 3: Employment and economic benefit'
 'area 2 violence against women': 'Area 2: Violence against women'
 'area 1 overarching legal frameworks and public life': 'Area 1: Overarching legal frameworks and public life'
+'upper bound': 'Upper bound'
+'lower bound': 'Lower bound'
 'not available': 'No'
 'available': 'Yes'
 'class 3 areas (elevation 2500-3500 meters)': 'Class 3 areas (elavation 2500-3500 meters)'
@@ -407,8 +409,6 @@ no unit: "No Unit"
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
-'lower bound': 'Lower bound'
-'upper bound': 'Upper bound'
 
 #Time series
 #Z_01021_1
@@ -601,6 +601,8 @@ no unit: "No Unit"
 'water bodies with good quality': 'Water bodies with good quality'
 #Z_06032_2
 'proportion flowing water with good ecological status for total phosphorous': 'Proportion flowing water with good ecological status for total phosphorous'
+#Z_06032_3
+'proportion groundwater below threshold for nitrate': 'Proportion groundwater below threshold for nitrate'
 #Z_06041_1
 'water use efficiency': 'Water use efficiency'
 #Z_06042_1

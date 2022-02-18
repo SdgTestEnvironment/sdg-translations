@@ -178,6 +178,8 @@ no unit: "Keine Einheit"
 'area 3 employment and economic benefits': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'area 2 violence against women': 'Area 2: Gewalt gegen Frauen'
 'area 1 overarching legal frameworks and public life': 'Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben'
+'upper bound': 'Obere Grenze'
+'lower bound': 'Untere Grenze'
 'not available': 'Nein'
 'available': 'Ja'
 'class 3 areas (elevation 2500-3500 meters)': 'Gebiete der Klasse 3 (Höhe 2500-3500 Meter)'
@@ -407,8 +409,6 @@ no unit: "Keine Einheit"
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
-'lower bound': 'Untere Grenze'
-'upper bound': 'Obere Grenze'
 
 #Zeitreihen
 #Z_01021_1
@@ -601,6 +601,8 @@ no unit: "Keine Einheit"
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
 #Z_06032_2
 'proportion flowing water with good ecological status for total phosphorous': 'Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
+#Z_06032_3
+'proportion groundwater below threshold for nitrate': 'Anteil Grundwasser unterhalb Schwellenwert für Nitrat'
 #Z_06041_1
 'water use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1
