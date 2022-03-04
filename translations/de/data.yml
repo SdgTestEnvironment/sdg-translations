@@ -802,8 +802,6 @@ no unit: "Keine Einheit"
 'recycled waste': 'Stoffliche Verwertung'
 #Z_12061_1
 'organisations with emas registration (number)': 'Organisationen mit EMAS-Registrierung'
-#Z_12071_1
-'sustainability programme': 'Nachhaltigkeitsstrategie'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_13022_1
@@ -978,8 +976,6 @@ no unit: "Keine Einheit"
 'hours worked by persons employed': 'Geleistete Arbeitsstunden der Erwerbstätigen'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Arbeitsproduktivität je geleisteter Arbeitnehmerstunde'
-#Z_17141_1
-'national sustainable development strategie (number)': 'Deutsche Nachhaltigkeitsstrategie'
 #Z_17151_4
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
 #Z_17161_1
@@ -1012,6 +1008,8 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'sustainability programme': 'Nachhaltigkeitsstrategie'
+'national sustainable development strategie (number)': 'Deutsche Nachhaltigkeitsstrategie'
 'points': 'Punkte'
 '% of total land area': '% der gesamten Landfläche'
 'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre)'

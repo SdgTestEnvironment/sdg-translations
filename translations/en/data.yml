@@ -802,8 +802,6 @@ no unit: "No Unit"
 'recycled waste': 'Material recovery'
 #Z_12061_1
 'organisations with emas registration (number)': 'Organisations with EMAS registration'
-#Z_12071_1
-'sustainability programme': 'Sustainability Programme'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_13022_1
@@ -978,8 +976,6 @@ no unit: "No Unit"
 'hours worked by persons employed': 'Hours worked by persons employed'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Labour productivity per hour worked by employee'
-#Z_17141_1
-'national sustainable development strategie (number)': 'German Sustainable Development Strategy'
 #Z_17151_4
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
 #Z_17161_1
@@ -1014,6 +1010,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'sustainability programme': 'Sustainability Programme'
+'national sustainable development strategie (number)': 'German Sustainable Development Strategy'
 'points': 'Points'
 '% of total land area': '% of total land area'
 'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)'
