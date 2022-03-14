@@ -523,7 +523,7 @@ no unit: "No Unit"
 #Z_03111_1
 'dtp vaccination rate at school entrance': 'DTP vaccination coverage at school entry'
 #Z_03111_2
-'hpv vaccination rate among 15 years old girls': 'HPV vaccination coverage among 15 year-old girls and boys'
+'hpv vaccination rate among 15 years old girls': 'HPV vaccination coverages among 15 years old girls and boys'
 #Z_03111_3
 'measles vaccination rate at sschool entrance': 'Measles vaccination coverage at school entry'
 #Z_03111_4
@@ -819,7 +819,7 @@ no unit: "No Unit"
 #Z_14051_2
 'protected marine area (%)': 'Marine areas covered by protected areas'
 #Z_14061_1
-'degree of combat illegal, unreported and unregulated fishing (/)': 'Degree of combat illegal, unreported and unregulated fishing'
+'degree of combatting illegal, unreported and unregulated fishing (/)': 'Degree of combatting illegal, unreported and unregulated fishing'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur)': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
 #Z_14101_1
@@ -1011,6 +1011,7 @@ area2: Area
 
 #Old stuff that may still be needed
 'sustainability programme': 'Sustainability Programme'
+'degree of combat illegal, unreported and unregulated fishing (/)': 'Degree of combat illegal, unreported and unregulated fishing'
 'national sustainable development strategie (number)': 'German Sustainable Development Strategy'
 'points': 'Points'
 '% of total land area': '% of total land area'

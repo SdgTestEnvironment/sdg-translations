@@ -523,7 +523,7 @@ no unit: "Keine Einheit"
 #Z_03111_1
 'dtp vaccination rate at school entrance': 'DTP-Impfquote zum Schuleintritt'
 #Z_03111_2
-'hpv vaccination rate among 15 years old girls': 'HPV-Impfquote bei 15-jährigen Mädchen und Jungen'
+'hpv vaccination rate among 15 years old girls': 'HPV-Impfquoten bei 15-jährigen Mädchen und Jungen'
 #Z_03111_3
 'measles vaccination rate at sschool entrance': 'Masern-Impfquote zum Schuleintritt'
 #Z_03111_4
@@ -819,7 +819,7 @@ no unit: "Keine Einheit"
 #Z_14051_2
 'protected marine area (%)': 'Meeresfläche, die unter Schutz steht'
 #Z_14061_1
-'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
+'degree of combatting illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur)': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 #Z_14101_1
@@ -1009,6 +1009,7 @@ area2: Bereich
 
 #Old stuff that may still be needed
 'sustainability programme': 'Nachhaltigkeitsstrategie'
+'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 'national sustainable development strategie (number)': 'Deutsche Nachhaltigkeitsstrategie'
 'points': 'Punkte'
 '% of total land area': '% der gesamten Landfläche'
