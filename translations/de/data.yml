@@ -569,7 +569,9 @@ no unit: "Keine Einheit"
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_1
-'seats held by women in national parliament': 'Frauenanteil im Parlament'
+'seats held by women in national parliament': 'Frauenanteil in Parlamenten'
+#Z_05051_2
+'proportion of women in local governments': 'Frauenanteil in Gemeinden'
 #Z_05052_1
 'women in managerial positions (%)': 'Frauen in Führungspositionen'
 #Z_05062_1

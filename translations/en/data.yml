@@ -569,7 +569,9 @@ no unit: "No Unit"
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
 #Z_05051_1
-'seats held by women in national parliament': 'Proportion of women in the parliament'
+'seats held by women in national parliament': 'Proportion of women in parliaments'
+#Z_05051_2
+'proportion of women in local governments': 'Proportion of women in local governments'
 #Z_05052_1
 'women in managerial positions (%)': 'Women in managerial positions'
 #Z_05062_1
