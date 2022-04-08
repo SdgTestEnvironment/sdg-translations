@@ -872,7 +872,9 @@ no unit: "Keine Einheit"
 #Z_15081_3
 'online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species': '(2) Online-Umfrage zu politischen Reaktionen, Mandat, rechtlichen Befugnissen und Ressourcen für den Umgang mit der Bedrohung durch invasive gebietsfremde Arten'
 #Z_15091_1
-'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Anzahl der Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben, und die bei der Umsetzung dieser Zielvorgaben gemeldeten Fortschritte'
+'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben'
+#Z_15091_2
+'countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting (seea)': 'Staaten mit integrierten Biodiversitätswerten in den Gesamtrechen- und berichtssystemen, definiert als die Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
 #Z_15101_2
@@ -1011,24 +1013,25 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'sustainability programme': 'Nachhaltigkeitsstrategie'
+'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
+'national sustainable development strategie (number)': 'Deutsche Nachhaltigkeitsstrategie'
 'points': 'Punkte'
-'educational level': 'Bildungsniveau'
-'typification': 'Verstädterungsgrad'
+'% of total land area': '% der gesamten Landfläche'
 'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre)'
 'long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)': 'Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre)'
 'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre)'
+'material deprivation for the housing dimension': 'Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)'
+'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
+'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
+'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden'
+'educational level': 'Bildungsniveau'
+'typification': 'Verstädterungsgrad'
 'a) population using safely managed sanitation services (%)': 'Sicher verwaltete Abwasserentsorgung'
 'b) population with a bathtub or a shower (%)': 'Badewanne oder Dusche'
 'sub-indicator 1: spatial extent of water-related ecosystems': 'Subindikator 1: Fläche der wasserbezogenen Ökosysteme'
 'sub-indicator 3:  quantity discharge of water in rivers': 'Subindikator 3: Wasserabfluss über Flüsse'
 'sub-indicator 4: water bodies with good quality': 'Subindikator 4: Gewässer mit guter Wasserqualität'
-'material deprivation for the housing dimension': 'Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)'
-'sustainability programme': 'Nachhaltigkeitsstrategie'
-'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
-'national sustainable development strategie (number)': 'Deutsche Nachhaltigkeitsstrategie'
-'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
-'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit'
-'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden'
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'

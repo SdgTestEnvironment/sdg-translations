@@ -872,7 +872,9 @@ no unit: "No Unit"
 #Z_15081_3
 'online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species': '(2) Online survey on Policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species'
 #Z_15091_1
-'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets'
+'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (NBSAP)'
+#Z_15091_2
+'countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting (seea)': 'Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting (SEEA)'
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
@@ -1013,24 +1015,25 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'sustainability programme': 'Sustainability Programme'
+'degree of combat illegal, unreported and unregulated fishing (/)': 'Degree of combat illegal, unreported and unregulated fishing'
+'national sustainable development strategie (number)': 'German Sustainable Development Strategy'
 'points': 'Points'
-'educational level': 'Educational level'
-'typification': 'Degree of urbanisation'
+'% of total land area': '% of total land area'
 'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)'
 'long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)': 'Long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)'
 'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)'
+'material deprivation for the housing dimension': 'Material deprivation for the housing dimension, total (1-4 items)'
+'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation'
+'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Proportion of results drawn from country-led result frameworks by providers of development cooperation'
+'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
+'educational level': 'Educational level'
+'typification': 'Degree of urbanisation'
 'a) population using safely managed sanitation services (%)': 'Safely managed sanitation services'
 'b) population with a bathtub or a shower (%)': 'Bathtub or a shower'
 'sub-indicator 1: spatial extent of water-related ecosystems': 'Sub-indicator 1: Spatial extent of water-related ecosystems'
 'sub-indicator 3:  quantity discharge of water in rivers': 'Sub-indicator 3:  Quantity discharge of water in rivers'
 'sub-indicator 4: water bodies with good quality': 'Sub-indicator 4: Water bodies with good quality'
-'material deprivation for the housing dimension': 'Material deprivation for the housing dimension, total (1-4 items)'
-'sustainability programme': 'Sustainability Programme'
-'degree of combat illegal, unreported and unregulated fishing (/)': 'Degree of combat illegal, unreported and unregulated fishing'
-'national sustainable development strategie (number)': 'German Sustainable Development Strategy'
-'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation'
-'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Proportion of results drawn from country-led result frameworks by providers of development cooperation'
-'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
