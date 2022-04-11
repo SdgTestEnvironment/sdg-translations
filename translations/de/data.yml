@@ -430,9 +430,9 @@ no unit: "Keine Einheit"
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
 #Z_01062_1
-'government expenditure on health': 'Staatsausgaben für Gesundheit'
-#Z_01062_2
 'government expenditure on education': 'Staatsausgaben für Bildung'
+#Z_01062_2
+'government expenditure on health': 'Staatsausgaben für Gesundheit'
 #Z_01062_3
 'government expenditure on social protection': 'Staatsausgaben für soziale Sicherung'
 #Z_01062_3a
@@ -1001,13 +1001,6 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-
-#Time series annotations
-#Z_17192_3
-'score 0.0 = no national target reflecting aichi biodiversity target 2<br>score 0.2 = national target exists, but moving away from it<br>score 0.4 = national target exists, but no progress<br>score 0.6 = national target exists and progress is there, but at as insufficient rate<br>score 0.8 = national target exists and progress is on track to achieve it<br>score 1.0 = national target exists and progress is on track to exceed it': Wert 0.0 = Kein nationales Ziel zur Erreichung des Aichi-Biodiversitätsziels 2<br>Wert 0.2 = Nationales Ziel existiert, aber Entfernung von der Zielerreichung<br>Wert 0.4 = Nationales Ziel existiert, aber kein Fortschritt<br>Wert 0.6 = Nationales Ziel existiert und Fortschritt, jedoch in einem ungenügendem Maß<br>Wert 0.8 = Nationales Ziel existiert und der Fortschritt ist auf dem Weg der Zielerreichung<br>Wert 1.0 = Nationales Ziel existiert und der Fortschritt ist auf dem Weg über das Ziel hinauszugehen
-
-#Z_17192_3
-'score 0 = no compilation of accounts<br>score 1 = compilation of accounts<br>score 2 = dissemination of accounts<br>score 3 = regular compilation and dissemination of accounts': 'Wert 0 = Keine Erstellung von Konten<br>Wert 1 = Erstellung von Konten<br>Wert 2 = Veröffentlichung von Konten<br>Wert 3 = Regelmäßige Erstellung von Konten und Veröffentlichung'
 
 #Zusatz
 total: Insgesamt
