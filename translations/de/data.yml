@@ -322,15 +322,8 @@ no unit: "Keine Einheit"
 'applications received': 'Eingegangene Anträge'
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
-'domestic material consumption (dmc)': 'Inländische Materialverwendung (DMC)'
-'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
 'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
-'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
-'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
-'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
 'overcrowding rate': 'Überbelegungsquote'
-'raw material consumption (rmc)': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
-'raw material consumption per real gdp': 'Inländische Rohstoffverwendung pro realem BIP'
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
 'population that does not have a toilet for the sole use of their household': 'Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat'
 'divers': 'Divers'
@@ -430,9 +423,9 @@ no unit: "Keine Einheit"
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
 #Z_01062_1
-'government expenditure on education': 'Staatsausgaben für Bildung'
-#Z_01062_2
 'government expenditure on health': 'Staatsausgaben für Gesundheit'
+#Z_01062_2
+'government expenditure on education': 'Staatsausgaben für Bildung'
 #Z_01062_3
 'government expenditure on social protection': 'Staatsausgaben für soziale Sicherung'
 #Z_01062_3a
@@ -651,8 +644,12 @@ no unit: "Keine Einheit"
 'annual growth rate of real gdp per employed person': 'Jährliche Wachstumsrate des realen BIP je Erwerbstätigen'
 #Z_08041_1
 'raw material consumption (rmc)': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
+#Z_08041_2
+'raw material consumption per real gdp': 'Inländische Rohstoffverwendung pro realem BIP'
 #Z_08042_1
 'domestic material consumption (dmc)': 'Inländische Materialverwendung (DMC)'
+#Z_08042_2
+'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
 #Z_08051_1
 'average hourly earnings of employees': 'Durchschnittlicher Stundenlohn Beschäftigter'
 #Z_08051_2
@@ -689,6 +686,12 @@ no unit: "Keine Einheit"
 'freight transport': 'Güterverkehr'
 #Z_09021_1
 'manufacturing gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe'
+#Z_09021_2
+'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
+#Z_09021_3
+'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
+#Z_09021_4
+'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
 #Z_09022_1
 'manufacturing persons employed': 'Erwerbstätige im Verarbeitenden Gewerbe'
 #Z_09031_1
@@ -907,6 +910,10 @@ no unit: "Keine Einheit"
 'reporting rate for robbery': 'Anzeigequote bei Raub'
 #Z_16032_1
 'unsentenced detainees': 'Nicht strafrechtlich verurteilte Inhaftierte'
+#Z_16033_2
+'applications received': 'Eingegangene Anträge'
+#Z_16033_3
+'applications finally processed': 'Abschließend bearbeitete Anträge'
 #Z_16033_1
 'consumer conciliation': 'Verbraucherschlichtung'
 #Z_16042_1
@@ -1013,6 +1020,13 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'domestic material consumption (dmc)': 'Inländische Materialverwendung (DMC)'
+'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
+'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
+'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
+'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
+'raw material consumption (rmc)': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
+'raw material consumption per real gdp': 'Inländische Rohstoffverwendung pro realem BIP'
 'at-risk-of-poverty rate (according to eurostat definition) (%)': 'Armutsgefährdungsquote'
 'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'

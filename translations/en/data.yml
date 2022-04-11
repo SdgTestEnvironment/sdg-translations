@@ -322,15 +322,8 @@ no unit: "No Unit"
 'applications received': 'Applications received'
 'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
 'population that considers their accommodation too dark': 'Population that considers their accommodation too dark'
-'domestic material consumption (dmc)': 'Domestic material consumption (DMC)'
-'domestic material consumption per real gdp': 'Domestic material consumption per real GDP'
 'rate of overburdening by housing costs': 'Rate of overburdening by housing costs'
-'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
-'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
-'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
 'overcrowding rate': 'Overcrowding rate'
-'raw material consumption (rmc)': 'Raw material consumption (RMC)'
-'raw material consumption per real gdp': 'Raw material consumption per real GDP'
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor'
 'population that does not have a toilet for the sole use of their household': 'Population that does not have a toilet for the sole use of their household'
 'divers': 'Divers'
@@ -430,9 +423,9 @@ no unit: "No Unit"
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
-'government expenditure on education': 'Government expenditure on education'
-#Z_01062_2
 'government expenditure on health': 'Government expenditure on health'
+#Z_01062_2
+'government expenditure on education': 'Government expenditure on education'
 #Z_01062_3
 'government expenditure on social protection': 'Government expenditure on social protection'
 #Z_01062_3a
@@ -651,8 +644,12 @@ no unit: "No Unit"
 'annual growth rate of real gdp per employed person': 'Annual growth rate of real GDP per employed person'
 #Z_08041_1
 'raw material consumption (rmc)': 'Raw material consumption (RMC)'
+#Z_08041_2
+'raw material consumption per real gdp': 'Raw material consumption per real GDP'
 #Z_08042_1
 'domestic material consumption (dmc)': 'Domestic material consumption (DMC)'
+#Z_08042_2
+'domestic material consumption per real gdp': 'Domestic material consumption per real GDP'
 #Z_08051_1
 'average hourly earnings of employees': 'Average hourly earnings of employees'
 #Z_08051_2
@@ -689,6 +686,12 @@ no unit: "No Unit"
 'freight transport': 'Freight transport'
 #Z_09021_1
 'manufacturing gross value added': 'Manufacturing gross value added'
+#Z_09021_2
+'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
+#Z_09021_3
+'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
+#Z_09021_4
+'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
 #Z_09022_1
 'manufacturing persons employed': 'Manufacturing persons employed'
 #Z_09031_1
@@ -907,6 +910,10 @@ no unit: "No Unit"
 'reporting rate for robbery': 'Reporting rate for robbery'
 #Z_16032_1
 'unsentenced detainees': 'Unsentenced detainees'
+#Z_16033_2
+'applications received': 'Applications received'
+#Z_16033_3
+'applications finally processed': 'Applications finally processed'
 #Z_16033_1
 'consumer conciliation': 'Consumer conciliation'
 #Z_16042_1
@@ -1015,6 +1022,13 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'domestic material consumption (dmc)': 'Domestic material consumption (DMC)'
+'domestic material consumption per real gdp': 'Domestic material consumption per real GDP'
+'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
+'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
+'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
+'raw material consumption (rmc)': 'Raw material consumption (RMC)'
+'raw material consumption per real gdp': 'Raw material consumption per real GDP'
 'at-risk-of-poverty rate (according to eurostat definition) (%)': 'At-risk-of-poverty rate'
 'severely materially deprived persons': 'Severely materially deprived persons'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
