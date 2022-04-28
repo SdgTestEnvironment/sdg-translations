@@ -426,7 +426,7 @@ no unit: "Keine Einheit"
 #Z_01062_1
 'government expenditure on health': 'Staatsausgaben für Gesundheit'
 #Z_01062_2
-'government expenditure on education': 'Staatsausgaben für Bildung'
+'government expenditure on education': '0'
 #Z_01062_3
 'government expenditure on social protection': 'Staatsausgaben für soziale Sicherung'
 #Z_01062_3a
@@ -598,9 +598,9 @@ no unit: "Keine Einheit"
 #Z_06032_1
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
 #Z_06032_2
-'proportion flowing water with good ecological status for total phosphorous': 'Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
+'proportion of flowing water with good ecological status for total phosphorous': 'Anteil der Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
 #Z_06032_3
-'proportion groundwater below threshold for nitrate': 'Anteil Grundwasser unterhalb Schwellenwert für Nitrat'
+'proportion of groundwater mesuring points below the threshold value for nitrate': 'Anteil der Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat'
 #Z_06041_1
 'water use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1
@@ -876,9 +876,9 @@ no unit: "Keine Einheit"
 #Z_15081_3
 '(2) online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species': '(2) Online-Umfrage zu politischen Reaktionen, Mandat, rechtlichen Befugnissen und Ressourcen für den Umgang mit der Bedrohung durch invasive gebietsfremde Arten'
 #Z_15091_1
-'countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plans (nbsap)': 'Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben'
+'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
 #Z_15091_2
-'countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting (seea)': 'Staaten mit integrierten Biodiversitätswerten in den Gesamtrechen- und berichtssystemen, definiert als die Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
+'implementation of the system of environmental-economic accounting (seea)': 'Anwendung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
 #Z_15101_1
 'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
 #Z_15101_2

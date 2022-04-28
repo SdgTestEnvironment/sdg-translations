@@ -598,9 +598,9 @@ no unit: "No Unit"
 #Z_06032_1
 'water bodies with good quality': 'Water bodies with good quality'
 #Z_06032_2
-'proportion flowing water with good ecological status for total phosphorous': 'Proportion flowing water with good ecological status for total phosphorous'
+'proportion of flowing water with good ecological status for total phosphorous': 'Proportion of flowing water with good ecological status for total phosphorous'
 #Z_06032_3
-'proportion groundwater below threshold for nitrate': 'Proportion groundwater below threshold for nitrate'
+'proportion of groundwater mesuring points below the threshold value for nitrate': 'Proportion of groundwater mesuring points below the threshold value for nitrate'
 #Z_06041_1
 'water use efficiency': 'Water use efficiency'
 #Z_06042_1
@@ -876,9 +876,9 @@ no unit: "No Unit"
 #Z_15081_3
 '(2) online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species': '(2) Online survey on Policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species'
 #Z_15091_1
-'countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plans (nbsap)': 'Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (NBSAP)'
+'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 #Z_15091_2
-'countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting (seea)': 'Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting (SEEA)'
+'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
 #Z_15101_1
 'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
