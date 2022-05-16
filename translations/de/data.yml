@@ -371,7 +371,12 @@ no unit: "Keine Einheit"
 'rabies': 'Tollwut'
 'yaws': 'Frambösie'
 'dracunculiasis': 'Drakunkulose'
+'chronic obstructive pulmonary disease': 'Chronisch obstruktive Lungenerkrankung (COPD)'
+'lung cancer': 'Lungenkrebs'
+'stroke': 'Schlaganfall'
 'b) cancer': 'b) Bösartige Neubildungen'
+'ischemic heart disease': 'Ischämische Herzerkrankungen'
+'diabetes mellitus type 2': 'Diabetes mellitus Typ 2'
 'c) diabetes mellitus': 'c) Diabetes mellitus'
 'd) chronic respiratory disease': 'd) Chronische Atemwegserkrankungen'
 'a) diarrhoea': 'a) Durchfallerkrankungen'
@@ -406,12 +411,6 @@ no unit: "Keine Einheit"
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
-'chronic obstructive pulmonary disease': 'Chronisch obstruktive Lungenerkrankung (COPD)'
-'lung cancer': 'Lungenkrebs'
-'stroke': 'Schlaganfall'
-'ischemic heart disease': 'Ischämische Herzerkrankungen'
-'diabetes mellitus type 2': 'Diabetes mellitus Typ 2'
-'other diseases': 'Sonstige Erkrankungen'
 
 #Zeitreihen
 #Z_01021_1
@@ -514,10 +513,14 @@ no unit: "Keine Einheit"
 'births of young women': 'Geburten junger Frauen'
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
+#Z_03091_1
+'attributable deaths': 'Attributable Todesfälle'
+#Z_03091_2
+'daly': 'DALY'
 #Z_03092_1
-'mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
+'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
-'mortality due to unintentional poisoning': 'Sterblichkeit infolge von unbeabsichtigten Vergiftungen'
+'mortality attributed to unintentional poisoning': 'Sterblichkeit infolge von unbeabsichtigten Vergiftungen'
 #Z_03101_1
 'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)'
 #Z_03101_2
@@ -1016,10 +1019,6 @@ no unit: "Keine Einheit"
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_03091_1
-'attributable deaths': 'Attributable Todesfälle'
-#Z_03091_2
-'daly': 'DALY'
 
 #Zusatz
 total: Insgesamt
