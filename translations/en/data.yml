@@ -576,9 +576,9 @@ no unit: "No Unit"
 #Z_05051_1
 'proportion of women in parliaments': 'Proportion of women in parliaments'
 #Z_05051_2
-'proportion of women in local governments': 'Proportion of women in local governments'
+'proportion of women in councils of districts and district-free cities': 'Proportion of women in councils of districts and district-free cities'
 #Z_05052_1
-'women in managerial positions': 'Women in managerial positions'
+'proportion of women in managerial positions': 'Proportion of women in managerial positions'
 #Z_05062_1
 'access to sexual and reproductive health care, information and education': 'Access to sexual and reproductive health care, information and education'
 #Z_05071_1
@@ -605,8 +605,6 @@ no unit: "No Unit"
 'wastewater that is safely treated or does not require treatment': 'Wastewater that is safely treated or does not require treatment'
 #Z_06031_2
 'wastewater and cooling water': 'Wastewater and cooling water'
-#Z_06032_1
-'water bodies with good quality': 'Water bodies with good quality'
 #Z_06032_2
 'proportion of flowing water with good ecological status for total phosphorous': 'Proportion of flowing water with good ecological status for total phosphorous'
 #Z_06032_3
@@ -790,7 +788,7 @@ no unit: "No Unit"
 #Z_11061_2
 'municipal solid waste in total': 'Municipal solid waste in total'
 #Z_11062_1
-'population weighted annual mean levels of pm10': 'Population weighted annual mean levels of PM<sub>10</sub>'
+'population weighted annual mean levels of fine particulate matter': 'Population weighted annual mean levels of fine particulate matter'
 #Z_11062_2
 'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
 #Z_11071_1

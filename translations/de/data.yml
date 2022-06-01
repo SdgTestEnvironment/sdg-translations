@@ -576,9 +576,9 @@ no unit: "Keine Einheit"
 #Z_05051_1
 'proportion of women in parliaments': 'Frauenanteil in Parlamenten'
 #Z_05051_2
-'proportion of women in local governments': 'Frauenanteil in Gemeinden'
+'proportion of women in councils of districts and district-free cities': 'Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten'
 #Z_05052_1
-'women in managerial positions': 'Frauen in Führungspositionen'
+'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
 #Z_05062_1
 'access to sexual and reproductive health care, information and education': 'Zugang zu sexuellen und reproduktiven Gesundheitsleistungen, Informationen und Bildung'
 #Z_05071_1
@@ -605,8 +605,6 @@ no unit: "Keine Einheit"
 'wastewater that is safely treated or does not require treatment': 'Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist'
 #Z_06031_2
 'wastewater and cooling water': 'Abwasser und Kühlwasser'
-#Z_06032_1
-'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
 #Z_06032_2
 'proportion of flowing water with good ecological status for total phosphorous': 'Anteil der Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
 #Z_06032_3
@@ -790,7 +788,7 @@ no unit: "Keine Einheit"
 #Z_11061_2
 'municipal solid waste in total': 'Siedlungsabfälle insgesamt'
 #Z_11062_1
-'population weighted annual mean levels of pm10': 'Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>'
+'population weighted annual mean levels of fine particulate matter': 'Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub'
 #Z_11062_2
 'population with excessive exposure to fine particulate matter': 'Bevölkerung mit erhöhter Feinstaubexposition'
 #Z_11071_1
