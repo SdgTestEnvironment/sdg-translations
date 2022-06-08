@@ -514,9 +514,9 @@ no unit: "No Unit"
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
 #Z_03091_1
-'attributable deaths': 'Attributable deaths'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM2.5)  among the population aged 25 years and older'
 #Z_03091_2
-'daly': 'DALY'
+'disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older': 'Disability-adjusted life years (DALYs) attributable to long-term exposure to particulate matter (PM2.5) among persons aged 25 years and older'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
@@ -534,6 +534,8 @@ no unit: "No Unit"
 #Z_03111_4
 'pneumococcal vaccination coverage at school entry': 'Pneumococcal vaccination coverage at school entry'
 #Z_03112_1
+'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
+#Z_03112_2
 'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Health workers with direct patient contact (practising concept)'
@@ -881,8 +883,6 @@ no unit: "No Unit"
 '(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
 #Z_15081_2
 '(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
-#Z_15081_3
-'(2) online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species': '(2) Online survey on Policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species'
 #Z_15091_1
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 #Z_15091_2
@@ -1079,8 +1079,8 @@ area2: Area
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 'births of young women': 'Births of young women'
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
-'mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene'
-'mortality due to unintentional poisoning': 'Mortality due to unintentional poisoning'
+'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
+'mortality attributed to unintentional poisoning': 'Mortality attributed to unintentional poisoning'
 'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)'
 'current tobacco use among persons aged 15 years and older': 'Current tobacco use among persons aged 15 years and older'
 'dtp vaccination coverage at school entry': 'DTP vaccination coverage at school entry'
@@ -1107,9 +1107,7 @@ area2: Area
 'married girls': 'Married girls'
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 'proportion of time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
-'proportion of women in parliaments': 'Proportion of women in parliaments'
-'proportion of women in local governments': 'Proportion of women in local governments'
-'women in managerial positions': 'Women in managerial positions'
+'proportion of women in managerial positions': 'Proportion of women in managerial positions'
 'access to sexual and reproductive health care, information and education': 'Access to sexual and reproductive health care, information and education'
 'owned and leased agricultural land': 'Owned and leased agricultural land'
 'female owners of agricultural holdings with the legal form of a sole proprietorship': 'Female owners of agricultural holdings with the legal form of a sole proprietorship'
@@ -1123,7 +1121,8 @@ area2: Area
 'population with (own) bathtub or shower': 'Population with (own) bathtub or shower'
 'wastewater that is safely treated or does not require treatment': 'Wastewater that is safely treated or does not require treatment'
 'wastewater and cooling water': 'Wastewater and cooling water'
-'water bodies with good quality': 'Water bodies with good quality'
+'proportion of flowing water with good ecological status for total phosphorous': 'Proportion of flowing water with good ecological status for total phosphorous'
+'proportion of groundwater mesuring points below the threshold value for nitrate': 'Proportion of groundwater mesuring points below the threshold value for nitrate'
 'water use efficiency': 'Water use efficiency'
 'level of water stress: share of withdrawal in renewable water resources': 'Level of water stress: share of withdrawal in renewable water resources'
 'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Level of water stress: share of withdrawal in renewable water resources, excluding cooling water'
@@ -1211,8 +1210,6 @@ area2: Area
 'government expenditure on cultural services (cofog division 8.2)': 'Government expenditure on cultural services (COFOG division 8.2)'
 'municipal solid waste regularly collected and treated': 'Municipal solid waste regularly collected and treated'
 'municipal solid waste in total': 'Municipal solid waste in total'
-'population weighted annual mean levels of pm10': 'Population weighted annual mean levels of PM<sub>10</sub>'
-'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
 'victims of physical harassment': 'Victims of physical harassment'
 'victims of sexual harassment': 'Victims of sexual harassment'
@@ -1324,6 +1321,14 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene'
+'mortality due to unintentional poisoning': 'Mortality due to unintentional poisoning'
+'proportion of women in parliaments': 'Proportion of women in parliaments'
+'proportion of women in local governments': 'Proportion of women in local governments'
+'women in managerial positions': 'Women in managerial positions'
+'water bodies with good quality': 'Water bodies with good quality'
+'population weighted annual mean levels of pm10': 'Population weighted annual mean levels of PM<sub>10</sub>'
+'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
 'at-risk-of-poverty rate (according to eurostat definition) (%)': 'At-risk-of-poverty rate'
 'unemployed persons with unemployment benefits (%)': 'Unemployed persons with unemployment benefits'
 'population covered by health insurance (%)': 'Population covered by health insurance'
