@@ -1,6 +1,7 @@
 #Units
 '1 000': '1,000'
 'bn eur': 'Billion EUR'
+'dalys': 'DALYs'
 'eur': 'EUR'
 'eur/h': 'EUR per hour'
 'g/dl': 'Grams per decilitre'
@@ -514,9 +515,9 @@ no unit: "No Unit"
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
 #Z_03091_1
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) among persons aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM2.5) among persons aged 25 years and older'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM2.5) in the population aged 25 years and older'
 #Z_03091_2
-'disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5)among persons aged 25 years and older': 'Disability-adjusted life years (DALYs) attributable to long-term exposure to particulate matter (PM2.5)among persons aged 25 years and older'
+'dalys attributable to long-term exposure to particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs attributable to long-term exposure to particulate matter (PM2.5) in the population aged 25 years and older'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
@@ -534,8 +535,6 @@ no unit: "No Unit"
 #Z_03111_4
 'pneumococcal vaccination coverage at school entry': 'Pneumococcal vaccination coverage at school entry'
 #Z_03112_1
-'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
-#Z_03112_2
 'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Health workers with direct patient contact (practising concept)'

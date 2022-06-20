@@ -1,6 +1,7 @@
 #Einheiten
 '1 000': '1 000'
 'bn eur': 'Milliarden EUR'
+'dalys': 'DALYs'
 'eur': 'EUR'
 'eur/h': 'EUR pro Stunde'
 'g/dl': 'Gramm pro Deziliter'
@@ -514,9 +515,9 @@ no unit: "Keine Einheit"
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 #Z_03091_1
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) among persons aged 25 years and older': 'Attributable Todesfälle zurückzuführen auf eine langfristige Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer langfristigen Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03091_2
-'disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5)among persons aged 25 years and older': 'Disability-adjusted life years (DALYs) die auf die Langzeitbelastung durch Feinstaub (PM₂,₅) bei Personen ab 25 Jahren zurückzuführen sind'
+'dalys attributable to long-term exposure to particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer langfristigen Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
@@ -534,8 +535,6 @@ no unit: "Keine Einheit"
 #Z_03111_4
 'pneumococcal vaccination coverage at school entry': 'Pneumokokken-Impfquote zum Schuleintritt'
 #Z_03112_1
-'oda (gross disbursements) to medical research and basic health sectors': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
-#Z_03112_2
 'oda (gross disbursements) to medical research and basic health sectors': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Gesundheitspersonal mit direktem Patientenkontakt (practising concept)'
