@@ -3,8 +3,7 @@ heading_dns: "Sustainable Development in Germany"
 # instructions: Click on each goal, or %before_link search, %after_link
 #   for German statistics for Sustainable Development Goal global
 #   indicators.
-indstructions_dns: Click on each goal, or %before_link search %after_link
-  for the indicators of the German Sustainability Strategy
+indstructions_dns: Click on each goal for the indicators of the German Sustainability Strategy
 link_18_title: Click here to get to the DESTATIS page about the German Sustainability Strategy
 
 instructions: Click on each goal, or %before_link search %after_link
