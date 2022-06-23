@@ -517,7 +517,7 @@ no unit: "Keine Einheit"
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer langfristigen Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03091_2
-'dalys attributable to long-term exposure to particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer langfristigen Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
+'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer langfristigen Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1

@@ -376,7 +376,7 @@ no unit: "No Unit"
 'lung cancer': 'Lung cancer'
 'stroke': 'Stroke'
 'b) cancer': 'b) Cancer'
-'ischemic heart disease': 'Ischemic heart disease'
+'ischemic heart disease': 'Ischemic heart diseases'
 'diabetes mellitus type 2': 'Diabetes mellitus type 2'
 'c) diabetes mellitus': 'c) Diabetes mellitus'
 'd) chronic respiratory disease': 'd) Chronic respiratory disease'
@@ -517,7 +517,7 @@ no unit: "No Unit"
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_2
-'dalys attributable to long-term exposure to particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs attributable to long-term exposure to particulate matter (PM₂.₅) in the population aged 25 years and older'
+'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
