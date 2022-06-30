@@ -12,15 +12,14 @@
 'kg per capita': 'Kilogramm pro Kopf'
 'kcal/d': 'Kilokalorien pro Tag'
 'litres of pure alcohol per capita': 'Liter puren Alkohols pro Kopf'
-'micrograms per qubic meters': 'Mikrogramm pro Kubikmeter'
-'mj/eur': 'Megajoule pro EUR'
+'micrograms per qubic meters': 'Mikrogramm pro m³'
 'mn eur': 'Millionen EUR'
 'mn inhabitants': 'Millionen Einwohner/ -innen'
 'mn h': 'Millionen Stunden'
 'mn m3 per a': 'Millionen m³ pro Jahr'
 'mn pkm': 'Millionen Personenkilometer'
 'mn t': 'Millionen Tonnen'
-'mn t of co2 equivalents': 'Millionen Tonnen CO2-Äquivalente'
+'mn t of co2 equivalents': 'Millionen Tonnen CO₂-Äquivalente'
 'mn tkm': 'Millionen Tonnenkilometer'
 'mn usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
 'mn usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
@@ -515,7 +514,7 @@ no unit: "Keine Einheit"
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 #Z_03091_1
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer langfristigen Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
+'attributable deaths due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₅﮳₂) in der Bevölkerung ab 25 Jahren'
 #Z_03091_2
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer langfristigen Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03092_1
@@ -707,9 +706,9 @@ no unit: "Keine Einheit"
 #Z_09031_1
 'gross value added of small-scale industries in manufacturing': 'Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe'
 #Z_09041_1
-'co2 emissions per real gdp': 'CO₂-Emissionen zum realen BIP'
+'co₂ emissions per real gdp': 'CO₂-Emissionen zum realen BIP'
 #Z_09041_2
-'co2 emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
+'co₂ emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
 #Z_09051_1
 'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
 #Z_09052_1
