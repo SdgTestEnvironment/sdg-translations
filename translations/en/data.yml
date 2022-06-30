@@ -518,6 +518,14 @@ no unit: "No Unit"
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_2
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
+#Z_03091_3
+'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
+#Z_03091_4
+'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
+#Z_03091_5
+'attributable deaths due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₅﮳₂) in the population aged 25 years and older'
+#Z_03091_6
+'dalys due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₅﮳₂) in the population aged 25 years and older'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
