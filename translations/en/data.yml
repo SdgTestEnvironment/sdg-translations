@@ -1,5 +1,6 @@
 #Units
 '1 000': '1,000'
+'attributable deaths': 'Attributable deaths'
 'bn eur': 'Billion EUR'
 'dalys': 'DALYs'
 'eur': 'EUR'
@@ -83,7 +84,7 @@ no unit: "No Unit"
 'antimicrobial-resistant organisms': 'Pathogens and resistance'
 'percentiles': 'Percentiles'
 'fine particulate matter': 'Fine particulate matter'
-'poverty of the population': 'Poverty of the population'
+'population': 'Population'
 'product type': 'Product type'
 'level of proficiency': 'Level of proficiency'
 'reporting type': 'Reporting type'
@@ -734,10 +735,6 @@ no unit: "No Unit"
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
 'households covered by 3g or lte': 'Households covered by 3G or LTE'
-#Z_10011_1
-'growth rate of net equivalent income of the total population': 'Growth rate of net equivalent income of the total population'
-#Z_10011_2
-'growth rate of net equivalent income of the bottom 40 per cent of the population': 'Growth rate of net equivalent income of the bottom 40 per cent of the population'
 #Z_10011_3
 'growth rate of per capita income': 'Growth rate of per capita income'
 #Z_10021_1
@@ -1044,6 +1041,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'poverty of the population': 'Poverty of the population'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'severely materially deprived persons': 'Severely materially deprived persons'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
