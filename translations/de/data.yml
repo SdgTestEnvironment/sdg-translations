@@ -930,11 +930,7 @@ no unit: "Keine Einheit"
 #Z_16032_1
 'unsentenced detainees': 'Nicht strafrechtlich verurteilte Inhaftierte'
 #Z_16033_1
-'consumer conciliation': 'Verbraucherschlichtung'
-#Z_16033_2
-'applications received': 'Eingegangene Anträge'
-#Z_16033_3
-'applications finally processed': 'Abschließend bearbeitete Anträge'
+'conciliation requests received and finally processed': 'Eingegangene und abschließend bearbeitete Schlichtungsanträge'
 #Z_16042_1
 'seized arms and parts': 'Sichergestellte Waffen und Waffenteile'
 #Z_16051_1
