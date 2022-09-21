@@ -585,8 +585,10 @@ no unit: "Keine Einheit"
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_1
-'proportion of women in parliaments': 'Frauenanteil in Parlamenten'
+'proportion of women in federal german parliament': 'Frauenanteil im Deutschen Bundestag'
 #Z_05051_2
+'proportion of women in länder parliaments': 'Frauenanteil in den Landtagen'
+#Z_05051_3
 'proportion of women in councils of districts and district-free cities': 'Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten'
 #Z_05052_1
 'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
@@ -955,7 +957,7 @@ no unit: "Keine Einheit"
 #Z_17012_1
 'proportion of domestic expenditures funded by national taxes': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'
 #Z_17012_2
-'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden'
+'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsabgaben finanziert werden'
 #Z_17021_1
 'proportion of oda (net disbursements) to gni': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE'
 #Z_17021_2
@@ -1075,7 +1077,6 @@ area2: Bereich
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 'births of young women': 'Geburten junger Frauen'
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
-'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 'mortality attributed to unintentional poisoning': 'Sterblichkeit infolge von unbeabsichtigten Vergiftungen'
 'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)'
 'current tobacco use among persons aged 15 years and older': 'Tabakkonsum in der Bevölkerung ab 15 Jahren'
@@ -1298,6 +1299,7 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
 'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
 'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben (ODA) für die Landwirtschaft'

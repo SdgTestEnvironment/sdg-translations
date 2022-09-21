@@ -585,8 +585,10 @@ no unit: "No Unit"
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
 #Z_05051_1
-'proportion of women in parliaments': 'Proportion of women in parliaments'
+'proportion of women in federal german parliament': 'Proportion of women in Federal German Parliament'
 #Z_05051_2
+'proportion of women in länder parliaments': 'Proportion of women in Länder parliaments'
+#Z_05051_3
 'proportion of women in councils of districts and district-free cities': 'Proportion of women in councils of districts and district-free cities'
 #Z_05052_1
 'proportion of women in managerial positions': 'Proportion of women in managerial positions'
@@ -1077,7 +1079,6 @@ area2: Area
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 'births of young women': 'Births of young women'
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
-'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 'mortality attributed to unintentional poisoning': 'Mortality attributed to unintentional poisoning'
 'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)'
 'current tobacco use among persons aged 15 years and older': 'Current tobacco use among persons aged 15 years and older'
@@ -1300,6 +1301,7 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
