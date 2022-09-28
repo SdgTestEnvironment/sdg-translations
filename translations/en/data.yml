@@ -383,11 +383,11 @@ no unit: "No Unit"
 'b) cancer': 'b) Cancer'
 'ischemic heart disease': 'Ischemic heart diseases'
 'diabetes mellitus type 2': 'Diabetes mellitus type 2'
-'d) acute respiratory infections': 'a) Acute respiratory infections'
+'a) acute respiratory infections': 'a) Acute respiratory infections'
 'c) diabetes mellitus': 'c) Diabetes mellitus'
 'd) chronic respiratory disease': 'd) Chronic respiratory disease'
-'a) diarrhoea': 'b) Diarrhoea'
-'b) intestinal nematode infections': 'c) Intestinal nematode infections'
+'b) diarrhoea': 'b) Diarrhoea'
+'c) intestinal nematode infections': 'c) Intestinal nematode infections'
 'c) protein-energy malnutrition': 'd) Protein-energy malnutrition'
 'dengue': 'Dengue'
 'echinococcosis': 'Echinococcosis'
@@ -1034,6 +1034,9 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'d) acute respiratory infections': 'd) Acute respiratory infections'
+'a) diarrhoea': 'a) Diarrhoea'
+'b) intestinal nematode infections': 'b) Intestinal nematode infections'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'severely materially deprived persons': 'Severely materially deprived persons'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'

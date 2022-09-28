@@ -383,11 +383,11 @@ no unit: "Keine Einheit"
 'b) cancer': 'b) Bösartige Neubildungen'
 'ischemic heart disease': 'Ischämische Herzerkrankungen'
 'diabetes mellitus type 2': 'Diabetes mellitus Typ 2'
-'d) acute respiratory infections': 'a) Akute Atemwegsinfektionen'
+'a) acute respiratory infections': 'a) Akute Atemwegsinfektionen'
 'c) diabetes mellitus': 'c) Diabetes mellitus'
 'd) chronic respiratory disease': 'd) Chronische Atemwegserkrankungen'
-'a) diarrhoea': 'b) Durchfallerkrankungen'
-'b) intestinal nematode infections': 'c) Intestinale Nematodeninfektionen'
+'b) diarrhoea': 'b) Durchfallerkrankungen'
+'c) intestinal nematode infections': 'c) Intestinale Nematodeninfektionen'
 'c) protein-energy malnutrition': 'd) Energie- und Eiweißmangelernährung'
 'dengue': 'Dengue'
 'echinococcosis': 'Echinokokkose'
@@ -1032,6 +1032,9 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'d) acute respiratory infections': 'd) Akute Atemwegsinfektionen'
+'a) diarrhoea': 'a) Durchfallerkrankungen'
+'b) intestinal nematode infections': 'b) Intestinale Nematodeninfektionen'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
