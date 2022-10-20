@@ -61,6 +61,7 @@
 'outcome of the application process': 'Ausgang des Antragsverfahrens'
 'disability status': 'Behinderungsstatus'
 'policy area': 'Politikbereiche'
+'domain': 'Bereich'
 'economic activity': 'Wirtschaftszweig'
 'education level': 'Ausbildungsgrad'
 'ownership': 'Eigentumsverhältnis'
@@ -418,6 +419,11 @@
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
+'bundesrat (upper chamber)': 'Bundesrat'
+'bundestag (lower chamber)': 'Deutscher Bundestag'
+'judiciary': 'Justiz'
+'working age population': 'Bevölkerung im erwerbsfähigen Alter'
+'public service': 'Öffentlichen Dienst'
 
 #Zeitreihen
 #Z_01021_1
@@ -947,23 +953,9 @@
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
 #Z_16071_1
-'proportion of women in the working age population': 'Frauenanteil der Bevölkerung im erwerbsfähigen Alter'
+'proportion of women': 'Frauenanteil'
 #Z_16071_2
-'proportion of women in the german bundestag (lower chamber)': 'Frauenanteil im Deutschen Bundestag'
-#Z_16071_3
-'proportion of women in the bundesrat (upper chamber)': 'Frauenanteil im Bundesrat'
-#Z_16071_4
-'proportion of women in the public service': 'Frauenanteil im öffentlichen Dienst'
-#Z_16071_5
-'proportion of women in the judiciary': 'Frauenanteil in der Justiz'
-#Z_16071_6
-'ratio of women in the german bundestag (lower chamber)': 'Verhältnis von Frauen im Deutschen Bundestag'
-#Z_16071_7
-'ratio of women in the bundesrat (upper chamber)': 'Verhältnis von Frauen im Bundesrat'
-#Z_16071_8
-'ratio of women in the public service': 'Verhältnis von Frauen im öffentlichen Dienst'
-#Z_16071_9
-'ratio of women in the judiciary': 'Verhältnis von Frauen in der Justiz'
+'ratio of women': 'Verhältnis von Frauen'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 #Z_16091_1
@@ -1355,7 +1347,6 @@ area2: Bereich
 'characteristics': 'Verfügbarkeit'
 'declination': 'Ausgang des Antragsverfahrens'
 'disability': 'Behinderungsstatus'
-'domain': 'Politikbereiche'
 'economic sector': 'Wirtschaftszweig'
 'country of origin': 'Herkunftsland'
 'level of waterstress': 'Wassernutzungsindex'

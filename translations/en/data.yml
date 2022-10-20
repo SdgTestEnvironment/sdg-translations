@@ -61,6 +61,7 @@
 'outcome of the application process': 'Outcome of the application process'
 'disability status': 'Disability status'
 'policy area': 'Policy area'
+'domain': 'Domain'
 'economic activity': 'Economic activity'
 'education level': 'Education level'
 'ownership': 'Ownership'
@@ -418,6 +419,11 @@
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
+'bundesrat (upper chamber)': 'Bundesrat (Upper chamber)'
+'bundestag (lower chamber)': 'Bundestag (Lower chamber)'
+'judiciary': 'Judiciary'
+'working age population': 'Working age population'
+'public service': 'Public service'
 
 #Time series
 #Z_01021_1
@@ -947,23 +953,9 @@
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years': 'Population satisfied with their experience of government services during the previous two years'
 #Z_16071_1
-'proportion of women in the working age population': 'Proportion of women in the working age population'
+'proportion of women': 'Proportion of women'
 #Z_16071_2
-'proportion of women in the german bundestag (lower chamber)': 'Proportion of women in the German Bundestag (Lower chamber)'
-#Z_16071_3
-'proportion of women in the bundesrat (upper chamber)': 'Proportion of women in the Bundesrat (Upper chamber)'
-#Z_16071_4
-'proportion of women in the public service': 'Proportion of women in the public service'
-#Z_16071_5
-'proportion of women in the judiciary': 'Proportion of women in the judiciary'
-#Z_16071_6
-'ratio of women in the german bundestag (lower chamber)': 'Ratio of women in the German Bundestag (Lower chamber)'
-#Z_16071_7
-'ratio of women in the bundesrat (upper chamber)': 'Ratio of women in the Bundesrat (Upper chamber)'
-#Z_16071_8
-'ratio of women in the public service': 'Ratio of women in the public service'
-#Z_16071_9
-'ratio of women in the judiciary': 'Ratio of women in the judiciary'
+'ratio of women': 'Ratio of women'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
 #Z_16091_1
@@ -1357,7 +1349,6 @@ area2: Area
 'characteristics': 'Availability'
 'declination': 'Outcome of the application process'
 'disability': 'Disability status'
-'domain': 'Policy area'
 'economic sector': 'Economic activity'
 'country of origin': 'Country of citizenship'
 'level of waterstress': 'Water use index'
