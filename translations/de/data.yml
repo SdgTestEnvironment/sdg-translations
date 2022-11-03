@@ -6,7 +6,7 @@
 'eur': 'EUR'
 'eur per hour': 'EUR pro Stunde'
 'income per capita': 'Pro Kopf Einkommen'
-'gini coefficient (0-100)': 'Gini-Index (0-100)'
+'gini coefficient': 'Gini-Koeffizient'
 'grams per decilitre': 'Gramm pro Deziliter'
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
 '2010 = 100': '2010 = 100'
@@ -955,7 +955,7 @@
 #Z_16071_1
 'proportion of women': 'Frauenanteil'
 #Z_16071_2
-'ratio of women': 'Verhältnis von Frauen'
+'ratio of share of women to population': 'Verhältnis des Frauenanteils zur Bevölkerung'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 #Z_16091_1
@@ -1044,6 +1044,7 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'gini coefficient (0-100)': 'Gini-Index (0-100)'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'

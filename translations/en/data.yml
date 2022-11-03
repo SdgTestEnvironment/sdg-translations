@@ -6,7 +6,7 @@
 'eur': 'EUR'
 'eur per hour': 'EUR per hour'
 'income per capita': 'Income per capita'
-'gini coefficient (0-100)': 'Gini coefficient (0-100)'
+'gini coefficient': 'Gini coefficient'
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 '2010 = 100': '2010 = 100'
@@ -955,7 +955,7 @@
 #Z_16071_1
 'proportion of women': 'Proportion of women'
 #Z_16071_2
-'ratio of women': 'Ratio of women'
+'ratio of share of women to population': 'Ratio of share of women to population'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
 #Z_16091_1
@@ -1046,6 +1046,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'gini coefficient (0-100)': 'Gini coefficient (0-100)'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'severely materially deprived persons': 'Severely materially deprived persons'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
