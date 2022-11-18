@@ -47,6 +47,7 @@
 'tonnes per capita': 'Tonnen pro Kopf'
 '1 000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
+'tonnes': 'Tonnen'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -424,6 +425,9 @@
 'judiciary': 'Justiz'
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
+'retail/distribution': 'Einzelhandel/Vertrieb'
+'restaurants and catering services': 'Gaststätten und Verpflegungsdienste'
+'private households': 'Private Haushalte'
 
 #Zeitreihen
 #Z_01021_1
@@ -1032,6 +1036,8 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_12031_1
+'food waste': 'Lebensmittelabfälle'
 
 #Zusatz
 total: Insgesamt

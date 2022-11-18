@@ -47,6 +47,7 @@
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
 'years': 'Years'
+'tonnes': 'Tonnes'
 
 #Categories
 'activities': 'Activities'
@@ -424,6 +425,9 @@
 'judiciary': 'Judiciary'
 'working age population': 'Working age population'
 'public service': 'Public service'
+'retail/distribution': 'Retail/Distribution'
+'restaurants and catering services': 'Restaurants and catering services'
+'private households': 'Private households'
 
 #Time series
 #Z_01021_1
@@ -1032,6 +1036,8 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_12031_1
+'food waste': 'Food waste'
 
 #Addition
 
