@@ -595,7 +595,7 @@
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
 #Z_05051_1
-'proportion of women in the german bundestag (lower chamber)': 'Proportion of women in the German Bundestag (Lower chamber)'
+'proportion of women in the german bundestag (lower chamber)': 'Proportion of women in the German Bundestag (lower chamber)'
 #Z_05051_2
 'proportion of women in the bundesrat (upper chamber)': 'Proportion of women in the Bundesrat (upper chamber)'
 #Z_05051_3
@@ -819,7 +819,7 @@
 #Z_11062_2
 'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
 #Z_11071_1
-'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
+'average share of the built-up area of cities that is open space for public use': 'Average share of the built-up area of cities that is open space for public use'
 #Z_11072_1
 'victims of physical harassment': 'Victims of physical harassment'
 #Z_11072_2
@@ -963,9 +963,9 @@
 #Z_16071_1
 'working-age population': 'Working-age population'
 #Z_16071_2
-'german bundestag (lower chamber)': 'German Bundestag (Lower chamber)'
+'german bundestag (lower chamber)': 'German Bundestag (lower chamber)'
 #Z_16071_3
-'bundesrat (upper chamber)': 'Bundesrat (Upper chamber)'
+'bundesrat (upper chamber)': 'Bundesrat (upper chamber)'
 #Z_16071_4
 'public service': 'Public service'
 #Z_16071_5
