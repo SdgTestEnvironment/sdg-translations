@@ -1053,6 +1053,7 @@ timeseries: Zeitreihe
 Series: Zeitreihe
 year: Jahr
 Year: Jahr
+Value: Wert
 sex of victim: Geschlecht der Opfer
 age of victim: Alter der Opfer
 area2: Bereich
@@ -1143,6 +1144,10 @@ area2: Bereich
 'married girls': 'Verheiratete Mädchen'
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 'proportion of time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
+'proportion of women in the german bundestag (lower chamber)': 'Frauenanteil im Deutschen Bundestag'
+'proportion of women in the bundesrat (upper chamber)': 'Frauenanteil im Bundesrat'
+'proportion of women in länder parliaments': 'Frauenanteil in den Landtagen'
+'proportion of women in councils of districts and district-free cities': 'Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten'
 'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
 'access to sexual and reproductive health care, information and education': 'Zugang zu sexuellen und reproduktiven Gesundheitsleistungen, Informationen und Bildung'
 'owned and leased agricultural land': 'Eigene und gepachtete landwirtschaftlich genutzte Flächen'
@@ -1245,7 +1250,7 @@ area2: Bereich
 'municipal solid waste in total': 'Siedlungsabfälle insgesamt'
 'population weighted annual mean levels of fine particulate matter': 'Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub'
 'population with excessive exposure to fine particulate matter': 'Bevölkerung mit erhöhter Feinstaubexposition'
-'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
+'average share of the built-up area of cities that is open space for public use': 'Durchschnittlicher Anteil der bebauten Fläche in Städten, der als Freifläche öffentlich zugänglich ist'
 'victims of physical harassment': 'Opfer körperlicher Belästigung'
 'victims of sexual harassment': 'Opfer sexueller Belästigung'
 'basel convention': 'Basler Übereinkommen'
@@ -1315,6 +1320,8 @@ area2: Bereich
 'businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Unternehmen, die den Eindruck hatten, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren'
 'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
 'population satisfied with their experience of government services during the previous two years': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
+'working-age population': 'Bevölkerung im erwerbsfähigen Alter'
+'german bundestag (lower chamber)': 'Deutscher Bundestag'
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist'
 'unesco survey on public access to information': 'UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
@@ -1353,6 +1360,7 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 'gini coefficient (0-100)': 'Gini-Index (0-100)'
 'field of work': 'Aufgabenbereiche'
 'ratio of female members in the public service': 'Verhältnis von Frauen im öffentlichen Dienst'
@@ -1470,7 +1478,6 @@ area2: Bereich
 'private sector flows at market terms (net disbursements)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)'
 'smaller towns and suburbs': 'Kleinere Städte und Vororte'
 'proportion of women in parliaments': 'Frauenanteil in Parlamenten'
-'proportion of women in councils of districts and district-free cities': 'Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten'
 'attributable deaths due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 'dalys due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 'nationally derived quantity of rivers': 'National abgeleitete Wassermenge der Flüsse'
