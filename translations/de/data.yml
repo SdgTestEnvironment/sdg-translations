@@ -11,6 +11,7 @@
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
+'2020 = 100': '2020 = 100'
 'yes=1, no=0': 'ja=1, nein=0'
 'kilogram per capita': 'Kilogramm pro Kopf'
 'kilocalories per day': 'Kilokalorien pro Tag'
@@ -563,7 +564,7 @@
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Gesundheitspersonal mit direktem Patientenkontakt (practising concept)'
 #Z_03131_1
-'average of 13 ihr core capacity scores': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
+'average of ihr core capacity scores': 'Durchschnitt der IGV-Kapazitäten-Punktwerte'
 #Z_03132_1
 'proportion of resistant isolates tested from blood cultures': 'Anteil der resistent getesteten Isolate aus Blutkulturen'
 #Z_04011_1
@@ -577,7 +578,7 @@
 #Z_04051_1
 'gender parity index': 'Geschlechtsparitätsindex'
 #Z_04061_1
-'adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Erwachsene Bevölkerung, die über ein festgelegtes Mindestniveau in a) Lesen und b) Rechnen verfügt'
+'adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Erwachsene Bevölkerung, die mindestens über einbestimmtes Niveau an funktionalen a) Lese- und b) Rechenkenntnissen verfügt'
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration von "Global Citizenship Education" und "Bildung für nachhaltige Entwicklung" im Bildungswesen'
 #Z_04081_1
@@ -1282,6 +1283,10 @@ area2: Bereich
 'forest area as a proportion of total land area': 'Waldfläche im Verhältnis zur gesamten Landfläche'
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen'
 'terrestrial and freshwater areas covered by protected areas': 'Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht'
+'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
+'forest area located within protected areas': 'Waldfläche in Schutzgebieten'
+'forest area net change rate': 'Jährliche Veränderung der Waldfläche'
+'forest area under an independently verified forest management certification scheme': 'Waldflächen mit einem unabhängig geprüften Wald-Management-System'
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
 '"red list" index': '"Rote Liste" Index'
@@ -1359,10 +1364,6 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
-'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
-'forest area located within protected areas': 'Waldfläche in Schutzgebieten'
-'forest area net change rate': 'Jährliche Veränderung der Waldfläche'
-'forest area under an independently verified forest management certification scheme': 'Waldflächen mit einem unabhängig geprüften Wald-Management-System'
 '"mountain green cover" index': '"Mountain Green Cover" Index'
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 'gini coefficient (0-100)': 'Gini-Index (0-100)'
