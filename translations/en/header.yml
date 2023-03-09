@@ -3,3 +3,10 @@ alpha: Beta
 disclaimer: This is a development website. We welcome your
   <a href="mailto:%email_address">feedback</a>.
 tag_line: 17 Goals to Transform our World
+internet_explorer_message_title: Dieser Internet-Browser wird nicht mehr unterstützt
+internet_explorer_message: Wir haben festgestellt, dass Sie den Internet Explorer
+  verwenden, um diese Website zu besuchen. Der Internet Explorer wird von Microsoft
+  nicht mehr unterstützt. Aus diesem Grund hat diese Website ebenfalls die Unterstützung
+  für alle Versionen des Internet Explorers eingestellt, einige Bereiche auf dieser
+  Website werden daher nicht oder nur eingeschränkt funktionieren. Bitte verwenden
+  Sie einen modernen Browser wie Edge, Chrome, Firefox oder Safari.
