@@ -3,3 +3,8 @@ disclaimer: Diese Seite befindet sich im Entwicklungsstadium. Wir freuen uns üb
   <a href="mailto:%email_address">Kommentare</a>.
 skip_link: ' Zum Hauptinhalt springen'
 tag_line: ''
+internet_explorer_message_title: This internet browser is no longer supported
+internet_explorer_message: We have detected that you are using Internet Explorer to visit this website.
+  Internet Explorer is now being phased out by Microsoft. As a result, this website no longer supports
+  any version of Internet Explorer. Some features on this site will not work. You should use a modern
+  browser such as Edge, Chrome, Firefox, or Safari.
