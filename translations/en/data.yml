@@ -442,7 +442,11 @@
 #Z_01022_1
 'severely materially deprived persons': 'Severely materially deprived persons'
 #Z_01022_2
-'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
+'persons at risk of poverty or social exclusion (eu 2020 target)': 'Persons at risk of poverty or social exclusion (EU 2020 target)'
+#Z_01022_3
+'severely materially and socially deprived persons': 'Severely materially and socially deprived persons'
+#Z_01022_4
+'persons at risk of poverty or social exclusion (eu 2030 target)': 'Persons at risk of poverty or social exclusion (EU 2030 target)'
 #Z_01031_1
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
 #Z_01031_2
@@ -730,7 +734,9 @@
 #Z_09021_4
 'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
 #Z_09022_1
-'manufacturing persons employed': 'Manufacturing persons employed'
+'manufacturing persons employed (data from national accounts)': 'Manufacturing persons employed (Data from National Accounts)'
+#Z_09022_2
+'manufacturing persons employed (data from labor force survey)': 'Manufacturing persons employed (Data from labor force survey)'
 #Z_09031_1
 'gross value added of small-scale industries in manufacturing': 'Gross value added of small-scale industries in manufacturing'
 #Z_09041_1
@@ -894,7 +900,9 @@
 #Z_15041_2
 'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
 #Z_15042_1
-'"mountain green cover" index': '"Mountain Green Cover" Index'
+'(a) "mountain green cover" index': '(a) "Mountain Green Cover" Index'
+#Z_15042_2
+'(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
 #Z_15051_1
 '"red list" index': '"Red List" Index'
 #Z_15061_1
@@ -915,6 +923,8 @@
 '(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
 #Z_15081_2
 '(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
+#Z_15081_3
+'(2) national allocation of resources towards the prevention or control of ias.': '(2) National allocation of resources towards the prevention or control of IAS.'
 #Z_15091_1
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 #Z_15091_2
