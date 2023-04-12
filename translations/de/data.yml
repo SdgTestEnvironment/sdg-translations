@@ -49,6 +49,7 @@
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
+'% of gdb': 'Prozent des BIP'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -433,6 +434,9 @@
 'judiciary': 'Justiz'
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
+'total': 'Insgesamt'
+'tax breaks': 'Steuervergünstigungen'
+'direct transfers of funds': 'Direkte finanzielle Beihilfen'
 
 #Zeitreihen
 #Z_01021_1
@@ -902,7 +906,7 @@
 #Z_15042_1
 '(a) mountain green cover index': '(a) Mountain Green Cover Index'
 #Z_15042_2
-'(b) proportion of degraded mountain area': '(b) Anteil der degradierten Bergflächen'
+'(b) proportion of degraded mountain area': '(b) Anteil der degradierten Bergfläche'
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
 #Z_15061_1
@@ -920,11 +924,9 @@
 #Z_15071_2
 'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
 #Z_15081_1
-'(1a) national legislation and policy relevant to invasive alien species': '(1a) Nationale Gesetzgebung und Politik in Bezug auf invasive gebietsfremde Arten'
+'national legislation and policy relevant to ias': 'Nationale Gesetzgebung und Politik in Bezug auf IAS'
 #Z_15081_2
-'(1b) targets and objectives within national strategies for preventing and controlling invasive alien species aligned with aichi target 9': '(1b) Zielvorgaben und Ziele innerhalb der nationalen Strategien zur Prävention und Kontrolle invasiver gebietsfremder Arten auf das Aichi-Ziel 9 abgestimmt sind'
-#Z_15081_3
-'(2) national allocation of resources towards the prevention or control of ias': '(2) Nationale Zuweisung von Ressourcen für die Prävention oder Kontrolle von IAS'
+'align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des Strategieplans für biologische Vielfalt'
 #Z_15091_1
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
 #Z_15091_2
@@ -1061,6 +1063,8 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_12111_1
+'zeitreihenbezeichnung en platzhalter': 
 
 #Zusatz
 total: Insgesamt
@@ -1080,8 +1084,6 @@ area2: Bereich
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
-'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
-'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
 'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
 'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
@@ -1096,8 +1098,8 @@ area2: Bereich
 'wasting': 'Auszehrung'
 'hb concentrations in female adolescents': 'Hb-Konzentrationen bei weiblichen Jugendlichen'
 'labour productivity': 'Arbeitsproduktivität'
-'organically farmed agricultural land (data from destatis)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
-'organically farmed agricultural land (data from bmel)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
+'organically farmed agricultural land (data from the federal statistical office)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
+'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
 'plant genetic resources': 'Pflanzengenetische Ressourcen'
 'animal genetic resources': 'Tiergenetische Ressourcen'
 'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
@@ -1224,7 +1226,8 @@ area2: Bereich
 'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
 'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
 'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
-'manufacturing persons employed': 'Erwerbstätige im Verarbeitenden Gewerbe'
+'data from na from federal statistical office': 'Daten der VGR des Statistischen Bundesamtes'
+'data from lfs from federal statistical office': 'Daten der AKE des Statistischen Bundesamtes'
 'gross value added of small-scale industries in manufacturing': 'Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe'
 'co₂ emissions per real gdp': 'CO₂-Emissionen zum realen BIP'
 'co₂ emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
@@ -1311,8 +1314,6 @@ area2: Bereich
 'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
-'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
-'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
 'implementation of the system of environmental-economic accounting (seea)': 'Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
 'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
@@ -1378,6 +1379,13 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
+'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
+'organically farmed agricultural land (data from destatis)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
+'organically farmed agricultural land (data from bmel)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
+'manufacturing persons employed': 'Erwerbstätige im Verarbeitenden Gewerbe'
+'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
+'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'
 'average of 13 ihr core capacity scores': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
 '"mountain green cover" index': '"Mountain Green Cover" Index'
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'

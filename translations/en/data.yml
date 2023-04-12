@@ -49,6 +49,7 @@
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
 'years': 'Years'
+'% of gdb': '% of GDB'
 
 #Categories
 'activities': 'Activities'
@@ -433,6 +434,9 @@
 'judiciary': 'Judiciary'
 'working age population': 'Working age population'
 'public service': 'Public service'
+'total': 'Total'
+'tax breaks': 'Tax breaks'
+'direct transfers of funds': 'Direct transfers of funds'
 
 #Time series
 #Z_01021_1
@@ -920,11 +924,9 @@
 #Z_15071_2
 'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
 #Z_15081_1
-'(1a) national legislation and policy relevant to invasive alien species': '(1a) National legislation and policy relevant to invasive alien species'
+'national legislation and policy relevant to ias': 'National legislation and policy relevant to IAS'
 #Z_15081_2
-'(1b) targets and objectives within national strategies for preventing and controlling invasive alien species aligned with aichi target 9': '(1b) Targets and objectives within national strategies for preventing and controlling invasive alien species aligned with Aichi Target 9'
-#Z_15081_3
-'(2) national allocation of resources towards the prevention or control of ias': '(2) National allocation of resources towards the prevention or control of IAS'
+'align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'Align the NBSAP targets with Aichi Target 9 of the Strategic Plan for Biodiversity'
 #Z_15091_1
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 #Z_15091_2
@@ -1061,6 +1063,8 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_12111_1
+'zeitreihenbezeichnung en platzhalter': 'Zeitreihenbezeichnung En Platzhalter'
 
 #Addition
 
@@ -1076,8 +1080,6 @@ area2: Area
 
 #Old stuff that may still be needed
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
-'severely materially deprived persons': 'Severely materially deprived persons'
-'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
 'population covered by health insurance': 'Population covered by health insurance'
 'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
@@ -1092,8 +1094,8 @@ area2: Area
 'wasting': 'Wasting'
 'hb concentrations in female adolescents': 'Hb concentrations in female adolescents'
 'labour productivity': 'Labour productivity'
-'organically farmed agricultural land (data from destatis)': 'Organically farmed agricultural land (data from Destatis)'
-'organically farmed agricultural land (data from bmel)': 'Organically farmed agricultural land (data from BMEL)'
+'organically farmed agricultural land (data from the federal statistical office)': 'Organically farmed agricultural land (data from the Federal Statistical Office)'
+'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Organically farmed agricultural land (data from the Federal Ministry of Food and Agriculture)'
 'plant genetic resources': 'Plant genetic resources'
 'animal genetic resources': 'Animal genetic resources'
 'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
@@ -1220,7 +1222,8 @@ area2: Area
 'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
 'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
 'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
-'manufacturing persons employed': 'Manufacturing persons employed'
+'data from na from federal statistical office': 'Data from NA from Federal Statistical Office'
+'data from lfs from federal statistical office': 'Data from LFS from Federal Statistical Office'
 'gross value added of small-scale industries in manufacturing': 'Gross value added of small-scale industries in manufacturing'
 'co₂ emissions per real gdp': 'CO₂ emissions per real GDP'
 'co₂ emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂ emissions per gross value added (price adjusted) in manufacturing industries'
@@ -1307,8 +1310,6 @@ area2: Area
 'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
 'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
-'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
-'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
 'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
@@ -1374,6 +1375,13 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'severely materially deprived persons': 'Severely materially deprived persons'
+'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
+'organically farmed agricultural land (data from destatis)': 'Organically farmed agricultural land (data from Destatis)'
+'organically farmed agricultural land (data from bmel)': 'Organically farmed agricultural land (data from BMEL)'
+'manufacturing persons employed': 'Manufacturing persons employed'
+'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
+'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
 'average of 13 ihr core capacity scores': 'Average of 13 IHR core capacity scores'
 '"mountain green cover" index': '"Mountain Green Cover" Index'
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
