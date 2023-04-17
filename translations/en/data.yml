@@ -50,6 +50,7 @@
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
 'years': 'Years'
+'hectare': 'Hectare'
 
 #Categories
 'activities': 'Activities'
@@ -339,10 +340,13 @@
 'corporations': 'Corporations'
 'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
 'population that considers their accommodation too dark': 'Population that considers their accommodation too dark'
+'direct transfers of funds': 'Direct transfers of funds'
 'rate of overburdening by housing costs': 'Rate of overburdening by housing costs'
 'overcrowding rate': 'Overcrowding rate'
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor'
+'tax breaks': 'Tax breaks'
 'population that does not have a toilet for the sole use of their household': 'Population that does not have a toilet for the sole use of their household'
+'total': 'Total'
 'divers': 'Divers'
 'female': 'Female'
 'male': 'Male'
@@ -434,9 +438,9 @@
 'judiciary': 'Judiciary'
 'working age population': 'Working age population'
 'public service': 'Public service'
-'total': 'Total'
-'tax breaks': 'Tax breaks'
-'direct transfers of funds': 'Direct transfers of funds'
+'marine protected areas': 'Marine protected areas'
+'marine area': 'Marine area'
+'effective marine protected areas': 'Effective marine protected areas'
 
 #Time series
 #Z_01021_1
@@ -863,22 +867,24 @@
 'organisations with emas registration': 'Organisations with EMAS registration'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
+#Z_12111_1
+'zeitreihenbezeichnung en platzhalter': 'Zeitreihenbezeichnung En Platzhalter'
 #Z_13022_1
 'total greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
 'climate finance flows': 'Climate finance flows'
+#Z_14021_1
+'number of countries using ecosystem-based approaches to managing marine areas': 'Number of countries using ecosystem-based approaches to managing marine areas'
 #Z_14031_1
 'average ph-concentration in the german bight': 'Average pH-concentration in the German Bight'
 #Z_14041_1
 'proportion of sustainable managed stocks in all msy examined stocks': 'Proportion of sustainable managed stocks in all MSY examined stocks'
 #Z_14041_2
 'proportion of msy examined in all managed stocks': 'Proportion of MSY examined in all managed stocks'
-#Z_14051_1
-'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
-#Z_14051_2
-'marine areas covered by protected areas': 'Marine areas covered by protected areas'
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
+#Z_14071_1
+'sustainable fisheries as a proportion of gdp in small island developing states, least developed countries and all countries': 'Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
 #Z_14101_1
@@ -1063,8 +1069,12 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_12111_1
-'zeitreihenbezeichnung en platzhalter': 'Zeitreihenbezeichnung En Platzhalter'
+#Z_14051_3
+'marine protected areas': 'Marine protected areas'
+#Z_14051_5
+'marine area': 'Marine area'
+#Z_14051_4
+'effective marine protected areas': 'Effective marine protected areas'
 
 #Addition
 

@@ -50,6 +50,7 @@
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
+'hectare': 'Hektar'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -339,10 +340,13 @@
 'corporations': 'Unternehmen'
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
+'direct transfers of funds': 'Direkte finanzielle Beihilfen'
 'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
 'overcrowding rate': 'Überbelegungsquote'
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
+'tax breaks': 'Steuervergünstigungen'
 'population that does not have a toilet for the sole use of their household': 'Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat'
+'total': 'Insgesamt'
 'divers': 'Divers'
 'female': 'Weiblich'
 'male': 'Männlich'
@@ -434,9 +438,9 @@
 'judiciary': 'Justiz'
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
-'total': 'Insgesamt'
-'tax breaks': 'Steuervergünstigungen'
-'direct transfers of funds': 'Direkte finanzielle Beihilfen'
+'marine protected areas': 'Marine Schutzgebiete'
+'marine area': 'Meeresfläche'
+'effective marine protected areas': 'Effektive marine Schutzgebiete'
 
 #Zeitreihen
 #Z_01021_1
@@ -863,22 +867,24 @@
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
+#Z_12111_1
+'zeitreihenbezeichnung en platzhalter': 
 #Z_13022_1
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
 'climate finance flows': 'Zahlungen zur Klimafinanzierung'
+#Z_14021_1
+'number of countries using ecosystem-based approaches to managing marine areas': 'Anzahl der Staaten, die Meeresgebiete ökosystemorientiert bewirtschaften'
 #Z_14031_1
 'average ph-concentration in the german bight': 'Durchschnittliche pH-Konzentration in der Deutschen Bucht'
 #Z_14041_1
 'proportion of sustainable managed stocks in all msy examined stocks': 'Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen'
 #Z_14041_2
 'proportion of msy examined in all managed stocks': 'MSY-untersuchte an allen bewirtschafteten Beständen'
-#Z_14051_1
-'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
-#Z_14051_2
-'marine areas covered by protected areas': 'Meeresfläche, die unter Schutz steht'
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
+#Z_14071_1
+'sustainable fisheries as a proportion of gdp in small island developing states, least developed countries and all countries': 'Anteil der nachhaltigen Fischerei am BIP der kleinen Inselentwicklungsländer, der am wenigsten entwickelten Länder und aller Länder'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 #Z_14101_1
@@ -904,9 +910,9 @@
 #Z_15041_2
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
 #Z_15042_1
-'(a) mountain green cover index': '(a) Mountain Green Cover Index'
+'(a) mountain green cover index': 'a) Mountain Green Cover Index'
 #Z_15042_2
-'(b) proportion of degraded mountain area': '(b) Anteil der degradierten Bergfläche'
+'(b) proportion of degraded mountain area': 'b) Anteil der degradierten Bergfläche'
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
 #Z_15061_1
@@ -1063,8 +1069,12 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_12111_1
-'zeitreihenbezeichnung en platzhalter': 
+#Z_14051_3
+'marine protected areas': 'Marine Schutzgebiete'
+#Z_14051_5
+'marine area': 'Meeresfläche'
+#Z_14051_4
+'effective marine protected areas': 'Effektive marine Schutzgebiete'
 
 #Zusatz
 total: Insgesamt
