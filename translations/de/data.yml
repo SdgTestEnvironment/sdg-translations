@@ -439,7 +439,6 @@
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
 'marine protected areas': 'Marine Schutzgebiete'
-'marine area': 'Meeresfläche'
 'effective marine protected areas': 'Effektive marine Schutzgebiete'
 
 #Zeitreihen
@@ -881,6 +880,12 @@
 'proportion of sustainable managed stocks in all msy examined stocks': 'Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen'
 #Z_14041_2
 'proportion of msy examined in all managed stocks': 'MSY-untersuchte an allen bewirtschafteten Beständen'
+#Z_14051_1
+'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
+#Z_14051_3
+'marine areas covered by protected areas': 'Meeresfläche, die unter Schutz steht'
+#Z_14051_4
+'marine areas covered by effective protected areas': 'Meeresfläche, die unter effektivem Schutz steht'
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14071_1
@@ -895,7 +900,7 @@
 'forest area as a proportion of total land area': 'Waldfläche im Verhältnis zur gesamten Landfläche'
 #Z_15012_1
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen'
-#Z_15012_2
+#Z_15012_3
 'terrestrial and freshwater areas covered by protected areas': 'Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht'
 #Z_15021_1
 'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
@@ -910,9 +915,9 @@
 #Z_15041_2
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
 #Z_15042_1
-'(a) mountain green cover index': 'a) Mountain Green Cover Index'
+'(a) mountain green cover index': 'a) Index der Grünbedeckung in Gebirgen'
 #Z_15042_2
-'(b) proportion of degraded mountain area': 'b) Anteil der degradierten Bergfläche'
+'(b) proportion of degraded mountain area': 'b) Anteil der degradierten Gebirgsfläche'
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
 #Z_15061_1
@@ -1069,8 +1074,6 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_14051_3
-'marine protected areas': 'Marine Schutzgebiete'
 
 #Zusatz
 total: Insgesamt

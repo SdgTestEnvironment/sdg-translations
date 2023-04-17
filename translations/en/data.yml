@@ -439,7 +439,6 @@
 'working age population': 'Working age population'
 'public service': 'Public service'
 'marine protected areas': 'Marine protected areas'
-'marine area': 'Marine area'
 'effective marine protected areas': 'Effective marine protected areas'
 
 #Time series
@@ -881,6 +880,12 @@
 'proportion of sustainable managed stocks in all msy examined stocks': 'Proportion of sustainable managed stocks in all MSY examined stocks'
 #Z_14041_2
 'proportion of msy examined in all managed stocks': 'Proportion of MSY examined in all managed stocks'
+#Z_14051_1
+'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
+#Z_14051_3
+'marine areas covered by protected areas': 'Marine areas covered by protected areas'
+#Z_14051_4
+'marine areas covered by effective protected areas': 'Marine areas covered by effective protected areas'
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
 #Z_14071_1
@@ -895,7 +900,7 @@
 'forest area as a proportion of total land area': 'Forest area as a proportion of total land area'
 #Z_15012_1
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas'
-#Z_15012_2
+#Z_15012_3
 'terrestrial and freshwater areas covered by protected areas': 'Terrestrial and freshwater areas covered by protected areas'
 #Z_15021_1
 'above-ground biomass stock in forest': 'Above-ground biomass stock in forest'
@@ -1069,8 +1074,6 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_14051_3
-'marine protected areas': 'Marine protected areas'
 
 #Addition
 
