@@ -822,6 +822,14 @@
 'land consumption rate': 'Flächenverbrauchsrate'
 #Z_11031_4
 'population growth rate': 'Bevölkerungsentwicklung'
+#Z_11031_5
+'ratio of land consumption rate to population growth rate (year-to-year) (moving four-year average)': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung (Gleitender Vierjahresdurchschnitt)'
+#Z_11031_6
+'proportion of settlement and transport areas to population (moving four-year average)': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung (Gleitender Vierjahresdurchschnitt)'
+#Z_11031_7
+'land consumption rate (moving four-year average)': 'Flächenverbrauchsrate (Gleitender Vierjahresdurchschnitt)'
+#Z_11031_8
+'population growth rate (moving four-year average)': 'Bevölkerungsentwicklung (Gleitender Vierjahresdurchschnitt)'
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
@@ -867,7 +875,7 @@
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_12111_1
-'zeitreihenbezeichnung en platzhalter': 
+'fossil fuel subsidies': 'Subventionen auf fossile Brennstoffe'
 #Z_13022_1
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
@@ -1304,6 +1312,7 @@ area2: Bereich
 'proportion of msy examined in all managed stocks': 'MSY-untersuchte an allen bewirtschafteten Beständen'
 'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
 'marine areas covered by protected areas': 'Meeresfläche, die unter Schutz steht'
+'marine areas covered by effective protected areas': 'Meeresfläche, die unter effektivem Schutz steht'
 'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 'score for the implementation of unclos and ist two implementing agreements': 'Punktzahl der Umsetzung des Seerechtsübereinkommens der Vereinten Nationen (SRÜ) und seiner zwei Zusatzübereinkommen'
@@ -1311,12 +1320,15 @@ area2: Bereich
 'forest area as a proportion of total land area': 'Waldfläche im Verhältnis zur gesamten Landfläche'
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen'
 'terrestrial and freshwater areas covered by protected areas': 'Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht'
+'terrestrial and freshwater areas covered by effective protected areas': 'Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht'
 'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
 'forest area located within protected areas': 'Waldfläche in Schutzgebieten'
 'forest area net change rate': 'Jährliche Veränderung der Waldfläche'
 'forest area under an independently verified forest management certification scheme': 'Waldflächen mit einem unabhängig geprüften Wald-Management-System'
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
+'(a) mountain green cover index': 'a) Index der Grünbedeckung in Gebirgen'
+'(b) proportion of degraded mountain area': 'b) Anteil der degradierten Gebirgsfläche'
 '"red list" index': '"Rote Liste" Index'
 'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
 'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'

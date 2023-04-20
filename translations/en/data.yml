@@ -822,6 +822,14 @@
 'land consumption rate': 'Land consumption rate'
 #Z_11031_4
 'population growth rate': 'Population growth rate'
+#Z_11031_5
+'ratio of land consumption rate to population growth rate (year-to-year) (moving four-year average)': 'Ratio of land consumption rate to population growth rate (year-to-year) (Moving four-year average)'
+#Z_11031_6
+'proportion of settlement and transport areas to population (moving four-year average)': 'Proportion of settlement and transport areas to population (Moving four-year average)'
+#Z_11031_7
+'land consumption rate (moving four-year average)': 'Land consumption rate (Moving four-year average)'
+#Z_11031_8
+'population growth rate (moving four-year average)': 'Population growth rate (Moving four-year average)'
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
 #Z_11041_1
@@ -867,7 +875,7 @@
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_12111_1
-'zeitreihenbezeichnung en platzhalter': 'Zeitreihenbezeichnung En Platzhalter'
+'fossil fuel subsidies': 'Fossil fuel subsidies'
 #Z_13022_1
 'total greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
@@ -1300,6 +1308,7 @@ area2: Area
 'proportion of msy examined in all managed stocks': 'Proportion of MSY examined in all managed stocks'
 'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
 'marine areas covered by protected areas': 'Marine areas covered by protected areas'
+'marine areas covered by effective protected areas': 'Marine areas covered by effective protected areas'
 'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
 'score for the implementation of unclos and ist two implementing agreements': 'Score for the implementation of UNCLOS and ist two implementing agreements'
@@ -1307,12 +1316,15 @@ area2: Area
 'forest area as a proportion of total land area': 'Forest area as a proportion of total land area'
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas'
 'terrestrial and freshwater areas covered by protected areas': 'Terrestrial and freshwater areas covered by protected areas'
+'terrestrial and freshwater areas covered by effective protected areas': 'Terrestrial and freshwater areas covered by effective protected areas'
 'above-ground biomass stock in forest': 'Above-ground biomass stock in forest'
 'forest area located within protected areas': 'Forest area located within protected areas'
 'forest area net change rate': 'Forest area net change rate'
 'forest area under an independently verified forest management certification scheme': 'Forest area under an independently verified forest management certification scheme'
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Mountain Key Biodiversity Areas (KBAs) covered by protected areas'
 'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
+'(a) mountain green cover index': '(a) Mountain Green Cover Index'
+'(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
 '"red list" index': '"Red List" Index'
 'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
 'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
