@@ -9,6 +9,7 @@
 'gini coefficient': 'Gini coefficient'
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
+'hectare': 'Hectare'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
 '2020 = 100': '2020 = 100'
@@ -50,7 +51,6 @@
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
 'years': 'Years'
-'hectare': 'Hectare'
 
 #Categories
 'activities': 'Activities'
@@ -341,7 +341,9 @@
 'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
 'population that considers their accommodation too dark': 'Population that considers their accommodation too dark'
 'direct transfers of funds': 'Direct transfers of funds'
+'effective marine protected areas': 'Effective marine protected areas'
 'rate of overburdening by housing costs': 'Rate of overburdening by housing costs'
+'marine protected areas': 'Marine protected areas'
 'overcrowding rate': 'Overcrowding rate'
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor'
 'tax breaks': 'Tax breaks'
@@ -438,8 +440,6 @@
 'judiciary': 'Judiciary'
 'working age population': 'Working age population'
 'public service': 'Public service'
-'marine protected areas': 'Marine protected areas'
-'effective marine protected areas': 'Effective marine protected areas'
 
 #Time series
 #Z_01021_1
@@ -897,7 +897,7 @@
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
 #Z_14071_1
-'sustainable fisheries as a proportion of gdp in small island developing states, least developed countries and all countries': 'Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries'
+'sustainable fisheries as a proportion of gdp': 'Sustainable fisheries as a proportion of GDP'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
 #Z_14101_1
@@ -924,6 +924,8 @@
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Mountain Key Biodiversity Areas (KBAs) covered by protected areas'
 #Z_15041_2
 'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
+#Z_15041_3
+'mountain regions, covered by effective protected areas': 'Mountain regions, covered by effective protected areas'
 #Z_15042_1
 '(a) mountain green cover index': '(a) Mountain Green Cover Index'
 #Z_15042_2

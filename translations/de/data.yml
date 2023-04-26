@@ -9,6 +9,7 @@
 'gini coefficient': 'Gini-Koeffizient'
 'grams per decilitre': 'Gramm pro Deziliter'
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
+'hectare': 'Hektar'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
 '2020 = 100': '2020 = 100'
@@ -50,7 +51,6 @@
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
-'hectare': 'Hektar'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -341,7 +341,9 @@
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 'direct transfers of funds': 'Direkte finanzielle Beihilfen'
+'effective marine protected areas': 'Effektive marine Schutzgebiete'
 'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
+'marine protected areas': 'Marine Schutzgebiete'
 'overcrowding rate': 'Überbelegungsquote'
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
 'tax breaks': 'Steuervergünstigungen'
@@ -438,8 +440,6 @@
 'judiciary': 'Justiz'
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
-'marine protected areas': 'Marine Schutzgebiete'
-'effective marine protected areas': 'Effektive marine Schutzgebiete'
 
 #Zeitreihen
 #Z_01021_1
@@ -897,7 +897,7 @@
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14071_1
-'sustainable fisheries as a proportion of gdp in small island developing states, least developed countries and all countries': 'Anteil der nachhaltigen Fischerei am BIP der kleinen Inselentwicklungsländer, der am wenigsten entwickelten Länder und aller Länder'
+'sustainable fisheries as a proportion of gdp': 'Anteil der nachhaltigen Fischerei am BIP'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 #Z_14101_1
@@ -924,6 +924,8 @@
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
 #Z_15041_2
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
+#Z_15041_3
+'mountain regions, covered by effective protected areas': 'Flächen in Gebirgen, die unter effektivem Schutz stehen'
 #Z_15042_1
 '(a) mountain green cover index': 'a) Index der Grünbedeckung in Gebirgen'
 #Z_15042_2
