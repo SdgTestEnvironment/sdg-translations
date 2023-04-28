@@ -123,6 +123,7 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'presentation': 'Presentation'
 
 #Characteristics
 'copying or moving of files and folders': 'Copying or moving of files and folders'
@@ -440,6 +441,8 @@
 'judiciary': 'Judiciary'
 'working age population': 'Working age population'
 'public service': 'Public service'
+'annual values': 'Annual values'
+'moving four-year average': 'Moving four-year average'
 
 #Time series
 #Z_01021_1
@@ -822,14 +825,6 @@
 'land consumption rate': 'Land consumption rate'
 #Z_11031_4
 'population growth rate': 'Population growth rate'
-#Z_11031_5
-'ratio of land consumption rate to population growth rate (year-to-year) (moving four-year average)': 'Ratio of land consumption rate to population growth rate (year-to-year) (Moving four-year average)'
-#Z_11031_6
-'proportion of settlement and transport areas to population (moving four-year average)': 'Proportion of settlement and transport areas to population (Moving four-year average)'
-#Z_11031_7
-'land consumption rate (moving four-year average)': 'Land consumption rate (Moving four-year average)'
-#Z_11031_8
-'population growth rate (moving four-year average)': 'Population growth rate (Moving four-year average)'
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
 #Z_11041_1

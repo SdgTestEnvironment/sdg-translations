@@ -123,6 +123,7 @@
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'presentation': 'Darstellung'
 
 #Ausprägungen
 'copying or moving of files and folders': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -440,6 +441,8 @@
 'judiciary': 'Justiz'
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
+'annual values': 'Jährliche Werte'
+'moving four-year average': 'Gleitender Vierjahresdurchschnitt'
 
 #Zeitreihen
 #Z_01021_1
@@ -822,14 +825,6 @@
 'land consumption rate': 'Flächenverbrauchsrate'
 #Z_11031_4
 'population growth rate': 'Bevölkerungsentwicklung'
-#Z_11031_5
-'ratio of land consumption rate to population growth rate (year-to-year) (moving four-year average)': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung (Gleitender Vierjahresdurchschnitt)'
-#Z_11031_6
-'proportion of settlement and transport areas to population (moving four-year average)': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung (Gleitender Vierjahresdurchschnitt)'
-#Z_11031_7
-'land consumption rate (moving four-year average)': 'Flächenverbrauchsrate (Gleitender Vierjahresdurchschnitt)'
-#Z_11031_8
-'population growth rate (moving four-year average)': 'Bevölkerungsentwicklung (Gleitender Vierjahresdurchschnitt)'
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
