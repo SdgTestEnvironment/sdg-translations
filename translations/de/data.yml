@@ -51,6 +51,7 @@
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
+'index': 'Index'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -1081,6 +1082,8 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_12071_1
+'sustainable public procurement index': 'Index der nachhaltigen öffentlichen Beschaffung'
 
 #Zusatz
 total: Insgesamt

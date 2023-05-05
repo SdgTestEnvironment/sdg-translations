@@ -51,6 +51,7 @@
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
 'years': 'Years'
+'index': 'Index'
 
 #Categories
 'activities': 'Activities'
@@ -1081,6 +1082,8 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_12071_1
+'sustainable public procurement index': 'Sustainable Public Procurement Index'
 
 #Addition
 
