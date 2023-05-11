@@ -10,6 +10,7 @@
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 'hectare': 'Hectare'
+'index': 'Index'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
 '2020 = 100': '2020 = 100'
@@ -51,7 +52,6 @@
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
 'years': 'Years'
-'index': 'Index'
 
 #Categories
 'activities': 'Activities'
@@ -819,7 +819,7 @@
 #Z_11021_2
 'population that has convenient access to public transport (within 10 minutes walking distance)': 'Population that has convenient access to public transport (within 10 minutes walking distance)'
 #Z_11031_1
-'ratio of land consumption rate to population growth rate (year-to-year)': 'Ratio of land consumption rate to population growth rate (year-to-year)'
+'ratio of land consumption rate to population growth rate': 'Ratio of land consumption rate to population growth rate'
 #Z_11031_2
 'proportion of settlement and transport areas to population': 'Proportion of settlement and transport areas to population'
 #Z_11031_3
@@ -868,6 +868,8 @@
 'material recovery': 'Material recovery'
 #Z_12061_1
 'organisations with emas registration': 'Organisations with EMAS registration'
+#Z_12071_1
+'sustainable public procurement index': 'Sustainable Public Procurement Index'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_12111_1
@@ -1082,8 +1084,6 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_12071_1
-'sustainable public procurement index': 'Sustainable Public Procurement Index'
 
 #Addition
 

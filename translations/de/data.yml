@@ -10,6 +10,7 @@
 'grams per decilitre': 'Gramm pro Deziliter'
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
 'hectare': 'Hektar'
+'index': 'Index'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
 '2020 = 100': '2020 = 100'
@@ -51,7 +52,6 @@
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
-'index': 'Index'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -819,7 +819,7 @@
 #Z_11021_2
 'population that has convenient access to public transport (within 10 minutes walking distance)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)'
 #Z_11031_1
-'ratio of land consumption rate to population growth rate (year-to-year)': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
+'ratio of land consumption rate to population growth rate': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
 #Z_11031_2
 'proportion of settlement and transport areas to population': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung'
 #Z_11031_3
@@ -868,6 +868,8 @@
 'material recovery': 'Stoffliche Verwertung'
 #Z_12061_1
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
+#Z_12071_1
+'sustainable public procurement index': 'Index der nachhaltigen öffentlichen Beschaffung'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_12111_1
@@ -1082,8 +1084,6 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
-#Z_12071_1
-'sustainable public procurement index': 'Index der nachhaltigen öffentlichen Beschaffung'
 
 #Zusatz
 total: Insgesamt
