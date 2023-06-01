@@ -50,6 +50,8 @@
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
+'million usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
+'million usd, constant prices (2020)': 'Millionen USD, konstante Preise (2020)'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -1097,8 +1099,6 @@ area2: Bereich
 #Old stuff that may still be needed
 '1 000': '1 000'
 'million usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
-'million usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
-'million usd, constant prices (2020)': 'Millionen USD, konstante Preise (2020)'
 'per 1 000 inhabitants': 'Je 1 000 Einwohner/ -innen'
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
