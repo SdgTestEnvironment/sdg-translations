@@ -446,18 +446,16 @@
 'public service': 'Public service'
 
 #Time series
-#Z_01021_1
-'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 #Z_01021_1a
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 #Z_01022_1
-'severely materially deprived persons': 'Severely materially deprived persons'
+'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 #Z_01022_2
-'persons at risk of poverty or social exclusion (eu 2020 target)': 'Persons at risk of poverty or social exclusion (EU 2020 target)'
+'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 #Z_01022_3
-'severely materially and socially deprived persons': 'Severely materially and socially deprived persons'
+'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
 #Z_01022_4
-'persons at risk of poverty or social exclusion (eu 2030 target)': 'Persons at risk of poverty or social exclusion (EU 2030 target)'
+'severely materially and socially deprived persons': 'Severely materially and socially deprived persons'
 #Z_01031_1
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
 #Z_01031_2
@@ -1098,7 +1096,6 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'million usd, constant prices (2018)': 'Million USD, constant prices (2018)'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
 'population covered by health insurance': 'Population covered by health insurance'
@@ -1361,7 +1358,7 @@ area2: Area
 'german bundestag (lower chamber)': 'German Bundestag (lower chamber)'
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
 'children under 5 years of age whose births have been registered with a civil authority': 'Children under 5 years of age whose births have been registered with a civil authority'
-'unesco survey on public access to information': 'UNESCO Survey on Public Access to Information'
+'total score from unesco survey on public access to information': 'Total Score from UNESCO Survey on Public Access to Information'
 'membership ganhri (category a)': 'Membership GANHRI (category A)'
 'proportion of total government revenue to gdp': 'Proportion of total government revenue to GDP'
 'proportion of domestic expenditures funded by national taxes': 'Proportion of domestic expenditures funded by national taxes'
@@ -1397,6 +1394,9 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'sustainable public procurement index': 'Sustainable Public Procurement Index'
+'million usd, constant prices (2018)': 'Million USD, constant prices (2018)'
+'unesco survey on public access to information': 'UNESCO Survey on Public Access to Information'
 'ratio of land consumption rate to population growth rate (year-to-year)': 'Ratio of land consumption rate to population growth rate (year-to-year)'
 'proportion of settlement and transport areas to population': 'Proportion of settlement and transport areas to population'
 'land consumption rate': 'Land consumption rate'

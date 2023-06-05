@@ -446,18 +446,16 @@
 'public service': 'Öffentlichen Dienst'
 
 #Zeitreihen
-#Z_01021_1
-'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 #Z_01021_1a
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 #Z_01022_1
-'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
+'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 #Z_01022_2
-'persons at risk of poverty or social exclusion (eu 2020 target)': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen (EU 2020 Ziel)'
+'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 #Z_01022_3
-'severely materially and socially deprived persons': 'Unter erheblicher materieller und sozialer Deprivation leidende Personen'
+'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
 #Z_01022_4
-'persons at risk of poverty or social exclusion (eu 2030 target)': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen (EU 2030 Ziel)'
+'severely materially and socially deprived persons': 'Unter erheblicher materieller und sozialer Deprivation leidende Personen'
 #Z_01031_1
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
 #Z_01031_2
@@ -1098,7 +1096,6 @@ area2: Bereich
 
 #Old stuff that may still be needed
 '1 000': '1 000'
-'million usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
 'per 1 000 inhabitants': 'Je 1 000 Einwohner/ -innen'
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
@@ -1365,7 +1362,7 @@ area2: Bereich
 'german bundestag (lower chamber)': 'Deutscher Bundestag'
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist'
-'unesco survey on public access to information': 'UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
+'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
 'membership ganhri (category a)': 'Mitgliedschaft GANHRI (Kategorie A)'
 'proportion of total government revenue to gdp': 'Verhältnis der Gesamteinnahmen des Staates zum BIP'
 'proportion of domestic expenditures funded by national taxes': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'
@@ -1401,6 +1398,9 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'sustainable public procurement index': 'Index der nachhaltigen öffentlichen Beschaffung'
+'million usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
+'unesco survey on public access to information': 'UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
 'ratio of land consumption rate to population growth rate (year-to-year)': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
 'proportion of settlement and transport areas to population': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung'
 'land consumption rate': 'Flächenverbrauchsrate'
