@@ -64,3 +64,5 @@ edit_metadata: Edit Metadata
 timeseries: Time series
 no_selection: No disaggregations are available for this indicator
 contentAndProgress: Content and progress
+proxy: proxy
+proxy_description: The series is not compliant to the global metadata but provides additional information.

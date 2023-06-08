@@ -65,3 +65,5 @@ view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
 no_selection: Für diesen Indikator stehen keine Disaggregationnen zur Verfügung
 
 contentAndProgress: Inhalt und Entwicklung
+proxy: proxy
+proxy_description: Die Zeitreihe entspricht nicht den globalen Metadaten, bietet aber zusätzliche Informationen.
