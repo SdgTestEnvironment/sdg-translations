@@ -28,6 +28,8 @@
 'million tonnes': 'Million tonnes'
 'million tonnes of co₂ equivalents': 'Million tonnes of CO₂ equivalents'
 'million tonne-kilometres': 'Million tonne-kilometres'
+'million usd, constant prices (2019)': 'Million USD, constant prices (2019)'
+'million usd, constant prices (2020)': 'Million USD, constant prices (2020)'
 'million usd, constant prices (2021)': 'Million USD, constant prices (2021)'
 'no unit': 'No unit'
 'number': 'Number'
@@ -50,8 +52,6 @@
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
 'years': 'Years'
-'million usd, constant prices (2019)': 'Million USD, constant prices (2019)'
-'million usd, constant prices (2020)': 'Million USD, constant prices (2020)'
 
 #Categories
 'activities': 'Activities'
