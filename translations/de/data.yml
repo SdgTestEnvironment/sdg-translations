@@ -620,6 +620,10 @@
 'proportion of women in länder parliaments': 'Frauenanteil in den Landtagen'
 #Z_05051_4
 'proportion of women in councils of districts and district-free cities': 'Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten'
+#Z_05051_5
+'members in the german bundestag (lower chamber)': 'Mitglieder im Deutschen Bundestag'
+#Z_05051_6
+'members in the bundesrat (upper chamber)': 'Mitglieder im Bundesrat'
 #Z_05052_1
 'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
 #Z_05062_1
@@ -1011,7 +1015,7 @@
 #Z_16091_1
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist'
 #Z_16102_1
-'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
+'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den öffentlichen Zugang zu Informationen'
 #Z_16111_1
 'membership ganhri (category a)': 'Mitgliedschaft GANHRI (Kategorie A)'
 #Z_17011_1
