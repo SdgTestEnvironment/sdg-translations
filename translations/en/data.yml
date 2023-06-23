@@ -373,6 +373,7 @@
 'alcohol and other psychoactive substances (alcohol)': 'Alcohol and other psychoactive substances (alcohol)'
 '3g': '3G'
 'lte': 'LTE'
+'5g': '5G'
 'medium-high-tech': 'Medium-high-tech'
 'high-tech': 'High-tech'
 'section 1: maternity care': 'Section 1: Maternity care'
@@ -546,8 +547,8 @@
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 #Z_03072_1
 'births of young women': 'Births of young women'
-#Z_03082_1
-'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
+#Z_03082_2
+'proportion of private households with high private expenditure on health in relation to total household expenditure or income': 'Proportion of private households with high private expenditure on Health in relation to total household expenditure or income'
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_2
@@ -767,7 +768,7 @@
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
-'households covered by 3g or lte': 'Households covered by 3G or LTE'
+'households covered by 3g, lte or 5g': 'Households covered by 3G, LTE or 5G'
 #Z_10011_3
 'growth rate of per capita income': 'Growth rate of per capita income'
 #Z_10021_1

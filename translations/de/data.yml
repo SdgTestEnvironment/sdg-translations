@@ -373,6 +373,7 @@
 'alcohol and other psychoactive substances (alcohol)': 'Alkohol und andere psychoaktive Substanzen (Alkohol)'
 '3g': '3G'
 'lte': 'LTE'
+'5g': '5G'
 'medium-high-tech': 'Medium-Hightech'
 'high-tech': 'Hightech'
 'section 1: maternity care': 'Abschnitt 1: Mutterschaftsvorsorge'
@@ -546,8 +547,8 @@
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
 'births of young women': 'Geburten junger Frauen'
-#Z_03082_1
-'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
+#Z_03082_2
+'proportion of private households with high private expenditure on health in relation to total household expenditure or income': 'Anteil der Privathaushalte mit hohen privaten Ausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03091_2
@@ -767,7 +768,7 @@
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und Hightech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
-'households covered by 3g or lte': 'Haushalte, die mit 3G oder LTE abgedeckt sind'
+'households covered by 3g, lte or 5g': 'Haushalte, die mit 3G, LTE oder 5G abgedeckt sind'
 #Z_10011_3
 'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 #Z_10021_1
