@@ -766,7 +766,7 @@
 #Z_09061_2
 'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 #Z_09071_1
-'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und Hightech-Industrien am Verarbeitenden Gewerbe'
+'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
 'households covered by 3g, lte or 5g': 'Haushalte, die mit 3G, LTE oder 5G abgedeckt sind'
 #Z_10011_3
@@ -876,7 +876,7 @@
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_12111_1
-'fossil fuel subsidies': 'Subventionen auf fossile Brennstoffe'
+'tax breaks and direct transfers of funds': 'Steuervergünstigungen und direkte finanzielle Beihilfen'
 #Z_13022_1
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
@@ -1283,9 +1283,9 @@ area2: Bereich
 'population not having indoor flushing toilet for the sole use of their household': 'Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat'
 'population that has convenient access to public transport (within 500 meters)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)'
 'population that has convenient access to public transport (within 10 minutes walking distance)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)'
-'ratio of land consumption rate to population growth rate': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
+'ratio of land consumption rate to population growth rate': 'Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung'
 'proportion of settlement and transport areas to population': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung'
-'land consumption rate': 'Flächenverbrauchsrate'
+'land consumption rate': 'Flächennutzungssrate'
 'population growth rate': 'Bevölkerungsentwicklung'
 'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 'government expenditure on protection of biodiversity and landscape (cofog division 5.4)': 'Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)'
@@ -1306,7 +1306,7 @@ area2: Bereich
 'material recovery': 'Stoffliche Verwertung'
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
-'fossil fuel subsidies': 'Subventionen auf fossile Brennstoffe'
+'tax breaks and direct transfers of funds': 'Steuervergünstigungen und direkte finanzielle Beihilfen'
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 'climate finance flows': 'Zahlungen zur Klimafinanzierung'
 'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Vorhandensein von Raumordnungsplänen für die ausschließliche Wirtschaftszone (AWZ) und einem integrierten Küstenzonenmanagement (IKMZ)'
@@ -1408,6 +1408,7 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'fossil fuel subsidies': 'Subventionen auf fossile Brennstoffe'
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 'proportion of women in the german bundestag (lower chamber)': 'Frauenanteil im Deutschen Bundestag'
 'proportion of women in the bundesrat (upper chamber)': 'Frauenanteil im Bundesrat'
@@ -1419,7 +1420,6 @@ area2: Bereich
 'sustainable public procurement index': 'Index der nachhaltigen öffentlichen Beschaffung'
 'million usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
 'unesco survey on public access to information': 'UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
-'ratio of land consumption rate to population growth rate (year-to-year)': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
 'feeling of (in)security of the population in its neighbourhood (at night)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)'
 'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 'organically farmed agricultural land (data from destatis)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
