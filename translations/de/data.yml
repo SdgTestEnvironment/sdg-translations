@@ -146,6 +146,7 @@
 '15.5 years': '15,5 Jahre'
 '15 to under 20 years': '15 bis unter 20 Jahre'
 '15 to under 25 years': '15 bis unter 25 Jahre'
+'15 to under 65 years': '15 bis unter 65 Jahre'
 '15 years and older': '15 Jahre und älter'
 '16 years': '16 Jahre'
 '16.5 years': '16,5 Jahre'
@@ -164,6 +165,7 @@
 '21 to under 60 years': '21 bis unter 60 Jahre'
 '25 to under 30 years': '25 bis unter 30 Jahre'
 '25 to under 45 years': '25 bis unter 45 Jahre'
+'25 to under 55 years': '25 bis unter 55 Jahre'
 '25 to under 65 years': '25 bis unter 65 Jahre'
 '25 to under 75 years': '25 bis unter 75 Jahre'
 '25 years and older': '25 Jahre und älter'
@@ -586,7 +588,7 @@
 #Z_04022_1
 'children in child day care at the age of 5': 'Kinder in Kindertagesbetreuung im Alter von 5 Jahren'
 #Z_04031_1
-'participation rate in formal and non-formal education and training in the previous 12 months': 'Teilnahmequote in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten'
+'participation in formal and non-formal education and training in the previous 12 months': 'Teilnahme an formaler und non-formaler Bildung und Ausbildung in den letzten 12 Monaten'
 #Z_04041_1
 'share of population with computer-related activities': 'Anteil der Bevölkerung mit computerbezogenen Aktivitäten'
 #Z_04051_1
@@ -768,7 +770,7 @@
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
-'households covered by 3g, lte or 5g': 'Haushalte, die mit 3G, LTE oder 5G abgedeckt sind'
+'households covered by a mobile network': 'Haushalte, die durch ein Mobilfunknetz abgedeckt sind'
 #Z_10011_3
 'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 #Z_10021_1

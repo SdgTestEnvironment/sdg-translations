@@ -146,6 +146,7 @@
 '15.5 years': '15.5 years'
 '15 to under 20 years': '15 to under 20 years'
 '15 to under 25 years': '15 to under 25 years'
+'15 to under 65 years': '15 to under 65 years'
 '15 years and older': '15 years and older'
 '16 years': '16 years'
 '16.5 years': '16.5 years'
@@ -164,6 +165,7 @@
 '21 to under 60 years': '21 to under 60 years'
 '25 to under 30 years': '25 to under 30 years'
 '25 to under 45 years': '25 to under 45 years'
+'25 to under 55 years': '25 to under 55 years'
 '25 to under 65 years': '25 to under 65 years'
 '25 to under 75 years': '25 to under 75 years'
 '25 years and older': '25 years and older'
@@ -586,7 +588,7 @@
 #Z_04022_1
 'children in child day care at the age of 5': 'Children in child day care at the age of 5'
 #Z_04031_1
-'participation rate in formal and non-formal education and training in the previous 12 months': 'Participation rate in formal and non-formal education and training in the previous 12 months'
+'participation in formal and non-formal education and training in the previous 12 months': 'Participation in formal and non-formal education and training in the previous 12 months'
 #Z_04041_1
 'share of population with computer-related activities': 'Share of population with computer-related activities'
 #Z_04051_1
@@ -768,7 +770,7 @@
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
-'households covered by 3g, lte or 5g': 'Households covered by 3G, LTE or 5G'
+'households covered by a mobile network': 'Households covered by a mobile network'
 #Z_10011_3
 'growth rate of per capita income': 'Growth rate of per capita income'
 #Z_10021_1
