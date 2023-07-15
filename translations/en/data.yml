@@ -91,6 +91,7 @@
 'pathogens and resistance': 'Pathogens and resistance'
 'percentiles': 'Percentiles'
 'fine particulate matter': 'Fine particulate matter'
+'political institutions': 'Political institutions'
 'population': 'Population'
 'product type': 'Product type'
 'level of proficiency': 'Level of proficiency'
@@ -324,6 +325,10 @@
 'leasehold': 'Leasehold'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂.₅'
+'bundesrat (upper chamber)': 'Bundesrat (upper chamber)'
+'bundestag (lower chamber)': 'Bundestag (lower chamber)'
+'councils of districts and district-free cities': 'Councils of districts and district-free cities'
+'länder parliaments': 'Länder parliaments'
 'poorest 40 percent of the population': 'Poorest 40 percent of the population'
 'population total': 'Population total'
 'minimum requirement level i': 'Minimum requirement level I'
@@ -615,18 +620,8 @@
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
-#Z_05051_1
-'proportion of women in the german bundestag (lower chamber)': 'Proportion of women in the German Bundestag (lower chamber)'
-#Z_05051_2
-'proportion of women in the bundesrat (upper chamber)': 'Proportion of women in the Bundesrat (upper chamber)'
-#Z_05051_3
-'proportion of women in länder parliaments': 'Proportion of women in Länder parliaments'
-#Z_05051_4
-'proportion of women in councils of districts and district-free cities': 'Proportion of women in councils of districts and district-free cities'
-#Z_05051_5
-'members in the german bundestag (lower chamber)': 'Members in the German Bundestag (lower chamber)'
 #Z_05051_6
-'members in the bundesrat (upper chamber)': 'Members in the Bundesrat (upper chamber)'
+'proportion of women in national parliaments and local governments': 'Proportion of women in national parliaments and local governments'
 #Z_05052_1
 'proportion of women in managerial positions': 'Proportion of women in managerial positions'
 #Z_05062_1

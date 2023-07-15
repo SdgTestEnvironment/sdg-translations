@@ -91,6 +91,7 @@
 'pathogens and resistance': 'Erreger und Resistenz'
 'percentiles': 'Perzentile'
 'fine particulate matter': 'Feinstaub'
+'political institutions': 'Politische Institutionen'
 'population': 'Bevölkerung'
 'product type': 'Produkttyp'
 'level of proficiency': 'Leistungsniveau'
@@ -324,6 +325,10 @@
 'leasehold': 'Pacht'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂,₅'
+'bundesrat (upper chamber)': 'Bundesrat'
+'bundestag (lower chamber)': 'Bundestag'
+'councils of districts and district-free cities': 'Kreistage und Stadträte von kreisfreien Städten'
+'länder parliaments': 'Landtage'
 'poorest 40 percent of the population': 'Ärmsten 40 Prozent der Bevölkerung'
 'population total': 'Gesamtbevölkerung'
 'minimum requirement level i': 'Mindestniveau Stufe I'
@@ -615,18 +620,8 @@
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
-#Z_05051_1
-'proportion of women in the german bundestag (lower chamber)': 'Frauenanteil im Deutschen Bundestag'
-#Z_05051_2
-'proportion of women in the bundesrat (upper chamber)': 'Frauenanteil im Bundesrat'
-#Z_05051_3
-'proportion of women in länder parliaments': 'Frauenanteil in den Landtagen'
-#Z_05051_4
-'proportion of women in councils of districts and district-free cities': 'Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten'
-#Z_05051_5
-'members in the german bundestag (lower chamber)': 'Mitglieder im Deutschen Bundestag'
 #Z_05051_6
-'members in the bundesrat (upper chamber)': 'Mitglieder im Bundesrat'
+'proportion of women in national parliaments and local governments': 'Frauenanteil in nationalen Parlamenten und Gemeinden'
 #Z_05052_1
 'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
 #Z_05062_1
