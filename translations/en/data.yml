@@ -75,7 +75,7 @@
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
 'country of citizenship': 'Country of citizenship'
-'household expenditures on health': 'Household expenditures on health'
+'share of household expenditure spent on health care': 'Share of household expenditure spent on health care'
 'income quintile': 'Income quintile'
 'indicator': 'Indicator'
 'items': 'Items'
@@ -1106,6 +1106,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'household expenditures on health': 'Household expenditures on health'
 'sdg-indicator 4.3.1 (adults)': 'SDG-Indicator 4.3.1 (Adults)'
 'sdg-indicator 4.3.1 (youths)': 'SDG-Indicator 4.3.1 (Youths)'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
