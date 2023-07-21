@@ -3,6 +3,9 @@ additional_information_blurb: Die untenstehende Zeitreihe besteht aus Zahlenspan
   Aus techischen Gründen ist die Darstellung in Form von interaktiven Grafiken und Tabellen nur für Zeitreihen mit rein numerischen Werten möglich,
   daher wird die Zeitreihe hier im PDF-Format dargestellt.
 chart: Grafik
+change_breakdowns: Auswahl ändern
+apply: OK
+cancel: Abbrechen
 clear_all: Auswahl<br>aufheben
 clear_selections: Auswahl<br>aufheben
 footnote: Anmerkung

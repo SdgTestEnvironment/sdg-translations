@@ -3,6 +3,9 @@ additional_information_blurb: The time series below consists of ranges of number
   For technical reasons, the presentation in the form of interactive charts and tables is only possible for time series with purely numerical values,
   therefore the time series is presented here in PDF format.
 select_all: Select all
+change_breakdowns: Change breakdowns
+apply: OK
+cancel: Cancel
 clear_all: Clear all
 clear_selections: Clear selections
 variable_hint: Available when '%field' is selected
