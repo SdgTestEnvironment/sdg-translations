@@ -383,8 +383,8 @@
 '3g': '3G'
 'lte': 'LTE'
 '5g': '5G'
-'medium-high-tech': 'Medium-Hightech'
-'high-tech': 'Hightech'
+'medium-high-tech': 'Medium-High-Tech'
+'high-tech': 'High-Tech'
 'section 1: maternity care': 'Abschnitt 1: Mutterschaftsvorsorge'
 'section 2: contraception and family planning': 'Abschnitt 2: Empfängnisverhütung und Familienplanung'
 'section 3: comprehensive sexuality education and information': 'Abschnitt 3: Umfassende Sexualerziehung und Information'
@@ -803,7 +803,7 @@
 #Z_10073_1
 'persons who died during migration': 'Personen, die während der Migration gestorben sind'
 #Z_10074_1
-'proportion of the population who are refugees': 'Anteil der Bevölkerung, der auf der Flucht ist'
+'german nationals who are refugees abroad': 'Deutsche Staatsangehörige, die im Ausland auf der Flucht sind'
 #Z_10091_1
 'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
 #Z_11011_06
