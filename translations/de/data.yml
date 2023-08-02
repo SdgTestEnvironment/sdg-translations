@@ -21,7 +21,7 @@
 'micrograms per m³': 'Mikrogramm pro m³'
 'megajoule per eur': 'Megajoule pro EUR'
 'million eur': 'Millionen EUR'
-'million inhabitants': 'Millionen Einwohner/ -innen'
+'million inhabitants': 'Millionen Einwohner/-innen'
 'million hours': 'Millionen Stunden'
 'million m³ per year': 'Millionen m³ pro Jahr'
 'million passenger-kilometre': 'Millionen Personenkilometer'
@@ -33,17 +33,17 @@
 'million usd, constant prices (2021)': 'Millionen USD, konstante Preise (2021)'
 'no unit': 'Keine Einheit'
 'number': 'Anzahl'
-'per 100 inhabitants': 'Je 100 Einwohner/ -innen'
-'per 1,000 inhabitants': 'Je 1 000 Einwohner/ -innen'
+'per 100 inhabitants': 'Je 100 Einwohner/-innen'
+'per 1,000 inhabitants': 'Je 1 000 Einwohner/-innen'
 'per 1,000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1,000 live births': 'Je 1 000 Lebendgeborene'
-'per 10,000 inhabitants': 'Je 10 000 Einwohner/ -innen'
+'per 10,000 inhabitants': 'Je 10 000 Einwohner/-innen'
 'per 100,000 adults': 'Je 100 000 Erwachsene'
-'per 100,000 inhabitants': 'Je 100 000 Einwohner/ -innen'
+'per 100,000 inhabitants': 'Je 100 000 Einwohner/-innen'
 'per 100,000 live births': 'Je 100 000 Lebendgeborene'
-'per 100,000 employees': 'Je 100 000 Mitarbeiter/ -innen'
+'per 100,000 employees': 'Je 100 000 Mitarbeiter/-innen'
 'ph-value': 'pH-Wert'
-'per 1 million inhabitants': 'Je 1 Million Einwohner/ -innen'
+'per 1 million inhabitants': 'Je 1 Million Einwohner/-innen'
 'percentage': 'Prozent'
 'percent of gdp': 'Prozent des BIP'
 'km²': 'km²'
@@ -75,7 +75,7 @@
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'frequency': 'Häufigkeit'
 'country of citizenship': 'Herkunftsland'
-'share of household expenditure spent on health care': 'Anteil der Haushaltsausgaben, der für Gesundheit aufgewendet wird'
+'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
 'indicator': 'Indikator'
 'items': 'Probleme'
@@ -554,8 +554,6 @@
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
 'births of young women': 'Geburten junger Frauen'
-#Z_03082_1
-'gkv-households with high expenditure on health in relation to total household expenditure': 'GKV-Haushalte mit hohen Ausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben'
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03091_2
@@ -613,7 +611,7 @@
 #Z_05021_1
 'female victims of sexual violence by an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Intimpartner/-innen'
 #Z_05022_1
-'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/ -innen waren'
+'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/-innen waren'
 #Z_05031_1
 'married girls': 'Verheiratete Mädchen'
 #Z_05032_1
@@ -1092,6 +1090,8 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_03082_1
+'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-Haushalte mit hohen Ausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben'
 
 #Zusatz
 total: Insgesamt
@@ -1110,6 +1110,7 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'share of household expenditure spent on health care': 'Anteil der Haushaltsausgaben, der für Gesundheit aufgewendet wird'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'

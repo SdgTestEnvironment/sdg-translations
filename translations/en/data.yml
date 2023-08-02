@@ -75,7 +75,7 @@
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
 'country of citizenship': 'Country of citizenship'
-'share of household expenditure spent on health care': 'Share of household expenditure spent on health care'
+'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income quintile': 'Income quintile'
 'indicator': 'Indicator'
 'items': 'Items'
@@ -554,8 +554,6 @@
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 #Z_03072_1
 'births of young women': 'Births of young women'
-#Z_03082_1
-'gkv-households with high expenditure on health in relation to total household expenditure': 'GKV-households with high expenditure on health in relation to total household expenditure'
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_2
@@ -1092,6 +1090,8 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
+#Z_03082_1
+'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-households with large expenditures on health in relation to total household expenditure'
 
 #Addition
 
@@ -1106,6 +1106,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'share of household expenditure spent on health care': 'Share of household expenditure spent on health care'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
