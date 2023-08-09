@@ -554,6 +554,8 @@
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 #Z_03072_1
 'births of young women': 'Births of young women'
+#Z_03082_1
+'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-households with large expenditures on health in relation to total household expenditure'
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_2
@@ -1090,8 +1092,6 @@
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_03082_1
-'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-households with large expenditures on health in relation to total household expenditure'
 
 #Addition
 
