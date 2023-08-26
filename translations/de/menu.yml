@@ -1,3 +1,35 @@
+start: Start
+dns_plattform: DNS-Online Plattform <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Klicken Sie hier um zur Seite der DNS Indikatoren zu gelangen" alt="Link DNS" style="width:24px;height:24px;"/>
+sdg_plattform: SDG-Online Plattform <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
+national_indicators: Nationale Indikatoren (DNS)
+dns: Deutsche Nachhaltigkeitsstrategie (DNS)
+path_dns_indcator_set: https://dnstestenvironment.github.io/dns-indicators//about/about/publications/dns_indicators/
+dns_indcator_set: DNS-Indikatorenset
+path_indicator_reports: https://dnstestenvironment.github.io/dns-indicators//about/publications/reports/
+indicator_reports: Indikatorenberichte
+path_other_publications: https://dnstestenvironment.github.io/dns-indicators//about/publications/other/
+other_publications: Weitere Publikationen
+global_indicators: Globale Indikatoren (SDG)
+agenda: Agenda 2030
+path_un_sdg: ???
+un_sdg: UN-Nachhaltigkeitsziele (SDG)
+sdg_indicator_set: SDG-Indikatorenset
+path_wista_6_16:
+wista_6_16: Auszug aus der Publikation "WISTA - Wirtschaft und Statistik", 5/2016
+path_report_hlpf: ???
+report_hlpf: Bericht zum HLPF
+path_joint_action: https://dnstestenvironment.github.io/dns-indicators//about/joint_action/
+joint_action: Gemeinschaftswerk
+status_overview: Statusübersicht
+methodology: Methodik
+sustainable_development_strategy: Nachhaltigkeitsstrategie
+federal_government: Bundesregierung
+federal_states: Bundesländer
+help: Hilfe
+navigation: Navigation
+guidance: Technische&nbspHinweise
+faq: FAQ
+
 about: Über uns
 about_short: Über
 about_this_site: Über&nbspdiese&nbspBerichtsplattform

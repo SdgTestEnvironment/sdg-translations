@@ -1,3 +1,35 @@
+start: Start
+dns_plattform: DNS-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Click here to get to the dns indicator page" alt="Link DNS" style="width:24px;height:24px;"/>
+sdg_plattform: SDG-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Click here to get to the dns indicator page" alt="Link SDG" style="width:24px;height:24px;"/>
+national_indicators: National Indicators (DNS)
+dns: German Sustainable Development Strategy (DNS)
+path_dns_indcator_set: https://dnstestenvironment.github.io/dns-indicators//about/publications/dns-indicators/
+dns_indcator_set: DNS-Indicatorset
+path_indicator_reports: https://dnstestenvironment.github.io/dns-indicators//about/publications/reports/
+indicator_reports: Indicator reports
+path_other_publications: https://dnstestenvironment.github.io/dns-indicators/en/about/publications/other/
+other_publications: Other publications
+global_indicators: Global indicators (SDG)
+agenda: 2030 Agenda
+path_un_sdg: ???
+un_sdg: UN-Sustainable Development Goals (SDG)
+sdg_indicator_set: SDG-Indicatorset
+path_wista_6_16:
+wista_6_16: Extract from the publication "WISTA - Wirtschaft und Statistik", 5/2016
+path_report_hlpf: ???
+report_hlpf: Report on the HLPF
+path_joint_action: https://dnstestenvironment.github.io/dns-indicators/en/about/joint_action/
+joint_action: Joint Action
+status_overview: Status overview
+methodology: Methodology
+sustainable_development_strategy: Sustainable Development Strategy
+federal_government: Federal Government
+federal_states: Bundesländer
+help: Help
+navigation: Navigation
+guidance: Technical&nbspinstructions
+faq: FAQ
+
 menu: Menu
 reporting_status: Data&nbspavailability
 about: About us
