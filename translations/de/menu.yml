@@ -1,7 +1,9 @@
 start: Start
+pathtodns: https://dnstestenvironment.github.io/dns-indicators
 dns_plattform: DNS-Online Plattform <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Klicken Sie hier um zur Seite der DNS Indikatoren zu gelangen" alt="Link DNS" style="width:24px;height:24px;"/>
 sdg_plattform: SDG-Online Plattform <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
 national_indicators: Nationale Indikatoren (DNS)
+path_dns: https://dnstestenvironment.github.io/dns-indicators//about/strategy/
 dns: Deutsche Nachhaltigkeitsstrategie (DNS)
 path_dns_indcator_set: https://dnstestenvironment.github.io/dns-indicators//about/about/publications/dns_indicators/
 dns_indcator_set: DNS-Indikatorenset
