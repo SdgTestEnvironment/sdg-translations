@@ -5,21 +5,20 @@ sdg_plattform: SDG-Online platform <img class="link_btn" src="https://sdg-indika
 national_indicators: National Indicators (DNS)
 path_dns: https://dnstestenvironment.github.io/dns-indicators/en/about/strategy/
 dns: German Sustainable Development Strategy (DNS)
-path_dns_indcator_set: https://dnstestenvironment.github.io/dns-indicators//about/publications/dns-indicators/
+path_dns_indcator_set: 'https://dnstestenvironment.github.io/dns-indicators//about/publications/dns-indicators/'
 dns_indcator_set: DNS-Indicatorset
-path_indicator_reports: https://dnstestenvironment.github.io/dns-indicators//about/publications/reports/
+path_indicator_reports: 'https://dnstestenvironment.github.io/dns-indicators//about/publications/reports/'
 indicator_reports: Indicator reports
-path_other_publications: https://dnstestenvironment.github.io/dns-indicators/en/about/publications/other/
+path_other_publications: 'https://dnstestenvironment.github.io/dns-indicators/en/about/publications/other/'
 other_publications: Other publications
 global_indicators: Global indicators (SDG)
 agenda: 2030 Agenda
-path_un_sdg: ???
 un_sdg: UN-Sustainable Development Goals (SDG)
 sdg_indicator_set: SDG-Indicatorset
 path_wista_6_16:
 wista_6_16: Extract from the publication "WISTA - Wirtschaft und Statistik", 5/2016
 report_hlpf: Report on the HLPF
-path_joint_action: https://dnstestenvironment.github.io/dns-indicators/en/about/joint_action/
+path_joint_action: 'https://dnstestenvironment.github.io/dns-indicators/en/about/joint_action/'
 joint_action: Joint Action
 status_overview: Status overview
 methodology: Methodology
