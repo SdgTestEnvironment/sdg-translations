@@ -1,5 +1,5 @@
 #Einheiten
-'1,000': '1 000'
+'number in 1,000': 'Anzahl in 1 000'
 'attributable deaths': 'Attributable Todesfälle'
 'billion eur': 'Milliarden EUR'
 'dalys': 'DALYs'
@@ -74,6 +74,7 @@
 'länder': 'Bundesland'
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'frequency': 'Häufigkeit'
+'functions': 'Aufgabenbereiche'
 'country of citizenship': 'Herkunftsland'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
@@ -165,6 +166,7 @@
 '21 to under 25 years': '21 bis unter 25 Jahre'
 '21 to under 60 years': '21 bis unter 60 Jahre'
 '25 to under 30 years': '25 bis unter 30 Jahre'
+'25 to under 35 years': '25 bis unter 35 Jahre'
 '25 to under 45 years': '25 bis unter 45 Jahre'
 '25 to under 55 years': '25 bis unter 55 Jahre'
 '25 to under 65 years': '25 bis unter 65 Jahre'
@@ -174,6 +176,7 @@
 '30 to under 45 years': '30 bis unter 45 Jahre'
 '30 to under 70 years': '30 bis unter 70 Jahre'
 '35 to under 40 years': '35 bis unter 40 Jahre'
+'35 to under 45 years': '35 bis unter 45 Jahre'
 '40 to under 45 years': '40 bis unter 45 Jahre'
 '45 to under 50 years': '45 bis unter 50 Jahre'
 '45 to under 55 years': '45 bis unter 55 Jahre'
@@ -185,6 +188,7 @@
 '60 years and older': '60 Jahre und älter'
 '65 to under 75 years': '65 bis unter 75 Jahre'
 '65 years and older': '65 Jahre und älter'
+'75 years and older': '75 Jahre und älter'
 'unknown age': 'Alter unbekannt'
 'applications finally processed': 'Abschließend bearbeitete Anträge'
 'applications received': 'Eingegangene Anträge'
@@ -260,6 +264,9 @@
 'safe': 'Eher sicher'
 'unsafe': 'Eher unsicher'
 'very unsafe': 'Sehr unsicher'
+'education': 'Bildung'
+'health': 'Gesundheit'
+'social protection': 'Soziale Sicherung'
 'afghanistan': 'Afghanistan'
 'other country within the eu': 'Anderes EU Land'
 'iraq': 'Irak'
@@ -473,11 +480,7 @@
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
 #Z_01062_1
-'government expenditure on health': 'Staatsausgaben für Gesundheit'
-#Z_01062_2
-'government expenditure on education': 'Staatsausgaben für Bildung'
-#Z_01062_3
-'government expenditure on social protection': 'Staatsausgaben für soziale Sicherung'
+'government expenditure': 'Staatsausgaben'
 #Z_01062_3a
 'government expenditure on social protection': 'Staatsausgaben für soziale Sicherung'
 #Z_02011_1
@@ -978,10 +981,14 @@
 'population who were victims of criminal offences': 'Bevölkerung, die Opfer einer Straftat war'
 #Z_16013_3
 'victims of criminal offences': 'Opfer von Straftaten'
+#Z_16013_4
+'population who were exposed to sexual violence': 'Bevölkerung, die sexueller Gewalt ausgesetzt war'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)'
 #Z_16014_2
 'population not living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
+#Z_16014_3
+'feeling of (in)security of the population in its neighbourhood (during the day)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber)'
 #Z_16021_1
 'children at acute risk of harm with signs of abuse': 'Akute Kindeswohlgefährdung mit Anzeichen für Misshandlung'
 #Z_16022_1
@@ -1106,11 +1113,10 @@ area2: Bereich
 
 #Old stuff that may still be needed
 '1 000': '1 000'
-'per 1 000 inhabitants': 'Je 1 000 Einwohner/ -innen'
+'per 1 000 inhabitants': 'Je 1 000 Einwohner/-innen'
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'share of household expenditure spent on health care': 'Anteil der Haushaltsausgaben, der für Gesundheit aufgewendet wird'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
@@ -1129,8 +1135,8 @@ area2: Bereich
 'wasting': 'Auszehrung'
 'hb concentrations in female adolescents': 'Hb-Konzentrationen bei weiblichen Jugendlichen'
 'labour productivity': 'Arbeitsproduktivität'
-'organically farmed agricultural land (data from the federal statistical office)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
-'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
+'data from the federal statistical office': 'Daten des Statistischen Bundesamtes'
+'data from the federal ministry of food and agriculture': 'Daten des BMEL'
 'plant genetic resources': 'Pflanzengenetische Ressourcen'
 'animal genetic resources': 'Tiergenetische Ressourcen'
 'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
@@ -1159,7 +1165,7 @@ area2: Bereich
 'alcohol consumption (by national factors)': 'Alkoholkonsum (nach nationalen Faktoren)'
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 'births of young women': 'Geburten junger Frauen'
-'gkv-households with high expenditure on health in relation to total household expenditure': 'GKV-Haushalte mit hohen Ausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben'
+'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-Haushalte mit hohen Ausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben'
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
@@ -1266,7 +1272,6 @@ area2: Bereich
 'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und Hightech-Industrien am Verarbeitenden Gewerbe'
-'households covered by a mobile network': 'Haushalte, die durch ein Mobilfunknetz abgedeckt sind'
 'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 'population living below 50% of median income': 'Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt'
 'population who felt discriminated in their contacts with public services in the last two years': 'Bevölkerung, die sich in die letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
@@ -1416,6 +1421,12 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'1 000': '1 000'
+'share of household expenditure spent on health care': 'Anteil der Haushaltsausgaben, der für Gesundheit aufgewendet wird'
+'organically farmed agricultural land (data from the federal statistical office)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
+'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
+'gkv-households with high expenditure on health in relation to total household expenditure': 'GKV-Haushalte mit hohen Ausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben'
+'households covered by a mobile network': 'Haushalte, die durch ein Mobilfunknetz abgedeckt sind'
 'region': 'Region'
 'household expenditures on health': 'Haushaltsausgaben für Gesundheit'
 'sdg-indicator 4.3.1 (adults)': 'SDG-Indikator 4.3.1 (Erwachsene)'

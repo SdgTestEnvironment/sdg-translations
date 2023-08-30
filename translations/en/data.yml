@@ -1,5 +1,5 @@
 #Units
-'1 000': '1 000'
+'number in 1 000': 'Number in 1 000'
 'attributable deaths': 'Attributable deaths'
 'billion eur': 'Billion EUR'
 'dalys': 'DALYs'
@@ -74,6 +74,7 @@
 'länder': 'Länder'
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
+'functions': 'Functions'
 'country of citizenship': 'Country of citizenship'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income quintile': 'Income quintile'
@@ -165,6 +166,7 @@
 '21 to under 25 years': '21 to under 25 years'
 '21 to under 60 years': '21 to under 60 years'
 '25 to under 30 years': '25 to under 30 years'
+'25 to under 35 years': '25 to under 35 years'
 '25 to under 45 years': '25 to under 45 years'
 '25 to under 55 years': '25 to under 55 years'
 '25 to under 65 years': '25 to under 65 years'
@@ -174,6 +176,7 @@
 '30 to under 45 years': '30 to under 45 years'
 '30 to under 70 years': '30 to under 70 years'
 '35 to under 40 years': '35 to under 40 years'
+'35 to under 45 years': '35 to under 45 years'
 '40 to under 45 years': '40 to under 45 years'
 '45 to under 50 years': '45 to under 50 years'
 '45 to under 55 years': '45 to under 55 years'
@@ -185,6 +188,7 @@
 '60 years and older': '60 years and older'
 '65 to under 75 years': '65 to under 75 years'
 '65 years and older': '65 years and older'
+'75 years and older': '75 years and older'
 'unknown age': 'Unknown age'
 'applications finally processed': 'Applications finally processed'
 'applications received': 'Applications received'
@@ -260,6 +264,9 @@
 'safe': 'Safe'
 'unsafe': 'Unsafe'
 'very unsafe': 'Very unsafe'
+'education': 'Education'
+'health': 'Health'
+'social protection': 'Social protection'
 'afghanistan': 'Afghanistan'
 'other country within the eu': 'Other country within the EU'
 'iraq': 'Iraq'
@@ -473,11 +480,7 @@
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
-'government expenditure on health': 'Government expenditure on health'
-#Z_01062_2
-'government expenditure on education': 'Government expenditure on education'
-#Z_01062_3
-'government expenditure on social protection': 'Government expenditure on social protection'
+'government expenditure': 'Government expenditure'
 #Z_01062_3a
 'government expenditure on social protection': 'Government expenditure on social protection'
 #Z_02011_1
@@ -978,10 +981,14 @@
 'population who were victims of criminal offences': 'Population who were victims of criminal offences'
 #Z_16013_3
 'victims of criminal offences': 'Victims of criminal offences'
+#Z_16013_4
+'population who were exposed to sexual violence': 'Population who were exposed to sexual violence'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
 #Z_16014_2
 'population not living in an area with crime, violence or vandalism': 'Population not living in an area with crime, violence or vandalism'
+#Z_16014_3
+'feeling of (in)security of the population in its neighbourhood (during the day)': 'Feeling of (in)security of the population in its neighbourhood (during the day)'
 #Z_16021_1
 'children at acute risk of harm with signs of abuse': 'Children at acute risk of harm with signs of abuse'
 #Z_16022_1
@@ -1106,7 +1113,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'share of household expenditure spent on health care': 'Share of household expenditure spent on health care'
+'1 000': '1 000'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
@@ -1125,8 +1132,8 @@ area2: Area
 'wasting': 'Wasting'
 'hb concentrations in female adolescents': 'Hb concentrations in female adolescents'
 'labour productivity': 'Labour productivity'
-'organically farmed agricultural land (data from the federal statistical office)': 'Organically farmed agricultural land (data from the Federal Statistical Office)'
-'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Organically farmed agricultural land (data from the Federal Ministry of Food and Agriculture)'
+'data from the federal statistical office': 'Data from the Federal Statistical Office'
+'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Food and Agriculture'
 'plant genetic resources': 'Plant genetic resources'
 'animal genetic resources': 'Animal genetic resources'
 'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
@@ -1155,7 +1162,7 @@ area2: Area
 'alcohol consumption (by national factors)': 'Alcohol consumption (by national factors)'
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 'births of young women': 'Births of young women'
-'gkv-households with high expenditure on health in relation to total household expenditure': 'GKV-households with high expenditure on health in relation to total household expenditure'
+'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-households with large expenditures on health in relation to total household expenditure'
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
@@ -1262,7 +1269,6 @@ area2: Area
 'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
 'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
-'households covered by a mobile network': 'Households covered by a mobile network'
 'growth rate of per capita income': 'Growth rate of per capita income'
 'population living below 50% of median income': 'Population living below 50% of median income'
 'population who felt discriminated in their contacts with public services in the last two years': 'Population who felt discriminated in their contacts with public services in the last two years'
@@ -1412,6 +1418,11 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'share of household expenditure spent on health care': 'Share of household expenditure spent on health care'
+'organically farmed agricultural land (data from the federal statistical office)': 'Organically farmed agricultural land (data from the Federal Statistical Office)'
+'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Organically farmed agricultural land (data from the Federal Ministry of Food and Agriculture)'
+'gkv-households with high expenditure on health in relation to total household expenditure': 'GKV-households with high expenditure on health in relation to total household expenditure'
+'households covered by a mobile network': 'Households covered by a mobile network'
 'region': 'Region'
 'household expenditures on health': 'Household expenditures on health'
 'sdg-indicator 4.3.1 (adults)': 'SDG-Indicator 4.3.1 (Adults)'
