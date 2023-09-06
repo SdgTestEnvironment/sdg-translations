@@ -91,9 +91,9 @@
 'profession': 'Beruf'
 'organisational form': 'Organisationsform'
 'pathogens and resistance': 'Erreger und Resistenz'
-'percentiles': 'Perzentile'
+'percentile': 'Perzentil'
 'fine particulate matter': 'Feinstaub'
-'political institutions': 'Politische Institutionen'
+'political institution': 'Politische Institution'
 'population': 'Bevölkerung'
 'product type': 'Produkttyp'
 'level of proficiency': 'Leistungsniveau'
@@ -121,7 +121,7 @@
 'type of account': 'Kontenart'
 'type of biomass': 'Art der Biomasse'
 'form of exploitation': 'Form der Ausbeutung'
-'type of flow': 'Art der Finanzströme'
+'type of flow': 'Art des Finanzstroms'
 'type of waste': 'Abfallart'
 'type of water body': 'Art des Gewässers'
 'degree of urbanisation': 'Verstädterungsgrad'
@@ -296,6 +296,7 @@
 'population living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt'
 'population living in an area with noise pollution': 'Bevölkerung mit Lärmbelästigung in deren Wohnumgebung'
 'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
+'imputed student costs': 'Kalkulatorische Studienplatzkosten'
 'convention on biological diversity': 'Übereinkommen über die biologische Vielfalt'
 "international convention for the control and management of ship's ballast water and sediments": 'Ballastwasser-Übereinkommen'
 'cartagena protocol': 'Cartagena-Protokoll'
@@ -323,6 +324,10 @@
 'medical doctors': 'Ärzte'
 'nursing and midwifery personnel': 'Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe'
 'dentists': 'Zahnärzte'
+'commitments': 'Zusagen'
+'gross disbursements': 'Gesamte öffentliche Bruttoausgaben'
+'oda (gross disbursements)': 'Bruttoentwicklungsausgaben (ODA)'
+'oda and oof (gross disbursements)': 'Bruttoausgaben (ODA und OOF)'
 'public': 'Öffentlich'
 'private': 'Privat'
 'escherichia coli, 3gcr': 'Escherichia coli, 3GCR'
@@ -353,6 +358,7 @@
 'under observation': 'Beobachtungspopulationen'
 'breeding programs for preservation': 'Erhaltungspopulationen'
 'rudiments remaining': 'Phänotypische Erhaltungspopulationen'
+'water and sanitation': 'Wasser und Sanitär'
 'baltic sea': 'Ostsee'
 'greater north sea': 'Nordsee'
 'political leadership and central administration, foreign affairs': 'Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten'
@@ -384,6 +390,7 @@
 'e) 100 mbps and over': 'e) 100 Mbit/s und mehr'
 'seea tables': 'SEEA Tabellen'
 'tsa tables': 'TSA Tabellen'
+'scholarships': 'Stipendien'
 'reading': 'Lesen'
 'mathematics': 'Mathematik'
 'drugs': 'Drogen'
@@ -451,6 +458,7 @@
 'towns and suburbs': 'Kleinere Städte und Vororte'
 'cities': 'Städte'
 'urban': 'Städte'
+'other related purposes': 'Verwandte Zwecke'
 'deposit onto or into land and land treatment and release into water bodies': 'Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern'
 'energy recovery': 'Energierückgewinnung'
 'incineration': 'Verbrennung'
@@ -462,8 +470,6 @@
 'judiciary': 'Justiz'
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
-'oda (commitments)': 'Zusagen (ODA)'
-'oda (gross disbursements)': 'Bruttoentwicklungsausgaben'
 
 #Zeitreihen
 #Z_01021_1a
@@ -577,9 +583,9 @@
 #Z_03093_1
 'mortality attributed to unintentional poisoning': 'Sterblichkeit infolge von unbeabsichtigten Vergiftungen'
 #Z_03101_1
-'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)'
+'current tobacco use (age-standardised to who standard population)': 'Tabakkonsum (altersstandardisiert auf die WHO-Standardbevölkerung)'
 #Z_03101_2
-'current tobacco use among persons aged 15 years and older': 'Tabakkonsum in der Bevölkerung ab 15 Jahren'
+'current tobacco use': 'Tabakkonsum'
 #Z_03111_1
 'dtp vaccination coverage at school entry': 'DTP-Impfquote zum Schuleintritt'
 #Z_03111_2
@@ -1122,6 +1128,8 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'percentiles': 'Perzentile'
+'political institutions': 'Politische Institutionen'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'

@@ -91,9 +91,9 @@
 'profession': 'Profession'
 'organisational form': 'Organisational form'
 'pathogens and resistance': 'Pathogens and resistance'
-'percentiles': 'Percentiles'
+'percentile': 'Percentile'
 'fine particulate matter': 'Fine particulate matter'
-'political institutions': 'Political institutions'
+'political institution': 'Political institution'
 'population': 'Population'
 'product type': 'Product type'
 'level of proficiency': 'Level of proficiency'
@@ -296,6 +296,7 @@
 'population living in an area with crime, violence or vandalism': 'Population living in an area with crime, violence or vandalism'
 'population living in an area with noise pollution': 'Population living in an area with noise pollution'
 'population living in households with moisture damages': 'Population living in households with moisture damages'
+'imputed student costs': 'Imputed student costs'
 'convention on biological diversity': 'Convention on Biological Diversity'
 "international convention for the control and management of ship's ballast water and sediments": "International Convention for the Control and Management of Ship's Ballast Water and Sediments"
 'cartagena protocol': 'Cartagena Protocol'
@@ -323,6 +324,10 @@
 'medical doctors': 'Medical doctors'
 'nursing and midwifery personnel': 'Nursing and midwifery personnel'
 'dentists': 'Dentists'
+'commitments': 'Commitments'
+'gross disbursements': 'Gross disbursements'
+'oda (gross disbursements)': 'ODA (gross disbursements)'
+'oda and oof (gross disbursements)': 'ODA and OOF (gross disbursements)'
 'public': 'Public'
 'private': 'Private'
 'escherichia coli, 3gcr': 'Escherichia coli, 3GCR'
@@ -353,6 +358,7 @@
 'under observation': 'Under observation'
 'breeding programs for preservation': 'Breeding programs for preservation'
 'rudiments remaining': 'Rudiments remaining'
+'water and sanitation': 'Water and sanitation'
 'baltic sea': 'Baltic sea'
 'greater north sea': 'Greater North Sea'
 'political leadership and central administration, foreign affairs': 'Political leadership and central administration, foreign affairs'
@@ -384,6 +390,7 @@
 'e) 100 mbps and over': 'e) 100 mbps and over'
 'seea tables': 'SEEA tables'
 'tsa tables': 'TSA tables'
+'scholarships': 'Scholarships'
 'reading': 'Reading'
 'mathematics': 'Mathematics'
 'drugs': 'Drugs'
@@ -451,6 +458,7 @@
 'towns and suburbs': 'Towns and suburbs'
 'cities': 'Cities'
 'urban': 'Urban'
+'other related purposes': 'Other related purposes'
 'deposit onto or into land and land treatment and release into water bodies': 'Deposit onto or into land and land treatment and release into water bodies'
 'energy recovery': 'Energy recovery'
 'incineration': 'Incineration'
@@ -462,8 +470,6 @@
 'judiciary': 'Judiciary'
 'working age population': 'Working age population'
 'public service': 'Public service'
-'oda (commitments)': 'ODA (commitments)'
-'oda (gross disbursements)': 'ODA (gross disbursements)'
 
 #Time series
 #Z_01021_1a
@@ -577,9 +583,9 @@
 #Z_03093_1
 'mortality attributed to unintentional poisoning': 'Mortality attributed to unintentional poisoning'
 #Z_03101_1
-'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)'
+'current tobacco use (age-standardised to who standard population)': 'Current tobacco use (age-standardised to WHO Standard Population)'
 #Z_03101_2
-'current tobacco use among persons aged 15 years and older': 'Current tobacco use among persons aged 15 years and older'
+'current tobacco use': 'Current tobacco use'
 #Z_03111_1
 'dtp vaccination coverage at school entry': 'DTP vaccination coverage at school entry'
 #Z_03111_2
@@ -1119,6 +1125,8 @@ area2: Area
 
 #Old stuff that may still be needed
 '1 000': '1 000'
+'percentiles': 'Percentiles'
+'political institutions': 'Political institutions'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
