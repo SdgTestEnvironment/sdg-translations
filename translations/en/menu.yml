@@ -21,12 +21,8 @@
 # 1_about_2_sdg_3_publications_4_hlpf: Berichte zum HLPF
 1_about_2_joint_action: Joint Action
 1_about_2_joint_action_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/joint_action/'
-1_status: Status
-1_status_2_methodology: Methodology
-1_status_2_overview: Overview
-1_strategy: Sustainable Development Strategy
-1_strategy_2_government: Federal Governmanet
-1_strategy_2_laender: Bundesländer
+1_reporting_status: Berichtsstatus
+1_other_countries: Weltweit
 1_help: Help
 1_help_2_navigation: Navigation
 1_help_2_guidance: Technical guidance
