@@ -1,34 +1,36 @@
-start: Start
-pathtodns: https://dnstestenvironment.github.io/dns-indicators
-dns_plattform: DNS-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Click here to get to the dns indicator page" alt="Link DNS" style="width:24px;height:24px;"/>
-sdg_plattform: SDG-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Click here to get to the dns indicator page" alt="Link SDG" style="width:24px;height:24px;"/>
-national_indicators: National Indicators (DNS)
-path_dns: https://dnstestenvironment.github.io/dns-indicators/en/about/strategy/
-dns: German Sustainable Development Strategy (DNS)
-path_dns_indcator_set: 'https://dnstestenvironment.github.io/dns-indicators//about/publications/dns-indicators/'
-dns_indcator_set: DNS-Indicatorset
-path_indicator_reports: 'https://dnstestenvironment.github.io/dns-indicators//about/publications/reports/'
-indicator_reports: Indicator reports
-path_other_publications: 'https://dnstestenvironment.github.io/dns-indicators/en/about/publications/other/'
-other_publications: Other publications
-global_indicators: Global indicators (SDG)
-agenda: 2030 Agenda
-un_sdg: UN-Sustainable Development Goals (SDG)
-sdg_indicator_set: SDG-Indicatorset
-path_wista_6_16:
-wista_6_16: Extract from the publication "WISTA - Wirtschaft und Statistik", 5/2016
-report_hlpf: Report on the HLPF
-path_joint_action: 'https://dnstestenvironment.github.io/dns-indicators/en/about/joint_action/'
-joint_action: Joint Action
-status_overview: Status overview
-methodology: Methodology
-sustainable_development_strategy: Sustainable Development Strategy
-federal_government: Federal Government
-federal_states: Bundesländer
-help: Help
-navigation: Navigation
-guidance: Technical&nbspinstructions
-faq: FAQ
+1_start: start
+1_start_2_dns_platform: DNS-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Click here to get to the dns platform" alt="Link DNS" style="width:24px;height:24px;"/>
+1_start_2_dns_platform_path: 'https://dnstestenvironment.github.io/dns-indicators/en'
+1_start_2_sdg_platform: SDG-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Click here to get to the sdg platform" alt="Link SDG" style="width:24px;height:24px;"/>
+1_about: About
+1_about_2_dns: DNS: German Sustainable Developmnet Strategy
+1_about_2_dns_3_indicators: Indicators of the German Sustainable Developmnet Strategy (DNS)
+1_about_2_dns_3_indicators_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/strategy'
+1_about_2_dns_3_publications: Publications
+1_about_2_dns_3_publications_4_indicatorset: DNS-Set of indicators
+1_about_2_dns_3_publications_4_indicatorset_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/dns_indicators'
+1_about_2_dns_3_publications_4_reports: Indicator Reports
+1_about_2_dns_3_publications_4_reports_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/reports/'
+1_about_2_dns_3_publications_4_others: Other publications
+1_about_2_dns_3_publications_4_others_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/other'
+1_about_2_sdg: SDG: Global indicators
+1_about_2_sdg_3_indicators: Indicators of the UN Sustainable Development Goals (SDGs)
+1_about_2_sdg_3_publications: Publications
+# 1_about_2_sdg_3_publications_4_indicatorset: SDG-Set of indicators
+# 1_about_2_sdg_3_publications_4_wista: Auszug aus der Publikation "WISTA-Wirtschaft und Statistik", 5/2016
+# 1_about_2_sdg_3_publications_4_hlpf: Berichte zum HLPF
+1_about_2_joint_action: Joint Action
+1_status: Status
+1_status_2_methodology: Methodology
+1_status_2_overview: Overview
+1_strategy: Sustainable Development Strategy
+1_strategy_2_government: Federal Governmanet
+1_strategy_2_laender: Bundesländer
+1_help: Help
+1_help_2_navigation: Navigation
+1_help_2_guidance: Technical guidance
+1_help_2_faq: FAQ
+
 
 menu: Menu
 reporting_status: Data&nbspavailability
