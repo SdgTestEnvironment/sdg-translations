@@ -54,7 +54,7 @@
 'years': 'Jahre'
 
 #Kategorien
-'activities': 'Aktivitäten'
+'type of ict competence': 'Art der IKT-Kompetenz'
 'age group': 'Altersklasse'
 'age of mother': 'Alter der Mutter'
 'area': 'Gebiet'
@@ -116,7 +116,7 @@
 'theme': 'Themengebiet'
 'topic': 'Themenbereich'
 'mode of transport': 'Verkehrsträger'
-'type of disease': 'Art der Erkrankung'
+'disease': 'Erkrankung'
 'form of abuse': 'Form der Misshandlung'
 'type of account': 'Kontenart'
 'type of biomass': 'Art der Biomasse'
@@ -193,17 +193,17 @@
 'unknown age': 'Alter unbekannt'
 'applications finally processed': 'Abschließend bearbeitete Anträge'
 'applications received': 'Eingegangene Anträge'
-'(a) national education policies': 'a) nationale Bildungspolitik'
+'(a) national education policies': 'a) Nationale Bildungspolitik'
 '(b) curricula': 'b) Lehrpläne'
 '(c) teacher education': 'c) Ausbildung von Lehrkräften'
 '(d) student assessment': 'd) Leistungsbewertung der Lernenden'
 'germany': 'Deutschland'
 'new german states': 'Neue Länder'
 'former federal territory': 'Früheres Bundesgebiet'
-'area 1: overarching legal frameworks and public life': 'Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben'
-'area 2: violence against women': 'Area 2: Gewalt gegen Frauen'
-'area 3: employment and economic benefit': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
-'area 4: marriage and family': 'Area 4: Ehe und Familie'
+'area 1: overarching legal frameworks and public life': 'Bereich 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben'
+'area 2: violence against women': 'Bereich 2: Gewalt gegen Frauen'
+'area 3: employment and economic benefit': 'Bereich 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
+'area 4: marriage and family': 'Bereich 4: Ehe und Familie'
 'upper bound': 'Obere Grenze'
 'lower bound': 'Untere Grenze'
 'no': 'Nein'
@@ -286,7 +286,7 @@
 'middle': 'Mittleres Quintil'
 'fourth': 'Viertes Quintil'
 'richest': 'Reichstes Quintil'
-'sdg indicator 4.2.2': 'SDG-Indikator 4.2.2'
+'sdg indicator 4.2.2 (5 years)': 'SDG-Indikator 4.2.2 (5-jährige)'
 'sdg-indicator 4.3.1 (15 to under 25 years)': 'SDG-Indikator 4.3.1 (15 bis unter 25 Jahre)'
 'sdg-indicator 4.3.1 (15 to under 65 years)': 'SDG-Indikator 4.3.1 (15 bis unter 65 Jahre)'
 'sdg-indicator 4.3.1 (25 to under 55 years)': 'SDG-Indikator 4.3.1 (25 bis unter 55 Jahre)'
@@ -402,10 +402,10 @@
 '5g': '5G'
 'medium-high-tech': 'Medium-High-Tech'
 'high-tech': 'High-Tech'
-'section 1: maternity care': 'Abschnitt 1: Mutterschaftsvorsorge'
-'section 2: contraception and family planning': 'Abschnitt 2: Empfängnisverhütung und Familienplanung'
-'section 3: comprehensive sexuality education and information': 'Abschnitt 3: Umfassende Sexualerziehung und Information'
-'section 4: hiv and hpv': 'Abschnitt 4: HIV und HPV'
+'section 1: maternity care': 'Bereich 1: Mutterschaftsvorsorge'
+'section 2: contraception and family planning': 'Bereich 2: Empfängnisverhütung und Familienplanung'
+'section 3: comprehensive sexuality education and information': 'Bereich 3: Umfassende Sexualerziehung und Information'
+'section 4: hiv and hpv': 'Bereich 4: HIV und HPV'
 'housing conditions': 'Wohnverhältnisse'
 'housing deprivation': 'Deprivation der Unterkunft'
 'inland waterway transport': 'Binnenschifffahrt'
@@ -414,6 +414,8 @@
 'motorised private transport': 'Motorisierter Individualverkehr'
 'road transport': 'Straßenverkehr'
 'pipelines: crude oil': 'Rohrfernleitungen: Rohöl'
+'people requiring interventions': 'Personen mit Behandlungsbedarf'
+'inpatient treatment': 'Stationäre Behandlung'
 'a) cardiovascular disease': 'a) Herz-Kreislauferkrankung'
 'leprosy': 'Lepra'
 'buruli ulcer': 'Buruli-Ulkus'
@@ -611,9 +613,9 @@
 #Z_04041_1
 'share of population with computer-related activities': 'Anteil der Bevölkerung mit computerbezogenen Aktivitäten'
 #Z_04051_1
-'gender parity index': 'Geschlechtsparitätsindex'
+'gender parity index': 'Geschlechterparitätsindex'
 #Z_04061_1
-'adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Erwachsene Bevölkerung, die mindestens über einbestimmtes Niveau an funktionalen a) Lese- und b) Rechenkenntnissen verfügt'
+'adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Erwachsene mit festgelegtem Mindestniveau in funktionalem a) Lesen und b) Rechnen'
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration von "Global Citizenship Education" und "Bildung für nachhaltige Entwicklung" im Bildungswesen'
 #Z_04081_1
@@ -669,9 +671,9 @@
 #Z_06031_2
 'wastewater and cooling water': 'Abwasser und Kühlwasser'
 #Z_06032_2
-'proportion of flowing water with good ecological status for total phosphorous': 'Anteil der Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
+'flowing water with good ecological status for total phosphorous': 'Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
 #Z_06032_3
-'proportion of groundwater mesuring points below the threshold value for nitrate': 'Anteil der Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat'
+'groundwater mesuring points below the threshold value for nitrate': 'Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat'
 #Z_06041_1
 'water use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1
@@ -699,13 +701,13 @@
 #Z_07011_1
 'population with access to electricity': 'Bevölkerung mit Zugang zu Elektrizität'
 #Z_07011_2
-'households and small-sized enterprises connected to the electricity network': 'Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind'
+'households and small-sized enterprises connected to the electricity network': 'Haushalte und Kleinbetriebe mit Zugang zu Elektrizitätsnetzwerken'
 #Z_07012_1
 'population with primary reliance on clean fuels and technology': 'Bevölkerung mit überwiegender Abhängigkeit von sauberen Energieträgern und Technologien'
 #Z_07021_1
-'renewable energy share in total final energy consumption': 'Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch'
+'renewable energy in total final energy consumption': 'Erneuerbaren Energien am gesamten Endenergieverbrauch'
 #Z_07021_2
-'renewable energy share in gross final energy consumption': 'Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch'
+'renewable energy in gross final energy consumption': 'Erneuerbaren Energien am Bruttoendenergieverbrauch'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen in Primärenergie in Relation zum BIP'
 #Z_08011_1
@@ -727,7 +729,7 @@
 #Z_08052_1
 'unemployment rate': 'Erwerbslosenquote'
 #Z_08061_1
-'young people (15 to under 25 years) neither in employment nor in education and training (neet rates)': 'Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)'
+'neet rates from young people (15 to under 25 years)': 'NEET-Rate von Jugendliche (15 bis unter 25 Jahre)'
 #Z_08071_1
 'young victims being exploited or intended to being exploited': 'Junge Opfer, die ausgebeutet werden oder ausgebeutet werden sollen'
 #Z_08081_1
@@ -775,7 +777,7 @@
 #Z_09051_1
 'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
 #Z_09052_1
-'researchers in full-time equivalents': 'Wissenschaftler in Vollzeitäquivalenten'
+'persons working in r&d in full-time equivalents': 'In F&E tätige Personen  in Vollzeitäquivalenten'
 #Z_09061_1
 'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 #Z_09061_2
@@ -787,7 +789,7 @@
 #Z_10011_3
 'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 #Z_10021_1
-'population living below 50% of median income': 'Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt'
+'population living below 50% of median income': 'Bevölkerung, deren Einkommen weniger als 50 % des Medians beträgt'
 #Z_10031_1
 'population who felt discriminated in their contacts with public services in the last two years': 'Bevölkerung, die sich in die letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
 #Z_10041_1
@@ -883,7 +885,7 @@
 #Z_12042_2
 'hazardous waste treated': 'Behandelte gefährliche Abfälle'
 #Z_12051_1
-'recycling rate': 'Recyclingquote'
+'national recycling rate': 'Nationale Recyclingquote'
 #Z_12051_2
 'material recovery': 'Stoffliche Verwertung'
 #Z_12061_1
@@ -915,11 +917,11 @@
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14071_1
-'sustainable fisheries as a proportion of gdp': 'Anteil der nachhaltigen Fischerei am BIP'
+'sustainable fisheries to gdp': 'Nachhaltigen Fischerei am BIP'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 #Z_14091_1
-'degree of recognition and protection of access rights for small-scale fisheries': 'Grad der Anerkennung und des Schutzes von Zugangsrechten für Kleinfischerei'
+'degree of recognition and protection of access rights for small-scale fisheries': 'Umsetzungsgrad der Anerkennung und des Schutzes von Zugangsrechten für Kleinfischerei'
 #Z_14101_1
 'score for the implementation of unclos and ist two implementing agreements': 'Punktzahl der Umsetzung des Seerechtsübereinkommens der Vereinten Nationen (SRÜ) und seiner zwei Zusatzübereinkommen'
 #Z_14101_2
@@ -1123,13 +1125,13 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
-'1 000': '1 000'
+'number in 1 000': 'Anzahl in 1 000'
 'per 1 000 inhabitants': 'Je 1 000 Einwohner/-innen'
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'percentiles': 'Perzentile'
-'political institutions': 'Politische Institutionen'
+'type of disease': 'Art der Erkrankung'
+'sdg indicator 4.2.2': 'SDG-Indikator 4.2.2'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
@@ -1138,8 +1140,6 @@ area2: Bereich
 'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
 'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
 'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
-'government expenditure on health': 'Staatsausgaben für Gesundheit'
-'government expenditure on education': 'Staatsausgaben für Bildung'
 'government expenditure on social protection': 'Staatsausgaben für soziale Sicherung'
 'energy intake': 'Energiezufuhr'
 'population living in households with food insecurity': 'Bevölkerung, die in Haushalten mit Ernährungsunsicherheit lebt'
@@ -1185,8 +1185,8 @@ area2: Bereich
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 'mortality attributed to unintentional poisoning': 'Sterblichkeit infolge von unbeabsichtigten Vergiftungen'
-'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)'
-'current tobacco use among persons aged 15 years and older': 'Tabakkonsum in der Bevölkerung ab 15 Jahren'
+'current tobacco use (age-standardised to who standard population)': 'Tabakkonsum (altersstandardisiert auf die WHO-Standardbevölkerung)'
+'current tobacco use': 'Tabakkonsum'
 'dtp vaccination coverage at school entry': 'DTP-Impfquote zum Schuleintritt'
 'hpv vaccination coverages among 15 years old girls and boys': 'HPV-Impfquoten bei 15-jährigen Mädchen und Jungen'
 'measles vaccination coverage at school entry': 'Masern-Impfquote zum Schuleintritt'
@@ -1301,7 +1301,9 @@ area2: Bereich
 'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 'state of migration policies': 'Status der Migrationspolitik'
 'persons who died during migration': 'Personen, die während der Migration gestorben sind'
+'german nationals who are refugees abroad': 'Deutsche Staatsangehörige, die im Ausland auf der Flucht sind'
 'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
+'remittance costs as a proportion of the amount remitted': 'Überweisungskosten im Verhältnis zum überwiesenen Betrag'
 'housing cost overburden rate': 'Quote der Überbelastung durch Wohnkosten'
 'population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
 'population having neither a bath, nor a shower in their dwelling': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
@@ -1377,15 +1379,8 @@ area2: Bereich
 'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
 'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
 'conflict-related deaths': 'Konfliktbezogene Todesfälle'
-'population who were exposed to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
-'population who were victims of criminal offences': 'Bevölkerung, die Opfer einer Straftat war'
-'victims of criminal offences': 'Opfer von Straftaten'
-'feeling of (in)security of the population in its neighbourhood (after dark)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)'
-'population not living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
 'children at acute risk of harm with signs of abuse': 'Akute Kindeswohlgefährdung mit Anzeichen für Misshandlung'
 'victims of human trafficking': 'Opfer von Menschenhandel'
-'reporting rate for physical assault': 'Anzeigequote bei Körperverletzung'
-'reporting rate for robbery': 'Anzeigequote bei Raub'
 'unsentenced detainees': 'Nicht strafrechtlich verurteilte Inhaftierte'
 'conciliation requests received and finally processed': 'Eingegangene und abschließend bearbeitete Schlichtungsanträge'
 'seized arms and parts': 'Sichergestellte Waffen und Waffenteile'
@@ -1434,7 +1429,21 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'activities': 'Aktivitäten'
 '1 000': '1 000'
+'percentiles': 'Perzentile'
+'political institutions': 'Politische Institutionen'
+'government expenditure on health': 'Staatsausgaben für Gesundheit'
+'government expenditure on education': 'Staatsausgaben für Bildung'
+'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)'
+'current tobacco use among persons aged 15 years and older': 'Tabakkonsum in der Bevölkerung ab 15 Jahren'
+'population who were exposed to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
+'population who were victims of criminal offences': 'Bevölkerung, die Opfer einer Straftat war'
+'victims of criminal offences': 'Opfer von Straftaten'
+'feeling of (in)security of the population in its neighbourhood (after dark)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)'
+'population not living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
+'reporting rate for physical assault': 'Anzeigequote bei Körperverletzung'
+'reporting rate for robbery': 'Anzeigequote bei Raub'
 'share of household expenditure spent on health care': 'Anteil der Haushaltsausgaben, der für Gesundheit aufgewendet wird'
 'organically farmed agricultural land (data from the federal statistical office)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
 'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'

@@ -54,7 +54,7 @@
 'years': 'Years'
 
 #Categories
-'activities': 'Activities'
+'type of ict competence': 'Type of ICT competence'
 'age group': 'Age group'
 'age of mother': 'Age of mother'
 'area': 'Area'
@@ -116,7 +116,7 @@
 'theme': 'Theme'
 'topic': 'Topic'
 'mode of transport': 'Mode of transport'
-'type of disease': 'Type of disease'
+'disease': 'Disease'
 'form of abuse': 'Form of abuse'
 'type of account': 'Type of account'
 'type of biomass': 'Type of biomass'
@@ -286,7 +286,7 @@
 'middle': 'Middle'
 'fourth': 'Fourth'
 'richest': 'Richest'
-'sdg indicator 4.2.2': 'SDG indicator 4.2.2'
+'sdg indicator 4.2.2 (5 years)': 'SDG indicator 4.2.2 (5 years)'
 'sdg-indicator 4.3.1 (15 to under 25 years)': 'SDG-Indicator 4.3.1 (15 to under 25 years)'
 'sdg-indicator 4.3.1 (15 to under 65 years)': 'SDG-Indicator 4.3.1 (15 to under 65 years)'
 'sdg-indicator 4.3.1 (25 to under 55 years)': 'SDG-Indicator 4.3.1 (25 to under 55 years)'
@@ -414,6 +414,8 @@
 'motorised private transport': 'Motorised private transport'
 'road transport': 'Road transport'
 'pipelines: crude oil': 'Pipelines: crude oil'
+'people requiring interventions': 'People requiring interventions'
+'inpatient treatment': 'Inpatient treatment'
 'a) cardiovascular disease': 'a) Cardiovascular disease'
 'leprosy': 'Leprosy'
 'buruli ulcer': 'Buruli ulcer'
@@ -613,7 +615,7 @@
 #Z_04051_1
 'gender parity index': 'Gender Parity Index'
 #Z_04061_1
-'adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills'
+'adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills'
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration of "global citizenship education" and "education for sustainable development" into the education system'
 #Z_04081_1
@@ -669,9 +671,9 @@
 #Z_06031_2
 'wastewater and cooling water': 'Wastewater and cooling water'
 #Z_06032_2
-'proportion of flowing water with good ecological status for total phosphorous': 'Proportion of flowing water with good ecological status for total phosphorous'
+'flowing water with good ecological status for total phosphorous': 'Flowing water with good ecological status for total phosphorous'
 #Z_06032_3
-'proportion of groundwater mesuring points below the threshold value for nitrate': 'Proportion of groundwater mesuring points below the threshold value for nitrate'
+'groundwater mesuring points below the threshold value for nitrate': 'Groundwater mesuring points below the threshold value for nitrate'
 #Z_06041_1
 'water use efficiency': 'Water use efficiency'
 #Z_06042_1
@@ -703,9 +705,9 @@
 #Z_07012_1
 'population with primary reliance on clean fuels and technology': 'Population with primary reliance on clean fuels and technology'
 #Z_07021_1
-'renewable energy share in total final energy consumption': 'Renewable energy share in total final energy consumption'
+'renewable energy in total final energy consumption': 'Renewable energy in total final energy consumption'
 #Z_07021_2
-'renewable energy share in gross final energy consumption': 'Renewable energy share in gross final energy consumption'
+'renewable energy in gross final energy consumption': 'Renewable energy in gross final energy consumption'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
 #Z_08011_1
@@ -727,7 +729,7 @@
 #Z_08052_1
 'unemployment rate': 'Unemployment rate'
 #Z_08061_1
-'young people (15 to under 25 years) neither in employment nor in education and training (neet rates)': 'Young people (15 to under 25 years) neither in employment nor in education and training (NEET rates)'
+'neet rates from young people (15 to under 25 years)': 'NEET rates from young people (15 to under 25 years)'
 #Z_08071_1
 'young victims being exploited or intended to being exploited': 'Young victims being exploited or intended to being exploited'
 #Z_08081_1
@@ -775,7 +777,7 @@
 #Z_09051_1
 'proportion of r&d expenditures to gdp': 'Proportion of R&D expenditures to GDP'
 #Z_09052_1
-'researchers in full-time equivalents': 'Researchers in full-time equivalents'
+'persons working in r&d in full-time equivalents': 'Persons working in R&D in full-time equivalents'
 #Z_09061_1
 'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
 #Z_09061_2
@@ -883,7 +885,7 @@
 #Z_12042_2
 'hazardous waste treated': 'Hazardous waste treated'
 #Z_12051_1
-'recycling rate': 'Recycling rate'
+'national recycling rate': 'National recycling rate'
 #Z_12051_2
 'material recovery': 'Material recovery'
 #Z_12061_1
@@ -915,7 +917,7 @@
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
 #Z_14071_1
-'sustainable fisheries as a proportion of gdp': 'Sustainable fisheries as a proportion of GDP'
+'sustainable fisheries to gdp': 'Sustainable fisheries to GDP'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
 #Z_14091_1
@@ -1124,9 +1126,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'1 000': '1 000'
-'percentiles': 'Percentiles'
-'political institutions': 'Political institutions'
+'type of disease': 'Type of disease'
+'sdg indicator 4.2.2': 'SDG indicator 4.2.2'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
@@ -1135,8 +1136,6 @@ area2: Area
 'population covered by health insurance': 'Population covered by health insurance'
 'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
-'government expenditure on health': 'Government expenditure on health'
-'government expenditure on education': 'Government expenditure on education'
 'government expenditure on social protection': 'Government expenditure on social protection'
 'energy intake': 'Energy intake'
 'population living in households with food insecurity': 'Population living in households with food insecurity'
@@ -1182,8 +1181,8 @@ area2: Area
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 'mortality attributed to unintentional poisoning': 'Mortality attributed to unintentional poisoning'
-'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)'
-'current tobacco use among persons aged 15 years and older': 'Current tobacco use among persons aged 15 years and older'
+'current tobacco use (age-standardised to who standard population)': 'Current tobacco use (age-standardised to WHO Standard Population)'
+'current tobacco use': 'Current tobacco use'
 'dtp vaccination coverage at school entry': 'DTP vaccination coverage at school entry'
 'hpv vaccination coverages among 15 years old girls and boys': 'HPV vaccination coverages among 15 years old girls and boys'
 'measles vaccination coverage at school entry': 'Measles vaccination coverage at school entry'
@@ -1298,7 +1297,9 @@ area2: Area
 'net open position in foreign exchange to capital': 'Net open position in foreign exchange to capital'
 'state of migration policies': 'State of migration policies'
 'persons who died during migration': 'Persons who died during migration'
+'german nationals who are refugees abroad': 'German nationals who are refugees abroad'
 'total official and private resource flows for development (net disbursements)': 'Total official and private resource flows for development (net disbursements)'
+'remittance costs as a proportion of the amount remitted': 'Remittance costs as a proportion of the amount remitted'
 'housing cost overburden rate': 'Housing cost overburden rate'
 'population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor': 'Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor'
 'population having neither a bath, nor a shower in their dwelling': 'Population having neither a bath, nor a shower in their dwelling'
@@ -1374,15 +1375,8 @@ area2: Area
 'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 'victims of intentional homicide': 'Victims of intentional homicide'
 'conflict-related deaths': 'Conflict-related deaths'
-'population who were exposed to physical violence': 'Population who were exposed to physical violence'
-'population who were victims of criminal offences': 'Population who were victims of criminal offences'
-'victims of criminal offences': 'Victims of criminal offences'
-'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
-'population not living in an area with crime, violence or vandalism': 'Population not living in an area with crime, violence or vandalism'
 'children at acute risk of harm with signs of abuse': 'Children at acute risk of harm with signs of abuse'
 'victims of human trafficking': 'Victims of human trafficking'
-'reporting rate for physical assault': 'Reporting rate for physical assault'
-'reporting rate for robbery': 'Reporting rate for robbery'
 'unsentenced detainees': 'Unsentenced detainees'
 'conciliation requests received and finally processed': 'Conciliation requests received and finally processed'
 'seized arms and parts': 'Seized arms and parts'
@@ -1431,6 +1425,21 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'activities': 'Activities'
+'1 000': '1 000'
+'percentiles': 'Percentiles'
+'political institutions': 'Political institutions'
+'government expenditure on health': 'Government expenditure on health'
+'government expenditure on education': 'Government expenditure on education'
+'current tobacco use among persons aged 15 years and older (age-standardised to who standard population)': 'Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)'
+'current tobacco use among persons aged 15 years and older': 'Current tobacco use among persons aged 15 years and older'
+'population who were exposed to physical violence': 'Population who were exposed to physical violence'
+'population who were victims of criminal offences': 'Population who were victims of criminal offences'
+'victims of criminal offences': 'Victims of criminal offences'
+'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
+'population not living in an area with crime, violence or vandalism': 'Population not living in an area with crime, violence or vandalism'
+'reporting rate for physical assault': 'Reporting rate for physical assault'
+'reporting rate for robbery': 'Reporting rate for robbery'
 'share of household expenditure spent on health care': 'Share of household expenditure spent on health care'
 'organically farmed agricultural land (data from the federal statistical office)': 'Organically farmed agricultural land (data from the Federal Statistical Office)'
 'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Organically farmed agricultural land (data from the Federal Ministry of Food and Agriculture)'
