@@ -75,7 +75,7 @@
 'länder': 'Länder'
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
-'functions': 'Functions'
+'function': 'Function'
 'country of citizenship': 'Country of citizenship'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income quintile': 'Income quintile'
@@ -324,10 +324,10 @@
 'medical doctors': 'Medical doctors'
 'nursing and midwifery personnel': 'Nursing and midwifery personnel'
 'dentists': 'Dentists'
-'oda (commitments)': 'ODA (commitments)'
-'oda (gross disbursements)': 'ODA (gross disbursements)'
-'oda and oof (commitments)': 'ODA and OOF (commitments)'
-'oda and oof (gross disbursements)': 'ODA and OOF (gross disbursements)'
+'commitments (oda)': 'Commitments (ODA)'
+'gross disbursements (oda)': 'Gross disbursements (ODA)'
+'commitments (oda and oof)': 'Commitments (ODA and OOF)'
+'gross disbursements (oda and oof)': 'Gross disbursements (ODA and OOF)'
 'public': 'Public'
 'private': 'Private'
 'escherichia coli, 3gcr': 'Escherichia coli, 3GCR'
@@ -915,7 +915,7 @@
 #Z_14051_4
 'marine areas covered by effective protected areas': 'Marine areas covered by effective protected areas'
 #Z_14061_1
-'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
+'degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing': 'Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing'
 #Z_14071_1
 'sustainable fisheries to gdp': 'Sustainable fisheries to GDP'
 #Z_14081_1
@@ -1126,6 +1126,11 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'functions': 'Functions'
+'oda (commitments)': 'ODA (commitments)'
+'oda (gross disbursements)': 'ODA (gross disbursements)'
+'oda and oof (commitments)': 'ODA and OOF (commitments)'
+'oda and oof (gross disbursements)': 'ODA and OOF (gross disbursements)'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'

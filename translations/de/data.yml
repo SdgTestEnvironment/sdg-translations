@@ -75,7 +75,7 @@
 'länder': 'Bundesland'
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'frequency': 'Häufigkeit'
-'functions': 'Aufgabenbereiche'
+'function': 'Aufgabenbereich'
 'country of citizenship': 'Herkunftsland'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
@@ -324,10 +324,10 @@
 'medical doctors': 'Ärzte'
 'nursing and midwifery personnel': 'Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe'
 'dentists': 'Zahnärzte'
-'oda (commitments)': 'Zusagen (ODA)'
-'oda (gross disbursements)': 'Bruttoentwicklungsausgaben (ODA)'
-'oda and oof (commitments)': 'Zusagen (ODA and OOF)'
-'oda and oof (gross disbursements)': 'Bruttoausgaben (ODA und OOF)'
+'commitments (oda)': 'Zusagen (ODA)'
+'gross disbursements (oda)': 'Bruttoentwicklungsausgaben (ODA)'
+'commitments (oda and oof)': 'Zusagen (ODA and OOF)'
+'gross disbursements (oda and oof)': 'Bruttoausgaben (ODA und OOF)'
 'public': 'Öffentlich'
 'private': 'Privat'
 'escherichia coli, 3gcr': 'Escherichia coli, 3GCR'
@@ -915,9 +915,9 @@
 #Z_14051_4
 'marine areas covered by effective protected areas': 'Meeresfläche, die unter effektivem Schutz steht'
 #Z_14061_1
-'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
+'degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing': 'Umsetzungsgrad internationaler Übereinkünfte zur Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14071_1
-'sustainable fisheries to gdp': 'Nachhaltigen Fischerei am BIP'
+'sustainable fisheries to gdp': 'Nachhaltige Fischerei am BIP'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 #Z_14091_1
@@ -1130,6 +1130,11 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'functions': 'Aufgabenbereiche'
+'oda (commitments)': 'Zusagen (ODA)'
+'oda (gross disbursements)': 'Bruttoentwicklungsausgaben (ODA)'
+'oda and oof (commitments)': 'Zusagen (ODA and OOF)'
+'oda and oof (gross disbursements)': 'Bruttoausgaben (ODA und OOF)'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
