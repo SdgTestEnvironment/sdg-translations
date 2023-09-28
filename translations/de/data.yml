@@ -709,7 +709,7 @@
 #Z_07021_2
 'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
 #Z_07031_1
-'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen in Primärenergie in Relation zum BIP'
+'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
 #Z_08011_1
 'annual growth rate of real gdp per capita': 'Jährliche Wachstumsrate des realen BIP pro Kopf'
 #Z_08021_1
@@ -731,7 +731,7 @@
 #Z_08061_1
 'neet rates from young people (15 to under 25 years)': 'NEET-Rate von Jugendlichen (15 bis unter 25 Jahre)'
 #Z_08071_1
-'young victims being exploited or intended to being exploited': 'Junge Opfer, die ausgebeutet werden oder ausgebeutet werden sollen'
+'children and young people being exploited': 'Kinder und Jugendliche, die ausgebeutet werden'
 #Z_08081_1
 'fatal occupational accidents': 'Tödliche Arbeitsunfälle'
 #Z_08081_2
