@@ -66,7 +66,7 @@
 'outcome of the application process': 'Outcome of the application process'
 'disability status': 'Disability status'
 'policy area': 'Policy area'
-'domain': 'Domain'
+'stages of the food chain': 'Stages of the food chain'
 'economic activity': 'Economic activity'
 'education level': 'Education level'
 'ownership': 'Ownership'
@@ -227,8 +227,10 @@
 'domain 5. mobility dimensions of crises': 'Domain 5. Mobility dimensions of crises'
 'domain 6. safe, orderly and regular migration': 'Domain 6. Safe, orderly and regular migration'
 'private households': 'Private households'
-'restaurants and catering services': 'Restaurants and catering services'
-'retail/distribution': 'Retail/Distribution'
+'primary production': 'Primary production'
+'processing and production': 'Processing and production'
+'restaurants and food services': 'Restaurants and food services'
+'retail and other distribution of food': 'Retail and other distribution of food'
 'services': 'Services'
 'forestry': 'Forestry'
 'agriculture, forestry and fishing': 'Agriculture, forestry and fishing'
@@ -469,9 +471,6 @@
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
-'judiciary': 'Judiciary'
-'working age population': 'Working age population'
-'public service': 'Public service'
 
 #Time series
 #Z_01021_1a
@@ -869,7 +868,7 @@
 #Z_11072_2
 'victims of sexual harassment': 'Victims of sexual harassment'
 #Z_12031_1
-'food waste': 'Food waste'
+'(b) food waste index': '(b) food waste index'
 #Z_12041_1
 'basel convention': 'Basel Convention'
 #Z_12041_2
@@ -1126,11 +1125,17 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'domain': 'Domain'
 'functions': 'Functions'
+'restaurants and catering services': 'Restaurants and catering services'
+'retail/distribution': 'Retail/Distribution'
 'oda (commitments)': 'ODA (commitments)'
 'oda (gross disbursements)': 'ODA (gross disbursements)'
 'oda and oof (commitments)': 'ODA and OOF (commitments)'
 'oda and oof (gross disbursements)': 'ODA and OOF (gross disbursements)'
+'judiciary': 'Judiciary'
+'working age population': 'Working age population'
+'public service': 'Public service'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'

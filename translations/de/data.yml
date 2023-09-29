@@ -66,7 +66,7 @@
 'outcome of the application process': 'Ausgang des Antragsverfahrens'
 'disability status': 'Behinderungsstatus'
 'policy area': 'Politikbereiche'
-'domain': 'Bereich'
+'stages of the food chain': 'Stufen der Lebensmittelkette'
 'economic activity': 'Wirtschaftszweig'
 'education level': 'Ausbildungsgrad'
 'ownership': 'Eigentumsverhältnis'
@@ -227,8 +227,10 @@
 'domain 5. mobility dimensions of crises': 'Bereich 5. Mobilitätsdimensionen von Krisen'
 'domain 6. safe, orderly and regular migration': 'Bereich 6. Sichere, geordnete und reguläre Migration'
 'private households': 'Private Haushalte'
-'restaurants and catering services': 'Gaststätten und Verpflegungsdienste'
-'retail/distribution': 'Einzelhandel/Vertrieb'
+'primary production': 'Primärerzeugung'
+'processing and production': 'Verarbeitung und Herstellung'
+'restaurants and food services': 'Gaststätten und Verpflegungsdienstleistungen'
+'retail and other distribution of food': 'Einzelhandel und andere Formen des Vertriebs'
 'services': 'Dienstleistungen'
 'forestry': 'Forstwirtschaft'
 'agriculture, forestry and fishing': 'Land- und Forstwirtschaft, Fischerei'
@@ -469,9 +471,6 @@
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
-'judiciary': 'Justiz'
-'working age population': 'Bevölkerung im erwerbsfähigen Alter'
-'public service': 'Öffentlichen Dienst'
 
 #Zeitreihen
 #Z_01021_1a
@@ -869,7 +868,7 @@
 #Z_11072_2
 'victims of sexual harassment': 'Opfer sexueller Belästigung'
 #Z_12031_1
-'food waste': 'Lebensmittelabfälle'
+'(b) food waste index': 'b) Index der Lebensmittelverschwendung'
 #Z_12041_1
 'basel convention': 'Basler Übereinkommen'
 #Z_12041_2
@@ -1130,11 +1129,17 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'domain': 'Bereich'
 'functions': 'Aufgabenbereiche'
+'restaurants and catering services': 'Gaststätten und Verpflegungsdienste'
+'retail/distribution': 'Einzelhandel/Vertrieb'
 'oda (commitments)': 'Zusagen (ODA)'
 'oda (gross disbursements)': 'Bruttoentwicklungsausgaben (ODA)'
 'oda and oof (commitments)': 'Zusagen (ODA and OOF)'
 'oda and oof (gross disbursements)': 'Bruttoausgaben (ODA und OOF)'
+'judiciary': 'Justiz'
+'working age population': 'Bevölkerung im erwerbsfähigen Alter'
+'public service': 'Öffentlicher Dienst'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
