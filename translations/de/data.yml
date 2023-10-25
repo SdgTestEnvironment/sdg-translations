@@ -604,7 +604,7 @@
 #Z_03131_1
 'average of ihr core capacity scores': 'Durchschnitt der IGV-Kapazitäten-Punktwerte'
 #Z_03132_1
-'proportion of resistant isolates tested from blood cultures': 'Anteil der resistent getesteten Isolate aus Blutkulturen'
+'resistant isolates tested from blood cultures': 'Resistent getestete Isolate aus Blutkulturen'
 #Z_04011_1
 'children and youths with a minimum proficiency in reading or mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
 #Z_04022_1
@@ -636,7 +636,7 @@
 #Z_05032_1
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 #Z_05041_1
-'proportion of time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
+'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_3
 'women in a) national parliaments': 'Frauen in a) nationalen Parlamenten'
 #Z_05051_4
@@ -794,7 +794,7 @@
 #Z_10031_1
 'population who felt discriminated in their contacts with public services in the last two years': 'Bevölkerung, die sich in die letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
 #Z_10041_1
-'labour share of gdp': 'Anteil des Arbeitnehmerentgelts am BIP'
+'labour share of gdp': 'Arbeitnehmerentgelt am BIP'
 #Z_10042_1
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'
 #Z_10042_2
@@ -906,7 +906,7 @@
 #Z_14031_1
 'average ph-concentration in the german bight': 'Durchschnittliche pH-Konzentration in der Deutschen Bucht'
 #Z_14041_1
-'proportion of sustainable managed stocks in all msy examined stocks': 'Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen'
+'sustainably managed fish stocks in the north and baltic seas on all msy examined stocks': 'Nachhaltig befischte Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen'
 #Z_14041_2
 'msy examined fish stocks in all managed stocks': 'MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen'
 #Z_14051_1
@@ -1124,3 +1124,12 @@ Value: Wert
 sex of victim: Geschlecht der Opfer
 age of victim: Alter der Opfer
 area2: Bereich
+
+#Old stuff that may still be needed
+'number in 1 000': 'Anzahl in 1 000'
+'per 1 000 inhabitants': 'Je 1 000 Einwohner/-innen'
+'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
+'per 1 000 live births': 'Je 1 000 Lebendgeborene'
+'1 000 tonnes': '1 000 Tonnen'
+'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
+'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'

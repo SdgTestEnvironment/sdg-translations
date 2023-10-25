@@ -604,7 +604,7 @@
 #Z_03131_1
 'average of ihr core capacity scores': 'Average of IHR core capacity scores'
 #Z_03132_1
-'proportion of resistant isolates tested from blood cultures': 'Proportion of resistant isolates tested from blood cultures'
+'resistant isolates tested from blood cultures': 'Resistant isolates tested from blood cultures'
 #Z_04011_1
 'children and youths with a minimum proficiency in reading or mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
 #Z_04022_1
@@ -636,7 +636,7 @@
 #Z_05032_1
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 #Z_05041_1
-'proportion of time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
+'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 #Z_05051_3
 'women in a) national parliaments': 'Women in a) national parliaments'
 #Z_05051_4
@@ -906,7 +906,7 @@
 #Z_14031_1
 'average ph-concentration in the german bight': 'Average pH-concentration in the German Bight'
 #Z_14041_1
-'proportion of sustainable managed stocks in all msy examined stocks': 'Proportion of sustainable managed stocks in all MSY examined stocks'
+'sustainably managed fish stocks in the north and baltic seas on all msy examined stocks': 'Sustainably managed fish stocks in the North and Baltic Seas on all MSY examined stocks'
 #Z_14041_2
 'msy examined fish stocks in all managed stocks': 'MSY examined fish stocks in all managed stocks'
 #Z_14051_1
@@ -1115,8 +1115,6 @@
 'death registration': 'Death registration'
 
 #Addition
-
-#Zusatz
 total: Total
 timeseries: Time series
 Series: Time series
@@ -1125,3 +1123,7 @@ Year: Year
 sex of victim: Gender of victims
 age of victim: Age of victims
 area2: Area
+
+#Old stuff that may still be needed
+'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
+'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
