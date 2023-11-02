@@ -8,12 +8,12 @@
 1_about_2_dns_3_indicators_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/strategy'
 1_about_2_dns_3_publications: Publications
 1_about_2_dns_3_publications_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/'
-1_about_2_dns_3_publications_4_indicatorset: DNS-Set of indicators
-1_about_2_dns_3_publications_4_indicatorset_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/dns_indicators'
-1_about_2_dns_3_publications_4_reports: Indicator Reports
-1_about_2_dns_3_publications_4_reports_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/reports/'
-1_about_2_dns_3_publications_4_others: Other publications
-1_about_2_dns_3_publications_4_others_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/other'
+# 1_about_2_dns_3_publications_4_indicatorset: DNS-Set of indicators
+# 1_about_2_dns_3_publications_4_indicatorset_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/dns_indicators'
+# 1_about_2_dns_3_publications_4_reports: Indicator Reports
+# 1_about_2_dns_3_publications_4_reports_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/reports/'
+# 1_about_2_dns_3_publications_4_others: Other publications
+# 1_about_2_dns_3_publications_4_others_path: 'https://dnstestenvironment.github.io/dns-indicators/en/about/dns/publications/other'
 1_about_2_sdg: "SDG: Global indicators"
 1_about_2_sdg_3_indicators: Indicators of the UN Sustainable Development Goals (SDGs)
 1_about_2_sdg_3_publications: Publications
