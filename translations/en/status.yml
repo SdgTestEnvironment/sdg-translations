@@ -4,7 +4,7 @@ status_blurb: 'The reporting status provides an overview of how many SDG indicat
   marked <span class="status inprogress"> In progress </span>.<br>
   Time series for Germany are not available for all of the globally agreed indicators. There may be various reasons for this: Certain internationally relevant indicators
   cannot be meaningfully calculated for Germany or can only be answered in a global context. Such indicators are marked as <span class="status notapplicable"> Not applicable </span>.'
-reporting_status: Reporting Status
+reporting_status: Indicator reporting status - Overview
 overall_reporting_status: Overall Reporting Status
 reported_online: Reported
 statistics_in_progress: In progress
