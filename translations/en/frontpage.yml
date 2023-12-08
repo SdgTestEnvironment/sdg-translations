@@ -11,5 +11,7 @@ instructions: Click on each goal for the German UN Sustainable Development Goal 
 download_all: Download all data
 zip_file: ZIP file
 intro_title: 17 goals to transform our world
-community_text: The Federal Statistical Office is part of the <a href="https://sdgtestenvironment.github.io/sdg-indicators/en/joint_action">Joint Action for Sustainable Development</a>, an open platform for all those who are committed to a sustainable society.
+joint_action_text: The Federal Statistical Office is part of the
+  <a href="https://sdgtestenvironment.github.io/sdg-indicators/en/joint_action">Joint Action for Sustainable Development</a>, an
+  open platform for all those who are committed to a sustainable society.
 agenda_text: Information on the 2030 Agenda can be found <a href="https://sdgtestenvironment.github.io/sdg-indicators/en/agenda/">here</a>.
