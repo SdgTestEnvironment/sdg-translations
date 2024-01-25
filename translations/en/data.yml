@@ -668,7 +668,7 @@
 #Z_06032_3
 'groundwater mesuring points below the threshold value for nitrate': 'Groundwater mesuring points below the threshold value for nitrate'
 #Z_06041_1
-'water use efficiency': 'Water use efficiency'
+'change in water-use efficiency': 'Change in water-use efficiency'
 #Z_06042_1
 'level of water stress: share of withdrawal in renewable water resources': 'Level of water stress: share of withdrawal in renewable water resources'
 #Z_06042_2
@@ -1132,5 +1132,6 @@ area2: Area
 'theme': 'Theme'
 'topic': 'Topic'
 'type of water body': 'Type of water body'
+'water use efficiency': 'Water use efficiency'
 '(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
 '(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
