@@ -1,27 +1,11 @@
 1_start: Start
-1_start_2_dns_platform: Nationale Indikatoren <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Klicken Sie hier um zur Seite der DNS Indikatoren zu gelangen" alt="Link DNS" style="width:24px;height:24px;"/>
-1_start_2_dns_platform_path: 'https://dnstestenvironment.github.io/dns-indicators'
-1_start_2_sdg_platform: Globale Indikatoren <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
-1_about: Themen
-1_about_2_dns: "Deutsche Nachhaltigkeitsstrategie (DNS)"
-1_about_2_dns_3_indicators: Monitoring
-1_about_2_dns_3_indicators_path: 'https://dnstestenvironment.github.io/dns-indicators/about/dns/monitoring'
-1_about_2_dns_3_publications: Publikationen
-1_about_2_dns_3_publications_path: 'https://dnstestenvironment.github.io/dns-indicators/about/dns/publications'
-# 1_about_2_dns_3_publications_4_indicatorset: DNS-Indikatorenset
-# 1_about_2_dns_3_publications_4_indicatorset_path: 'https://dnstestenvironment.github.io/dns-indicators/about/dns/publications/dns_indicators'
-# 1_about_2_dns_3_publications_4_reports: Indikatorenberichte
-# 1_about_2_dns_3_publications_4_reports_path: 'https://dnstestenvironment.github.io/dns-indicators/about/dns/publications/reports/'
-# 1_about_2_dns_3_publications_4_others: Weitere Publikationen
-# 1_about_2_dns_3_publications_4_others_path: 'https://dnstestenvironment.github.io/dns-indicators/about/dns/publications/other'
-1_about_2_sdg: "Agenda 2030 (SDG)"
-1_about_2_sdg_3_indicators: Monitoring
-1_about_2_sdg_3_publications: Publikationen
-1_about_2_sdg_3_publications_4_indicatorset: SDG-Indikatorenset
-1_about_2_sdg_3_publications_4_wista: Auszug aus der Publikation "WISTA-Wirtschaft und Statistik", 5/2016
-1_about_2_sdg_3_publications_4_hlpf: Berichte zum HLPF
-1_about_2_joint_action: Gemeinschaftswerk
-1_about_2_joint_action_path: 'https://dnstestenvironment.github.io/dns-indicators/about/joint_action'
+1_national_indicators: Nationale Indikatoren <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Klicken Sie hier um zur Seite der DNS Indikatoren zu gelangen" alt="Link DNS" style="width:24px;height:24px;"/>
+1_national_indicators_path: 'https://dnstestenvironment.github.io/dns-indicators'
+1_agenda2030: Agenda 2030
+1_agenda2030_2_monitoring: Monitoring
+1_agenda2030_2_publications: Publikationen
+1_agenda2030_2_links: Links
+
 1_reporting_status: Berichtsstatus
 1_other_countries: Weltweit
 1_help: Hilfe
