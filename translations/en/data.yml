@@ -4,6 +4,7 @@
 'billion eur': 'Billion EUR'
 'dalys': 'DALYs'
 'eur': 'EUR'
+'euro per m³': 'Euro per m³'
 'eur per hour': 'EUR per hour'
 'income per capita': 'Income per capita'
 'gini coefficient': 'Gini coefficient'
@@ -467,638 +468,30 @@
 'untreated wastewater': 'Untreated wastewater'
 
 #Time series
-#Z_01021_1a
-'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
-#Z_01022_1
-'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
-#Z_01022_2
-'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
-#Z_01022_3
-'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
-#Z_01022_4
-'severely materially and socially deprived persons': 'Severely materially and socially deprived persons'
-#Z_01031_1
-'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
-#Z_01031_2
-'population covered by health insurance': 'Population covered by health insurance'
-#Z_01061_1
-'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
-#Z_01061_2
-'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
-#Z_01062_1
-'government expenditure': 'Government expenditure'
-#Z_01062_3a
-'government expenditure on social protection': 'Government expenditure on social protection'
-#Z_02011_1
-'energy intake': 'Energy intake'
-#Z_02012_1
-'population living in households with food insecurity': 'Population living in households with food insecurity'
-#Z_02021_1
-'stunting among children': 'Stunting among children'
-#Z_02022_1
-'overweight': 'Overweight'
-#Z_02022_2
-'wasting': 'Wasting'
-#Z_02023_1
-'hb concentrations in female adolescents': 'Hb concentrations in female adolescents'
-#Z_02031_1
-'labour productivity': 'Labour productivity'
-#Z_02041_1
-'data from the federal statistical office': 'Data from the Federal Statistical Office'
-#Z_02041_2
-'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Food and Agriculture'
-#Z_02051_1
-'plant genetic resources': 'Plant genetic resources'
-#Z_02051_2
-'animal genetic resources': 'Animal genetic resources'
-#Z_02052_1
-'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
-#Z_02052_2
-'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
-#Z_02052_3
-'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
-#Z_02061_1
-'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
-#Z_02062_1
-'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
-#Z_02071_1
-'export refunds': 'Export refunds'
-#Z_02081_1
-'food price index (food items and alcohol-free beverages)': 'Food Price Index (food items and alcohol-free beverages)'
-#Z_03011_1
-'maternal mortality': 'Maternal mortality'
-#Z_03012_1
-'child deliveries in hospitals': 'Child deliveries in hospitals'
-#Z_03012_2
-'live births in total': 'Live births in total'
-#Z_03021_1
-'child mortality': 'Child mortality'
-#Z_03022_1
-'neonatal mortality': 'Neonatal mortality'
-#Z_03031_1
-'hiv incidence': 'HIV incidence'
-#Z_03032_1
-'tuberculosis incidence': 'Tuberculosis incidence'
-#Z_03033_1
-'malaria incidence': 'Malaria incidence'
-#Z_03034_1
-'hepatitis b incidence': 'Hepatitis B incidence'
-#Z_03035_1
-'people requiring interventions against neglected tropical diseases': 'People requiring interventions against neglected tropical diseases'
-#Z_03035_2
-'inpatient treatment of neglected tropical diseases': 'Inpatient treatment of neglected tropical diseases'
-#Z_03041_1
-'mortality at the age of 30 to under 70 years': 'Mortality at the age of 30 to under 70 years'
-#Z_03042_1
-'mortality due to suicide': 'Mortality due to suicide'
-#Z_03051_1
-'inpatient treatment of substance use disorders': 'Inpatient treatment of substance use disorders'
-#Z_03051_2
-'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years'
-#Z_03052_1
-'alcohol consumption (by un factors)': 'Alcohol consumption (by UN factors)'
-#Z_03052_2
-'alcohol consumption (by national factors)': 'Alcohol consumption (by national factors)'
-#Z_03061_1
-'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
-#Z_03072_1
-'births of young women': 'Births of young women'
-#Z_03082_1
-'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-households with large expenditures on health in relation to total household expenditure'
-#Z_03091_1
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
-#Z_03091_2
-'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
-#Z_03091_3
-'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
-#Z_03091_4
-'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
-#Z_03092_1
-'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
-#Z_03093_1
-'mortality attributed to unintentional poisoning': 'Mortality attributed to unintentional poisoning'
-#Z_03101_1
-'current tobacco use (age-standardised to who standard population)': 'Current tobacco use (age-standardised to WHO Standard Population)'
-#Z_03101_2
-'current tobacco use': 'Current tobacco use'
-#Z_03111_1
-'dtp vaccination coverage at school entry': 'DTP vaccination coverage at school entry'
-#Z_03111_2
-'hpv vaccination coverages among 15 years old girls and boys': 'HPV vaccination coverages among 15 years old girls and boys'
-#Z_03111_3
-'measles vaccination coverage at school entry': 'Measles vaccination coverage at school entry'
-#Z_03111_4
-'pneumococcal vaccination coverage at school entry': 'Pneumococcal vaccination coverage at school entry'
-#Z_03112_1
-'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
-#Z_03121_1
-'health workers with direct patient contact (practising concept)': 'Health workers with direct patient contact (practising concept)'
-#Z_03131_1
-'average of ihr core capacity scores': 'Average of IHR core capacity scores'
-#Z_03132_1
-'resistant isolates tested from blood cultures': 'Resistant isolates tested from blood cultures'
-#Z_04011_1
-'children and youths with a minimum proficiency in reading or mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
-#Z_04022_1
-'children in child day care at the age of 5': 'Children in child day care at the age of 5'
-#Z_04031_1
-'participation in formal and non-formal education and training in the previous 12 months': 'Participation in formal and non-formal education and training in the previous 12 months'
-#Z_04041_1
-'share of population with computer-related activities': 'Share of population with computer-related activities'
-#Z_04051_1
-'gender parity index': 'Gender Parity Index'
-#Z_04061_1
-'adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills'
-#Z_04071_1
-'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration of "global citizenship education" and "education for sustainable development" into the education system'
 #Z_04081_1
 'proportion of schools offering basic services': 'Proportion of schools offering basic services'
-#Z_04091_1
-'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
-#Z_04091_2
-'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
-#Z_05011_1
-'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
-#Z_05021_1
-'female victims of sexual violence by an intimate partner': 'Female victims of sexual violence by an intimate partner'
-#Z_05022_1
-'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
-#Z_05031_1
-'married girls': 'Married girls'
-#Z_05032_1
-'female victims of genital mutilation': 'Female victims of genital mutilation'
-#Z_05041_1
-'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
-#Z_05051_3
-'women in a) national parliaments': 'Women in a) national parliaments'
-#Z_05051_4
-'women in b) local governments': 'Women in b) local governments'
-#Z_05051_6
-'proportion of women in national parliaments and local governments': 'Proportion of women in national parliaments and local governments'
-#Z_05052_1
-'proportion of women in managerial positions': 'Proportion of women in managerial positions'
-#Z_05062_1
-'access to sexual and reproductive health care, information and education': 'Access to sexual and reproductive health care, information and education'
-#Z_05071_1
-'owned and leased agricultural land': 'Owned and leased agricultural land'
-#Z_05071_2
-'female owners of agricultural holdings with the legal form of a sole proprietorship': 'Female owners of agricultural holdings with the legal form of a sole proprietorship'
-#Z_05071_3
-'agricultural holdings with the legal form of a sole proprietorship': 'Agricultural holdings with the legal form of a sole proprietorship'
-#Z_05072_1
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
-#Z_05081_1
-'mobile penetration rate': 'Mobile penetration rate'
-#Z_05081_2
-'private households with at least one mobile phone': 'Private households with at least one mobile phone'
 #Z_06011_1
 'population using safely managed drinking water services': 'Population using safely managed drinking water services'
-#Z_06011_2
-'population connected to the public water supply system': 'Population connected to the public water supply system'
-#Z_06021_1
-'population with (own) toilet': 'Population with (own) toilet'
-#Z_06021_2
-'population with (own) bathtub or shower': 'Population with (own) bathtub or shower'
 #Z_06031_1
 'wastewater that is safely treated or does not require treatment': 'Wastewater that is safely treated or does not require treatment'
-#Z_06031_2
-'wastewater and cooling water': 'Wastewater and cooling water'
-#Z_06032_2
-'flowing water with good ecological status for total phosphorous': 'Flowing water with good ecological status for total phosphorous'
-#Z_06032_3
-'groundwater mesuring points below the threshold value for nitrate': 'Groundwater mesuring points below the threshold value for nitrate'
-#Z_06041_1
-'change in water-use efficiency': 'Change in water-use efficiency'
-#Z_06042_1
-'level of water stress: share of withdrawal in renewable water resources': 'Level of water stress: share of withdrawal in renewable water resources'
-#Z_06042_2
-'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Level of water stress: share of withdrawal in renewable water resources, excluding cooling water'
-#Z_06051_1
-'degree of integrated water resources management implementation': 'Degree of integrated water resources management implementation'
 #Z_06052_1
 'transboundary basin area with an operational arrangement for water cooperation': 'Transboundary basin area with an operational arrangement for water cooperation'
-#Z_06061_1
-'lakes and rivers permanent water area': 'Lakes and Rivers permanent water area'
-#Z_06061_2
-'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
-#Z_06061_3
-'wetlands area': 'Wetlands area'
-#Z_06061_4
-'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
-#Z_06061_5
-'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
-#Z_06071_1
-'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
-#Z_06071_2
-'oda (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
 #Z_07011_1
 'population with access to electricity': 'Population with access to electricity'
-#Z_07011_2
-'households and small-sized enterprises connected to the electricity network': 'Households and small-sized enterprises connected to the electricity network'
 #Z_07012_1
 'population with primary reliance on clean fuels and technology': 'Population with primary reliance on clean fuels and technology'
-#Z_07021_1
-'renewable energy in total final energy consumption': 'Renewable energy in total final energy consumption'
-#Z_07021_2
-'renewable energy in gross final energy consumption': 'Renewable energy in gross final energy consumption'
-#Z_07031_1
-'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
-#Z_08011_1
-'annual growth rate of real gdp per capita': 'Annual growth rate of real GDP per capita'
-#Z_08021_1
-'annual growth rate of real gdp per employed person': 'Annual growth rate of real GDP per employed person'
-#Z_08041_1
-'raw material consumption (rmc)': 'Raw material consumption (RMC)'
-#Z_08041_2
-'raw material consumption per real gdp': 'Raw material consumption per real GDP'
-#Z_08042_1
-'domestic material consumption (dmc)': 'Domestic material consumption (DMC)'
-#Z_08042_2
-'domestic material consumption per real gdp': 'Domestic material consumption per real GDP'
-#Z_08051_1
-'average hourly earnings of employees': 'Average hourly earnings of employees'
-#Z_08051_2
-'gender pay gap': 'Gender Pay Gap'
-#Z_08052_1
-'unemployment rate': 'Unemployment rate'
-#Z_08061_1
-'neet rates from young people (15 to under 25 years)': 'NEET rates from young people (15 to under 25 years)'
-#Z_08071_1
-'children and young people being exploited': 'Children and young people being exploited'
-#Z_08081_1
-'fatal occupational accidents': 'Fatal occupational accidents'
-#Z_08081_2
-'non-fatal occupational accidents': 'Non-fatal occupational accidents'
-#Z_08082_1
-'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation'
-#Z_08091_1
-'gross value added of the tourism industry': 'Gross value added of the tourism industry'
-#Z_08101_1
-'branches of payment service providers': 'Branches of payment service providers'
-#Z_08101_2
-'atms of national payment service providers': 'ATMs of national payment service providers'
-#Z_08102_1
-'accounts at payment service providers': 'Accounts at payment service providers'
-#Z_08111_1
-'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
-#Z_08111_2
-'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
-#Z_09011_1
-'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
-#Z_09012_1
-'passenger transport': 'Passenger transport'
-#Z_09012_2
-'freight transport': 'Freight transport'
-#Z_09021_1
-'manufacturing gross value added': 'Manufacturing gross value added'
-#Z_09021_2
-'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
-#Z_09021_3
-'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
-#Z_09021_4
-'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
-#Z_09022_1
-'data from na from federal statistical office': 'Data from NA from Federal Statistical Office'
-#Z_09022_2
-'data from lfs from federal statistical office': 'Data from LFS from Federal Statistical Office'
-#Z_09031_1
-'gross value added of small-scale industries in manufacturing': 'Gross value added of small-scale industries in manufacturing'
-#Z_09041_1
-'co₂ emissions per real gdp': 'CO₂ emissions per real GDP'
-#Z_09041_2
-'co₂ emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂ emissions per gross value added (price adjusted) in manufacturing industries'
-#Z_09051_1
-'proportion of r&d expenditures to gdp': 'Proportion of R&D expenditures to GDP'
-#Z_09052_1
-'persons working in r&d in full-time equivalents': 'Persons working in R&D in full-time equivalents'
-#Z_09061_1
-'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
-#Z_09061_2
-'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
-#Z_09071_1
-'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
-#Z_09081_1
-'households covered by a mobile network': 'Households covered by a mobile network'
-#Z_10011_3
-'growth rate of per capita income': 'Growth rate of per capita income'
-#Z_10021_1
-'population living below 50% of median income': 'Population living below 50% of median income'
-#Z_10031_1
-'population who felt discriminated in their contacts with public services in the last two years': 'Population who felt discriminated in their contacts with public services in the last two years'
-#Z_10041_1
-'labour share of gdp': 'Labour share of GDP'
-#Z_10042_1
-'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
-#Z_10042_2
-'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
-#Z_10042_3
-'redistributive impact of fiscal policy': 'Redistributive impact of fiscal policy'
-#Z_10051_1
-'capital to assets ratio': 'Capital to assets ratio'
-#Z_10051_2
-'regulatory tier 1 capital to risk-weighted assets': 'Regulatory Tier 1 capital to risk-weighted assets'
-#Z_10051_3
-'nonperforming loans net of provisions to capital': 'Nonperforming loans net of provisions to capital'
-#Z_10051_4
-'nonperforming loans net of provisions to gross loans': 'Nonperforming loans net of provisions to gross loans'
-#Z_10051_5
-'return on assets': 'Return on assets'
-#Z_10051_6
-'liquid assets to short-term liabilities': 'Liquid assets to short-term liabilities'
-#Z_10051_7
-'net open position in foreign exchange to capital': 'Net open position in foreign exchange to capital'
-#Z_10072_1
-'state of migration policies': 'State of migration policies'
-#Z_10073_1
-'persons who died during migration': 'Persons who died during migration'
-#Z_10074_1
-'german nationals who are refugees abroad': 'German nationals who are refugees abroad'
-#Z_10091_1
-'total official and private resource flows for development (net disbursements)': 'Total official and private resource flows for development (net disbursements)'
-#Z_10101_1
-'remittance costs as a proportion of the amount remitted': 'Remittance costs as a proportion of the amount remitted'
-#Z_11011_06
-'overcrowding rate': 'Overcrowding rate'
-#Z_11011_07
-'housing cost overburden rate': 'Housing cost overburden rate'
-#Z_11011_08
-'population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor': 'Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor'
-#Z_11011_09
-'population having neither a bath, nor a shower in their dwelling': 'Population having neither a bath, nor a shower in their dwelling'
-#Z_11011_10
-'population not having indoor flushing toilet for the sole use of their household': 'Population not having indoor flushing toilet for the sole use of their household'
-#Z_11011_11
-'population considering their dwelling as too dark': 'Population considering their dwelling as too dark'
-#Z_11021_1
-'population with access to public transport (within 500 meters)': 'Population with access to public transport (within 500 meters)'
-#Z_11021_2
-'population with access to public transport (within 10 minutes walking distance)': 'Population with access to public transport (within 10 minutes walking distance)'
-#Z_11031_1
-'ratio of land consumption rate to population growth rate': 'Ratio of land consumption rate to population growth rate'
-#Z_11031_2
-'proportion of settlement and transport areas to population': 'Proportion of settlement and transport areas to population'
-#Z_11031_3
-'land consumption rate': 'Land consumption rate'
-#Z_11031_4
-'population growth rate': 'Population growth rate'
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
-#Z_11041_1
-'government expenditure on protection of biodiversity and landscape (cofog division 5.4)': 'Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)'
-#Z_11041_2
-'government expenditure on cultural services (cofog division 8.2)': 'Government expenditure on cultural services (COFOG division 8.2)'
 #Z_11061_1
 'municipal solid waste regularly collected and treated': 'Municipal solid waste regularly collected and treated'
-#Z_11061_2
-'municipal solid waste in total': 'Municipal solid waste in total'
-#Z_11062_1
-'population weighted annual mean levels of fine particulate matter': 'Population weighted annual mean levels of fine particulate matter'
-#Z_11062_2
-'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
-#Z_11071_1
-'average share of the built-up area of cities that is open space for public use': 'Average share of the built-up area of cities that is open space for public use'
-#Z_11072_1
-'victims of physical harassment': 'Victims of physical harassment'
-#Z_11072_2
-'victims of sexual harassment': 'Victims of sexual harassment'
-#Z_12031_1
-'(b) food waste index': '(b) food waste index'
-#Z_12041_1
-'basel convention': 'Basel Convention'
-#Z_12041_2
-'montreal protocol': 'Montreal Protocol'
-#Z_12041_3
-'rotterdam convention': 'Rotterdam Convention'
-#Z_12041_4
-'stockholm convention': 'Stockholm Convention'
-#Z_12041_5
-'minamata convention': 'Minamata Convention'
-#Z_12042_1
-'hazardous waste generated per capita': 'Hazardous waste generated per capita'
-#Z_12042_2
-'hazardous waste treated': 'Hazardous waste treated'
-#Z_12051_1
-'national recycling rate': 'National recycling rate'
-#Z_12051_2
-'material recovery': 'Material recovery'
-#Z_12061_1
-'organisations with emas registration': 'Organisations with EMAS registration'
-#Z_12071_1
-'sustainable public procurement index': 'Sustainable Public Procurement Index'
-#Z_12101_1
-'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
-#Z_12111_1
-'tax breaks and direct transfers of funds': 'Tax breaks and direct transfers of funds'
-#Z_13022_1
-'total greenhouse gas emissions': 'Total greenhouse gas emissions'
-#Z_13041_1
-'german payments for international climate financing': 'German payments for international climate financing'
-#Z_14021_1
-'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Existence of maritime spatial plans for the Exclusive Economic Zone (EEZ) and an integrated coastal zone management (ICZM)'
-#Z_14031_1
-'average ph-concentration in the german bight': 'Average pH-concentration in the German Bight'
-#Z_14041_1
-'sustainably managed fish stocks in the north and baltic seas on all msy examined stocks': 'Sustainably managed fish stocks in the North and Baltic Seas on all MSY examined stocks'
-#Z_14041_2
-'msy examined fish stocks in all managed stocks': 'MSY examined fish stocks in all managed stocks'
-#Z_14051_1
-'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
-#Z_14051_3
-'marine areas covered by protected areas': 'Marine areas covered by protected areas'
-#Z_14051_4
-'marine areas covered by effective protected areas': 'Marine areas covered by effective protected areas'
-#Z_14061_1
-'degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing': 'Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing'
-#Z_14071_1
-'sustainable fisheries to gdp': 'Sustainable fisheries to GDP'
-#Z_14081_1
-'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
-#Z_14091_1
-'degree of recognition and protection of access rights for small-scale fisheries': 'Degree of recognition and protection of access rights for small-scale fisheries'
-#Z_14101_1
-'score for the implementation of unclos and ist two implementing agreements': 'Score for the implementation of UNCLOS and ist two implementing agreements'
-#Z_14101_2
-'score for the ratification of and accession to unclos and ist two implementing agreements': 'Score for the ratification of and accession to UNCLOS and ist two implementing agreements'
-#Z_15011_1
-'forest area as a proportion of total land area': 'Forest area as a proportion of total land area'
-#Z_15012_1
-'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas'
-#Z_15012_3
-'terrestrial and freshwater areas covered by protected areas': 'Terrestrial and freshwater areas covered by protected areas'
-#Z_15012_4
-'terrestrial and freshwater areas covered by effective protected areas': 'Terrestrial and freshwater areas covered by effective protected areas'
-#Z_15021_1
-'above-ground biomass stock in forest': 'Above-ground biomass stock in forest'
-#Z_15021_2
-'forest area located within protected areas': 'Forest area located within protected areas'
-#Z_15021_3
-'forest area net change rate': 'Forest area net change rate'
-#Z_15021_4
-'forest area under an independently verified forest management certification scheme': 'Forest area under an independently verified forest management certification scheme'
-#Z_15041_1
-'mountain key biodiversity areas (kbas) covered by protected areas': 'Mountain Key Biodiversity Areas (KBAs) covered by protected areas'
-#Z_15041_2
-'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
-#Z_15041_3
-'mountain regions, covered by effective protected areas': 'Mountain regions, covered by effective protected areas'
-#Z_15042_1
-'(a) mountain green cover index': '(a) Mountain Green Cover Index'
-#Z_15042_2
-'(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
-#Z_15051_1
-'"red list" index': '"Red List" Index'
-#Z_15061_1
-'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
-#Z_15061_2
-'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
-#Z_15061_3
-'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
-#Z_15061_4
-'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
-#Z_15061_5
-'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
-#Z_15071_1
-'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
-#Z_15071_2
-'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
-#Z_15081_1
-'national legislation and policy relevant to ias': 'National legislation and policy relevant to IAS'
-#Z_15081_2
-'align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'Align the NBSAP targets with Aichi Target 9 of the Strategic Plan for Biodiversity'
 #Z_15091_1
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 #Z_15091_2
 'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
-#Z_15101_1
-'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
-#Z_15101_2
-'oda (gross disbursements) for biodiversity': 'ODA (gross disbursements) for biodiversity'
-#Z_15101_3
-'environmental protection expenditure': 'Environmental protection expenditure'
-#Z_15111_1
-'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
-#Z_16011_1
-'victims of intentional homicide': 'Victims of intentional homicide'
-#Z_16012_1
-'conflict-related deaths': 'Conflict-related deaths'
-#Z_16013_1
-'population who were exposed to physical violence': 'Population who were exposed to physical violence'
-#Z_16013_2
-'population who were victims of criminal offences': 'Population who were victims of criminal offences'
-#Z_16013_3
-'victims of criminal offences': 'Victims of criminal offences'
-#Z_16013_4
-'population who were exposed to sexual violence': 'Population who were exposed to sexual violence'
-#Z_16014_1
-'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
-#Z_16014_2
-'population not living in an area with crime, violence or vandalism': 'Population not living in an area with crime, violence or vandalism'
-#Z_16014_3
-'feeling of (in)security of the population in its neighbourhood (during the day)': 'Feeling of (in)security of the population in its neighbourhood (during the day)'
-#Z_16021_1
-'children at acute risk of harm with signs of abuse': 'Children at acute risk of harm with signs of abuse'
-#Z_16022_1
-'victims of human trafficking': 'Victims of human trafficking'
-#Z_16031_1
-'reporting rate for physical assault': 'Reporting rate for physical assault'
-#Z_16031_2
-'reporting rate for robbery': 'Reporting rate for robbery'
-#Z_16032_1
-'unsentenced detainees': 'Unsentenced detainees'
-#Z_16033_1
-'conciliation requests received and finally processed': 'Conciliation requests received and finally processed'
-#Z_16042_1
-'seized arms and parts': 'Seized arms and parts'
-#Z_16051_1
-'population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years'
-#Z_16051_2
-'private persons (donors) suspected in the context of corruption offences': 'Private persons (donors) suspected in the context of corruption offences'
-#Z_16052_1
-'businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years'
-#Z_16061_1
-'proportion of primary government expenditures to original approved budget': 'Proportion of primary government expenditures to original approved budget'
-#Z_16062_1
-'population satisfied with their experience of government services during the previous two years': 'Population satisfied with their experience of government services during the previous two years'
-#Z_16071_1
-'working-age population': 'Working-age population'
-#Z_16071_2
-'german bundestag (lower chamber)': 'German Bundestag (lower chamber)'
-#Z_16071_3
-'bundesrat (upper chamber)': 'Bundesrat (upper chamber)'
-#Z_16071_4
-'public service': 'Public service'
-#Z_16071_5
-'judiciary': 'Judiciary'
-#Z_16072_1
-'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
 #Z_16091_1
 'children under 5 years of age whose births have been registered with a civil authority': 'Children under 5 years of age whose births have been registered with a civil authority'
-#Z_16102_1
-'total score from unesco survey on public access to information': 'Total Score from UNESCO Survey on Public Access to Information'
 #Z_16111_1
 'membership ganhri (category a)': 'Membership GANHRI (category A)'
-#Z_17011_1
-'proportion of total government revenue to gdp': 'Proportion of total government revenue to GDP'
-#Z_17012_1
-'proportion of domestic expenditures funded by national taxes': 'Proportion of domestic expenditures funded by national taxes'
-#Z_17012_2
-'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Proportion of domestic expenditures funded by national taxes and insurance contributions'
-#Z_17021_1
-'proportion of oda (net disbursements) to gni': 'Proportion of ODA (net disbursements) to GNI'
-#Z_17021_2
-'proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)': 'Proportion of bilateral and imputed multilateral ODA (net disbursements) for LDCs to the gross national income (GNI)'
-#Z_17051_1
-'number and value of supported outward investment projects to ldcs': 'Number and value of supported outward investment projects to LDCs'
-#Z_17061_1
-'fixed internet broadband access lines': 'Fixed internet broadband access lines'
-#Z_17071_1
-'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
-#Z_17081_1
-'individuals using the internet': 'Individuals using the Internet'
-#Z_17091_1
-'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)'
-#Z_17091_2
-'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)'
-#Z_17131_1
-'annual growth rate of real gdp': 'Annual growth rate of real GDP'
-#Z_17131_10
-'labour productivity per hour worked by persons employed': 'Labour productivity per hour worked by persons employed'
-#Z_17131_11
-'persons employed': 'Persons employed'
-#Z_17131_12
-'real gdp per capita': 'Real GDP per capita'
-#Z_17131_13
-'trade balance': 'Trade balance'
-#Z_17131_2
-'available income of private households': 'Available income of private households'
-#Z_17131_3
-'consumption by private households': 'Consumption by private households'
-#Z_17131_4
-'debts of the total public budget': 'Debts of the total public budget'
-#Z_17131_5
-'government fiscal balance': 'Government fiscal balance'
-#Z_17131_6
-'gross fixed capital formation': 'Gross fixed capital formation'
-#Z_17131_7
-'hours worked by employees': 'Hours worked by employees'
-#Z_17131_8
-'hours worked by persons employed': 'Hours worked by persons employed'
-#Z_17131_9
-'labour productivity per hour worked by employee': 'Labour productivity per hour worked by employee'
-#Z_17151_4
-'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
-#Z_17161_1
-'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Progress in multi-stakeholder development effectiveness monitoring frameworks'
-#Z_17171_1
-'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'ODA (commitments) to public-private partnerships (PPP) for infrastructure'
-#Z_17171_2
-'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure'
-#Z_17182_1
-'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
-#Z_17191_1
-'oda and oof (commitments) to strengthen statistical capacity': 'ODA and OOF (commitments) to strengthen statistical capacity'
-#Z_17191_2
-'oda and oof (gross disbursements) to strengthen statistical capacity': 'ODA and OOF (gross disbursements) to strengthen statistical capacity'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 #Z_17192_2
@@ -1117,6 +510,302 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
+'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
+'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
+'severely materially and socially deprived persons': 'Severely materially and socially deprived persons'
+'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
+'population covered by health insurance': 'Population covered by health insurance'
+'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
+'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
+'government expenditure': 'Government expenditure'
+'government expenditure on social protection': 'Government expenditure on social protection'
+'energy intake': 'Energy intake'
+'population living in households with food insecurity': 'Population living in households with food insecurity'
+'stunting among children': 'Stunting among children'
+'overweight': 'Overweight'
+'wasting': 'Wasting'
+'hb concentrations in female adolescents': 'Hb concentrations in female adolescents'
+'labour productivity': 'Labour productivity'
+'data from the federal statistical office': 'Data from the Federal Statistical Office'
+'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Food and Agriculture'
+'plant genetic resources': 'Plant genetic resources'
+'animal genetic resources': 'Animal genetic resources'
+'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
+'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
+'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
+'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
+'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
+'export refunds': 'Export refunds'
+'food price index (food items and alcohol-free beverages)': 'Food Price Index (food items and alcohol-free beverages)'
+'maternal mortality': 'Maternal mortality'
+'child deliveries in hospitals': 'Child deliveries in hospitals'
+'live births in total': 'Live births in total'
+'child mortality': 'Child mortality'
+'neonatal mortality': 'Neonatal mortality'
+'hiv incidence': 'HIV incidence'
+'tuberculosis incidence': 'Tuberculosis incidence'
+'malaria incidence': 'Malaria incidence'
+'hepatitis b incidence': 'Hepatitis B incidence'
+'people requiring interventions against neglected tropical diseases': 'People requiring interventions against neglected tropical diseases'
+'inpatient treatment of neglected tropical diseases': 'Inpatient treatment of neglected tropical diseases'
+'mortality at the age of 30 to under 70 years': 'Mortality at the age of 30 to under 70 years'
+'mortality due to suicide': 'Mortality due to suicide'
+'inpatient treatment of substance use disorders': 'Inpatient treatment of substance use disorders'
+'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years'
+'alcohol consumption (by un factors)': 'Alcohol consumption (by UN factors)'
+'alcohol consumption (by national factors)': 'Alcohol consumption (by national factors)'
+'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
+'births of young women': 'Births of young women'
+'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-households with large expenditures on health in relation to total household expenditure'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
+'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
+'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
+'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
+'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
+'mortality attributed to unintentional poisoning': 'Mortality attributed to unintentional poisoning'
+'current tobacco use (age-standardised to who standard population)': 'Current tobacco use (age-standardised to WHO Standard Population)'
+'current tobacco use': 'Current tobacco use'
+'dtp vaccination coverage at school entry': 'DTP vaccination coverage at school entry'
+'hpv vaccination coverages among 15 years old girls and boys': 'HPV vaccination coverages among 15 years old girls and boys'
+'measles vaccination coverage at school entry': 'Measles vaccination coverage at school entry'
+'pneumococcal vaccination coverage at school entry': 'Pneumococcal vaccination coverage at school entry'
+'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
+'health workers with direct patient contact (practising concept)': 'Health workers with direct patient contact (practising concept)'
+'average of ihr core capacity scores': 'Average of IHR core capacity scores'
+'resistant isolates tested from blood cultures': 'Resistant isolates tested from blood cultures'
+'children and youths with a minimum proficiency in reading or mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
+'children in child day care at the age of 5': 'Children in child day care at the age of 5'
+'participation in formal and non-formal education and training in the previous 12 months': 'Participation in formal and non-formal education and training in the previous 12 months'
+'share of population with computer-related activities': 'Share of population with computer-related activities'
+'gender parity index': 'Gender Parity Index'
+'adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills'
+'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration of "global citizenship education" and "education for sustainable development" into the education system'
+'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
+'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
+'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
+'female victims of sexual violence by an intimate partner': 'Female victims of sexual violence by an intimate partner'
+'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
+'married girls': 'Married girls'
+'female victims of genital mutilation': 'Female victims of genital mutilation'
+'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
+'women in a) national parliaments': 'Women in a) national parliaments'
+'women in b) local governments': 'Women in b) local governments'
+'proportion of women in national parliaments and local governments': 'Proportion of women in national parliaments and local governments'
+'proportion of women in managerial positions': 'Proportion of women in managerial positions'
+'access to sexual and reproductive health care, information and education': 'Access to sexual and reproductive health care, information and education'
+'owned and leased agricultural land': 'Owned and leased agricultural land'
+'female owners of agricultural holdings with the legal form of a sole proprietorship': 'Female owners of agricultural holdings with the legal form of a sole proprietorship'
+'agricultural holdings with the legal form of a sole proprietorship': 'Agricultural holdings with the legal form of a sole proprietorship'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
+'mobile penetration rate': 'Mobile penetration rate'
+'private households with at least one mobile phone': 'Private households with at least one mobile phone'
+'population connected to the public water supply system': 'Population connected to the public water supply system'
+'population with (own) toilet': 'Population with (own) toilet'
+'population with (own) bathtub or shower': 'Population with (own) bathtub or shower'
+'wastewater and cooling water': 'Wastewater and cooling water'
+'flowing water with good ecological status for total phosphorous': 'Flowing water with good ecological status for total phosphorous'
+'groundwater mesuring points below the threshold value for nitrate': 'Groundwater mesuring points below the threshold value for nitrate'
+'level of water stress: share of withdrawal in renewable water resources': 'Level of water stress: share of withdrawal in renewable water resources'
+'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Level of water stress: share of withdrawal in renewable water resources, excluding cooling water'
+'lakes and rivers permanent water area': 'Lakes and Rivers permanent water area'
+'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
+'wetlands area': 'Wetlands area'
+'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
+'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
+'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
+'oda (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
+'households and small-sized enterprises connected to the electricity network': 'Households and small-sized enterprises connected to the electricity network'
+'renewable energy in total final energy consumption': 'Renewable energy in total final energy consumption'
+'renewable energy in gross final energy consumption': 'Renewable energy in gross final energy consumption'
+'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
+'annual growth rate of real gdp per capita': 'Annual growth rate of real GDP per capita'
+'annual growth rate of real gdp per employed person': 'Annual growth rate of real GDP per employed person'
+'raw material consumption (rmc)': 'Raw material consumption (RMC)'
+'raw material consumption per real gdp': 'Raw material consumption per real GDP'
+'domestic material consumption (dmc)': 'Domestic material consumption (DMC)'
+'domestic material consumption per real gdp': 'Domestic material consumption per real GDP'
+'average hourly earnings of employees': 'Average hourly earnings of employees'
+'gender pay gap': 'Gender Pay Gap'
+'unemployment rate': 'Unemployment rate'
+'neet rates from young people (15 to under 25 years)': 'NEET rates from young people (15 to under 25 years)'
+'children and young people being exploited': 'Children and young people being exploited'
+'fatal occupational accidents': 'Fatal occupational accidents'
+'non-fatal occupational accidents': 'Non-fatal occupational accidents'
+'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation'
+'gross value added of the tourism industry': 'Gross value added of the tourism industry'
+'branches of payment service providers': 'Branches of payment service providers'
+'atms of national payment service providers': 'ATMs of national payment service providers'
+'accounts at payment service providers': 'Accounts at payment service providers'
+'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
+'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
+'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
+'passenger transport': 'Passenger transport'
+'freight transport': 'Freight transport'
+'manufacturing gross value added': 'Manufacturing gross value added'
+'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
+'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
+'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
+'data from na from federal statistical office': 'Data from NA from Federal Statistical Office'
+'data from lfs from federal statistical office': 'Data from LFS from Federal Statistical Office'
+'gross value added of small-scale industries in manufacturing': 'Gross value added of small-scale industries in manufacturing'
+'co₂ emissions per real gdp': 'CO₂ emissions per real GDP'
+'co₂ emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂ emissions per gross value added (price adjusted) in manufacturing industries'
+'proportion of r&d expenditures to gdp': 'Proportion of R&D expenditures to GDP'
+'persons working in r&d in full-time equivalents': 'Persons working in R&D in full-time equivalents'
+'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
+'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
+'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
+'households covered by a mobile network': 'Households covered by a mobile network'
+'growth rate of per capita income': 'Growth rate of per capita income'
+'population living below 50% of median income': 'Population living below 50% of median income'
+'population who felt discriminated in their contacts with public services in the last two years': 'Population who felt discriminated in their contacts with public services in the last two years'
+'labour share of gdp': 'Labour share of GDP'
+'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
+'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
+'redistributive impact of fiscal policy': 'Redistributive impact of fiscal policy'
+'capital to assets ratio': 'Capital to assets ratio'
+'regulatory tier 1 capital to risk-weighted assets': 'Regulatory Tier 1 capital to risk-weighted assets'
+'nonperforming loans net of provisions to capital': 'Nonperforming loans net of provisions to capital'
+'nonperforming loans net of provisions to gross loans': 'Nonperforming loans net of provisions to gross loans'
+'return on assets': 'Return on assets'
+'liquid assets to short-term liabilities': 'Liquid assets to short-term liabilities'
+'net open position in foreign exchange to capital': 'Net open position in foreign exchange to capital'
+'state of migration policies': 'State of migration policies'
+'persons who died during migration': 'Persons who died during migration'
+'german nationals who are refugees abroad': 'German nationals who are refugees abroad'
+'total official and private resource flows for development (net disbursements)': 'Total official and private resource flows for development (net disbursements)'
+'remittance costs as a proportion of the amount remitted': 'Remittance costs as a proportion of the amount remitted'
+'housing cost overburden rate': 'Housing cost overburden rate'
+'population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor': 'Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor'
+'population having neither a bath, nor a shower in their dwelling': 'Population having neither a bath, nor a shower in their dwelling'
+'population not having indoor flushing toilet for the sole use of their household': 'Population not having indoor flushing toilet for the sole use of their household'
+'population with access to public transport (within 500 meters)': 'Population with access to public transport (within 500 meters)'
+'population with access to public transport (within 10 minutes walking distance)': 'Population with access to public transport (within 10 minutes walking distance)'
+'ratio of land consumption rate to population growth rate': 'Ratio of land consumption rate to population growth rate'
+'proportion of settlement and transport areas to population': 'Proportion of settlement and transport areas to population'
+'land consumption rate': 'Land consumption rate'
+'population growth rate': 'Population growth rate'
+'government expenditure on protection of biodiversity and landscape (cofog division 5.4)': 'Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)'
+'government expenditure on cultural services (cofog division 8.2)': 'Government expenditure on cultural services (COFOG division 8.2)'
+'municipal solid waste in total': 'Municipal solid waste in total'
+'population weighted annual mean levels of fine particulate matter': 'Population weighted annual mean levels of fine particulate matter'
+'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
+'average share of the built-up area of cities that is open space for public use': 'Average share of the built-up area of cities that is open space for public use'
+'victims of physical harassment': 'Victims of physical harassment'
+'victims of sexual harassment': 'Victims of sexual harassment'
+'(b) food waste index': '(b) food waste index'
+'basel convention': 'Basel Convention'
+'montreal protocol': 'Montreal Protocol'
+'rotterdam convention': 'Rotterdam Convention'
+'stockholm convention': 'Stockholm Convention'
+'minamata convention': 'Minamata Convention'
+'hazardous waste generated per capita': 'Hazardous waste generated per capita'
+'hazardous waste treated': 'Hazardous waste treated'
+'national recycling rate': 'National recycling rate'
+'material recovery': 'Material recovery'
+'organisations with emas registration': 'Organisations with EMAS registration'
+'sustainable public procurement index': 'Sustainable Public Procurement Index'
+'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
+'tax breaks and direct transfers of funds': 'Tax breaks and direct transfers of funds'
+'total greenhouse gas emissions': 'Total greenhouse gas emissions'
+'german payments for international climate financing': 'German payments for international climate financing'
+'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Existence of maritime spatial plans for the Exclusive Economic Zone (EEZ) and an integrated coastal zone management (ICZM)'
+'average ph-concentration in the german bight': 'Average pH-concentration in the German Bight'
+'sustainably managed fish stocks in the north and baltic seas on all msy examined stocks': 'Sustainably managed fish stocks in the North and Baltic Seas on all MSY examined stocks'
+'msy examined fish stocks in all managed stocks': 'MSY examined fish stocks in all managed stocks'
+'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
+'marine areas covered by protected areas': 'Marine areas covered by protected areas'
+'marine areas covered by effective protected areas': 'Marine areas covered by effective protected areas'
+'degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing': 'Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing'
+'sustainable fisheries to gdp': 'Sustainable fisheries to GDP'
+'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
+'degree of recognition and protection of access rights for small-scale fisheries': 'Degree of recognition and protection of access rights for small-scale fisheries'
+'score for the implementation of unclos and ist two implementing agreements': 'Score for the implementation of UNCLOS and ist two implementing agreements'
+'score for the ratification of and accession to unclos and ist two implementing agreements': 'Score for the ratification of and accession to UNCLOS and ist two implementing agreements'
+'forest area as a proportion of total land area': 'Forest area as a proportion of total land area'
+'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas'
+'terrestrial and freshwater areas covered by protected areas': 'Terrestrial and freshwater areas covered by protected areas'
+'terrestrial and freshwater areas covered by effective protected areas': 'Terrestrial and freshwater areas covered by effective protected areas'
+'above-ground biomass stock in forest': 'Above-ground biomass stock in forest'
+'forest area located within protected areas': 'Forest area located within protected areas'
+'forest area net change rate': 'Forest area net change rate'
+'forest area under an independently verified forest management certification scheme': 'Forest area under an independently verified forest management certification scheme'
+'mountain key biodiversity areas (kbas) covered by protected areas': 'Mountain Key Biodiversity Areas (KBAs) covered by protected areas'
+'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
+'mountain regions, covered by effective protected areas': 'Mountain regions, covered by effective protected areas'
+'(a) mountain green cover index': '(a) Mountain Green Cover Index'
+'(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
+'"red list" index': '"Red List" Index'
+'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
+'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
+'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
+'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
+'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
+'oda (gross disbursements) for biodiversity': 'ODA (gross disbursements) for biodiversity'
+'environmental protection expenditure': 'Environmental protection expenditure'
+'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
+'victims of intentional homicide': 'Victims of intentional homicide'
+'conflict-related deaths': 'Conflict-related deaths'
+'population who were exposed to physical violence': 'Population who were exposed to physical violence'
+'population who were victims of criminal offences': 'Population who were victims of criminal offences'
+'victims of criminal offences': 'Victims of criminal offences'
+'population who were exposed to sexual violence': 'Population who were exposed to sexual violence'
+'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
+'population not living in an area with crime, violence or vandalism': 'Population not living in an area with crime, violence or vandalism'
+'feeling of (in)security of the population in its neighbourhood (during the day)': 'Feeling of (in)security of the population in its neighbourhood (during the day)'
+'children at acute risk of harm with signs of abuse': 'Children at acute risk of harm with signs of abuse'
+'victims of human trafficking': 'Victims of human trafficking'
+'reporting rate for physical assault': 'Reporting rate for physical assault'
+'reporting rate for robbery': 'Reporting rate for robbery'
+'unsentenced detainees': 'Unsentenced detainees'
+'conciliation requests received and finally processed': 'Conciliation requests received and finally processed'
+'seized arms and parts': 'Seized arms and parts'
+'population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years'
+'private persons (donors) suspected in the context of corruption offences': 'Private persons (donors) suspected in the context of corruption offences'
+'businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years'
+'proportion of primary government expenditures to original approved budget': 'Proportion of primary government expenditures to original approved budget'
+'population satisfied with their experience of government services during the previous two years': 'Population satisfied with their experience of government services during the previous two years'
+'working-age population': 'Working-age population'
+'german bundestag (lower chamber)': 'German Bundestag (lower chamber)'
+'public service': 'Public service'
+'judiciary': 'Judiciary'
+'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
+'total score from unesco survey on public access to information': 'Total Score from UNESCO Survey on Public Access to Information'
+'proportion of total government revenue to gdp': 'Proportion of total government revenue to GDP'
+'proportion of domestic expenditures funded by national taxes': 'Proportion of domestic expenditures funded by national taxes'
+'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Proportion of domestic expenditures funded by national taxes and insurance contributions'
+'proportion of oda (net disbursements) to gni': 'Proportion of ODA (net disbursements) to GNI'
+'proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)': 'Proportion of bilateral and imputed multilateral ODA (net disbursements) for LDCs to the gross national income (GNI)'
+'number and value of supported outward investment projects to ldcs': 'Number and value of supported outward investment projects to LDCs'
+'fixed internet broadband access lines': 'Fixed internet broadband access lines'
+'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
+'individuals using the internet': 'Individuals using the Internet'
+'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)'
+'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)'
+'annual growth rate of real gdp': 'Annual growth rate of real GDP'
+'labour productivity per hour worked by persons employed': 'Labour productivity per hour worked by persons employed'
+'persons employed': 'Persons employed'
+'real gdp per capita': 'Real GDP per capita'
+'trade balance': 'Trade balance'
+'available income of private households': 'Available income of private households'
+'consumption by private households': 'Consumption by private households'
+'debts of the total public budget': 'Debts of the total public budget'
+'government fiscal balance': 'Government fiscal balance'
+'gross fixed capital formation': 'Gross fixed capital formation'
+'hours worked by employees': 'Hours worked by employees'
+'hours worked by persons employed': 'Hours worked by persons employed'
+'labour productivity per hour worked by employee': 'Labour productivity per hour worked by employee'
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
+'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Progress in multi-stakeholder development effectiveness monitoring frameworks'
+'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'ODA (commitments) to public-private partnerships (PPP) for infrastructure'
+'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure'
+'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
+'oda and oof (commitments) to strengthen statistical capacity': 'ODA and OOF (commitments) to strengthen statistical capacity'
+'oda and oof (gross disbursements) to strengthen statistical capacity': 'ODA and OOF (gross disbursements) to strengthen statistical capacity'
 'classification': 'Classification'
 'frequency': 'Frequency'
 'country of citizenship': 'Country of citizenship'
@@ -1133,5 +822,6 @@ area2: Area
 'topic': 'Topic'
 'type of water body': 'Type of water body'
 'water use efficiency': 'Water use efficiency'
+'degree of integrated water resources management implementation': 'Degree of integrated water resources management implementation'
 '(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
 '(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
