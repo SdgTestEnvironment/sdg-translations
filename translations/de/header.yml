@@ -1,10 +1,12 @@
 alpha: Beta-Version
 disclaimer: Diese Seite befindet sich im Entwicklungsstadium. Wir freuen uns über Ihre
-  <a href="mailto:%email_address">Kommentare</a>.
+  <a href="mailto:%email_contacts.suggestions">Kommentare</a>.
+internet_explorer_message_title: Dieser Internet-Browser wird nicht mehr unterstützt
+internet_explorer_message: Wir haben festgestellt, dass Sie den Internet Explorer
+  verwenden, um diese Website zu besuchen. Der Internet Explorer wird von Microsoft
+  nicht mehr unterstützt. Aus diesem Grund hat diese Website ebenfalls die Unterstützung
+  für alle Versionen des Internet Explorers eingestellt, einige Bereiche auf dieser
+  Website werden daher nicht oder nur eingeschränkt funktionieren. Bitte verwenden
+  Sie einen modernen Browser wie Edge, Chrome, Firefox oder Safari.
 skip_link: ' Zum Hauptinhalt springen'
 tag_line: ''
-internet_explorer_message_title: This internet browser is no longer supported
-internet_explorer_message: We have detected that you are using Internet Explorer to visit this website.
-  Internet Explorer is now being phased out by Microsoft. As a result, this website no longer supports
-  any version of Internet Explorer. Some features on this site will not work. You should use a modern
-  browser such as Edge, Chrome, Firefox, or Safari.
