@@ -53,6 +53,7 @@
 '1 000 m³': '1 000 m³'
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
+'watt per capita': 'Watt pro Kopf'
 'years': 'Jahre'
 
 #Kategorien
@@ -708,6 +709,8 @@
 'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
+#Z_07051_1
+'installed renewable energy-generating capacity': 'Installierte Kapazitäten zur Erzeugung erneuerbarer Energie'
 #Z_08011_1
 'annual growth rate of real gdp per capita': 'Jährliche Wachstumsrate des realen BIP pro Kopf'
 #Z_08021_1
@@ -953,15 +956,15 @@
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
 #Z_15061_1
-'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
+'1) countries that are contracting parties to the international treaty on plant genetic resources for food and agriculture (pgrfa)': '1) Länder, die Vertragsparteien des Internationalen Vertrags über pflanzengenetische Ressourcen für Ernährung und Landwirtschaft (PGRFA) sind'
 #Z_15061_2
-'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'
+'2) countries that are parties to the nagoya protocol': '2) Länder, die dem Nagoya-Protokoll beigetreten sind'
 #Z_15061_3
-'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
+'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on plant genetic resources for food and agriculture (pgrfa)': '3) Länder, die über legislative, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über pflanzengenetische Ressourcen für Ernährung und Landwirtschaft (PGRFA) gemeldet wurden'
 #Z_15061_4
-'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
+'4) countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': '4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
 #Z_15061_5
-'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
+'5) total reported number of standard material transfer agreements (smtas) transferring plant genetic resources for food and agriculture to germany': '5) Gesamtzahl der gemeldeten Standard-Materialtransfervereinbarungen (SMTAs), durch die pflanzengenetische Ressourcen für Ernährung und Landwirtschaft nach Deutschland übertragen werden'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
@@ -1090,8 +1093,14 @@
 'hours worked by persons employed': 'Geleistete Arbeitsstunden der Erwerbstätigen'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Arbeitsproduktivität je geleisteter Arbeitnehmerstunde'
+#Z_17151_1
+'objectives': 'Ziele'
+#Z_17151_2
+'indicators': 'Indikatoren'
+#Z_17151_3
+'data': 'Daten'
 #Z_17151_4
-'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
+'country-owned results frameworks and planning tools': 'Ländereigene Ergebnisrahmen und Planungsinstrumente'
 #Z_17161_1
 'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritte bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
 #Z_17171_1
@@ -1128,6 +1137,12 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
+'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
+'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
 'classification': 'Klassifikation'
 'frequency': 'Häufigkeit'
 'country of citizenship': 'Herkunftsland'

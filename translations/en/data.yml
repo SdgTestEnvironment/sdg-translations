@@ -53,6 +53,7 @@
 '1 000 m³': '1 000 m³'
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
+'watt per capita': 'Watt per capita'
 'years': 'Years'
 
 #Categories
@@ -708,6 +709,8 @@
 'renewable energy in gross final energy consumption': 'Renewable energy in gross final energy consumption'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
+#Z_07051_1
+'installed renewable energy-generating capacity': 'Installed renewable energy-generating capacity'
 #Z_08011_1
 'annual growth rate of real gdp per capita': 'Annual growth rate of real GDP per capita'
 #Z_08021_1
@@ -953,15 +956,15 @@
 #Z_15051_1
 '"red list" index': '"Red List" Index'
 #Z_15061_1
-'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'1) countries that are contracting parties to the international treaty on plant genetic resources for food and agriculture (pgrfa)': '1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)'
 #Z_15061_2
-'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
+'2) countries that are parties to the nagoya protocol': '2) Countries that are parties to the Nagoya Protocol'
 #Z_15061_3
-'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on plant genetic resources for food and agriculture (pgrfa)': '3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)'
 #Z_15061_4
-'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
+'4) countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
 #Z_15061_5
-'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
+'5) total reported number of standard material transfer agreements (smtas) transferring plant genetic resources for food and agriculture to germany': '5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to Germany'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 #Z_15071_2
@@ -1090,8 +1093,14 @@
 'hours worked by persons employed': 'Hours worked by persons employed'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Labour productivity per hour worked by employee'
+#Z_17151_1
+'objectives': 'Objectives'
+#Z_17151_2
+'indicators': 'Indicators'
+#Z_17151_3
+'data': 'Data'
 #Z_17151_4
-'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
+'country-owned results frameworks and planning tools': 'Country-owned results frameworks and planning tools'
 #Z_17161_1
 'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Progress in multi-stakeholder development effectiveness monitoring frameworks'
 #Z_17171_1
@@ -1122,6 +1131,12 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
+'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
 'classification': 'Classification'
 'frequency': 'Frequency'
 'country of citizenship': 'Country of citizenship'
