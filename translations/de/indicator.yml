@@ -29,9 +29,7 @@ edit_data: Daten bearbeiten
 edit_metadata: Metadaten bearbeiten
 geographical_area: Geographische Abdeckung
 global_metadata: Globale Metadaten
-global_metadata_blurb: Hier werden relevante Informationen zum SDG-Indikator dargestellt - wie das politische Ziel, die international primär zuständige Organisation (Custodian Agency)
-  und ein Link zu den globalen Metadaten. Die <a href="https://unstats.un.org/sdgs/metadata/" target=”_blank” onclick="return confirm_alert('der Statistische Division der Vereinten Nationen');">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen
-  bereitgestellt.
+global_metadata_blurb: Diese Übersicht enthält Informationen zu den Metadaten des dargestellten SDG-Indikators, wie sie von der Statistischen Kommission der Vereinten Nationen definiert wurden. Die vollständigen <a href="https://unstats.un.org/sdgs/metadata/" target=”_blank” onclick="return confirm_alert('the United Nations Statistics Division','De');">globalen Metadaten</a> werden von der Statistischen Abteilung der Vereinten Nationen (UNSD) bereitgestellt.
 history: Statusübersicht
 history_blurb: In dieser Übersichtstabelle sind die Bewertungen des Indikators für Deutschland nach Stand der vorhergehenden Jahre dargestellt. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war. <i>(Bewertungen aus dem Indikatorenbericht 2018)</i>
 legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
@@ -40,9 +38,7 @@ map: Karte
 metadata: Metadaten
 national_metadata: Nationale Metadaten
 dns_metadata_blurb: Diese Übersicht beinhaltet zusätzliche Informationen zu den oben dargestellten Indikatoren, wie eine kurze Definition des Indikators und eine Beschreibung des politisch festgelegten Zielwertes sowie die politische Intention für die Auswahl des Indikators.
-national_metadata_blurb: Die für den jeweiligen SDG-Indikator zuständigen internationalen Organisationen (Custodian Agencies) veröffentlichen methodische Erläuterungen zum
-  Indikator - die sogenannten globalen Metadaten.<br><br>Hier werden die am besten dazu geeigneten, national verfügbaren Zeitreihen bereitgestellt und ihre
-  Vergleichbarkeit mit den globalen Metadaten ausgewiesen. Zugehörige methodische und länderspezifische Informationen finden Sie in den nationalen Metadaten.
+national_metadata_blurb: Diese Übersicht enthält Informationen zu den dargestellten Zeitreihen, die in Deutschland verfügbar sind und ihre Vergleichbarkeit mit den globalen Metadaten. Die nationalen Metadaten enthalten ergänzende methodische und länderspezifische Informationen.
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
 series: Zeitreihen
