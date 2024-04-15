@@ -4,7 +4,7 @@ computation_definitions: Definitions
 computation_units: Unit of measurement
 comparison_sdg: Comparability with the global metadata
 copyright: Copyright
-goal_meta_link: Global metadata
+goal_meta_link: Link to UN metadata
 goal_meta_national_link: National metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
@@ -92,7 +92,7 @@ source_url_5: Data source
 source_url_6: Data source
 target: Target
 target_id: Target number
-un_custodian_agency: Custodian agency
+un_custodian_agency: UN custodian agency
 un_designated_tier: Tier category #<a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Click here for further information on the UN_Tier classification.">Designated tier</a>
 other_info: Other information
 quality_assurance: Quality assurance

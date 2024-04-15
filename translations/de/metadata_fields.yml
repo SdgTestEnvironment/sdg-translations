@@ -1,10 +1,10 @@
-comments_limitations: Weitere Informationen
+Zuständige UN-Organisationcomments_limitations: Weitere Informationen
 computation_calculations: Methodik
 computation_definitions: Definitionen
 computation_units: Einheit
 comparison_sdg: Vergleichbarkeit mit den globalen Metadaten
 copyright: Copyright
-goal_meta_link: Globale Metadaten<small> (nur auf Englisch verfügbar)</small>
+goal_meta_link: Link zu UN-Metadaten
 goal_meta_national_link: Nationale Metadaten<small> (nur auf Englisch verfügbar)</small>
 goal_meta_national_link_De: Nationale Metadaten
 history_indicator_1: Indikator
@@ -93,7 +93,7 @@ source_url_5: Datenquelle
 source_url_6: Datenquelle
 target: Unterziel
 target_id: Unterzielnummerierung
-un_custodian_agency: Zuständige internationale Organisation
+un_custodian_agency: Zuständige UN-Organisation
 un_designated_tier: Tier Klassifikation #<a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Klicken Sie hier um weitere Informationen zur UN-Tier-Klassifikation zu erhalten."> Tier Klassifikation</a>
 other_info: Weitere Informationen
 quality_assurance: Qualitätssicherung
