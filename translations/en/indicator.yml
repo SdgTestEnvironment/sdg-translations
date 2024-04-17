@@ -52,9 +52,9 @@ loading_map: Loading map
 national_metadata: National Metadata
 metadata: Metadata
 dns_metadata_blurb: This table includes additional information to the above visualized indicators, i.e. a short definition of this indicator and a description of the politically determined target values as well as explaining the political intention behind selecting this indicator.
-national_metadata_blurb: This table contains information on the time series presented that are available in Germany and their compliance with the global metadata. The national metadata contains supplementary methodological and country-specific information.
-global_metadata: Global Metadata
-global_metadata_blurb: This table contains information on the metadata of the SDG indicator shown, as defined by the United Nations Statistical Commission. The complete <a href="https://unstats.un.org/sdgs/metadata/" target=”_blank” onclick="return confirm_alert('the United Nations Statistics Division','En');">global metadata</a> is provided by the United Nations Statistical Division (UNSD).
+national_metadata_blurb: This table contains information on the time series presented that are available in Germany and their compliance with the UN metadata. The national metadata contains supplementary methodological and country-specific information.
+global_metadata: UN metadata
+global_metadata_blurb: This table contains information on the metadata of the SDG indicator shown, as defined by the United Nations Statistical Commission. The complete <a href="https://unstats.un.org/sdgs/metadata/" target=”_blank” onclick="return confirm_alert('the United Nations Statistics Division','En');">UN metadata</a> is provided by the United Nations Statistical Division (UNSD).
 history: Indicator status summary
 history_blurb: The synoptic table provides information about the evaluation of the indicator for Germany in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <i>(Evaluation of the indicator report 2018)</i>
 edit: Edit
@@ -64,4 +64,4 @@ timeseries: Time series
 no_selection: No disaggregations are available for this indicator
 contentAndProgress: Content and progress
 proxy: proxy
-proxy_description: The series is not compliant to the global metadata but provides additional information.
+proxy_description: The series is not compliant to the UN metadata but provides additional information.
