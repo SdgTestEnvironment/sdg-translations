@@ -38,7 +38,7 @@ map: Karte
 metadata: Metadaten
 national_metadata: Nationale Metadaten
 dns_metadata_blurb: Diese Übersicht beinhaltet zusätzliche Informationen zu den oben dargestellten Indikatoren, wie eine kurze Definition des Indikators und eine Beschreibung des politisch festgelegten Zielwertes sowie die politische Intention für die Auswahl des Indikators.
-national_metadata_blurb: Diese Übersicht enthält Informationen zu den dargestellten Zeitreihen, die in Deutschland verfügbar sind und ihre Vergleichbarkeit mit den Un-Metadaten. Die nationalen Metadaten enthalten ergänzende methodische und länderspezifische Informationen.
+national_metadata_blurb: Diese Übersicht enthält Informationen zu den dargestellten Zeitreihen, die in Deutschland verfügbar sind und ihre Vergleichbarkeit mit den UN-Metadaten. Die nationalen Metadaten enthalten ergänzende methodische und länderspezifische Informationen.
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
 series: Zeitreihen
