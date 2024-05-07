@@ -481,8 +481,6 @@
 'untreated wastewater': 'Unbehandeltes Abwasser'
 
 #Zeitreihen
-#Z_01015_1
-'deaths attributed to natural forces': 'Naturkräften zugeschriebene Sterbefälle'
 #Z_01021_1a
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 #Z_01022_1
@@ -497,6 +495,8 @@
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
 #Z_01031_2
 'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
+#Z_01051_1
+'deaths attributed to natural forces': 'Naturkräften zugeschriebene Sterbefälle'
 #Z_01061_1
 'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
 #Z_01061_2
