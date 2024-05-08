@@ -978,7 +978,7 @@
 #Z_15061_5
 'total reported number of smtas transferring pgrfa to germany': 'Total reported number of SMTAs transferring PGRFA to Germany'
 #Z_15071_1
-'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
+'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
 #Z_15071_2
 'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
 #Z_15081_1
@@ -1146,6 +1146,7 @@ area2: Area
 'legislation': 'Legislation'
 'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
 'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
+'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
 'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
 'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
