@@ -978,17 +978,19 @@
 #Z_15061_5
 'total reported number of smtas transferring pgrfa to germany': 'Total reported number of SMTAs transferring PGRFA to Germany'
 #Z_15071_1
-'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
+'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 #Z_15071_2
 'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
+#Z_15071_3
+'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
 #Z_15081_1
 'national legislation and policy relevant to ias': 'National legislation and policy relevant to IAS'
 #Z_15081_2
 'align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'Align the NBSAP targets with Aichi Target 9 of the Strategic Plan for Biodiversity'
 #Z_15091_1
-'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
+'(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': '(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 #Z_15091_2
-'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
+'(b) implementation of the principles of biodiversity in the seea': '(b) Implementation of the principles of biodiversity in the SEEA'
 #Z_15101_1
 'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
@@ -1143,10 +1145,11 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
+'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
 'legislation': 'Legislation'
 'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
 'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
-'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
 'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
 'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
