@@ -33,6 +33,7 @@
 'million usd, constant prices (2019)': 'Million USD, constant prices (2019)'
 'million usd, constant prices (2020)': 'Million USD, constant prices (2020)'
 'million usd, constant prices (2021)': 'Million USD, constant prices (2021)'
+'million usd, constant prices (2022)': 'Million USD, constant prices (2022)'
 'no unit': 'No unit'
 'number': 'Number'
 'per 100 inhabitants': 'Per 100 inhabitants'
@@ -65,6 +66,7 @@
 'bound': 'Bound'
 'cause of death': 'Cause of death'
 'availability': 'Availability'
+'completeness of disaggregation': 'Completeness of disaggregation'
 'conversion': 'Conversion'
 'outcome of the application process': 'Outcome of the application process'
 'disability status': 'Disability status'
@@ -215,6 +217,9 @@
 'class 4 areas (elavation 1500-2500 meters)': 'Class 4 areas (elavation 1500-2500 meters)'
 'class 5 areas (elavation 1000-1500 meters)': 'Class 5 areas (elavation 1000-1500 meters)'
 'class 6 areas (elavation 300-1000 meters)': 'Class 6 areas (elavation 300-1000 meters)'
+'fully disaggregated': 'Fully disaggregated'
+'not disaggregated': 'Not disaggregated'
+'partially disaggregated': 'Partially disaggregated'
 'by un factors': 'By UN factors'
 'by national factors': 'By national factors'
 'admissible applications': 'Admissible applications'
@@ -1121,6 +1126,8 @@
 'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'ODA (commitments) to public-private partnerships (PPP) for infrastructure'
 #Z_17171_2
 'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure'
+#Z_17181_1
+'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Sustainable development indicators with achieved disaggregation when relevant to the indicator title'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
 #Z_17191_1
