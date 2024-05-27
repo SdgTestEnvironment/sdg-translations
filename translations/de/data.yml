@@ -3,6 +3,7 @@ p: vorläufig
 s: geschätzt
 r: korrigiert
 0: weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts.
+".": Irgendwas
 
 #Einheiten
 'number in 1,000': 'Anzahl in 1 000'
