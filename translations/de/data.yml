@@ -1,5 +1,7 @@
 #commitments:
 p: vorläufig
+s: geschätzt
+r: korrigiert
 #Einheiten
 'number in 1,000': 'Anzahl in 1 000'
 'attributable deaths': 'Attributable Todesfälle'
