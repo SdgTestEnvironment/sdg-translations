@@ -93,6 +93,7 @@ symbols: Zeichenerklärung
 'water use index': 'Wassernutzungsindex'
 'profession': 'Beruf'
 'pathogens and resistance': 'Erreger und Resistenz'
+'part': 'Teil'
 'percentile': 'Perzentil'
 'fine particulate matter': 'Feinstaub'
 'political institution': 'Politische Institution'
@@ -357,6 +358,9 @@ symbols: Zeichenerklärung
 'p90': 'P90'
 'p95': 'P95'
 'leasehold': 'Pacht'
+'objectives': 'Ziele'
+'indicators': 'Indikatoren'
+'data': 'Daten'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂,₅'
 'bundesrat (upper chamber)': 'Bundesrat'
@@ -988,7 +992,7 @@ symbols: Zeichenerklärung
 #Z_15061_4
 '4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden'
 #Z_15061_5
-'total reported number of smtas transferring pgrfa to germany': 'Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden'
+'5) total reported number of smtas transferring pgrfa to germany': '5 )Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
@@ -1119,12 +1123,6 @@ symbols: Zeichenerklärung
 'hours worked by persons employed': 'Geleistete Arbeitsstunden der Erwerbstätigen'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Arbeitsproduktivität je geleisteter Arbeitnehmerstunde'
-#Z_17151_1
-'objectives': 'Ziele'
-#Z_17151_2
-'indicators': 'Indikatoren'
-#Z_17151_3
-'data': 'Daten'
 #Z_17151_4
 'country-owned results frameworks and planning tools': 'Ländereigene Ergebnisrahmen und Planungsinstrumente'
 #Z_17161_1
