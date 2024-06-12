@@ -86,7 +86,7 @@
 'water use index': 'Water use index'
 'profession': 'Profession'
 'pathogens and resistance': 'Pathogens and resistance'
-'part': 'Part'
+'level': 'Level'
 'percentile': 'Percentile'
 'fine particulate matter': 'Fine particulate matter'
 'political institution': 'Political institution'
@@ -737,7 +737,7 @@
 #Z_07011_2
 'households and small-sized enterprises connected to the electricity network': 'Households and small-sized enterprises connected to the electricity network'
 #Z_07012_1
-'population with primary reliance on clean fuels and technology': 'Population with primary reliance on clean fuels and technology'
+'population with primary reliance on clean fuels and technology': 'population with primary reliance on clean fuels and technology'
 #Z_07021_1
 'renewable energy in total final energy consumption': 'Renewable energy in total final energy consumption'
 #Z_07021_2
@@ -901,7 +901,7 @@
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Average share of the built-up area of cities that is open space for public use'
 #Z_11072_1
-'victims of physical harassment': 'Victims of physical harassment'
+'victims of non-sexual harassment': 'Victims of non-sexual harassment'
 #Z_11072_2
 'victims of sexual harassment': 'Victims of sexual harassment'
 #Z_12031_1
@@ -1164,6 +1164,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'part': 'Part'
+'victims of physical harassment': 'Victims of physical harassment'
 'watt per capita': 'Watt per capita'
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
