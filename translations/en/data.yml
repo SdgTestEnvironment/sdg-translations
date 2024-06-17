@@ -1158,6 +1158,10 @@
 +++p: preliminary
 +++r: revised
 +++s: estimated
++++.: Numerical value unknown or to be kept secret
++++-: not available
++++x: Table compartment locked because statement does not make sense
++++0: Less than half of 1 in the last position filled, but more than nothing
 
 #Addition
 total: Total

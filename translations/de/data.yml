@@ -1158,6 +1158,10 @@
 +++p: vorläufig
 +++r: korrigiert
 +++s: geschätzt
++++.: Zahlenwert unbekannt oder geheim zu halten
++++-: nicht vorhanden
++++x: Tabellenfach gesperrt, weil Aussage nicht sinnvoll
++++0: Weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts
 
 #Zusatz
 total: Insgesamt
