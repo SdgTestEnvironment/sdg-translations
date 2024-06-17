@@ -76,7 +76,7 @@
 'education level': 'Education level'
 'ownership': 'Ownership'
 'enterprise definition': 'Enterprise definition'
-'facilities': 'Facilities'
+'type of service': 'Type of service'
 'länder': 'Länder'
 'feelings of insecurity': 'Feelings of insecurity'
 'function': 'Function'
@@ -255,10 +255,10 @@
 'property': 'Property'
 'legal entities': 'Legal entities'
 'eu enterprise definition': 'EU enterprise definition'
-'a) schools with access to electricity': 'a) Schools with access to electricity'
-'e) schools with access to basic drinking water': 'e) Schools with access to basic drinking water'
-'f) schools with access to single-sex basic sanitation facilities': 'f) Schools with access to single-sex basic sanitation facilities'
-'g) schools with access to basic handwashing facilities': 'g) Schools with access to basic handwashing facilities'
+'schools with access to electricity': 'Schools with access to electricity'
+'schools with access to basic drinking water': 'Schools with access to basic drinking water'
+'schools with access to single-sex basic sanitation facilities': 'Schools with access to single-sex basic sanitation facilities'
+'schools with access to basic handwashing facilities': 'Schools with access to basic handwashing facilities'
 'baden-württemberg': 'Baden-Württemberg'
 'bavaria': 'Bavaria'
 'rhineland palatinate': 'Rhineland Palatinate'
@@ -1153,6 +1153,11 @@
 #Z_17192_3
 'death registration': 'Death registration'
 
+#Symbols
++++p: preliminary
++++r: revised
++++s: estimated
+
 #Addition
 total: Total
 timeseries: Time series
@@ -1164,35 +1169,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'part': 'Part'
-'victims of physical harassment': 'Victims of physical harassment'
-'watt per capita': 'Watt per capita'
-'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
-'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
-'legislation': 'Legislation'
-'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
-'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
-'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
-'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
-'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
-'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
-'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
-'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
-'classification': 'Classification'
-'frequency': 'Frequency'
-'country of citizenship': 'Country of citizenship'
-'income quintile': 'Income quintile'
-'items': 'Items'
-'marital status': 'Marital status'
-'migratory status': 'Migratory status'
-'unit multiplicator': 'Unit multiplicator'
-'observation status': 'Observation status'
-'organisational form': 'Organisational form'
-'product type': 'Product type'
-'reporting type': 'Reporting type'
-'theme': 'Theme'
-'topic': 'Topic'
-'type of water body': 'Type of water body'
-'water use efficiency': 'Water use efficiency'
-'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
-'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
+'number in 1 000': 'Number in 1 000'
+'per 1 000 inhabitants': 'Per 1 000 inhabitants'
+'per 1 000 women of same age': 'Per 1 000 women of same age'
+'per 1 000 live births': 'Per 1 000 live births'
+'1 000 tonnes': '1 000 tonnes'
