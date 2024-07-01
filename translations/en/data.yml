@@ -73,6 +73,7 @@
 'policy area': 'Policy area'
 'stages of the food chain': 'Stages of the food chain'
 'economic activity': 'Economic activity'
+'ecosystem': 'Ecosystem'
 'education level': 'Education level'
 'ownership': 'Ownership'
 'enterprise definition': 'Enterprise definition'
@@ -246,6 +247,8 @@
 'agriculture, forestry and fishing': 'Agriculture, forestry and fishing'
 'agriculture': 'Agriculture'
 'mimec': 'MIMEC'
+'lakes and rivers permanent water area': 'Lakes and rivers permanent water area'
+'wetlands area': 'Wetlands area'
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Bachelor/equivalent degree completed and masters/equivalent degree or above'
 'lower secondary school completed': 'Lower secondary school completed'
 'primary school completed': 'Primary school completed'
@@ -718,16 +721,12 @@
 'degree of integrated water resources management implementation': 'Degree of integrated water resources management implementation'
 #Z_06052_1
 'transboundary basin area with an operational arrangement for water cooperation': 'Transboundary basin area with an operational arrangement for water cooperation'
-#Z_06061_1
-'lakes and rivers permanent water area': 'Lakes and Rivers permanent water area'
-#Z_06061_2
-'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
-#Z_06061_3
-'wetlands area': 'Wetlands area'
-#Z_06061_4
-'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
-#Z_06061_5
-'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
+#Z_06061_7
+'area': 'Area'
+#Z_06061_8
+'area as a proportion of total land area': 'Area as a proportion of total land area'
+#Z_06061_9
+'area change in comparison to 2015': 'Area change in comparison to 2015'
 #Z_06071_1
 'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
 #Z_06071_2
@@ -1179,3 +1178,6 @@ area2: Area
 'per 1 000 women of same age': 'Per 1 000 women of same age'
 'per 1 000 live births': 'Per 1 000 live births'
 '1 000 tonnes': '1 000 tonnes'
+'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
+'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
+'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'

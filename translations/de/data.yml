@@ -73,6 +73,7 @@
 'policy area': 'Politikbereiche'
 'stages of the food chain': 'Stufen der Lebensmittelkette'
 'economic activity': 'Wirtschaftszweig'
+'ecosystem': 'Ökosystem'
 'education level': 'Ausbildungsgrad'
 'ownership': 'Eigentumsverhältnis'
 'enterprise definition': 'Unternehmensdefinition'
@@ -246,6 +247,8 @@
 'agriculture, forestry and fishing': 'Land- und Forstwirtschaft, Fischerei'
 'agriculture': 'Landwirtschaft'
 'mimec': 'MIMEC'
+'lakes and rivers permanent water area': 'Permanente Wasserfläche der Seen und Flüsse'
+'wetlands area': 'Feuchtgebiete'
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Abschluss eines Bachelor- oder gleichwertigen Studiums oder eines Master- oder gleichwertigen Studiums oder höher'
 'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
 'primary school completed': 'Abgeschlossene Grundschulausbildung'
@@ -718,16 +721,12 @@
 'degree of integrated water resources management implementation': 'Grad der Implementierung eines integrierten Wasserressourcenmanagements'
 #Z_06052_1
 'transboundary basin area with an operational arrangement for water cooperation': 'Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation'
-#Z_06061_1
-'lakes and rivers permanent water area': 'Permanente Wasserfläche der Seen und Flüsse'
-#Z_06061_2
-'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
-#Z_06061_3
-'wetlands area': 'Feuchtgebiete'
-#Z_06061_4
-'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
-#Z_06061_5
-'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
+#Z_06061_7
+'area': 'Fläche'
+#Z_06061_8
+'area as a proportion of total land area': 'Fläche im Verhältnis zur gesamten Landfläche'
+#Z_06061_9
+'area change in comparison to 2015': 'Veränderung der Fläche im Vergleich zu 2015'
 #Z_06071_1
 'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
 #Z_06071_2
@@ -905,7 +904,7 @@
 #Z_11072_2
 'victims of sexual harassment': 'Opfer sexueller Belästigung'
 #Z_12031_1
-'(b) food waste index': 'b) Index der Lebensmittelverschwendung'
+'(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
 'basel convention': 'Basler Übereinkommen'
 #Z_12041_2
@@ -1180,4 +1179,7 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
+'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
+'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
 '+++p': 'vorläufig'
