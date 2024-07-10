@@ -326,8 +326,8 @@
 'higher-level courts': 'Übergeordnete Gerichte'
 'lower-level courts': 'Untergeordnete Gerichte'
 'supreme/constitutional courts': 'Oberste/Verfassungsgerichte'
-'share of withdrawal in renewable water resources': 'Anteil der Gewinnung an den erneuerbaren Wasserressourcen'
-'share of withdrawal in renewable water resources (excluding cooling water)': 'Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
+'share of withdrawal in renewable water resources': 'Anteil der Entnahme an den erneuerbaren Wasserressourcen'
+'share of withdrawal in renewable water resources (excluding cooling water)': 'Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
 'cohabiting': 'Lebensgemeinschaft'
 'divorced': 'Geschieden'
 'married': 'Verheiratet'
@@ -701,7 +701,7 @@
 #Z_05071_3
 'agricultural holdings with the legal form of a sole proprietorship': 'Landwirtschaftliche Betriebe der Rechtsform Einzelunternehmen'
 #Z_05072_1
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
+'realisation of guaranteed rights to ownership and/or control of land for women': 'Umsetzung garantierter Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden für Frauen'
 #Z_05081_1
 'mobile penetration rate': 'Penetrationsrate Mobilfunk'
 #Z_05081_2
@@ -727,9 +727,9 @@
 #Z_06041_2
 'water-use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1
-'level of water stress: share of withdrawal in renewable water resources': 'Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen'
+'level of water stress: share of withdrawal in renewable water resources': 'Nutzung der Wasserressourcen: Anteil der Entnahme an den erneuerbaren Wasserressourcen'
 #Z_06042_2
-'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
+'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Nutzung der Wasserressourcen: Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
 #Z_06051_1
 'degree of integrated water resources management implementation': 'Grad der Implementierung eines integrierten Wasserressourcenmanagements'
 #Z_06052_1
@@ -1193,7 +1193,16 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
+'+++symbols': 'Zeichenerklärung'
+'+++p': 'vorläufig'
+'+++r': 'korrigiert'
+'+++s': 'geschätzt'
+'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
+'+++…': 'Angabe fällt später an'
+'+++-': 'nicht vorhanden'
+'+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'+++0': 'Weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts'
 'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
 'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
 'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
-'+++p': 'vorläufig'

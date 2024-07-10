@@ -701,7 +701,7 @@
 #Z_05071_3
 'agricultural holdings with the legal form of a sole proprietorship': 'Agricultural holdings with the legal form of a sole proprietorship'
 #Z_05072_1
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
+'realisation of guaranteed rights to ownership and/or control of land for women': 'Realisation of guaranteed rights to ownership and/or control of land for women'
 #Z_05081_1
 'mobile penetration rate': 'Mobile penetration rate'
 #Z_05081_2
@@ -1187,11 +1187,16 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'number in 1 000': 'Number in 1 000'
-'per 1 000 inhabitants': 'Per 1 000 inhabitants'
-'per 1 000 women of same age': 'Per 1 000 women of same age'
-'per 1 000 live births': 'Per 1 000 live births'
-'1 000 tonnes': '1 000 tonnes'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
+'+++symbols': 'Explanation of symbols'
+'+++p': 'preliminary'
+'+++r': 'revised'
+'+++s': 'estimated'
+'+++.': 'Numerical value unknown or to be kept secret'
+'+++…': 'Information is due later'
+'+++-': 'not available'
+'+++x': 'Table compartment locked because statement does not make sense'
+'+++0': 'Less than half of 1 in the last position filled, but more than nothing'
 'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
 'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
 'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
