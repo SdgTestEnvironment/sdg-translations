@@ -11,6 +11,7 @@
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 'hectare': 'Hectare'
+'houres per day': 'Houres per day'
 'index': 'Index'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
@@ -118,6 +119,7 @@
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
+'type of unpaid work': 'Type of unpaid work'
 'degree of urbanisation': 'Degree of urbanisation'
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
@@ -404,12 +406,12 @@
 'financing': 'Financing'
 'general government': 'General government'
 'transport and communications': 'Transport and communications'
-'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
+'housing, urban development, regional planning and municipal community services': 'Housing, urban development, regional planning and municipal community services'
 'corporations': 'Corporations'
 'general services': 'General services'
-'energy and water industry, trade, services': 'Energy and water industry, trade, services'
-'food, agriculture and forestry': 'Food, Agriculture and Forestry'
-'financial economy': 'Financial economy'
+'energy and water management, trade, services': 'Energy and water management, trade, services'
+'food, agriculture and forestry': 'Food, agriculture and forestry'
+'financial services': 'Financial services'
 'health, environment, sport and recreation': 'Health, environment, sport and recreation'
 'social security, family and youth, labour market policy': 'Social security, family and youth, labour market policy'
 'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
@@ -505,6 +507,9 @@
 'towns and suburbs': 'Towns and suburbs'
 'cities': 'Cities'
 'urban': 'Urban'
+'care work': 'Care work'
+'domestic work': 'Domestic work'
+'domestic and care work': 'Domestic and care work'
 'other related purposes': 'Other related purposes'
 'deposit onto or into land and land treatment and release into water bodies': 'Deposit onto or into land and land treatment and release into water bodies'
 'energy recovery': 'Energy recovery'
@@ -624,6 +629,10 @@
 'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
+#Z_03091_5
+'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
+#Z_03091_6
+'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
@@ -680,10 +689,6 @@
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
-#Z_05041_2
-'time spent on unpaid domestic work': 'Time spent on unpaid domestic work'
-#Z_05041_3
-'time spent on unpaid care work': 'Time spent on unpaid care work'
 #Z_05051_3
 'women in a) national parliaments': 'Women in a) national parliaments'
 #Z_05051_4
@@ -789,9 +794,9 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Gross value added of the tourism industry'
 #Z_08101_1
-'branches of payment service providers': 'Branches of payment service providers'
+'a) branches of payment service providers': 'a) Branches of payment service providers'
 #Z_08101_2
-'atms of national payment service providers': 'ATMs of national payment service providers'
+'b) atms of national payment service providers': 'b) ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
 #Z_08111_1
@@ -948,6 +953,10 @@
 'total greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
 'german payments for international climate financing': 'German payments for international climate financing'
+#Z_14011_1
+'plastic waste on the beaches of the german north sea coast': 'Plastic waste on the beaches of the German North Sea coast'
+#Z_14011_2
+'fulmar deaths on the german north sea coast with more than 0.1 grams of plastic in the stomach': 'Fulmar deaths on the German North Sea coast with more than 0.1 grams of plastic in the stomach'
 #Z_14021_1
 'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Existence of maritime spatial plans for the Exclusive Economic Zone (EEZ) and an integrated coastal zone management (ICZM)'
 #Z_14031_1
@@ -1187,7 +1196,11 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
+'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
+'energy and water industry, trade, services': 'Energy and water industry, trade, services'
+'financial economy': 'Financial economy'
+'branches of payment service providers': 'Branches of payment service providers'
+'atms of national payment service providers': 'ATMs of national payment service providers'
 '+++symbols': 'Explanation of symbols'
 '+++p': 'preliminary'
 '+++r': 'revised'
@@ -1197,6 +1210,7 @@ area2: Area
 '+++-': 'not available'
 '+++x': 'Table compartment locked because statement does not make sense'
 '+++0': 'Less than half of 1 in the last position filled, but more than nothing'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
 'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
 'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
 'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'

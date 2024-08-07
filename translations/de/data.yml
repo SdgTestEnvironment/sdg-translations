@@ -11,6 +11,7 @@
 'grams per decilitre': 'Gramm pro Deziliter'
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
 'hectare': 'Hektar'
+'houres per day': 'Stunden pro Tag'
 'index': 'Index'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
@@ -118,6 +119,7 @@
 'form of exploitation': 'Form der Ausbeutung'
 'type of flow': 'Art des Finanzstroms'
 'type of waste': 'Abfallart'
+'type of unpaid work': 'Art der unbezahlten Arbeit'
 'degree of urbanisation': 'Verstädterungsgrad'
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
@@ -404,12 +406,12 @@
 'financing': 'Finanzierung'
 'general government': 'Staat'
 'transport and communications': 'Verkehrs- und Nachrichtenwesen'
-'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
+'housing, urban development, regional planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
 'corporations': 'Unternehmen'
 'general services': 'Allgemeine Dienste'
-'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
+'energy and water management, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
 'food, agriculture and forestry': 'Ernährung, Landwirtschaft und Forsten'
-'financial economy': 'Finanzwirtschaft'
+'financial services': 'Finanzwirtschaft'
 'health, environment, sport and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
 'social security, family and youth, labour market policy': 'Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik'
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
@@ -505,6 +507,9 @@
 'towns and suburbs': 'Kleinere Städte und Vororte'
 'cities': 'Städte'
 'urban': 'Städte'
+'care work': 'Pflegearbeit'
+'domestic work': 'Hausarbeit'
+'domestic and care work': 'Haus- und Pflegearbeit'
 'other related purposes': 'Verwandte Zwecke'
 'deposit onto or into land and land treatment and release into water bodies': 'Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern'
 'energy recovery': 'Energierückgewinnung'
@@ -624,6 +629,10 @@
 'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+#Z_03091_5
+'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
+#Z_03091_6
+'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition mit Feinstaub (PMPM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
@@ -680,10 +689,6 @@
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
-#Z_05041_2
-'time spent on unpaid domestic work': 'Zeitaufwand für unbezahlte Hausarbeit'
-#Z_05041_3
-'time spent on unpaid care work': 'Zeitaufwand für unbezahlte Pflegearbeit'
 #Z_05051_3
 'women in a) national parliaments': 'Frauen in a) nationalen Parlamenten'
 #Z_05051_4
@@ -771,7 +776,7 @@
 #Z_08042_2
 'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
 #Z_08051_1
-'average hourly earnings of employees': 'Durchschnittlicher Stundenlohn Beschäftigter'
+'average hourly earnings of employees': 'Durchschnittlicher Stundenverdienst Beschäftigter'
 #Z_08051_2
 'gender pay gap': 'Verdienstabstand'
 #Z_08052_1
@@ -789,9 +794,9 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Bruttowertschöpfung im Tourismusbereich'
 #Z_08101_1
-'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
+'a) branches of payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2
-'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
+'b) atms of national payment service providers': 'b) Bankautomaten von inländischen Zahlungsdienstleistern'
 #Z_08102_1
 'accounts at payment service providers': 'Konten bei Zahlungsverkehrsdienstleistern'
 #Z_08111_1
@@ -948,6 +953,10 @@
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
 'german payments for international climate financing': 'Zahlungen Deutschlands zur internationalen Klimafinanzierung'
+#Z_14011_1
+'plastic waste on the beaches of the german north sea coast': 'Plastikmüll an Stränden der deutschen Nordseeküste'
+#Z_14011_2
+'fulmar deaths on the german north sea coast with more than 0.1 grams of plastic in the stomach': 'Eissturmvogel-Totfunde an der deutschen Nordsee-Küste mit mehr als 0,1 Gramm Kunststoff im Magen'
 #Z_14021_1
 'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Vorhandensein von Raumordnungsplänen für die ausschließliche Wirtschaftszone (AWZ) und einem integrierten Küstenzonenmanagement (IKMZ)'
 #Z_14031_1
@@ -1193,7 +1202,11 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
+'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
+'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
+'financial economy': 'Finanzwirtschaft'
+'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
+'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
 '+++symbols': 'Zeichenerklärung'
 '+++p': 'vorläufig'
 '+++r': 'korrigiert'
@@ -1203,6 +1216,7 @@ area2: Bereich
 '+++-': 'nicht vorhanden'
 '+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
 '+++0': 'Weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
 'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
 'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
 'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
