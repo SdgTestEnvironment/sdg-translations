@@ -626,7 +626,7 @@
 #Z_03091_2
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03091_3
-'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
 #Z_03091_5
@@ -1205,6 +1205,7 @@ area2: Bereich
 'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
 'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
 'financial economy': 'Finanzwirtschaft'
+'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
 'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
 'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
 '+++symbols': 'Zeichenerklärung'

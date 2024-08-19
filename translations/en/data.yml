@@ -626,7 +626,7 @@
 #Z_03091_2
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_3
-'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
 #Z_03091_5
@@ -1199,6 +1199,7 @@ area2: Area
 'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
 'energy and water industry, trade, services': 'Energy and water industry, trade, services'
 'financial economy': 'Financial economy'
+'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
 'branches of payment service providers': 'Branches of payment service providers'
 'atms of national payment service providers': 'ATMs of national payment service providers'
 '+++symbols': 'Explanation of symbols'
