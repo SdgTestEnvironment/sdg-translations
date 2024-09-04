@@ -523,6 +523,19 @@
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
 
+#Data notes
+'+++0': 'less than half of 1 in the last digit occupied, but more than zero'
+'+++‒': 'no figures or magnitude zero'
+'+++...': 'data will be available later'
+'+++/': 'no data because the numerical value is not sufficiently reliable'
+'+++.': 'numerical value unknown or not be disclosed'
+'+++X': 'cell blocked for logical reasons'
+'+++( )': 'limited informational value because numerical value is of limited statistical reliability'
+'+++|': 'fundamental change within a series affecting comparisons over time'
+'+++p': 'provisional data'
+'+++r': 'revised data'
+'+++s': 'estimated data'
+
 #Time series
 #Z_01021_1a
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
@@ -1187,6 +1200,7 @@
 +++-: not available
 +++x: Table compartment locked because statement does not make sense
 +++0: Less than half of 1 in the last position filled, but more than nothing
++++|: fundamental change within a series affecting comparisons over time
 
 #Addition
 total: Total
