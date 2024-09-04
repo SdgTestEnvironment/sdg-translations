@@ -1190,18 +1190,6 @@
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
 
-#Zeichenerklärung
-+++symbols: Zeichenerklärung
-+++p: vorläufig
-+++r: korrigiert
-+++s: geschätzt
-+++.: Zahlenwert unbekannt oder geheim zu halten
-+++…: Angabe fällt später an
-+++-: nicht vorhanden
-+++x: Tabellenfach gesperrt, weil Aussage nicht sinnvoll
-+++0: weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts
-+++|: grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt
-
 #Zusatz
 total: Insgesamt
 timeseries: Zeitreihe
@@ -1227,15 +1215,6 @@ area2: Bereich
 'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
 'hazardous waste generated per capita': 'Aufkommen gefährlicher Abfälle'
 'hazardous waste treated': 'Behandelte gefährliche Abfälle'
-'+++symbols': 'Zeichenerklärung'
-'+++p': 'vorläufig'
-'+++r': 'korrigiert'
-'+++s': 'geschätzt'
-'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
-'+++…': 'Angabe fällt später an'
-'+++-': 'nicht vorhanden'
-'+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
-'+++0': 'Weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts'
 'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
 'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
 'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'

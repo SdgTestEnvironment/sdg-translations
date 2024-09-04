@@ -1190,18 +1190,6 @@
 #Z_17192_3
 'death registration': 'Death registration'
 
-#Symbols
-+++symbols: Explanation of symbols
-+++p: preliminary
-+++r: revised
-+++s: estimated
-+++.: Numerical value unknown or to be kept secret
-+++…: Information is due later
-+++-: not available
-+++x: Table compartment locked because statement does not make sense
-+++0: Less than half of 1 in the last position filled, but more than nothing
-+++|: fundamental change within a series affecting comparisons over time
-
 #Addition
 total: Total
 timeseries: Time series
@@ -1221,15 +1209,6 @@ area2: Area
 'atms of national payment service providers': 'ATMs of national payment service providers'
 'hazardous waste generated per capita': 'Hazardous waste generated per capita'
 'hazardous waste treated': 'Hazardous waste treated'
-'+++symbols': 'Explanation of symbols'
-'+++p': 'preliminary'
-'+++r': 'revised'
-'+++s': 'estimated'
-'+++.': 'Numerical value unknown or to be kept secret'
-'+++…': 'Information is due later'
-'+++-': 'not available'
-'+++x': 'Table compartment locked because statement does not make sense'
-'+++0': 'Less than half of 1 in the last position filled, but more than nothing'
 'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
 'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
 'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
