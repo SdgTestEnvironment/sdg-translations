@@ -525,17 +525,17 @@
 
 #Kennzeichen
 +++symbols: Zeichenerklärung
-'+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
-'+++‒': 'nichts vorhanden'
-'+++...': 'Angabe fällt später an'
-'+++/': 'keine Angaben, da Zahlenwert nicht sicher genug'
-'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
-'+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
-'+++( )': 'Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist'
-'+++|': 'grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt'
-'+++p': 'vorläufige Zahl'
-'+++r': 'berichtigte Zahl'
-'+++s': 'geschätzte Zahl'
+'+++0': weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts
+'+++-': nichts vorhanden
+'+++…': Angabe fällt später an
+'+++/': keine Angaben, da Zahlenwert nicht sicher genug
+'+++.': Zahlenwert unbekannt oder geheim zu halten
+'+++X': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
+'+++( )': Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist
+'+++|': grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt
+'+++p': vorläufige Zahl
+'+++r': berichtigte Zahl
+'+++s': geschätzte Zahl
 
 #Zeitreihen
 #Z_01021_1a
