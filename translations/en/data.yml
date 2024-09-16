@@ -258,7 +258,7 @@
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Bachelor/equivalent degree completed and masters/equivalent degree or above'
 'lower secondary school completed': 'Lower secondary school completed'
 'primary school completed': 'Primary school completed'
-'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
+'upper secondary school completed': 'Upper secondary school completed'
 'b) at the end of primary education': 'b) At the end of primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
 'property': 'Property'
@@ -1204,6 +1204,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
 'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
 'energy and water industry, trade, services': 'Energy and water industry, trade, services'
 'financial economy': 'Financial economy'
