@@ -11,7 +11,6 @@
 'grams per decilitre': 'Gramm pro Deziliter'
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
 'hectare': 'Hektar'
-'houres per day': 'Stunden pro Tag'
 'index': 'Index'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
@@ -34,10 +33,8 @@
 'million usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
 'million usd, constant prices (2020)': 'Millionen USD, konstante Preise (2020)'
 'million usd, constant prices (2021)': 'Millionen USD, konstante Preise (2021)'
-'million usd, constant prices (2022)': 'Millionen USD, konstante Preise (2022)'
 'no unit': 'Keine Einheit'
 'number': 'Anzahl'
-'number of pieces of platic waste per 100 meters of beach length': 'Anzahl der Müllteile aus Plastik pro 100 m Küstenlinie'
 'per 100 inhabitants': 'Je 100 Einwohner/-innen'
 'per 1,000 inhabitants': 'Je 1 000 Einwohner/-innen'
 'per 1,000 women of same age': 'Je 1 000 Frauen gleichen Alters'
@@ -56,7 +53,7 @@
 '1 000 m³': '1 000 m³'
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
-'watts per capita': 'Watt pro Kopf'
+'watt per capita': 'Watt pro Kopf'
 'years': 'Jahre'
 
 #Kategorien
@@ -66,30 +63,27 @@
 'area': 'Gebiet'
 'area of law': 'Rechtsgebiet'
 'bound': 'Grenze'
-'cause of death': 'Todesursache'
 'availability': 'Verfügbarkeit'
-'completeness of disaggregation': 'Vollständigkeit der Disaggregation'
 'conversion': 'Umrechnung'
 'outcome of the application process': 'Ausgang des Antragsverfahrens'
 'disability status': 'Behinderungsstatus'
 'policy area': 'Politikbereiche'
 'stages of the food chain': 'Stufen der Lebensmittelkette'
 'economic activity': 'Wirtschaftszweig'
-'ecosystem': 'Ökosystem'
 'education level': 'Ausbildungsgrad'
 'ownership': 'Eigentumsverhältnis'
 'enterprise definition': 'Unternehmensdefinition'
-'type of service': 'Versorgungsleistung'
+'facilities': 'Ausstattung'
 'länder': 'Bundesland'
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'function': 'Aufgabenbereich'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'indicator': 'Indikator'
+'legislation': 'Rechtsvorschrift'
 'level of court': 'Gerichtsebene'
 'water use index': 'Wassernutzungsindex'
 'profession': 'Beruf'
 'pathogens and resistance': 'Erreger und Resistenz'
-'level': 'Ebene'
 'percentile': 'Perzentil'
 'fine particulate matter': 'Feinstaub'
 'political institution': 'Politische Institution'
@@ -97,7 +91,6 @@
 'level of proficiency': 'Leistungsniveau'
 'presentation': 'Darstellung'
 'level of risk of extinction': 'Gefährdungskategorie'
-'goal': 'Ziel'
 'sea': 'Meer'
 'fields of work': 'Aufgabenbereiche'
 'section': 'Abschnitt'
@@ -120,7 +113,6 @@
 'form of exploitation': 'Form der Ausbeutung'
 'type of flow': 'Art des Finanzstroms'
 'type of waste': 'Abfallart'
-'type of unpaid work': 'Art der unbezahlten Arbeit'
 'degree of urbanisation': 'Verstädterungsgrad'
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
@@ -207,27 +199,12 @@
 'area 4: marriage and family': 'Bereich 4: Ehe und Familie'
 'upper bound': 'Obere Grenze'
 'lower bound': 'Untere Grenze'
-'victim of avalanche, landslide and other earth movements': 'Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen'
-'exposure to excessive natural cold': 'Exposition gegenüber übermäßiger natürlicher Kälte'
-'victim of earthquake': 'Opfer von Erdbeben'
-'victim of flood': 'Opfer von Überschwemmung'
-'exposure to excessive natural heat': 'Exposition gegenüber übermäßiger natürlicher Hitze'
-'victim of lightning': 'Opfer von Blitzschlag'
-'exposure to other and unspecified forces of nature': 'Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften'
-'victim of cataclysmic storm': 'Opfer von Sturmkatastrophe'
-'exposure to sunlight': 'Exposition gegenüber Sonnenlicht'
-'victim of volcanic eruption': 'Opfer von Vulkanausbruch'
 'no': 'Nein'
 'yes': 'Ja'
 'class 3 areas (elavation 2500-3500 meters)': 'Gebiete der Klasse 3 (Höhe 2500-3500 Meter)'
 'class 4 areas (elavation 1500-2500 meters)': 'Gebiete der Klasse 4 (Höhe 1500-2500 Meter)'
 'class 5 areas (elavation 1000-1500 meters)': 'Gebiete der Klasse 5 (Höhe 1000-1500 Meter)'
 'class 6 areas (elavation 300-1000 meters)': 'Gebiete der Klasse 6 (Höhe  300-1000 Meter)'
-'protection of biodiversity and landscape (cofog 5.4)': 'Arten- und Landschaftsschutz (COFOG 5.4)'
-'cultural services (cofog 8.2)': 'Kultur (COFOG 8.2)'
-'fully disaggregated': 'Vollständig disaggregiert'
-'not disaggregated': 'Nicht disaggregiert'
-'partially disaggregated': 'Teilweise disaggregiert'
 'by un factors': 'Nach UN-Faktoren'
 'by national factors': 'Nach nationalen Faktoren'
 'admissible applications': 'Zulässige Anträge'
@@ -252,22 +229,19 @@
 'agriculture, forestry and fishing': 'Land- und Forstwirtschaft, Fischerei'
 'agriculture': 'Landwirtschaft'
 'mimec': 'MIMEC'
-'large artificial or heavily modified lakes': 'Künstliche oder erheblich veränderte große Seen'
-'lakes and rivers permanent water area': 'Permanente Wasserfläche der Seen und Flüsse'
-'wetlands area': 'Feuchtgebiete'
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Abschluss eines Bachelor- oder gleichwertigen Studiums oder eines Master- oder gleichwertigen Studiums oder höher'
 'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
 'primary school completed': 'Abgeschlossene Grundschulausbildung'
-'upper secondary school completed': 'Abgeschlossene Sekundarstufe II'
+'upper secondary school completed and post-secondary non-tertiary education': 'Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung'
 'b) at the end of primary education': 'b) Am Ende der Grundschule'
 'c) at the end of lower secondary education': 'c) Am Ende der Sekundarstufe I'
 'property': 'Eigentum'
 'legal entities': 'Rechtliche Einheiten'
 'eu enterprise definition': 'EU-Unternehmensdefinition'
-'schools with access to electricity': 'Schulen mit Zugang zu Elektrizität'
-'schools with access to basic drinking water': 'Schulen mit Zugang zu Trinkwasser'
-'schools with access to single-sex basic sanitation facilities': 'Schulen mit Zugang zu geschlechterspezifischen, grundlegenden sanitären Anlagen'
-'schools with access to basic handwashing facilities': 'Schulen mit Zugang zu grundlegenden Einrichtungen zum Händewaschen'
+'a) schools with access to electricity': 'a) Schulen mit Zugang zu Elektrizität'
+'e) schools with access to basic drinking water': 'e) Schulen mit Zugang zu Trinkwasser'
+'f) schools with access to single-sex basic sanitation facilities': 'f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen'
+'g) schools with access to basic handwashing facilities': 'g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen'
 'baden-württemberg': 'Baden-Württemberg'
 'bavaria': 'Bayern'
 'rhineland palatinate': 'Rheinland-Pfalz'
@@ -331,8 +305,8 @@
 'higher-level courts': 'Übergeordnete Gerichte'
 'lower-level courts': 'Untergeordnete Gerichte'
 'supreme/constitutional courts': 'Oberste/Verfassungsgerichte'
-'share of withdrawal in renewable water resources': 'Anteil der Entnahme an den erneuerbaren Wasserressourcen'
-'share of withdrawal in renewable water resources (excluding cooling water)': 'Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
+'share of withdrawal in renewable water resources': 'Anteil der Gewinnung an den erneuerbaren Wasserressourcen'
+'share of withdrawal in renewable water resources (excluding cooling water)': 'Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
 'cohabiting': 'Lebensgemeinschaft'
 'divorced': 'Geschieden'
 'married': 'Verheiratet'
@@ -361,9 +335,6 @@
 'p90': 'P90'
 'p95': 'P95'
 'leasehold': 'Pacht'
-'objectives': 'Ziele'
-'indicators': 'Indikatoren'
-'data': 'Daten'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂,₅'
 'bundesrat (upper chamber)': 'Bundesrat'
@@ -383,19 +354,6 @@
 'breeding programs for preservation': 'Erhaltungspopulationen'
 'rudiments remaining': 'Phänotypische Erhaltungspopulationen'
 'water and sanitation': 'Wasser und Sanitär'
-'1 - no poverty': '1 - Keine Armut'
-'10 - reduced inequalities': '10 - Weniger Ungleichheiten'
-'11 - sustainable cities and communities': '11 - Nachhaltige Städte und Gemeinden'
-'12 - responsible consumption and production': '12 - Nachhaltige/r Konsum und Produktion'
-'15 - life on land': '15 - Leben an Land'
-'16 - peace and justice': '16 - Frieden, Gerechtigkeit und starke Institutionen'
-'17 - partnerships for the goals': '17 - Partnerschaften zur Erreichung der Ziele'
-'2 - zero hunger': '2 - Kein Hunger'
-'3 - good health and well-being': '3 - Gesundheit und Wohlergehen'
-'4 - quality education': '4 - Hochwertige Bildung'
-'5 - gender equality': '5 - Geschlechtergleichheit'
-'8 - decent work and economic growth': '8 - Menschenwürdige Arbeit und Wirtschaftswachstum'
-'9 - industry, innovation and infrastructure': '9 - Industrie, Innovation und Infrastruktur'
 'baltic sea': 'Ostsee'
 'greater north sea': 'Nordsee'
 'political leadership and central administration, foreign affairs': 'Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten'
@@ -408,15 +366,7 @@
 'management instruments': 'Managementinstrumente'
 'financing': 'Finanzierung'
 'general government': 'Staat'
-'transport and communications': 'Verkehrs- und Nachrichtenwesen'
-'housing, urban development, regional planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
 'corporations': 'Unternehmen'
-'general services': 'Allgemeine Dienste'
-'energy and water management, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
-'food, agriculture and forestry': 'Ernährung, Landwirtschaft und Forsten'
-'financial services': 'Finanzwirtschaft'
-'health, environment, sport and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
-'social security, family and youth, labour market policy': 'Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik'
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 'direct transfers of funds': 'Direkte finanzielle Beihilfen'
@@ -466,7 +416,7 @@
 'pipelines: crude oil': 'Rohrfernleitungen: Rohöl'
 'people requiring interventions': 'Personen mit Behandlungsbedarf'
 'inpatient treatment': 'Stationäre Behandlung'
-'a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
+'a) cardiovascular disease': 'a) Herz-Kreislauferkrankung'
 'leprosy': 'Lepra'
 'buruli ulcer': 'Buruli-Ulkus'
 'human african trypanosomiasis': 'Afrikanische Trypanosomiasis'
@@ -510,9 +460,6 @@
 'towns and suburbs': 'Kleinere Städte und Vororte'
 'cities': 'Städte'
 'urban': 'Städte'
-'care work': 'Pflegearbeit'
-'domestic work': 'Hausarbeit'
-'domestic and care work': 'Haus- und Pflegearbeit'
 'other related purposes': 'Verwandte Zwecke'
 'deposit onto or into land and land treatment and release into water bodies': 'Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern'
 'energy recovery': 'Energierückgewinnung'
@@ -522,20 +469,6 @@
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
-
-#Kennzeichen
-+++symbols: Zeichenerklärung
-'+++0': weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts
-'+++-': nichts vorhanden
-'+++…': Angabe fällt später an
-'+++/': keine Angaben, da Zahlenwert nicht sicher genug
-'+++.': Zahlenwert unbekannt oder geheim zu halten
-'+++X': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
-'+++( )': Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist
-'+++|': grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt
-'+++p': vorläufige Zahl
-'+++r': berichtigte Zahl
-'+++s': geschätzte Zahl
 
 #Zeitreihen
 #Z_01021_1a
@@ -552,8 +485,6 @@
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
 #Z_01031_2
 'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
-#Z_01051_1
-'deaths attributed to natural forces': 'Naturkräften zugeschriebene Sterbefälle'
 #Z_01061_1
 'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
 #Z_01061_2
@@ -643,13 +574,9 @@
 #Z_03091_2
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03091_3
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
-#Z_03091_5
-'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
-#Z_03091_6
-'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition mit Feinstaub (PMPM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
@@ -676,8 +603,6 @@
 'resistant isolates tested from blood cultures': 'Resistent getestete Isolate aus Blutkulturen'
 #Z_04011_1
 'children and youths with a minimum proficiency in reading or mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
-#Z_04012_1
-'completion rate': 'Schulabschlussquote'
 #Z_04022_1
 'children in child day care at the age of 5': 'Kinder in Kindertagesbetreuung im Alter von 5 Jahren'
 #Z_04031_1
@@ -725,7 +650,7 @@
 #Z_05071_3
 'agricultural holdings with the legal form of a sole proprietorship': 'Landwirtschaftliche Betriebe der Rechtsform Einzelunternehmen'
 #Z_05072_1
-'realisation of guaranteed rights to ownership and/or control of land for women': 'Umsetzung garantierter Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden für Frauen'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
 #Z_05081_1
 'mobile penetration rate': 'Penetrationsrate Mobilfunk'
 #Z_05081_2
@@ -751,19 +676,23 @@
 #Z_06041_2
 'water-use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1
-'level of water stress: share of withdrawal in renewable water resources': 'Nutzung der Wasserressourcen: Anteil der Entnahme an den erneuerbaren Wasserressourcen'
+'level of water stress: share of withdrawal in renewable water resources': 'Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen'
 #Z_06042_2
-'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Nutzung der Wasserressourcen: Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
+'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Nutzung der Wasserressourcen: Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
 #Z_06051_1
 'degree of integrated water resources management implementation': 'Grad der Implementierung eines integrierten Wasserressourcenmanagements'
 #Z_06052_1
 'transboundary basin area with an operational arrangement for water cooperation': 'Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation'
-#Z_06061_7
-'area': 'Fläche'
-#Z_06061_8
-'area as a proportion of total land area': 'Fläche im Verhältnis zur gesamten Landfläche'
-#Z_06061_9
-'area change in comparison to 2015': 'Veränderung der Fläche im Vergleich zu 2015'
+#Z_06061_1
+'lakes and rivers permanent water area': 'Permanente Wasserfläche der Seen und Flüsse'
+#Z_06061_2
+'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
+#Z_06061_3
+'wetlands area': 'Feuchtgebiete'
+#Z_06061_4
+'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
+#Z_06061_5
+'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
 #Z_06071_1
 'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
 #Z_06071_2
@@ -773,9 +702,11 @@
 #Z_07011_2
 'households and small-sized enterprises connected to the electricity network': 'Haushalte und Kleinbetriebe mit Zugang zu Elektrizitätsnetzwerken'
 #Z_07012_1
-'population with primary reliance on clean fuels and technology': 'Bevölkerung, die vorwiegend saubere Energieträger und Technologien nutzt'
-#Z_07021_3
-'renewable energy in final energy consumption': 'Erneuerbare Energien am Endenergieverbrauch'
+'population with primary reliance on clean fuels and technology': 'Bevölkerung mit überwiegender Abhängigkeit von sauberen Energieträgern und Technologien'
+#Z_07021_1
+'renewable energy in total final energy consumption': 'Erneuerbare Energien am gesamten Endenergieverbrauch'
+#Z_07021_2
+'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
 #Z_07051_1
@@ -793,7 +724,7 @@
 #Z_08042_2
 'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
 #Z_08051_1
-'average hourly earnings of employees': 'Durchschnittlicher Stundenverdienst Beschäftigter'
+'average hourly earnings of employees': 'Durchschnittlicher Stundenlohn Beschäftigter'
 #Z_08051_2
 'gender pay gap': 'Verdienstabstand'
 #Z_08052_1
@@ -811,15 +742,15 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Bruttowertschöpfung im Tourismusbereich'
 #Z_08101_1
-'a) branches of payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern'
+'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2
-'b) atms of national payment service providers': 'b) Bankautomaten von inländischen Zahlungsdienstleistern'
+'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
 #Z_08102_1
 'accounts at payment service providers': 'Konten bei Zahlungsverkehrsdienstleistern'
 #Z_08111_1
-'oda (commitments) for aid for trade': 'Zusagen (ODA) für Handelshilfe'
+'oda and oof (commitments) for aid for trade': 'Zusagen (ODA und OOF) für Handelshilfe'
 #Z_08111_2
-'oda (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA) für Handelshilfe'
+'oda and oof (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
@@ -881,7 +812,7 @@
 #Z_10051_5
 'return on assets': 'Gesamtkapitalrentabilität'
 #Z_10051_6
-'liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+'liquid assets to short-term liabilities': 'Verbindlichkeiten'
 #Z_10051_7
 'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 #Z_10072_1
@@ -935,11 +866,11 @@
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Durchschnittlicher Anteil der bebauten Fläche in Städten, der als Freifläche öffentlich zugänglich ist'
 #Z_11072_1
-'victims of non-sexual harassment': 'Opfer nicht-sexueller Belästigung'
+'victims of physical harassment': 'Opfer körperlicher Belästigung'
 #Z_11072_2
 'victims of sexual harassment': 'Opfer sexueller Belästigung'
 #Z_12031_1
-'(b) food waste index': 'b) Index der Lebensmittelabfälle'
+'(b) food waste index': 'b) Index der Lebensmittelverschwendung'
 #Z_12041_1
 'basel convention': 'Basler Übereinkommen'
 #Z_12041_2
@@ -951,9 +882,9 @@
 #Z_12041_5
 'minamata convention': 'Minamata Übereinkommen'
 #Z_12042_1
-'a) hazardous waste generated per capita': 'a) Aufkommen gefährlicher Abfälle'
+'hazardous waste generated per capita': 'Aufkommen gefährlicher Abfälle'
 #Z_12042_2
-'b) hazardous waste treated': 'b) Behandelte gefährliche Abfälle'
+'hazardous waste treated': 'Behandelte gefährliche Abfälle'
 #Z_12051_1
 'national recycling rate': 'Nationale Recyclingquote'
 #Z_12051_2
@@ -970,10 +901,6 @@
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
 'german payments for international climate financing': 'Zahlungen Deutschlands zur internationalen Klimafinanzierung'
-#Z_14011_1
-'plastic waste on the beaches of the german north sea coast': 'Plastikmüll an Stränden der deutschen Nordsee-Küste'
-#Z_14011_2
-'plastic particles in fulmar stomachs': 'Plastikmüll in Mägen von Eissturmvögeln'
 #Z_14021_1
 'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Vorhandensein von Raumordnungsplänen für die ausschließliche Wirtschaftszone (AWZ) und einem integrierten Küstenzonenmanagement (IKMZ)'
 #Z_14031_1
@@ -1029,29 +956,27 @@
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
 #Z_15061_1
-'1) countries that are contracting parties to the international treaty on pgrfa': '1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind'
+'1) countries that are contracting parties to the international treaty on plant genetic resources for food and agriculture (pgrfa)': '1) Länder, die Vertragsparteien des Internationalen Vertrags über pflanzengenetische Ressourcen für Ernährung und Landwirtschaft (PGRFA) sind'
 #Z_15061_2
-'2) countries that are parties to the nagoya protocol': '2) Länder, die Vertragsparteien des Nagoya-Protokolls sind'
+'2) countries that are parties to the nagoya protocol': '2) Länder, die dem Nagoya-Protokoll beigetreten sind'
 #Z_15061_3
-'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa': '3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden'
+'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on plant genetic resources for food and agriculture (pgrfa)': '3) Länder, die über legislative, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über pflanzengenetische Ressourcen für Ernährung und Landwirtschaft (PGRFA) gemeldet wurden'
 #Z_15061_4
-'4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden'
+'4) countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': '4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
 #Z_15061_5
-'5) total reported number of smtas transferring pgrfa to germany': '5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden'
+'5) total reported number of standard material transfer agreements (smtas) transferring plant genetic resources for food and agriculture to germany': '5) Gesamtzahl der gemeldeten Standard-Materialtransfervereinbarungen (SMTAs), durch die pflanzengenetische Ressourcen für Ernährung und Landwirtschaft nach Deutschland übertragen werden'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
 'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
-#Z_15071_3
-'authorized imports and exports of protected species': 'Genehmigte Ein- und Ausfuhren geschützter Arten'
 #Z_15081_1
-'a) national legislation and policy relevant to ias': 'a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS'
+'national legislation and policy relevant to ias': 'Nationale Gesetzgebung und Politik in Bezug auf IAS'
 #Z_15081_2
-'b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB'
+'align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des Strategieplans für biologische Vielfalt'
 #Z_15091_1
-'(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'a) Umsetzung nationaler Ziele gemäß dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
+'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
 #Z_15091_2
-'(b) implementation of the principles of biodiversity in the seea': 'b) Umsetzung der Werte der biologischen Vielfalt in die UGR'
+'implementation of the system of environmental-economic accounting (seea)': 'Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
 #Z_15101_1
 'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
 #Z_15101_2
@@ -1168,6 +1093,12 @@
 'hours worked by persons employed': 'Geleistete Arbeitsstunden der Erwerbstätigen'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Arbeitsproduktivität je geleisteter Arbeitnehmerstunde'
+#Z_17151_1
+'objectives': 'Ziele'
+#Z_17151_2
+'indicators': 'Indikatoren'
+#Z_17151_3
+'data': 'Daten'
 #Z_17151_4
 'country-owned results frameworks and planning tools': 'Ländereigene Ergebnisrahmen und Planungsinstrumente'
 #Z_17161_1
@@ -1176,8 +1107,6 @@
 'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
 #Z_17171_2
 'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
-#Z_17181_1
-'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Indikatoren für nachhaltige Entwicklung mit den im Indikatorentitel geforderten Disaggregationen'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
 #Z_17191_1
@@ -1208,31 +1137,27 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'+++symbols': 'Zeichenerklärung'
-'+++0': 'Weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts'
-'+++-': 'nicht vorhanden'
-'+++…': 'Angabe fällt später an'
-'+++/': 'keine Angaben, da Zahlenwert nicht sicher genug'
-'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
-'+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
-'+++( )': 'Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist'
-'+++|': 'grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt'
-'+++p': 'vorläufig'
-'+++r': 'korrigiert'
-'+++s': 'geschätzt'
-'upper secondary school completed and post-secondary non-tertiary education': 'Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung'
-'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
-'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
-'financial economy': 'Finanzwirtschaft'
-'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
-'renewable energy in total final energy consumption': 'Erneuerbare Energien am gesamten Endenergieverbrauch'
-'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
-'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
-'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
-'hazardous waste generated per capita': 'Aufkommen gefährlicher Abfälle'
-'hazardous waste treated': 'Behandelte gefährliche Abfälle'
-'+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
-'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
-'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
-'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
+'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
+'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
+'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
+'classification': 'Klassifikation'
+'frequency': 'Häufigkeit'
+'country of citizenship': 'Herkunftsland'
+'income quintile': 'Einkommensquintil'
+'items': 'Probleme'
+'marital status': 'Familienstand'
+'migratory status': 'Migrationsstatus'
+'unit multiplicator': 'Einheitsmultiplikator'
+'observation status': 'Beobachtungsstatus'
+'organisational form': 'Organisationsform'
+'product type': 'Produkttyp'
+'reporting type': 'Berichtstyp'
+'theme': 'Themengebiet'
+'topic': 'Themenbereich'
+'type of water body': 'Art des Gewässers'
+'water use efficiency': 'Wassernutzungseffizienz'
+'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
+'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'

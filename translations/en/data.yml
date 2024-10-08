@@ -11,7 +11,6 @@
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 'hectare': 'Hectare'
-'houres per day': 'Houres per day'
 'index': 'Index'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
@@ -34,10 +33,8 @@
 'million usd, constant prices (2019)': 'Million USD, constant prices (2019)'
 'million usd, constant prices (2020)': 'Million USD, constant prices (2020)'
 'million usd, constant prices (2021)': 'Million USD, constant prices (2021)'
-'million usd, constant prices (2022)': 'Million USD, constant prices (2022)'
 'no unit': 'No unit'
 'number': 'Number'
-'number of pieces of platic waste per 100 meters of beach length': 'Number of pieces of platic waste per 100 meters of beach length'
 'per 100 inhabitants': 'Per 100 inhabitants'
 'per 1 000 inhabitants': 'Per 1 000 inhabitants'
 'per 1 000 women of same age': 'Per 1 000 women of same age'
@@ -56,7 +53,7 @@
 '1 000 m³': '1 000 m³'
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
-'watts per capita': 'Watts per capita'
+'watt per capita': 'Watt per capita'
 'years': 'Years'
 
 #Categories
@@ -66,30 +63,27 @@
 'area': 'Area'
 'area of law': 'Area of law'
 'bound': 'Bound'
-'cause of death': 'Cause of death'
 'availability': 'Availability'
-'completeness of disaggregation': 'Completeness of disaggregation'
 'conversion': 'Conversion'
 'outcome of the application process': 'Outcome of the application process'
 'disability status': 'Disability status'
 'policy area': 'Policy area'
 'stages of the food chain': 'Stages of the food chain'
 'economic activity': 'Economic activity'
-'ecosystem': 'Ecosystem'
 'education level': 'Education level'
 'ownership': 'Ownership'
 'enterprise definition': 'Enterprise definition'
-'type of service': 'Type of service'
+'facilities': 'Facilities'
 'länder': 'Länder'
 'feelings of insecurity': 'Feelings of insecurity'
 'function': 'Function'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'indicator': 'Indicator'
+'legislation': 'Legislation'
 'level of court': 'Level of court'
 'water use index': 'Water use index'
 'profession': 'Profession'
 'pathogens and resistance': 'Pathogens and resistance'
-'level': 'Level'
 'percentile': 'Percentile'
 'fine particulate matter': 'Fine particulate matter'
 'political institution': 'Political institution'
@@ -97,7 +91,6 @@
 'level of proficiency': 'Level of proficiency'
 'presentation': 'Presentation'
 'level of risk of extinction': 'Level of risk of extinction'
-'goal': 'Goal'
 'sea': 'Sea'
 'fields of work': 'Fields of work'
 'section': 'Section'
@@ -120,7 +113,6 @@
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
-'type of unpaid work': 'Type of unpaid work'
 'degree of urbanisation': 'Degree of urbanisation'
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
@@ -207,27 +199,12 @@
 'area 4: marriage and family': 'Area 4: Marriage and family'
 'upper bound': 'Upper bound'
 'lower bound': 'Lower bound'
-'victim of avalanche, landslide and other earth movements': 'Victim of avalanche, landslide and other earth movements'
-'exposure to excessive natural cold': 'Exposure to excessive natural cold'
-'victim of earthquake': 'Victim of earthquake'
-'victim of flood': 'Victim of flood'
-'exposure to excessive natural heat': 'Exposure to excessive natural heat'
-'victim of lightning': 'Victim of lightning'
-'exposure to other and unspecified forces of nature': 'Exposure to other and unspecified forces of nature'
-'victim of cataclysmic storm': 'Victim of cataclysmic storm'
-'exposure to sunlight': 'Exposure to sunlight'
-'victim of volcanic eruption': 'Victim of volcanic eruption'
 'no': 'No'
 'yes': 'Yes'
 'class 3 areas (elavation 2500-3500 meters)': 'Class 3 areas (elavation 2500-3500 meters)'
 'class 4 areas (elavation 1500-2500 meters)': 'Class 4 areas (elavation 1500-2500 meters)'
 'class 5 areas (elavation 1000-1500 meters)': 'Class 5 areas (elavation 1000-1500 meters)'
 'class 6 areas (elavation 300-1000 meters)': 'Class 6 areas (elavation 300-1000 meters)'
-'protection of biodiversity and landscape (cofog 5.4)': 'Protection of biodiversity and landscape (COFOG 5.4)'
-'cultural services (cofog 8.2)': 'Cultural services (COFOG 8.2)'
-'fully disaggregated': 'Fully disaggregated'
-'not disaggregated': 'Not disaggregated'
-'partially disaggregated': 'Partially disaggregated'
 'by un factors': 'By UN factors'
 'by national factors': 'By national factors'
 'admissible applications': 'Admissible applications'
@@ -252,22 +229,19 @@
 'agriculture, forestry and fishing': 'Agriculture, forestry and fishing'
 'agriculture': 'Agriculture'
 'mimec': 'MIMEC'
-'large artificial or heavily modified lakes': 'Large artificial or heavily modified lakes'
-'lakes and rivers permanent water area': 'Lakes and rivers permanent water area'
-'wetlands area': 'Wetlands area'
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Bachelor/equivalent degree completed and masters/equivalent degree or above'
 'lower secondary school completed': 'Lower secondary school completed'
 'primary school completed': 'Primary school completed'
-'upper secondary school completed': 'Upper secondary school completed'
+'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
 'b) at the end of primary education': 'b) At the end of primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
 'property': 'Property'
 'legal entities': 'Legal entities'
 'eu enterprise definition': 'EU enterprise definition'
-'schools with access to electricity': 'Schools with access to electricity'
-'schools with access to basic drinking water': 'Schools with access to basic drinking water'
-'schools with access to single-sex basic sanitation facilities': 'Schools with access to single-sex basic sanitation facilities'
-'schools with access to basic handwashing facilities': 'Schools with access to basic handwashing facilities'
+'a) schools with access to electricity': 'a) Schools with access to electricity'
+'e) schools with access to basic drinking water': 'e) Schools with access to basic drinking water'
+'f) schools with access to single-sex basic sanitation facilities': 'f) Schools with access to single-sex basic sanitation facilities'
+'g) schools with access to basic handwashing facilities': 'g) Schools with access to basic handwashing facilities'
 'baden-württemberg': 'Baden-Württemberg'
 'bavaria': 'Bavaria'
 'rhineland palatinate': 'Rhineland Palatinate'
@@ -361,9 +335,6 @@
 'p90': 'P90'
 'p95': 'P95'
 'leasehold': 'Leasehold'
-'objectives': 'Objectives'
-'indicators': 'Indicators'
-'data': 'Data'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂.₅'
 'bundesrat (upper chamber)': 'Bundesrat (Upper chamber)'
@@ -383,19 +354,6 @@
 'breeding programs for preservation': 'Breeding programs for preservation'
 'rudiments remaining': 'Rudiments remaining'
 'water and sanitation': 'Water and sanitation'
-'1 - no poverty': '1 - No poverty'
-'10 - reduced inequalities': '10 - Reduced inequalities'
-'11 - sustainable cities and communities': '11 - Sustainable cities and communities'
-'12 - responsible consumption and production': '12 - Responsible consumption and production'
-'15 - life on land': '15 - Life on land'
-'16 - peace and justice': '16 - Peace and justice'
-'17 - partnerships for the goals': '17 - Partnerships for the goals'
-'2 - zero hunger': '2 - Zero hunger'
-'3 - good health and well-being': '3 - Good health and well-being'
-'4 - quality education': '4 - Quality education'
-'5 - gender equality': '5 - Gender equality'
-'8 - decent work and economic growth': '8 - Decent work and economic Growth'
-'9 - industry, innovation and infrastructure': '9 - Industry, innovation and infrastructure'
 'baltic sea': 'Baltic sea'
 'greater north sea': 'Greater North Sea'
 'political leadership and central administration, foreign affairs': 'Political leadership and central administration, foreign affairs'
@@ -408,15 +366,7 @@
 'management instruments': 'Management Instruments'
 'financing': 'Financing'
 'general government': 'General government'
-'transport and communications': 'Transport and communications'
-'housing, urban development, regional planning and municipal community services': 'Housing, urban development, regional planning and municipal community services'
 'corporations': 'Corporations'
-'general services': 'General services'
-'energy and water management, trade, services': 'Energy and water management, trade, services'
-'food, agriculture and forestry': 'Food, agriculture and forestry'
-'financial services': 'Financial services'
-'health, environment, sport and recreation': 'Health, environment, sport and recreation'
-'social security, family and youth, labour market policy': 'Social security, family and youth, labour market policy'
 'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
 'population that considers their accommodation too dark': 'Population that considers their accommodation too dark'
 'direct transfers of funds': 'Direct transfers of funds'
@@ -510,9 +460,6 @@
 'towns and suburbs': 'Towns and suburbs'
 'cities': 'Cities'
 'urban': 'Urban'
-'care work': 'Care work'
-'domestic work': 'Domestic work'
-'domestic and care work': 'Domestic and care work'
 'other related purposes': 'Other related purposes'
 'deposit onto or into land and land treatment and release into water bodies': 'Deposit onto or into land and land treatment and release into water bodies'
 'energy recovery': 'Energy recovery'
@@ -522,20 +469,6 @@
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
-
-#Data notes
-+++symbols: Explanation of symbols
-'+++0': less than half of 1 in the last digit occupied, but more than zero
-'+++-': no figures or magnitude zero
-'+++…': data will be available later
-'+++/': no data because the numerical value is not sufficiently reliable
-'+++.': numerical value unknown or not be disclosed
-'+++X': cell blocked for logical reasons
-'+++( )': limited informational value because numerical value is of limited statistical reliability
-'+++|': fundamental change within a series affecting comparisons over time
-'+++p': provisional data
-'+++r': revised data
-'+++s': estimated data
 
 #Time series
 #Z_01021_1a
@@ -552,8 +485,6 @@
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
 #Z_01031_2
 'population covered by health insurance': 'Population covered by health insurance'
-#Z_01051_1
-'deaths attributed to natural forces': 'Deaths attributed to natural forces'
 #Z_01061_1
 'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
 #Z_01061_2
@@ -643,13 +574,9 @@
 #Z_03091_2
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_3
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
+'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
-#Z_03091_5
-'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
-#Z_03091_6
-'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
@@ -676,8 +603,6 @@
 'resistant isolates tested from blood cultures': 'Resistant isolates tested from blood cultures'
 #Z_04011_1
 'children and youths with a minimum proficiency in reading or mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
-#Z_04012_1
-'completion rate': 'Completion rate'
 #Z_04022_1
 'children in child day care at the age of 5': 'Children in child day care at the age of 5'
 #Z_04031_1
@@ -725,7 +650,7 @@
 #Z_05071_3
 'agricultural holdings with the legal form of a sole proprietorship': 'Agricultural holdings with the legal form of a sole proprietorship'
 #Z_05072_1
-'realisation of guaranteed rights to ownership and/or control of land for women': 'Realisation of guaranteed rights to ownership and/or control of land for women'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
 #Z_05081_1
 'mobile penetration rate': 'Mobile penetration rate'
 #Z_05081_2
@@ -758,12 +683,16 @@
 'degree of integrated water resources management implementation': 'Degree of integrated water resources management implementation'
 #Z_06052_1
 'transboundary basin area with an operational arrangement for water cooperation': 'Transboundary basin area with an operational arrangement for water cooperation'
-#Z_06061_7
-'area': 'Area'
-#Z_06061_8
-'area as a proportion of total land area': 'Area as a proportion of total land area'
-#Z_06061_9
-'area change in comparison to 2015': 'Area change in comparison to 2015'
+#Z_06061_1
+'lakes and rivers permanent water area': 'Lakes and Rivers permanent water area'
+#Z_06061_2
+'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
+#Z_06061_3
+'wetlands area': 'Wetlands area'
+#Z_06061_4
+'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
+#Z_06061_5
+'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
 #Z_06071_1
 'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
 #Z_06071_2
@@ -774,8 +703,10 @@
 'households and small-sized enterprises connected to the electricity network': 'Households and small-sized enterprises connected to the electricity network'
 #Z_07012_1
 'population with primary reliance on clean fuels and technology': 'Population with primary reliance on clean fuels and technology'
-#Z_07021_3
-'renewable energy in final energy consumption': 'Renewable energy in final energy consumption'
+#Z_07021_1
+'renewable energy in total final energy consumption': 'Renewable energy in total final energy consumption'
+#Z_07021_2
+'renewable energy in gross final energy consumption': 'Renewable energy in gross final energy consumption'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
 #Z_07051_1
@@ -811,15 +742,15 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Gross value added of the tourism industry'
 #Z_08101_1
-'a) branches of payment service providers': 'a) Branches of payment service providers'
+'branches of payment service providers': 'Branches of payment service providers'
 #Z_08101_2
-'b) atms of national payment service providers': 'b) ATMs of national payment service providers'
+'atms of national payment service providers': 'ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
 #Z_08111_1
-'oda (commitments) for aid for trade': 'ODA (commitments) for aid for trade'
+'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
 #Z_08111_2
-'oda (gross disbursement) for aid for trade': 'ODA (gross disbursement) for aid for trade'
+'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
@@ -935,7 +866,7 @@
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Average share of the built-up area of cities that is open space for public use'
 #Z_11072_1
-'victims of non-sexual harassment': 'Victims of non-sexual harassment'
+'victims of physical harassment': 'Victims of physical harassment'
 #Z_11072_2
 'victims of sexual harassment': 'Victims of sexual harassment'
 #Z_12031_1
@@ -951,9 +882,9 @@
 #Z_12041_5
 'minamata convention': 'Minamata Convention'
 #Z_12042_1
-'a) hazardous waste generated per capita': 'a) Hazardous waste generated per capita'
+'hazardous waste generated per capita': 'Hazardous waste generated per capita'
 #Z_12042_2
-'b) hazardous waste treated': 'b) Hazardous waste treated'
+'hazardous waste treated': 'Hazardous waste treated'
 #Z_12051_1
 'national recycling rate': 'National recycling rate'
 #Z_12051_2
@@ -970,10 +901,6 @@
 'total greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
 'german payments for international climate financing': 'German payments for international climate financing'
-#Z_14011_1
-'plastic waste on the beaches of the german north sea coast': 'Plastic waste on the beaches of the German North Sea coast'
-#Z_14011_2
-'plastic particles in fulmar stomachs': 'Plastic particles in fulmar stomachs'
 #Z_14021_1
 'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Existence of maritime spatial plans for the Exclusive Economic Zone (EEZ) and an integrated coastal zone management (ICZM)'
 #Z_14031_1
@@ -1029,29 +956,27 @@
 #Z_15051_1
 '"red list" index': '"Red List" Index'
 #Z_15061_1
-'1) countries that are contracting parties to the international treaty on pgrfa': '1) Countries that are contracting Parties to the International Treaty on PGRFA'
+'1) countries that are contracting parties to the international treaty on plant genetic resources for food and agriculture (pgrfa)': '1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)'
 #Z_15061_2
 '2) countries that are parties to the nagoya protocol': '2) Countries that are parties to the Nagoya Protocol'
 #Z_15061_3
-'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa': '3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA'
+'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on plant genetic resources for food and agriculture (pgrfa)': '3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)'
 #Z_15061_4
-'4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
+'4) countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
 #Z_15061_5
-'5) total reported number of smtas transferring pgrfa to germany': '5) Total reported number of SMTAs transferring PGRFA to Germany'
+'5) total reported number of standard material transfer agreements (smtas) transferring plant genetic resources for food and agriculture to germany': '5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to Germany'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 #Z_15071_2
 'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
-#Z_15071_3
-'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
 #Z_15081_1
-'a) national legislation and policy relevant to ias': 'a) National legislation and policy relevant to IAS'
+'national legislation and policy relevant to ias': 'National legislation and policy relevant to IAS'
 #Z_15081_2
-'b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'b) Align the NBSAP targets with Aichi Target 9 of the Strategic Plan for Biodiversity'
+'align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'Align the NBSAP targets with Aichi Target 9 of the Strategic Plan for Biodiversity'
 #Z_15091_1
-'(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': '(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
+'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 #Z_15091_2
-'(b) implementation of the principles of biodiversity in the seea': '(b) Implementation of the principles of biodiversity in the SEEA'
+'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
 #Z_15101_1
 'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
@@ -1168,6 +1093,12 @@
 'hours worked by persons employed': 'Hours worked by persons employed'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Labour productivity per hour worked by employee'
+#Z_17151_1
+'objectives': 'Objectives'
+#Z_17151_2
+'indicators': 'Indicators'
+#Z_17151_3
+'data': 'Data'
 #Z_17151_4
 'country-owned results frameworks and planning tools': 'Country-owned results frameworks and planning tools'
 #Z_17161_1
@@ -1176,8 +1107,6 @@
 'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'ODA (commitments) to public-private partnerships (PPP) for infrastructure'
 #Z_17171_2
 'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure'
-#Z_17181_1
-'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Sustainable development indicators with achieved disaggregation when relevant to the indicator title'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
 #Z_17191_1
@@ -1202,31 +1131,27 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'+++symbols': 'Explanation of symbols'
-'+++0': 'Less than half of 1 in the last position filled, but more than nothing'
-'+++-': 'not available'
-'+++…': 'Information is due later'
-'+++/': 'no data because the numerical value is not sufficiently reliable'
-'+++.': 'Numerical value unknown or to be kept secret'
-'+++X': 'cell blocked for logical reasons'
-'+++( )': 'limited informational value because numerical value is of limited statistical reliability'
-'+++|': 'fundamental change within a series affecting comparisons over time'
-'+++p': 'preliminary'
-'+++r': 'revised'
-'+++s': 'estimated'
-'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
-'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
-'energy and water industry, trade, services': 'Energy and water industry, trade, services'
-'financial economy': 'Financial economy'
-'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
-'renewable energy in total final energy consumption': 'Renewable energy in total final energy consumption'
-'renewable energy in gross final energy consumption': 'Renewable energy in gross final energy consumption'
-'branches of payment service providers': 'Branches of payment service providers'
-'atms of national payment service providers': 'ATMs of national payment service providers'
-'hazardous waste generated per capita': 'Hazardous waste generated per capita'
-'hazardous waste treated': 'Hazardous waste treated'
-'+++x': 'Table compartment locked because statement does not make sense'
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
-'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
-'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
-'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
+'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
+'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
+'classification': 'Classification'
+'frequency': 'Frequency'
+'country of citizenship': 'Country of citizenship'
+'income quintile': 'Income quintile'
+'items': 'Items'
+'marital status': 'Marital status'
+'migratory status': 'Migratory status'
+'unit multiplicator': 'Unit multiplicator'
+'observation status': 'Observation status'
+'organisational form': 'Organisational form'
+'product type': 'Product type'
+'reporting type': 'Reporting type'
+'theme': 'Theme'
+'topic': 'Topic'
+'type of water body': 'Type of water body'
+'water use efficiency': 'Water use efficiency'
+'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
+'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
