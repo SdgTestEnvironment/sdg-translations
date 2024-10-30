@@ -530,7 +530,7 @@
 '+++…': Angabe fällt später an
 '+++/': keine Angaben, da Zahlenwert nicht sicher genug
 '+++.': Zahlenwert unbekannt oder geheim zu halten
-'+++X': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
+'+++x': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
 '+++( )': Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist
 '+++|': grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt
 '+++p': vorläufige Zahl

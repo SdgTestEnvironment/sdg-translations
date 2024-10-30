@@ -530,7 +530,7 @@
 '+++…': data will be available later
 '+++/': no data because the numerical value is not sufficiently reliable
 '+++.': numerical value unknown or not be disclosed
-'+++X': cell blocked for logical reasons
+'+++x': cell blocked for logical reasons
 '+++( )': limited informational value because numerical value is of limited statistical reliability
 '+++|': fundamental change within a series affecting comparisons over time
 '+++p': provisional data
@@ -1208,13 +1208,14 @@ area2: Area
 '+++…': 'data will be available later'
 '+++/': 'no data because the numerical value is not sufficiently reliable'
 '+++.': 'numerical value unknown or not be disclosed'
-'+++X': 'cell blocked for logical reasons'
+'+++x': 'cell blocked for logical reasons'
 '+++( )': 'limited informational value because numerical value is of limited statistical reliability'
 '+++|': 'fundamental change within a series affecting comparisons over time'
 '+++p': 'provisional data'
 '+++r': 'revised data'
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
+'+++X': 'cell blocked for logical reasons'
 'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
 'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
 'energy and water industry, trade, services': 'Energy and water industry, trade, services'
