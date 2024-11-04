@@ -523,6 +523,20 @@
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
 
+#Data notes
++++symbols: Explanation of symbols
+'+++0': less than half of 1 in the last digit occupied, but more than zero
+'+++‒': no figures or magnitude zero
+'+++…': data will be available later
+'+++/': no data because the numerical value is not sufficiently reliable
+'+++.': numerical value unknown or not be disclosed
+'+++x': cell blocked for logical reasons
+'+++( )': limited informational value because numerical value is of limited statistical reliability
+'+++|': fundamental change within a series affecting comparisons over time
+'+++p': provisional data
+'+++r': revised data
+'+++s': estimated data
+
 #Time series
 #Z_01021_1a
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
@@ -1188,51 +1202,18 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'watt per capita': 'Watt per capita'
-'facilities': 'Facilities'
-'legislation': 'Legislation'
 'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
-'a) schools with access to electricity': 'a) Schools with access to electricity'
-'e) schools with access to basic drinking water': 'e) Schools with access to basic drinking water'
-'f) schools with access to single-sex basic sanitation facilities': 'f) Schools with access to single-sex basic sanitation facilities'
-'g) schools with access to basic handwashing facilities': 'g) Schools with access to basic handwashing facilities'
+'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
+'energy and water industry, trade, services': 'Energy and water industry, trade, services'
+'financial economy': 'Financial economy'
 'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
-'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
-'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
-'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
 'renewable energy in total final energy consumption': 'Renewable energy in total final energy consumption'
 'renewable energy in gross final energy consumption': 'Renewable energy in gross final energy consumption'
 'branches of payment service providers': 'Branches of payment service providers'
 'atms of national payment service providers': 'ATMs of national payment service providers'
-'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
-'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
-'victims of physical harassment': 'Victims of physical harassment'
 'hazardous waste generated per capita': 'Hazardous waste generated per capita'
 'hazardous waste treated': 'Hazardous waste treated'
-'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
-'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
-'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
-'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
-'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture'
-'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House'
-'number of standard material transfer agreements (smtas)': 'Number of Standard Material Transfer Agreements (SMTAs)'
-'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
-'classification': 'Classification'
-'frequency': 'Frequency'
-'country of citizenship': 'Country of citizenship'
-'income quintile': 'Income quintile'
-'items': 'Items'
-'marital status': 'Marital status'
-'migratory status': 'Migratory status'
-'unit multiplicator': 'Unit multiplicator'
-'observation status': 'Observation status'
-'organisational form': 'Organisational form'
-'product type': 'Product type'
-'reporting type': 'Reporting type'
-'theme': 'Theme'
-'topic': 'Topic'
-'type of water body': 'Type of water body'
-'water use efficiency': 'Water use efficiency'
-'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
-'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
+'lakes and rivers permanent water area as a proportion of total land area': 'Lakes and rivers permanent water area as a proportion of total land area'
+'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
+'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
