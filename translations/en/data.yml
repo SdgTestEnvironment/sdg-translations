@@ -536,6 +536,7 @@
 '+++p': provisional data
 '+++r': revised data
 '+++s': estimated data
+'+++-': no figures or magnitude zero
 
 #Time series
 #Z_01021_1a
