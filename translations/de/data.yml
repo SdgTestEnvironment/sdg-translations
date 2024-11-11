@@ -76,7 +76,7 @@
 'stages of the food chain': 'Stufen der Lebensmittelkette'
 'economic activity': 'Wirtschaftszweig'
 'ecosystem': 'Ökosystem'
-'education level': 'Ausbildungsgrad'
+'educational level': 'Bildungsstand'
 'ownership': 'Eigentumsverhältnis'
 'enterprise definition': 'Unternehmensdefinition'
 'type of service': 'Versorgungsleistung'
@@ -256,9 +256,9 @@
 'lakes and rivers permanent water area': 'Permanente Wasserfläche der Seen und Flüsse'
 'wetlands area': 'Feuchtgebiete'
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Abschluss eines Bachelor- oder gleichwertigen Studiums oder eines Master- oder gleichwertigen Studiums oder höher'
-'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
+'lower secondary education (isced level 2)': 'Sekundarstufe I (ISCED-Stufe 2)'
 'primary school completed': 'Abgeschlossene Grundschulausbildung'
-'upper secondary school completed': 'Abgeschlossene Sekundarstufe II'
+'upper secondary education (isced level 3)': 'Sekundarstufe II (ISCED-Stufe 3)'
 'b) at the end of primary education': 'b) Am Ende der Grundschule'
 'c) at the end of lower secondary education': 'c) Am Ende der Sekundarstufe I'
 'property': 'Eigentum'
@@ -678,7 +678,7 @@
 #Z_04011_1
 'children and youths with a minimum proficiency in reading or mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
 #Z_04012_1
-'completion rate': 'Schulabschlussquote'
+'completion rate': 'Abschlussquote'
 #Z_04022_1
 'children in child day care at the age of 5': 'Kinder in Kindertagesbetreuung im Alter von 5 Jahren'
 #Z_04031_1
@@ -1209,6 +1209,9 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'education level': 'Ausbildungsgrad'
+'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
+'upper secondary school completed': 'Abgeschlossene Sekundarstufe II'
 'upper secondary school completed and post-secondary non-tertiary education': 'Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung'
 'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
 'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'

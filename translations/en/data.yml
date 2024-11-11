@@ -76,7 +76,7 @@
 'stages of the food chain': 'Stages of the food chain'
 'economic activity': 'Economic activity'
 'ecosystem': 'Ecosystem'
-'education level': 'Education level'
+'educational level': 'Educational level'
 'ownership': 'Ownership'
 'enterprise definition': 'Enterprise definition'
 'type of service': 'Type of service'
@@ -256,9 +256,9 @@
 'lakes and rivers permanent water area': 'Lakes and rivers permanent water area'
 'wetlands area': 'Wetlands area'
 'bachelor/equivalent degree completed and masters/equivalent degree or above': 'Bachelor/equivalent degree completed and masters/equivalent degree or above'
-'lower secondary school completed': 'Lower secondary school completed'
+'lower secondary education (isced level 2)': 'Lower secondary education (ISCED level 2)'
 'primary school completed': 'Primary school completed'
-'upper secondary school completed': 'Upper secondary school completed'
+'upper secondary education (isced level 3)': 'Upper secondary education (ISCED level 3)'
 'b) at the end of primary education': 'b) At the end of primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
 'property': 'Property'
@@ -1203,6 +1203,9 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'education level': 'Education level'
+'lower secondary school completed': 'Lower secondary school completed'
+'upper secondary school completed': 'Upper secondary school completed'
 'upper secondary school completed and post-secondary non-tertiary education': 'Upper secondary school completed and post-secondary non-tertiary education'
 'housing, urban development, spatial planning and municipal community services': 'Housing, urban development, spatial planning and municipal community services'
 'energy and water industry, trade, services': 'Energy and water industry, trade, services'
