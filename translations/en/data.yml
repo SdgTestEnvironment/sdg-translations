@@ -538,6 +538,7 @@
 '+++r': revised data
 '+++s': estimated data
 '+++-': no figures or magnitude zero
+'+++X': cell blocked for logical reasons
 
 #Time series
 #Z_01021_1a
