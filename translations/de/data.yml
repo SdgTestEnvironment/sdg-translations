@@ -205,6 +205,7 @@
 'area 2: violence against women': 'Bereich 2: Gewalt gegen Frauen'
 'area 3: employment and economic benefit': 'Bereich 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'area 4: marriage and family': 'Bereich 4: Ehe und Familie'
+'population who had the impression that public officials are corruptible': 'Bevölkerung, die den Eindruck hatte, das Beschäftigte des öffentlichen Dienstes bestechlich waren'
 'upper bound': 'Obere Grenze'
 'lower bound': 'Untere Grenze'
 'victim of avalanche, landslide and other earth movements': 'Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen'
@@ -1042,7 +1043,7 @@
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
-'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
+'seizures by customs authorities concerning the protection of species': 'Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes'
 #Z_15071_3
 'authorized imports and exports of protected species': 'Genehmigte Ein- und Ausfuhren geschützter Arten'
 #Z_15081_1
@@ -1209,6 +1210,20 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'+++symbols': 'Zeichenerklärung'
+'+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
+'+++‒': 'nichts vorhanden'
+'+++…': 'Angabe fällt später an'
+'+++/': 'keine Angaben, da Zahlenwert nicht sicher genug'
+'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
+'+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'+++( )': 'Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist'
+'+++|': 'grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt'
+'+++p': 'vorläufige Zahl'
+'+++r': 'berichtigte Zahl'
+'+++s': 'geschätzte Zahl'
+'+++-': 'nichts vorhanden'
+'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
 'education level': 'Ausbildungsgrad'
 'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
 'upper secondary school completed': 'Abgeschlossene Sekundarstufe II'
