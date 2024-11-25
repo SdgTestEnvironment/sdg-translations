@@ -733,8 +733,6 @@
 'mobile penetration rate': 'Mobile penetration rate'
 #Z_05081_2
 'private households with at least one mobile phone': 'Private households with at least one mobile phone'
-#Z_06011_1
-'population using safely managed drinking water services': 'Population using safely managed drinking water services'
 #Z_06011_2
 'population connected to the public water supply system': 'Population connected to the public water supply system'
 #Z_06021_1
@@ -1218,6 +1216,8 @@ area2: Area
 '+++r': 'revised data'
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
+'+++X': 'cell blocked for logical reasons'
+'population using safely managed drinking water services': 'Population using safely managed drinking water services'
 'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
 'education level': 'Education level'
 'lower secondary school completed': 'Lower secondary school completed'

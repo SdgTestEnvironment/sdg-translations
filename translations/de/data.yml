@@ -733,8 +733,6 @@
 'mobile penetration rate': 'Penetrationsrate Mobilfunk'
 #Z_05081_2
 'private households with at least one mobile phone': 'Privathaushalte mit mindestens einem Mobiltelefon'
-#Z_06011_1
-'population using safely managed drinking water services': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
 #Z_06011_2
 'population connected to the public water supply system': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
@@ -1224,6 +1222,8 @@ area2: Bereich
 '+++r': 'berichtigte Zahl'
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
+'+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'population using safely managed drinking water services': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
 'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
 'education level': 'Ausbildungsgrad'
 'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
