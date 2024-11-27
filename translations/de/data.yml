@@ -448,6 +448,8 @@
 'alcohol and other psychoactive substances': 'Alkohol und andere psychoaktive Substanzen'
 'alcohol and other psychoactive substances (other psychoactive substances)': 'Alkohol und andere psychoaktive Substanzen (andere psychoaktive Substanzen)'
 'alcohol and other psychoactive substances (alcohol)': 'Alkohol und andere psychoaktive Substanzen (Alkohol)'
+'national taxes': 'Steuern'
+'national taxes and insurance contributions': 'Steuern und Sozialversicherungsausgaben'
 '3g': '3G'
 'lte': 'LTE'
 '5g': '5G'
@@ -537,8 +539,6 @@
 '+++p': vorläufige Zahl
 '+++r': berichtigte Zahl
 '+++s': geschätzte Zahl
-'+++-': nichts vorhanden
-'+++X': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
 
 #Zeitreihen
 #Z_01021_1a
@@ -716,9 +716,9 @@
 #Z_05051_4
 'women in b) local governments': 'Frauen in b) Gemeinden'
 #Z_05051_6
-'proportion of women in national parliaments and local governments': 'Frauenanteil in nationalen Parlamenten und Gemeinden'
+'women in a) national parliaments and b) local governments': 'Frauen in nationalen Parlamenten und Gemeinden'
 #Z_05052_1
-'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
+'women in managerial positions': 'Frauen in Führungspositionen'
 #Z_05062_1
 'access to sexual and reproductive health care, information and education': 'Zugang zu sexuellen und reproduktiven Gesundheitsleistungen, Informationen und Bildung'
 #Z_05071_1
@@ -758,7 +758,7 @@
 #Z_06051_1
 'degree of integrated water resources management implementation': 'Grad der Implementierung eines integrierten Wasserressourcenmanagements'
 #Z_06052_1
-'transboundary basin area with an operational arrangement for water cooperation': 'Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation'
+'transboundary basin area with an operational arrangement for water cooperation': 'Grenzüberschreitende Wassereinzugsgebiete mit einer operativen Vereinbarung zur Wasserkooperation'
 #Z_06061_7
 'area': 'Fläche'
 #Z_06061_8
@@ -794,7 +794,7 @@
 #Z_08042_2
 'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
 #Z_08051_1
-'average hourly earnings of employees': 'Durchschnittlicher Stundenverdienst Beschäftigter'
+'average hourly earnings of employees': 'Durchschnittlicher Stundenverdienst von Beschäftigten'
 #Z_08051_2
 'gender pay gap': 'Verdienstabstand'
 #Z_08052_1
@@ -846,9 +846,9 @@
 #Z_09041_2
 'co₂ emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
 #Z_09051_1
-'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
+'research and developmant expenditure as a proportion of gdp': 'Ausgaben für Forschung und Entwicklung im Verhältnis zum BIP'
 #Z_09052_1
-'persons working in r&d in full-time equivalents': 'In F&E tätige Personen  in Vollzeitäquivalenten'
+'persons working in research and development (in full-time equivalents)': 'In Forschung und Entwicklung tätige Personen (in Vollzeitäquivalenten)'
 #Z_09061_1
 'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 #Z_09061_2
@@ -1124,9 +1124,9 @@
 #Z_17011_1
 'proportion of total government revenue to gdp': 'Verhältnis der Gesamteinnahmen des Staates zum BIP'
 #Z_17012_1
-'proportion of domestic expenditures funded by national taxes': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'
+'financing of domestic expenditures funded by national taxes': 'Finanzierung der Staatsausgaben durch Steuern'
 #Z_17012_2
-'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsabgaben finanziert werden'
+'financing of domestic expenditures funded by national taxes and insurance contributions': 'Finanzierung der Staatsausgaben durch Steuern und Sozialversicherungsabgaben'
 #Z_17021_1
 'proportion of oda (net disbursements) to gni': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE'
 #Z_17021_2
@@ -1180,11 +1180,11 @@
 #Z_17181_1
 'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Indikatoren für nachhaltige Entwicklung mit den im Indikatorentitel geforderten Disaggregationen'
 #Z_17182_1
-'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
+'national implementation of statistical legislation that is consistent with the fundamental principles of offical statistics in germany': 'Nationale Umsetzung statistischer Gesetzgebung, die mit den Grundsätzen der amtlichen Statistik in Deutschland übereinstimmt'
 #Z_17191_1
-'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten'
+'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zur Stärkung statistischer Kapazitäten'
 #Z_17191_2
-'oda and oof (gross disbursements) to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten'
+'oda and oof (gross disbursements) to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zur Stärkung statistischer Kapazitäten'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 #Z_17192_2
@@ -1209,37 +1209,62 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'+++symbols': 'Zeichenerklärung'
-'+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
-'+++‒': 'nichts vorhanden'
-'+++…': 'Angabe fällt später an'
-'+++/': 'keine Angaben, da Zahlenwert nicht sicher genug'
-'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
-'+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
-'+++( )': 'Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist'
-'+++|': 'grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt'
-'+++p': 'vorläufige Zahl'
-'+++r': 'berichtigte Zahl'
-'+++s': 'geschätzte Zahl'
-'+++-': 'nichts vorhanden'
-'+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
-'population using safely managed drinking water services': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
-'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
+'watt per capita': 'Watt pro Kopf'
 'education level': 'Ausbildungsgrad'
+'facilities': 'Ausstattung'
+'legislation': 'Rechtsvorschrift'
 'lower secondary school completed': 'Abgeschlossene Sekundarstufe I'
-'upper secondary school completed': 'Abgeschlossene Sekundarstufe II'
 'upper secondary school completed and post-secondary non-tertiary education': 'Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung'
-'housing, urban development, spatial planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
-'energy and water industry, trade, services': 'Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen'
-'financial economy': 'Finanzwirtschaft'
+'a) schools with access to electricity': 'a) Schulen mit Zugang zu Elektrizität'
+'e) schools with access to basic drinking water': 'e) Schulen mit Zugang zu Trinkwasser'
+'f) schools with access to single-sex basic sanitation facilities': 'f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen'
+'g) schools with access to basic handwashing facilities': 'g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen'
 'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+'proportion of women in national parliaments and local governments': 'Frauenanteil in nationalen Parlamenten und Gemeinden'
+'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
+'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
+'population using safely managed drinking water services': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
+'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
+'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
+'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
 'renewable energy in total final energy consumption': 'Erneuerbare Energien am gesamten Endenergieverbrauch'
 'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
 'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
 'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
+'oda and oof (commitments) for aid for trade': 'Zusagen (ODA und OOF) für Handelshilfe'
+'oda and oof (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe'
+'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
+'persons working in r&d in full-time equivalents': 'In F&E tätige Personen  in Vollzeitäquivalenten'
+'victims of physical harassment': 'Opfer körperlicher Belästigung'
 'hazardous waste generated per capita': 'Aufkommen gefährlicher Abfälle'
 'hazardous waste treated': 'Behandelte gefährliche Abfälle'
-'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
-'lakes and rivers permanent water area as a proportion of total land area': 'Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche'
-'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
-'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
+'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
+'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
+'implementation of the system of environmental-economic accounting (seea)': 'Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
+'proportion of domestic expenditures funded by national taxes': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'
+'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsabgaben finanziert werden'
+'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
+'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
+'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
+'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
+'classification': 'Klassifikation'
+'frequency': 'Häufigkeit'
+'country of citizenship': 'Herkunftsland'
+'income quintile': 'Einkommensquintil'
+'items': 'Probleme'
+'marital status': 'Familienstand'
+'migratory status': 'Migrationsstatus'
+'unit multiplicator': 'Einheitsmultiplikator'
+'observation status': 'Beobachtungsstatus'
+'organisational form': 'Organisationsform'
+'product type': 'Produkttyp'
+'reporting type': 'Berichtstyp'
+'theme': 'Themengebiet'
+'topic': 'Themenbereich'
+'type of water body': 'Art des Gewässers'
+'water use efficiency': 'Wassernutzungseffizienz'
+'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
+'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'
