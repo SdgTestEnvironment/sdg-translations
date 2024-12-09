@@ -97,6 +97,7 @@
 'level of proficiency': 'Level of proficiency'
 'presentation': 'Presentation'
 'level of risk of extinction': 'Level of risk of extinction'
+'score': 'Score'
 'goal': 'Goal'
 'sea': 'Sea'
 'fields of work': 'Fields of work'
@@ -384,6 +385,8 @@
 'breeding programs for preservation': 'Breeding programs for preservation'
 'rudiments remaining': 'Rudiments remaining'
 'water and sanitation': 'Water and sanitation'
+'currend status': 'Currend status'
+'trend': 'Trend'
 '1 - no poverty': '1 - No poverty'
 '10 - reduced inequalities': '10 - Reduced inequalities'
 '11 - sustainable cities and communities': '11 - Sustainable cities and communities'
@@ -585,6 +588,8 @@
 'data from the federal statistical office': 'Data from the Federal Statistical Office'
 #Z_02041_2
 'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Food and Agriculture'
+#Z_02041_3
+'progress toward productive and sustainable agriculture (proxy)': 'Progress toward productive and sustainable agriculture (proxy)'
 #Z_02051_1
 'plant genetic resources': 'Plant genetic resources'
 #Z_02051_2
@@ -862,7 +867,7 @@
 #Z_10011_3
 'growth rate of per capita income': 'Growth rate of per capita income'
 #Z_10021_1
-'population living below 50% of median income': 'Population living below 50% of median income'
+'population living below 50 % of median income': 'Population living below 50 % of median income'
 #Z_10031_1
 'population who felt discriminated in their contacts with public services in the last two years': 'Population who felt discriminated in their contacts with public services in the last two years'
 #Z_10041_1
@@ -1224,6 +1229,7 @@ area2: Area
 'population using safely managed drinking water services': 'Population using safely managed drinking water services'
 'proportion of r&d expenditures to gdp': 'Proportion of R&D expenditures to GDP'
 'persons working in r&d in full-time equivalents': 'Persons working in R&D in full-time equivalents'
+'population living below 50% of median income': 'Population living below 50% of median income'
 'seizures by authorities concerning the protection of species': 'Seizures by authorities concerning the protection of species'
 'proportion of domestic expenditures funded by national taxes': 'Proportion of domestic expenditures funded by national taxes'
 'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Proportion of domestic expenditures funded by national taxes and insurance contributions'

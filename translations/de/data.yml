@@ -97,6 +97,7 @@
 'level of proficiency': 'Leistungsniveau'
 'presentation': 'Darstellung'
 'level of risk of extinction': 'Gefährdungskategorie'
+'score': 'Punktzahl'
 'goal': 'Ziel'
 'sea': 'Meer'
 'fields of work': 'Aufgabenbereiche'
@@ -384,6 +385,8 @@
 'breeding programs for preservation': 'Erhaltungspopulationen'
 'rudiments remaining': 'Phänotypische Erhaltungspopulationen'
 'water and sanitation': 'Wasser und Sanitär'
+'currend status': 'Aktueller Satus'
+'trend': 'Trend'
 '1 - no poverty': '1 - Keine Armut'
 '10 - reduced inequalities': '10 - Weniger Ungleichheiten'
 '11 - sustainable cities and communities': '11 - Nachhaltige Städte und Gemeinden'
@@ -585,6 +588,8 @@
 'data from the federal statistical office': 'Daten des Statistischen Bundesamtes'
 #Z_02041_2
 'data from the federal ministry of food and agriculture': 'Daten des BMEL'
+#Z_02041_3
+'progress toward productive and sustainable agriculture (proxy)': 'Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)'
 #Z_02051_1
 'plant genetic resources': 'Pflanzengenetische Ressourcen'
 #Z_02051_2
@@ -862,7 +867,7 @@
 #Z_10011_3
 'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 #Z_10021_1
-'population living below 50% of median income': 'Bevölkerung, deren Einkommen weniger als 50 % des Medians beträgt'
+'population living below 50 % of median income': 'Bevölkerung, deren Einkommen weniger als 50 % des Medians beträgt'
 #Z_10031_1
 'population who felt discriminated in their contacts with public services in the last two years': 'Bevölkerung, die sich in die letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
 #Z_10041_1
@@ -1230,6 +1235,7 @@ area2: Bereich
 'population using safely managed drinking water services': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
 'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
 'persons working in r&d in full-time equivalents': 'In F&E tätige Personen  in Vollzeitäquivalenten'
+'population living below 50% of median income': 'Bevölkerung, deren Einkommen weniger als 50 % des Medians beträgt'
 'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
 'proportion of domestic expenditures funded by national taxes': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'
 'proportion of domestic expenditures funded by national taxes and insurance contributions': 'Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsabgaben finanziert werden'
