@@ -893,19 +893,19 @@
 #Z_10042_3
 'redistributive impact of fiscal policy': 'Umverteilende Wirkung der Fiskalpolitik'
 #Z_10051_1
-'capital to assets ratio': 'Eigenkapitalquote'
+'ratio of regulatory capital to all weighted risk positions': 'Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen'
 #Z_10051_2
-'regulatory tier 1 capital to risk-weighted assets': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Relation zwischen regulatori-schem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
 #Z_10051_3
-'nonperforming loans net of provisions to capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Relation zwischen notleiden-den Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
 #Z_10051_4
-'nonperforming loans net of provisions to gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+'non-performing loans to total gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
 #Z_10051_5
-'return on assets': 'Gesamtkapitalrentabilität'
+'total return on assets': 'Gesamtkapitalrentabilität'
 #Z_10051_6
-'liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+'ratio of liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
 #Z_10051_7
-'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
+'ratio of open foreign exchange position to regulatory capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 #Z_10072_1
 'state of migration policies': 'Status der Migrationspolitik'
 #Z_10073_1
@@ -1087,7 +1087,7 @@
 #Z_16012_1
 'conflict-related deaths': 'Konfliktbezogene Todesfälle'
 #Z_16013_1
-'a) population who were exposed to physical violence': 'a) Bevölkerung, die körperlicher Gewalt ausgesetzt war'
+'a) population who were exposed to physical violence': 'a) Bevölkerung, die physischer Gewalt ausgesetzt war'
 #Z_16013_4
 'c) population who were exposed to sexual violence': 'c) Bevölkerung, die sexueller Gewalt ausgesetzt war'
 #Z_16013_5
@@ -1273,6 +1273,13 @@ area2: Bereich
 'renewable energy in gross final energy consumption': 'Erneuerbare Energien am Bruttoendenergieverbrauch'
 'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
 'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
+'capital to assets ratio': 'Eigenkapitalquote'
+'regulatory tier 1 capital to risk-weighted assets': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+'nonperforming loans net of provisions to capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+'nonperforming loans net of provisions to gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+'return on assets': 'Gesamtkapitalrentabilität'
+'liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+'net open position in foreign exchange to capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 'hazardous waste generated per capita': 'Aufkommen gefährlicher Abfälle'
 'hazardous waste treated': 'Behandelte gefährliche Abfälle'
 'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'

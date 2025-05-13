@@ -893,19 +893,19 @@
 #Z_10042_3
 'redistributive impact of fiscal policy': 'Redistributive impact of fiscal policy'
 #Z_10051_1
-'capital to assets ratio': 'Capital to assets ratio'
+'ratio of regulatory capital to all weighted risk positions': 'Ratio of regulatory capital to all weighted risk positions'
 #Z_10051_2
-'regulatory tier 1 capital to risk-weighted assets': 'Regulatory Tier 1 capital to risk-weighted assets'
+'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Ratio of regulatory (tier 1) capital to all weighted risk positions'
 #Z_10051_3
-'nonperforming loans net of provisions to capital': 'Nonperforming loans net of provisions to capital'
+'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Ratio of non-performing loans (net of risk provisions) to balance sheet capital'
 #Z_10051_4
-'nonperforming loans net of provisions to gross loans': 'Nonperforming loans net of provisions to gross loans'
+'non-performing loans to total gross loans': 'Non-performing loans to total gross loans'
 #Z_10051_5
-'return on assets': 'Return on assets'
+'total return on assets': 'Total return on assets'
 #Z_10051_6
-'liquid assets to short-term liabilities': 'Liquid assets to short-term liabilities'
+'ratio of liquid assets to short-term liabilities': 'Ratio of liquid assets to short-term liabilities'
 #Z_10051_7
-'net open position in foreign exchange to capital': 'Net open position in foreign exchange to capital'
+'ratio of open foreign exchange position to regulatory capital': 'Ratio of open foreign exchange position to regulatory capital'
 #Z_10072_1
 'state of migration policies': 'State of migration policies'
 #Z_10073_1
@@ -1267,6 +1267,13 @@ area2: Area
 'renewable energy in gross final energy consumption': 'Renewable energy in gross final energy consumption'
 'branches of payment service providers': 'Branches of payment service providers'
 'atms of national payment service providers': 'ATMs of national payment service providers'
+'capital to assets ratio': 'Capital to assets ratio'
+'regulatory tier 1 capital to risk-weighted assets': 'Regulatory Tier 1 capital to risk-weighted assets'
+'nonperforming loans net of provisions to capital': 'Nonperforming loans net of provisions to capital'
+'nonperforming loans net of provisions to gross loans': 'Nonperforming loans net of provisions to gross loans'
+'return on assets': 'Return on assets'
+'liquid assets to short-term liabilities': 'Liquid assets to short-term liabilities'
+'net open position in foreign exchange to capital': 'Net open position in foreign exchange to capital'
 'hazardous waste generated per capita': 'Hazardous waste generated per capita'
 'hazardous waste treated': 'Hazardous waste treated'
 'degree to which women are guaranteed equal rights to land ownership and/or control': 'Degree to which women are guaranteed equal rights to land ownership and/or control'
