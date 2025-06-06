@@ -123,6 +123,8 @@
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
+'type of sexual violence': 'Type of sexual violence'
+'tpype of physical violence': 'Tpype of physical violence'
 'type of unpaid work': 'Type of unpaid work'
 'degree of urbanisation': 'Degree of urbanisation'
 'type of waste treatment': 'Type of waste treatment'
@@ -526,6 +528,9 @@
 'towns and suburbs': 'Towns and suburbs'
 'cities': 'Cities'
 'urban': 'Urban'
+'physical sexual assault': 'Physical sexual assault'
+'physical assault': 'Physical assault'
+'robbery': 'Robbery'
 'care work': 'Care work'
 'domestic work': 'Domestic work'
 'domestic and care work': 'Domestic and care work'
@@ -1091,11 +1096,11 @@
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
 #Z_16013_1
-'a) population who were exposed to physical violence': 'a) Population who were exposed to physical violence'
+'a) physical violence': 'a) Physical violence'
 #Z_16013_4
-'c) population who were exposed to sexual violence': 'c) Population who were exposed to sexual violence'
+'b) psychological violence': 'b) Psychological violence'
 #Z_16013_5
-'b) population who were exposed to psychological violence': 'b) Population who were exposed to psychological violence'
+'c) sexual violence': 'c) Sexual violence'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
 #Z_16014_2
@@ -1107,13 +1112,11 @@
 #Z_16022_1
 'victims of human trafficking': 'Victims of human trafficking'
 #Z_16031_1
-'reporting rate for physical assault': 'Reporting rate for physical assault'
-#Z_16031_2
-'reporting rate for robbery': 'Reporting rate for robbery'
+'b) reporting rate for physical violence': 'b) Reporting rate for physical violence'
 #Z_16031_3
-'reporting rate for psychological violence': 'Reporting rate for psychological violence'
+'b) reporting rate for psychological violence': 'b) Reporting rate for psychological violence'
 #Z_16031_4
-'reporting rate for sexual violence': 'Reporting rate for sexual violence'
+'c) reporting rate for sexual violence': 'c) Reporting rate for sexual violence'
 #Z_16032_1
 'unsentenced detainees': 'Unsentenced detainees'
 #Z_16033_1
@@ -1248,6 +1251,8 @@ area2: Area
 'population who were victims of criminal offences': 'Population who were victims of criminal offences'
 'victims of criminal offences': 'Victims of criminal offences'
 'population who were exposed to sexual violence': 'Population who were exposed to sexual violence'
+'reporting rate for physical assault': 'Reporting rate for physical assault'
+'reporting rate for robbery': 'Reporting rate for robbery'
 'proportion of women in national parliaments and local governments': 'Proportion of women in national parliaments and local governments'
 'proportion of women in managerial positions': 'Proportion of women in managerial positions'
 'population using safely managed drinking water services': 'Population using safely managed drinking water services'
