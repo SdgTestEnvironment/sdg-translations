@@ -606,7 +606,7 @@
 #Z_02041_1
 'data from the federal statistical office': 'Daten des Statistischen Bundesamtes'
 #Z_02041_2
-'data from the federal ministry of food and agriculture': 'Daten des BMEL'
+'data from the federal ministry of agriculture, food and community': 'Daten des BMELH'
 #Z_02041_3
 'progress toward productive and sustainable agriculture (proxy)': 'Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)'
 #Z_02051_1
@@ -1259,6 +1259,7 @@ area2: Bereich
 'population who were exposed to sexual violence': 'Bevölkerung, die sexueller Gewalt ausgesetzt war'
 'reporting rate for physical assault': 'Anzeigequote bei Körperverletzung'
 'reporting rate for robbery': 'Anzeigequote bei Raub'
+'data from the federal ministry of food and agriculture': 'Daten des BMEL'
 'proportion of women in national parliaments and local governments': 'Frauenanteil in nationalen Parlamenten und Gemeinden'
 'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
 'population using safely managed drinking water services': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
