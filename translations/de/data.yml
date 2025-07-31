@@ -398,7 +398,7 @@
 'breeding programs for preservation': 'Erhaltungspopulationen'
 'rudiments remaining': 'Phänotypische Erhaltungspopulationen'
 'water and sanitation': 'Wasser und Sanitär'
-'currend status': 'Aktueller Stand'
+'current status': 'Aktueller Stand'
 'trend': 'Trend'
 '1 - no poverty': '1 - Keine Armut'
 '10 - reduced inequalities': '10 - Weniger Ungleichheiten'
@@ -967,9 +967,9 @@
 #Z_11072_2
 'victims of sexual harassment': 'Opfer sexueller Belästigung'
 #Z_11072_3
-'at-risk-of-victimisation rate of non-sexual harassment': 'Opfergefährdungszahl nicht-sexueller Belästigung'
+'number of victims per 100,000 of non-sexual harassment': 'Opfergefährdungszahl nicht-sexueller Belästigung'
 #Z_11072_4
-'at-risk-of-victimisation rate of sexual harassment': 'Opfergefährdungszahl sexueller Belästigung'
+'number of victims per 100,000 of sexual harassment': 'Opfergefährdungszahl sexueller Belästigung'
 #Z_12031_1
 '(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
@@ -1113,7 +1113,7 @@
 #Z_16022_1
 'victims of human trafficking': 'Opfer von Menschenhandel'
 #Z_16031_1
-'b) reporting rate for physical violence': 'a) Anzeigequote bei physischer Gewalt'
+'a) reporting rate for physical violence': 'a) Anzeigequote bei physischer Gewalt'
 #Z_16031_3
 'b) reporting rate for psychological violence': 'b) Anzeigequote bei psychischer Gewalt'
 #Z_16031_4
@@ -1240,7 +1240,7 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'tpype of physical violence': 'Art der physischen Gewalt'
+'currend status': 'Aktueller Stand'
 '+++symbols': 'Zeichenerklärung'
 '+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
 '+++‒': 'nichts vorhanden'
@@ -1255,6 +1255,7 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'tpype of physical violence': 'Art der physischen Gewalt'
 'population who were exposed to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
 'population who were victims of criminal offences': 'Bevölkerung, die Opfer einer Straftat war'
 'victims of criminal offences': 'Opfer von Straftaten'

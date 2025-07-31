@@ -398,7 +398,7 @@
 'breeding programs for preservation': 'Breeding programs for preservation'
 'rudiments remaining': 'Rudiments remaining'
 'water and sanitation': 'Water and sanitation'
-'currend status': 'Currend status'
+'current status': 'Current status'
 'trend': 'Trend'
 '1 - no poverty': '1 - No poverty'
 '10 - reduced inequalities': '10 - Reduced inequalities'
@@ -967,9 +967,9 @@
 #Z_11072_2
 'victims of sexual harassment': 'Victims of sexual harassment'
 #Z_11072_3
-'at-risk-of-victimisation rate of non-sexual harassment': 'At-risk-of-victimisation rate of non-sexual harassment'
+'number of victims per 100,000 of non-sexual harassment': 'Number of victims per 100,000 of non-sexual harassment'
 #Z_11072_4
-'at-risk-of-victimisation rate of sexual harassment': 'At-risk-of-victimisation rate of sexual harassment'
+'number of victims per 100,000 of sexual harassment': 'Number of victims per 100,000 of sexual harassment'
 #Z_12031_1
 '(b) food waste index': '(b) food waste index'
 #Z_12041_1
@@ -1113,7 +1113,7 @@
 #Z_16022_1
 'victims of human trafficking': 'Victims of human trafficking'
 #Z_16031_1
-'b) reporting rate for physical violence': 'b) Reporting rate for physical violence'
+'a) reporting rate for physical violence': 'a) Reporting rate for physical violence'
 #Z_16031_3
 'b) reporting rate for psychological violence': 'b) Reporting rate for psychological violence'
 #Z_16031_4
@@ -1234,7 +1234,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'tpype of physical violence': 'Tpype of physical violence'
+'currend status': 'Currend status'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1249,6 +1249,7 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'tpype of physical violence': 'Tpype of physical violence'
 'population who were exposed to physical violence': 'Population who were exposed to physical violence'
 'population who were victims of criminal offences': 'Population who were victims of criminal offences'
 'victims of criminal offences': 'Victims of criminal offences'
