@@ -1253,7 +1253,6 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'currend status': 'Currend status'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1268,6 +1267,7 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'currend status': 'Currend status'
 'tpype of physical violence': 'Tpype of physical violence'
 'population who were exposed to physical violence': 'Population who were exposed to physical violence'
 'population who were victims of criminal offences': 'Population who were victims of criminal offences'
