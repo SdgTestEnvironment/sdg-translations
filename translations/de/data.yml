@@ -38,6 +38,7 @@
 'million usd, constant prices (2023)': 'Millionen USD, konstante Preise (2023)'
 'no unit': 'Keine Einheit'
 'number': 'Anzahl'
+'number in full-time equivalents': 'Anzahl in Vollzeitäquivalenten'
 'number of pieces of platic waste per 100 meters of beach length': 'Anzahl der Müllteile aus Plastik pro 100 m Küstenlinie'
 'per 100 inhabitants': 'Je 100 Einwohner/-innen'
 'per 1,000 inhabitants': 'Je 1 000 Einwohner/-innen'
@@ -116,6 +117,7 @@
 'technology': 'Technologie'
 'technology sectors': 'Technologiesektoren'
 'thematic area': 'Themenbereich'
+'tourism industries': 'Tourismuswirtschaftsbereich'
 'mode of transport': 'Verkehrsträger'
 'disease': 'Erkrankung'
 'form of abuse': 'Form der Misshandlung'
@@ -477,6 +479,17 @@
 'section 4: hiv and hpv': 'Bereich 4: HIV und HPV'
 'housing conditions': 'Wohnverhältnisse'
 'housing deprivation': 'Deprivation der Unterkunft'
+'sports and recreational activities': 'Sport und Freizeitaktivitäten'
+'accommodation for visitors: hotels and similar establishments': 'Beherbergung von Besuchern: Hotels und ähnliche Einrichtungen'
+'accommodation for visitors: other': 'Beherbergung von Besuchern: Sonstige'
+'food and beverage serving activities': 'Speisen und sonstige Verpflegungsdienstleistungen'
+'railway passenger transport': 'Personenbeförderung im Eisenbahnfernverkehr'
+'road passenger transport': 'Personenbeförderung im Straßenverkehr'
+'water passenger transport': 'Personenbeförderung in der Schifffahrt'
+'air passenger transport': 'Personenbeförderung in der Luftfahrt'
+'transport equipment rental': 'Vermietung von Transportmitteln'
+'travel agencies and other reservation service activities': 'Reisebüros und sonstige Reservierungsdienstleistungen'
+'cultural activities': 'Kulturelle Aktivitäten'
 'inland waterway transport': 'Binnenschifffahrt'
 'rail transport': 'Eisenbahnverkehr'
 'air transport': 'Luftverkehr'
@@ -838,6 +851,12 @@
 'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Grad der nationalen Einhaltung der Arbeitsrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationalen Gesetzesgrundlagen'
 #Z_08091_1
 'gross value added of the tourism industry': 'Bruttowertschöpfung im Tourismusbereich'
+#Z_08092_1
+'employed persons': 'Erwerbstätige'
+#Z_08092_2
+'employees': 'Beschäftigte'
+#Z_08092_3
+'employees jobs (in full-time equivalent)': 'Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)'
 #Z_08101_1
 'a) branches of payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2

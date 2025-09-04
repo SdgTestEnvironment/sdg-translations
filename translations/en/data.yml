@@ -38,6 +38,7 @@
 'million usd, constant prices (2023)': 'Million USD, constant prices (2023)'
 'no unit': 'No unit'
 'number': 'Number'
+'number in full-time equivalents': 'Number in full-time equivalents'
 'number of pieces of platic waste per 100 meters of beach length': 'Number of pieces of platic waste per 100 meters of beach length'
 'per 100 inhabitants': 'Per 100 inhabitants'
 'per 1 000 inhabitants': 'Per 1 000 inhabitants'
@@ -116,6 +117,7 @@
 'technology': 'Technology'
 'technology sectors': 'Technology sectors'
 'thematic area': 'Thematic area'
+'tourism industries': 'Tourism Industries'
 'mode of transport': 'Mode of transport'
 'disease': 'Disease'
 'form of abuse': 'Form of abuse'
@@ -477,6 +479,17 @@
 'section 4: hiv and hpv': 'Section 4: HIV and HPV'
 'housing conditions': 'Housing conditions'
 'housing deprivation': 'Housing deprivation'
+'sports and recreational activities': 'Sports and Recreational activities'
+'accommodation for visitors: hotels and similar establishments': 'Accommodation for visitors: hotels and similar establishments'
+'accommodation for visitors: other': 'Accommodation for visitors: other'
+'food and beverage serving activities': 'Food and beverage serving activities'
+'railway passenger transport': 'Railway passenger transport'
+'road passenger transport': 'Road passenger transport'
+'water passenger transport': 'Water passenger transport'
+'air passenger transport': 'Air passenger transport'
+'transport equipment rental': 'Transport equipment rental'
+'travel agencies and other reservation service activities': 'Travel agencies and other reservation service activities'
+'cultural activities': 'Cultural activities'
 'inland waterway transport': 'Inland waterway transport'
 'rail transport': 'Rail transport'
 'air transport': 'Air transport'
@@ -838,6 +851,12 @@
 'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation'
 #Z_08091_1
 'gross value added of the tourism industry': 'Gross value added of the tourism industry'
+#Z_08092_1
+'employed persons': 'Employed persons'
+#Z_08092_2
+'employees': 'Employees'
+#Z_08092_3
+'employees jobs (in full-time equivalent)': 'Employees jobs (in full-time equivalent)'
 #Z_08101_1
 'a) branches of payment service providers': 'a) Branches of payment service providers'
 #Z_08101_2
