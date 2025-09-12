@@ -1,4 +1,4 @@
-file_size: ZIP file. Size
+file_size: <u>Download all data (.zip):</u><br>File size
 heading: Indicators of the UN Sustainable Development Goals
 heading_dns: "Sustainable Development in Germany"
 # instructions: Click on each goal, or %before_link search, %after_link
@@ -8,7 +8,7 @@ indstructions_dns: Click on each goal for the indicators of the German Sustainab
 link_18_title: Click here to get to the DESTATIS page about the German Sustainable Development Strategy
 
 instructions: Click on each goal for the indicators of the UN Sustainable Development Goals for Germany.
-download_all: Download all data
+download_all: ""
 zip_file: ZIP file
 intro_title: 17 goals to transform our world
 joint_action_text: The Federal Statistical Office is part of the

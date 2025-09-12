@@ -1,10 +1,10 @@
-file_size: ZIP Datei. Größe
+file_size: <u>Alle Daten herunterladen (.zip):</u><br>Dateigröße
 heading: "Indikatoren der UN-Nachhaltigkeitsziele"
 heading_dns: "Indikatoren der Deutschen Nachhaltigkeitsstrategie"
 instructions_dns: Klicken Sie auf die einzelnen Ziele, um die Indikatoren der Deutschen Nachhaltigkeitsstrategie aufzurufen.
 link_18_title: Klicken Sie hier, um zur DESTATIS Seite der Deutschen Nachhaltigkeitsstrategie zu gelangen
 instructions: Klicken Sie auf die einzelnen Ziele, um die Indikatoren der UN-Nachhaltigkeitsziele für Deutschland aufzurufen.
-download_all: Alle Daten herunterladen
+download_all: ""
 zip_file: ZIP file
 intro_title: 17 Ziele zur Umgestaltung unserer Welt
 joint_action_text: Das Statistische Bundesamt ist Teil des <a href="https://sdgtestenvironment.github.io/sdg-indicators/joint_action">Gemeinschaftswerks Nachhaltigkeit</a>, einer offenen
