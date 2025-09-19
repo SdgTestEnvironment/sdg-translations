@@ -26,7 +26,7 @@ dns_content_url_text: Inhalt und Entwicklung
 indicator_name: Indikatorenbezeichnung
 indicator_sort_order: Indikatorenreihenfolge (in der Zielübersicht)
 info_url_1: Zusätzliche Informationen
-national_data_update_url: Letzte Änderung der Daten
+national_data_update_url: <u>Letzte Datenaktualiserung:</u><br>
 national_geographical_coverage: Geographische Abdeckung
 national_indicator_available: Verfügbare Zeitreihe
 national_indicators_available: Verfügbare Zeitreihen

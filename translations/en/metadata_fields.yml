@@ -25,7 +25,7 @@ history_indicator_2: Indicator
 history_target_2: Target
 history_year_d_2: Year
 history_status_year_d_2: Evaluation
-national_data_update_url: Last modification of data
+national_data_update_url: <u>Last data update</u><br>
 national_geographical_coverage: Geographical coverage
 national_indicator_available: Time series available
 national_indicators_available: Time series available
