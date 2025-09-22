@@ -1,3 +1,3 @@
 
 # sdg-translations
-test
+translations

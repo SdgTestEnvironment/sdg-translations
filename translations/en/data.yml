@@ -143,7 +143,7 @@
 'connecting and installing new devices, eg a printer or a modem': 'Connecting and installing new devices, eg a printer or a modem'
 'transferring files between computer and other devices': 'Transferring files between computer and other devices'
 'installing software or apps': 'Installing software or apps'
-'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
+'creating files integrating elements such as text, pictures, tables, charts, animations or sound': 'Creating files integrating elements such as text, pictures, tables, charts, animations or sound'
 'using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts'
 '11 months and younger': '11 months and younger'
 '4 years and younger': '4 years and younger'
@@ -575,8 +575,6 @@
 '+++X': cell blocked for logical reasons
 
 #Time series
-#Z_01021_1a
-'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 #Z_01022_1
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 #Z_01022_2
@@ -601,7 +599,7 @@
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
 'government expenditure': 'Government expenditure'
-#Z_01062_3a
+#Z_01063_1
 'government expenditure on social protection': 'Government expenditure on social protection'
 #Z_02011_1
 'energy intake': 'Energy intake'
@@ -852,11 +850,11 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Gross value added of the tourism industry'
 #Z_08092_1
-'employed persons': 'Employed persons'
+'time series of the indicator: employed persons': 'Time series of the indicator: Employed persons'
 #Z_08092_2
-'employees': 'Employees'
+'additional time series: employees': 'Additional time series: Employees'
 #Z_08092_3
-'employees jobs (in full-time equivalent)': 'Employees jobs (in full-time equivalent)'
+'additional time series: employees jobs (in full-time equivalent)': 'Additional time series: Employees jobs (in full-time equivalent)'
 #Z_08101_1
 'a) branches of payment service providers': 'a) Branches of payment service providers'
 #Z_08101_2
@@ -1089,10 +1087,6 @@
 '4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
 #Z_15061_5
 '5) total reported number of smtas transferring pgrfa to germany': '5) Total reported number of SMTAs transferring PGRFA to Germany'
-#Z_15071_1
-'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
-#Z_15071_2
-'seizures by customs authorities concerning the protection of species': 'Seizures by customs authorities concerning the protection of species'
 #Z_15071_3
 'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
 #Z_15081_1
@@ -1253,6 +1247,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1267,6 +1262,8 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
+'seizures by customs authorities concerning the protection of species': 'Seizures by customs authorities concerning the protection of species'
 'currend status': 'Currend status'
 'tpype of physical violence': 'Tpype of physical violence'
 'population who were exposed to physical violence': 'Population who were exposed to physical violence'

@@ -143,7 +143,7 @@
 'connecting and installing new devices, eg a printer or a modem': 'Anschließen und Installieren neuer Geräte, z. B. eines Druckers oder eines Modems'
 'transferring files between computer and other devices': 'Übertragung von Dateien zwischen Computern und anderen Geräten'
 'installing software or apps': 'Installation von Software oder Anwendungen (Apps)'
-'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen'
+'creating files integrating elements such as text, pictures, tables, charts, animations or sound': 'Erstellung von Dateien mit Elementen wie Texte, Bildern, Tabellen, Grafiken, Animationen oder Ton'
 'using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken'
 '11 months and younger': '11 Monate und jünger'
 '4 years and younger': '4 Jahre und jünger'
@@ -479,17 +479,17 @@
 'section 4: hiv and hpv': 'Bereich 4: HIV und HPV'
 'housing conditions': 'Wohnverhältnisse'
 'housing deprivation': 'Deprivation der Unterkunft'
-'sports and recreational activities': 'Sport und Freizeitaktivitäten'
-'accommodation for visitors: hotels and similar establishments': 'Beherbergung von Besuchern: Hotels und ähnliche Einrichtungen'
-'accommodation for visitors: other': 'Beherbergung von Besuchern: Sonstige'
-'food and beverage serving activities': 'Speisen und sonstige Verpflegungsdienstleistungen'
-'railway passenger transport': 'Personenbeförderung im Eisenbahnfernverkehr'
+'sports and recreational activities': 'Dienstleistungen des Sports und der Erholung'
+'accommodation for visitors: hotels and similar establishments': 'Beherbergung: Hotels und ähnliche Beherbergungsstätten'
+'accommodation for visitors: other': 'Beherbergung: Sonstige Beherbergungsstätten'
+'food and beverage serving activities': 'Gaststätten- und Getränkeausschank'
+'railway passenger transport': 'Personenbeförderung im Eisenbahnverkehr'
 'road passenger transport': 'Personenbeförderung im Straßenverkehr'
 'water passenger transport': 'Personenbeförderung in der Schifffahrt'
 'air passenger transport': 'Personenbeförderung in der Luftfahrt'
 'transport equipment rental': 'Vermietung von Transportmitteln'
-'travel agencies and other reservation service activities': 'Reisebüros und sonstige Reservierungsdienstleistungen'
-'cultural activities': 'Kulturelle Aktivitäten'
+'travel agencies and other reservation service activities': 'Reisebüros, Reiseveranstalter und sonstige Reservierungsdienstleistungen'
+'cultural activities': 'Kulturelle Dienstleistungen'
 'inland waterway transport': 'Binnenschifffahrt'
 'rail transport': 'Eisenbahnverkehr'
 'air transport': 'Luftverkehr'
@@ -575,8 +575,6 @@
 '+++X': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
 
 #Zeitreihen
-#Z_01021_1a
-'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 #Z_01022_1
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 #Z_01022_2
@@ -601,7 +599,7 @@
 'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
 #Z_01062_1
 'government expenditure': 'Staatsausgaben'
-#Z_01062_3a
+#Z_01063_1
 'government expenditure on social protection': 'Staatsausgaben für soziale Sicherung'
 #Z_02011_1
 'energy intake': 'Energiezufuhr'
@@ -852,11 +850,11 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Bruttowertschöpfung im Tourismusbereich'
 #Z_08092_1
-'employed persons': 'Erwerbstätige'
+'time series of the indicator: employed persons': 'Zeitreihe des Indikators: Erwerbstätige'
 #Z_08092_2
-'employees': 'Beschäftigte'
+'additional time series: employees': 'Zusätzliche Zeitreihe: Beschäftigte'
 #Z_08092_3
-'employees jobs (in full-time equivalent)': 'Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)'
+'additional time series: employees jobs (in full-time equivalent)': 'Zusätzliche Zeitreihe: Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)'
 #Z_08101_1
 'a) branches of payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2
@@ -1089,10 +1087,6 @@
 '4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden'
 #Z_15061_5
 '5) total reported number of smtas transferring pgrfa to germany': '5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden'
-#Z_15071_1
-'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
-#Z_15071_2
-'seizures by customs authorities concerning the protection of species': 'Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes'
 #Z_15071_3
 'authorized imports and exports of protected species': 'Genehmigte Ein- und Ausfuhren geschützter Arten'
 #Z_15081_1
@@ -1259,6 +1253,7 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen'
 '+++symbols': 'Zeichenerklärung'
 '+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
 '+++‒': 'nichts vorhanden'
@@ -1273,6 +1268,8 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
+'seizures by customs authorities concerning the protection of species': 'Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes'
 'currend status': 'Aktueller Stand'
 'tpype of physical violence': 'Art der physischen Gewalt'
 'population who were exposed to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
