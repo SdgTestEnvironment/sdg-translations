@@ -117,7 +117,7 @@
 'technology': 'Technologie'
 'technology sectors': 'Technologiesektoren'
 'thematic area': 'Themenbereich'
-'tourism industries': 'Tourismuswirtschaftsbereich'
+'tourism industries': 'Wirtschaftszweig'
 'mode of transport': 'Verkehrsträger'
 'disease': 'Erkrankung'
 'form of abuse': 'Form der Misshandlung'
@@ -479,6 +479,9 @@
 'section 4: hiv and hpv': 'Bereich 4: HIV und HPV'
 'housing conditions': 'Wohnverhältnisse'
 'housing deprivation': 'Deprivation der Unterkunft'
+'<u>additional time series:</u> employees': '<u>Zusätzliche Zeitreihe:</u> Beschäftigte'
+'<u>additional time series:</u> employees jobs (in full-time equivalent)': '<u>Zusätzliche Zeitreihe:</u> Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)'
+'<u>time series of the indicator:</u> employed persons': '<u>Zeitreihe des Indikators:</u> Erwerbstätige'
 'sports and recreational activities': 'Dienstleistungen des Sports und der Erholung'
 'accommodation for visitors: hotels and similar establishments': 'Beherbergung: Hotels und ähnliche Beherbergungsstätten'
 'accommodation for visitors: other': 'Beherbergung: Sonstige Beherbergungsstätten'
@@ -850,11 +853,11 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Bruttowertschöpfung im Tourismusbereich'
 #Z_08092_1
-'time series of the indicator: employed persons': 'Zeitreihe des Indikators: Erwerbstätige'
+'employed persons': 'Erwerbstätige'
 #Z_08092_2
-'additional time series: employees': 'Zusätzliche Zeitreihe: Beschäftigte'
+'employees': 'Beschäftigte'
 #Z_08092_3
-'additional time series: employees jobs (in full-time equivalent)': 'Zusätzliche Zeitreihe: Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)'
+'employees jobs (in full-time equivalent)': 'Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)'
 #Z_08101_1
 'a) branches of payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2

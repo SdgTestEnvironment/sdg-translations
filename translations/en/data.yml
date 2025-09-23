@@ -479,6 +479,9 @@
 'section 4: hiv and hpv': 'Section 4: HIV and HPV'
 'housing conditions': 'Housing conditions'
 'housing deprivation': 'Housing deprivation'
+'<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
+'<u>additional time series:</u> employees jobs (in full-time equivalent)': '<u>Additional time series:</u> Employees jobs (in full-time equivalent)'
+'<u>time series of the indicator:</u> employed persons': '<u>Time series of the indicator:</u> Employed persons'
 'sports and recreational activities': 'Sports and Recreational activities'
 'accommodation for visitors: hotels and similar establishments': 'Accommodation for visitors: hotels and similar establishments'
 'accommodation for visitors: other': 'Accommodation for visitors: other'
@@ -850,11 +853,11 @@
 #Z_08091_1
 'gross value added of the tourism industry': 'Gross value added of the tourism industry'
 #Z_08092_1
-'time series of the indicator: employed persons': 'Time series of the indicator: Employed persons'
+'employed persons': 'Employed persons'
 #Z_08092_2
-'additional time series: employees': 'Additional time series: Employees'
+'employees': 'Employees'
 #Z_08092_3
-'additional time series: employees jobs (in full-time equivalent)': 'Additional time series: Employees jobs (in full-time equivalent)'
+'employees jobs (in full-time equivalent)': 'Employees jobs (in full-time equivalent)'
 #Z_08101_1
 'a) branches of payment service providers': 'a) Branches of payment service providers'
 #Z_08101_2
