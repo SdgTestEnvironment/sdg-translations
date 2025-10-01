@@ -8,6 +8,7 @@
 'eur per hour': 'EUR per hour'
 'income per capita': 'Income per capita'
 'gini coefficient': 'Gini coefficient'
+'gini coefficient index points': 'Gini coefficient index points'
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 'hectare': 'Hectare'
@@ -87,6 +88,7 @@
 'feelings of insecurity': 'Feelings of insecurity'
 'function': 'Function'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
+'income considered': 'Income considered'
 'indicator': 'Indicator'
 'level of court': 'Level of court'
 'water use index': 'Water use index'
@@ -321,6 +323,8 @@
 'middle': 'Middle'
 'fourth': 'Fourth'
 'richest': 'Richest'
+'equivalised disposable income (net income including social transfers)': 'Equivalised disposable income (net income including social transfers)'
+'equivalised market income (gross income without social transfers)': 'Equivalised market income (gross income without social transfers)'
 'sdg indicator 4.2.2 (5 years)': 'SDG indicator 4.2.2 (5 years)'
 'sdg-indicator 4.3.1 (15 to under 25 years)': 'SDG-Indicator 4.3.1 (15 to under 25 years)'
 'sdg-indicator 4.3.1 (15 to under 65 years)': 'SDG-Indicator 4.3.1 (15 to under 65 years)'
@@ -480,7 +484,7 @@
 'housing conditions': 'Housing conditions'
 'housing deprivation': 'Housing deprivation'
 '<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
-'<u>additional time series:</u> employees jobs (in full-time equivalent)': '<u>Additional time series:</u> Employees jobs (in full-time equivalent)'
+'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 '<u>time series of the indicator:</u> employed persons': '<u>Time series of the indicator:</u> Employed persons'
 'sports and recreational activities': 'Sports and Recreational activities'
 'accommodation for visitors: hotels and similar establishments': 'Accommodation for visitors: hotels and similar establishments'
@@ -857,7 +861,7 @@
 #Z_08092_2
 'employees': 'Employees'
 #Z_08092_3
-'employees jobs (in full-time equivalent)': 'Employees jobs (in full-time equivalent)'
+'full-time equivalents for employees': 'Full-time equivalents for Employees'
 #Z_08101_1
 'a) branches of payment service providers': 'a) Branches of payment service providers'
 #Z_08101_2
@@ -913,11 +917,9 @@
 #Z_10041_1
 'labour share of gdp': 'Labour share of GDP'
 #Z_10042_1
-'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
-#Z_10042_2
-'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
-#Z_10042_3
 'redistributive impact of fiscal policy': 'Redistributive impact of fiscal policy'
+#Z_10042_2
+'gini coefficients': 'Gini coefficients'
 #Z_10051_1
 'ratio of regulatory capital to all weighted risk positions': 'Ratio of regulatory capital to all weighted risk positions'
 #Z_10051_2
@@ -1265,6 +1267,8 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
+'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
 'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 'seizures by customs authorities concerning the protection of species': 'Seizures by customs authorities concerning the protection of species'
 'currend status': 'Currend status'

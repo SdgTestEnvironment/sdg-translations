@@ -8,6 +8,7 @@
 'eur per hour': 'EUR pro Stunde'
 'income per capita': 'Pro Kopf Einkommen'
 'gini coefficient': 'Gini-Koeffizient'
+'gini coefficient index points': 'Gini-Koeffizienz-Punkte'
 'grams per decilitre': 'Gramm pro Deziliter'
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2020)'
 'hectare': 'Hektar'
@@ -87,6 +88,7 @@
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'function': 'Aufgabenbereich'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
+'income considered': 'Betrachtetes Einkommen'
 'indicator': 'Indikator'
 'level of court': 'Gerichtsebene'
 'water use index': 'Wassernutzungsindex'
@@ -321,6 +323,8 @@
 'middle': 'Mittleres Quintil'
 'fourth': 'Viertes Quintil'
 'richest': 'Reichstes Quintil'
+'equivalised disposable income (net income including social transfers)': 'Verfügbares Äquivalenzeinkommen (Nettoeinkommen inkl. Sozialtransfers)'
+'equivalised market income (gross income without social transfers)': 'Marktäquivalenzeinkommen (Bruttoeinkommen ohne Sozialtransfers)'
 'sdg indicator 4.2.2 (5 years)': 'SDG-Indikator 4.2.2 (5 Jahre)'
 'sdg-indicator 4.3.1 (15 to under 25 years)': 'SDG-Indikator 4.3.1 (15 bis unter 25 Jahre)'
 'sdg-indicator 4.3.1 (15 to under 65 years)': 'SDG-Indikator 4.3.1 (15 bis unter 65 Jahre)'
@@ -480,7 +484,7 @@
 'housing conditions': 'Wohnverhältnisse'
 'housing deprivation': 'Deprivation der Unterkunft'
 '<u>additional time series:</u> employees': '<u>Zusätzliche Zeitreihe:</u> Beschäftigte'
-'<u>additional time series:</u> employees jobs (in full-time equivalent)': '<u>Zusätzliche Zeitreihe:</u> Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)'
+'<u>additional time series:</u> full-time equivalents for employees': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente für Beschäftigte'
 '<u>time series of the indicator:</u> employed persons': '<u>Zeitreihe des Indikators:</u> Erwerbstätige'
 'sports and recreational activities': 'Dienstleistungen des Sports und der Erholung'
 'accommodation for visitors: hotels and similar establishments': 'Beherbergung: Hotels und ähnliche Beherbergungsstätten'
@@ -857,7 +861,7 @@
 #Z_08092_2
 'employees': 'Beschäftigte'
 #Z_08092_3
-'employees jobs (in full-time equivalent)': 'Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)'
+'full-time equivalents for employees': 'Vollzeitäquivalente für Beschäftigte'
 #Z_08101_1
 'a) branches of payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2
@@ -913,11 +917,9 @@
 #Z_10041_1
 'labour share of gdp': 'Arbeitnehmerentgelt am BIP'
 #Z_10042_1
-'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'
-#Z_10042_2
-'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
-#Z_10042_3
 'redistributive impact of fiscal policy': 'Umverteilende Wirkung der Fiskalpolitik'
+#Z_10042_2
+'gini coefficients': 'Gini-Koeffizientenen'
 #Z_10051_1
 'ratio of regulatory capital to all weighted risk positions': 'Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen'
 #Z_10051_2
@@ -1271,6 +1273,8 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'
+'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 'seizures by customs authorities concerning the protection of species': 'Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes'
 'currend status': 'Aktueller Stand'
