@@ -484,7 +484,7 @@
 'housing conditions': 'Housing conditions'
 'housing deprivation': 'Housing deprivation'
 '<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
-'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
+'<u>additional time series:</u> full-time equivalents': '<u>Additional time series:</u> Full-time equivalents'
 '<u>time series of the indicator:</u> employed persons': '<u>Time series of the indicator:</u> Employed persons'
 'sports and recreational activities': 'Sports and Recreational activities'
 'accommodation for visitors: hotels and similar establishments': 'Accommodation for visitors: hotels and similar establishments'
@@ -861,7 +861,7 @@
 #Z_08092_2
 'employees': 'Employees'
 #Z_08092_3
-'full-time equivalents for employees': 'Full-time equivalents for Employees'
+'full-time equivalents': 'Full-time equivalents'
 #Z_08101_1
 'a) branches of payment service providers': 'a) Branches of payment service providers'
 #Z_08101_2
@@ -1252,7 +1252,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
+'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1267,6 +1267,7 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
 'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
