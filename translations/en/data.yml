@@ -1092,6 +1092,10 @@
 '4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
 #Z_15061_5
 '5) total reported number of smtas transferring pgrfa to germany': '5) Total reported number of SMTAs transferring PGRFA to Germany'
+#Z_15071_1
+'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
+#Z_15071_2
+'seizures by customs authorities concerning the protection of species': 'Seizures by customs authorities concerning the protection of species'
 #Z_15071_3
 'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
 #Z_15081_1
@@ -1270,8 +1274,6 @@ area2: Area
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
-'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
-'seizures by customs authorities concerning the protection of species': 'Seizures by customs authorities concerning the protection of species'
 'currend status': 'Currend status'
 'tpype of physical violence': 'Tpype of physical violence'
 'population who were exposed to physical violence': 'Population who were exposed to physical violence'
