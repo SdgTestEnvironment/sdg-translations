@@ -1256,6 +1256,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1270,7 +1271,6 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
-'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
@@ -1282,7 +1282,7 @@ area2: Area
 'population who were exposed to sexual violence': 'Population who were exposed to sexual violence'
 'reporting rate for physical assault': 'Reporting rate for physical assault'
 'reporting rate for robbery': 'Reporting rate for robbery'
-'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Agriculture, Food and Regional Identity'
+'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Food and Agriculture'
 'proportion of women in national parliaments and local governments': 'Proportion of women in national parliaments and local governments'
 'proportion of women in managerial positions': 'Proportion of women in managerial positions'
 'population using safely managed drinking water services': 'Population using safely managed drinking water services'
