@@ -128,6 +128,7 @@
 'form of exploitation': 'Form der Ausbeutung'
 'type of flow': 'Art des Finanzstroms'
 'type of waste': 'Abfallart'
+'type of harassment': 'Art der Belästigung'
 'type of sexual violence': 'Art der sexuellen Gewalt'
 'type of physical violence': 'Art der physischen Gewalt'
 'type of unpaid work': 'Art der unbezahlten Arbeit'
@@ -545,6 +546,8 @@
 'municipal waste': 'Siedlungsabfälle insgesamt'
 'river water bodies': 'Fließgewässer'
 'open water bodies': 'Seen und Talsperren'
+'non-sexual harassment': 'Nicht-sexuelle Belästigung'
+'sexual harassment': 'Sexuelle Belästigung'
 'rural areas': 'Ländliche Gebiete'
 'towns and suburbs': 'Kleinere Städte und Vororte'
 'cities': 'Städte'
@@ -985,13 +988,7 @@
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Durchschnittlicher Anteil der bebauten Fläche in Städten, der als Freifläche öffentlich zugänglich ist'
 #Z_11072_1
-'victims of non-sexual harassment': 'Opfer nicht-sexueller Belästigung'
-#Z_11072_2
-'victims of sexual harassment': 'Opfer sexueller Belästigung'
-#Z_11072_3
-'number of victims per 100,000 of non-sexual harassment': 'Opfergefährdungszahl nicht-sexueller Belästigung'
-#Z_11072_4
-'number of victims per 100,000 of sexual harassment': 'Opfergefährdungszahl sexueller Belästigung'
+'victims of non-sexual or sexual harassment': 'Opfer nicht-sexueller oder sexueller Belästigung'
 #Z_12031_1
 '(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
@@ -1234,6 +1231,8 @@
 'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Indikatoren für nachhaltige Entwicklung mit den im Indikatorentitel geforderten Disaggregationen'
 #Z_17182_1
 'national implementation of statistical legislation that is consistent with the fundamental principles of offical statistics in germany': 'Nationale Umsetzung statistischer Gesetzgebung, die mit den Grundsätzen der amtlichen Statistik in Deutschland übereinstimmt'
+#Z_17183_1
+'national statistical plan that is fully funded and under implementation': 'Vollständig finanzierter und in Umsetzung befindlicher nationaler statistischer Plan'
 #Z_17191_1
 'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zur Stärkung statistischer Kapazitäten'
 #Z_17191_2
@@ -1262,7 +1261,6 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'<u>additional time series:</u> full-time equivalents for employees': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente für Beschäftigte'
 '+++symbols': 'Zeichenerklärung'
 '+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
 '+++‒': 'nichts vorhanden'
@@ -1277,18 +1275,21 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'<u>additional time series:</u> full-time equivalents for employees': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente für Beschäftigte'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
 'currend status': 'Aktueller Stand'
 'tpype of physical violence': 'Art der physischen Gewalt'
+'victims of non-sexual harassment': 'Opfer nicht-sexueller Belästigung'
+'victims of sexual harassment': 'Opfer sexueller Belästigung'
 'population who were exposed to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
 'population who were victims of criminal offences': 'Bevölkerung, die Opfer einer Straftat war'
 'victims of criminal offences': 'Opfer von Straftaten'
 'population who were exposed to sexual violence': 'Bevölkerung, die sexueller Gewalt ausgesetzt war'
 'reporting rate for physical assault': 'Anzeigequote bei Körperverletzung'
 'reporting rate for robbery': 'Anzeigequote bei Raub'
-'data from the federal ministry of food and agriculture': 'Daten des BMEL'
+'data from the federal ministry of food and agriculture': 'Daten des BMLEH'
 'proportion of women in national parliaments and local governments': 'Frauenanteil in nationalen Parlamenten und Gemeinden'
 'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
 'population using safely managed drinking water services': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'

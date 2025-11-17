@@ -128,6 +128,7 @@
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
+'type of harassment': 'Type of harassment'
 'type of sexual violence': 'Type of sexual violence'
 'type of physical violence': 'Type of physical violence'
 'type of unpaid work': 'Type of unpaid work'
@@ -545,6 +546,8 @@
 'municipal waste': 'Municipal waste'
 'river water bodies': 'River water bodies'
 'open water bodies': 'Open water bodies'
+'non-sexual harassment': 'Non-sexual harassment'
+'sexual harassment': 'Sexual harassment'
 'rural areas': 'Rural areas'
 'towns and suburbs': 'Towns and suburbs'
 'cities': 'Cities'
@@ -985,13 +988,7 @@
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Average share of the built-up area of cities that is open space for public use'
 #Z_11072_1
-'victims of non-sexual harassment': 'Victims of non-sexual harassment'
-#Z_11072_2
-'victims of sexual harassment': 'Victims of sexual harassment'
-#Z_11072_3
-'number of victims per 100,000 of non-sexual harassment': 'Number of victims per 100,000 of non-sexual harassment'
-#Z_11072_4
-'number of victims per 100,000 of sexual harassment': 'Number of victims per 100,000 of sexual harassment'
+'victims of non-sexual or sexual harassment': 'Victims of non-sexual or sexual harassment'
 #Z_12031_1
 '(b) food waste index': '(b) food waste index'
 #Z_12041_1
@@ -1234,6 +1231,8 @@
 'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Sustainable development indicators with achieved disaggregation when relevant to the indicator title'
 #Z_17182_1
 'national implementation of statistical legislation that is consistent with the fundamental principles of offical statistics in germany': 'National implementation of statistical legislation that is consistent with the Fundamental Principles of Offical Statistics in Germany'
+#Z_17183_1
+'national statistical plan that is fully funded and under implementation': 'National statistical plan that is fully funded and under implementation'
 #Z_17191_1
 'oda and oof (commitments) to strengthen statistical capacity': 'ODA and OOF (commitments) to strengthen statistical capacity'
 #Z_17191_2
@@ -1256,7 +1255,6 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1271,18 +1269,21 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
 'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
 'currend status': 'Currend status'
 'tpype of physical violence': 'Tpype of physical violence'
+'victims of non-sexual harassment': 'Victims of non-sexual harassment'
+'victims of sexual harassment': 'Victims of sexual harassment'
 'population who were exposed to physical violence': 'Population who were exposed to physical violence'
 'population who were victims of criminal offences': 'Population who were victims of criminal offences'
 'victims of criminal offences': 'Victims of criminal offences'
 'population who were exposed to sexual violence': 'Population who were exposed to sexual violence'
 'reporting rate for physical assault': 'Reporting rate for physical assault'
 'reporting rate for robbery': 'Reporting rate for robbery'
-'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Food and Agriculture'
+'data from the federal ministry of food and agriculture': 'Data from the Federal Ministry of Agriculture, Food and Regional Identity'
 'proportion of women in national parliaments and local governments': 'Proportion of women in national parliaments and local governments'
 'proportion of women in managerial positions': 'Proportion of women in managerial positions'
 'population using safely managed drinking water services': 'Population using safely managed drinking water services'
