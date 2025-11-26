@@ -126,6 +126,7 @@
 'form of abuse': 'Form der Misshandlung'
 'type of account': 'Kontenart'
 'type of biomass': 'Art der Biomasse'
+'type of classification': 'Art der Klassifikation'
 'form of exploitation': 'Form der Ausbeutung'
 'type of flow': 'Art des Finanzstroms'
 'type of waste': 'Abfallart'
@@ -458,6 +459,8 @@
 'standig wood': 'Stehendes Holz'
 'other woody biomass': 'Sonstige Holzbiomasse'
 'other biomass in forests': 'Sonstige Biomasse in Wäldern'
+'fao classification': 'FAO-Klassifikation'
+'national classification': 'Nationale Klassifikation'
 'labour exploitation': 'Ausbeutung der Arbeitskraft'
 'sexual exploitation': 'Sexuelle Ausbeutung'
 'oof (net disbursements)': 'Sonstige öffentliche Nettoausgaben (OOF)'
@@ -554,12 +557,8 @@
 'plant genetic resources': 'Pflanzengenetische Ressourcen'
 #Z_02051_2
 'animal genetic resources': 'Tiergenetische Ressourcen'
-#Z_02052_1
-'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
-#Z_02052_2
-'level of risk of extinction (according to national classification)': 'Gefährdungskategorie (nach nationaler Klassifikation)'
-#Z_02052_3
-'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
+#Z_02052_4
+'local breeds classified as being at risk of extinction': 'Heimische Nutztierrassen, die als vom Aussterben bedroht eingestuft sind'
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agrarorientierungs-Index für Staatsausgaben'
 #Z_02062_1
@@ -579,13 +578,13 @@
 #Z_03022_1
 'neonatal mortality': 'Neugeborenensterblichkeit'
 #Z_03031_1
-'hiv incidence': 'Auftreten von HIV'
+'number of new hiv infections': 'Anzahl der HIV-Neuinfektionen'
 #Z_03032_1
-'tuberculosis incidence': 'Auftreten von Tuberkulose'
+'tuberculosis incidence': 'Tuberkulose-Inzidenz'
 #Z_03033_1
-'malaria incidence': 'Auftreten von Malaria'
+'malaria incidence': 'Malaria-Inzidenz'
 #Z_03034_1
-'hepatitis b incidence': 'Auftreten von Hepatitis B'
+'hepatitis b incidence': 'Hepatitis-B-Inzidenz'
 #Z_03035_1
 'people requiring interventions against neglected tropical diseases': 'Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten'
 #Z_03035_2
@@ -1278,6 +1277,10 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
+'level of risk of extinction (according to national classification)': 'Gefährdungskategorie (nach nationaler Klassifikation)'
+'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
+'hiv incidence': 'Auftreten von HIV'
 '<u>additional time series:</u> full-time equivalents for employees': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente für Beschäftigte'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'

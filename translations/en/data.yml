@@ -126,6 +126,7 @@
 'form of abuse': 'Form of abuse'
 'type of account': 'Type of account'
 'type of biomass': 'Type of biomass'
+'type of classification': 'Type of classification'
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
@@ -458,6 +459,8 @@
 'standig wood': 'Standig wood'
 'other woody biomass': 'Other woody biomass'
 'other biomass in forests': 'Other biomass in forests'
+'fao classification': 'FAO classification'
+'national classification': 'National classification'
 'labour exploitation': 'Labour exploitation'
 'sexual exploitation': 'Sexual exploitation'
 'oof (net disbursements)': 'OOF (net disbursements)'
@@ -554,12 +557,8 @@
 'plant genetic resources': 'Plant genetic resources'
 #Z_02051_2
 'animal genetic resources': 'Animal genetic resources'
-#Z_02052_1
-'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
-#Z_02052_2
-'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
-#Z_02052_3
-'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
+#Z_02052_4
+'local breeds classified as being at risk of extinction': 'Local breeds classified as being at risk of extinction'
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
 #Z_02062_1
@@ -579,7 +578,7 @@
 #Z_03022_1
 'neonatal mortality': 'Neonatal mortality'
 #Z_03031_1
-'hiv incidence': 'HIV incidence'
+'number of new hiv infections': 'Number of new HIV infections'
 #Z_03032_1
 'tuberculosis incidence': 'Tuberculosis incidence'
 #Z_03033_1
@@ -1272,6 +1271,10 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
+'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
+'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
+'hiv incidence': 'HIV incidence'
 '<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
