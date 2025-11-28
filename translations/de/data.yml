@@ -334,9 +334,9 @@
 'moving four-year average': 'Gleitender Vierjahresdurchschnitt'
 'at risk': 'Gefährdet'
 'not at risk': 'Nicht gefährdet'
-'under observation': 'Beobachtungspopulationen'
-'breeding programs for preservation': 'Erhaltungspopulationen'
-'rudiments remaining': 'Phänotypische Erhaltungspopulationen'
+'monitoring population': 'Beobachtungspopulation'
+'conservation population': 'Erhaltungspopulation'
+'phenotypic conservation populations': 'Phänotypische Erhaltungspopulation'
 'water and sanitation': 'Wasser und Sanitär'
 'current status': 'Aktueller Stand'
 'trend': 'Trend'
@@ -1104,7 +1104,7 @@
 #Z_17061_1
 'fixed internet broadband access lines': 'Internet-Breitband-Zugänge'
 #Z_17071_1
-'total production value of the environmental goods and services sector (egss)': 'Gesamter Produktionswert des Sektors Umweltgüter und &#8209;dienstleistungen (EGSS)'
+'total production value of the environmental goods and services sector (egss)': 'Gesamter Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)'
 #Z_17071_2
 'gross fixed capital formation on environmental protection': 'Bruttoanlageinvestitionen für Umweltschutz'
 #Z_17081_1
@@ -1250,6 +1250,9 @@ area2: Bereich
 'migrant background': 'Migrationshintergrund'
 'public': 'Öffentlich'
 'private': 'Privat'
+'under observation': 'Beobachtungspopulationen'
+'breeding programs for preservation': 'Erhaltungspopulationen'
+'rudiments remaining': 'Phänotypische Erhaltungspopulationen'
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 'effective marine protected areas': 'Effektive marine Schutzgebiete'
