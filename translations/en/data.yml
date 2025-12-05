@@ -93,7 +93,7 @@
 'level of court': 'Level of court'
 'water use index': 'Water use index'
 'profession': 'Profession'
-'victim-suspect relationship': 'Victim-Suspect Relationship'
+'typ of victim-suspect relationship': 'Typ of victim-suspect relationship'
 'pathogens and resistance': 'Pathogens and resistance'
 'level': 'Level'
 'percentile': 'Percentile'
@@ -1177,6 +1177,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'victim-suspect relationship': 'Victim-Suspect Relationship'
 '15 to under 50 years': '15 to under 50 years'
 '15 to under 65 years': '15 to under 65 years'
 '18 years': '18 years'
