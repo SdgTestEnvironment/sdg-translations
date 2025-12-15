@@ -674,7 +674,7 @@
 #Z_05031_1
 'married girls': 'Verheiratete Mädchen'
 #Z_05032_1
-'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
+'victims of female genital mutilation': 'Opfer weiblicher Genitalverstümmelung'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_3
@@ -1285,6 +1285,7 @@ area2: Bereich
 'level of risk of extinction (according to national classification)': 'Gefährdungskategorie (nach nationaler Klassifikation)'
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
 'hiv incidence': 'Auftreten von HIV'
+'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 '<u>additional time series:</u> full-time equivalents for employees': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente für Beschäftigte'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'
