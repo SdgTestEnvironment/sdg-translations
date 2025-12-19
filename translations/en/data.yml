@@ -670,11 +670,13 @@
 #Z_05021_1
 'female victims of sexual violence by an intimate partner': 'Female victims of sexual violence by an intimate partner'
 #Z_05022_1
-'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
+'female victims of sexual violence a person other than an intimate partner': 'Female victims of sexual violence a person other than an intimate partner'
 #Z_05031_1
 'married girls': 'Married girls'
 #Z_05032_1
-'victims of female genital mutilation': 'Victims of female genital mutilation'
+'cases of female genital mutilation recorded by the police': 'Cases of female genital mutilation recorded by the police'
+#Z_05032_2
+'diagnoses of female genital mutilation in hospitals (personal medical history)': 'Diagnoses of female genital mutilation in hospitals (personal medical history)'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 #Z_05051_3
@@ -768,7 +770,7 @@
 #Z_08061_1
 'neet rates from young people (15 to under 25 years)': 'NEET rates from young people (15 to under 25 years)'
 #Z_08071_1
-'children and young people being exploited': 'Children and young people being exploited'
+'victims of exploitation': 'Victims of exploitation'
 #Z_08081_1
 'fatal occupational accidents': 'Fatal occupational accidents'
 #Z_08081_2
@@ -1177,6 +1179,24 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'+++symbols': 'Explanation of symbols'
+'+++0': 'less than half of 1 in the last digit occupied, but more than zero'
+'+++‒': 'no figures or magnitude zero'
+'+++…': 'data will be available later'
+'+++/': 'no data because the numerical value is not sufficiently reliable'
+'+++.': 'numerical value unknown or not be disclosed'
+'+++x': 'cell blocked for logical reasons'
+'+++( )': 'limited informational value because numerical value is of limited statistical reliability'
+'+++|': 'fundamental change within a series affecting comparisons over time'
+'+++p': 'provisional data'
+'+++r': 'revised data'
+'+++s': 'estimated data'
+'+++-': 'no figures or magnitude zero'
+'+++X': 'cell blocked for logical reasons'
+'female victims of genital mutilation': 'Female victims of genital mutilation'
+'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
+'victims of female genital mutilation': 'Victims of female genital mutilation'
+'children and young people being exploited': 'Children and young people being exploited'
 'victim-suspect relationship': 'Victim-Suspect Relationship'
 '15 to under 50 years': '15 to under 50 years'
 '15 to under 65 years': '15 to under 65 years'
@@ -1261,25 +1281,10 @@ area2: Area
 'housing deprivation': 'Housing deprivation'
 'river water bodies': 'River water bodies'
 'open water bodies': 'Open water bodies'
-'+++symbols': 'Explanation of symbols'
-'+++0': 'less than half of 1 in the last digit occupied, but more than zero'
-'+++‒': 'no figures or magnitude zero'
-'+++…': 'data will be available later'
-'+++/': 'no data because the numerical value is not sufficiently reliable'
-'+++.': 'numerical value unknown or not be disclosed'
-'+++x': 'cell blocked for logical reasons'
-'+++( )': 'limited informational value because numerical value is of limited statistical reliability'
-'+++|': 'fundamental change within a series affecting comparisons over time'
-'+++p': 'provisional data'
-'+++r': 'revised data'
-'+++s': 'estimated data'
-'+++-': 'no figures or magnitude zero'
-'+++X': 'cell blocked for logical reasons'
 'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
 'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
 'hiv incidence': 'HIV incidence'
-'female victims of genital mutilation': 'Female victims of genital mutilation'
 '<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'

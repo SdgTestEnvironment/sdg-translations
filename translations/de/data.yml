@@ -670,11 +670,13 @@
 #Z_05021_1
 'female victims of sexual violence by an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Intimpartner/-innen'
 #Z_05022_1
-'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/-innen waren'
+'female victims of sexual violence a person other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/-innen waren'
 #Z_05031_1
 'married girls': 'Verheiratete Mädchen'
 #Z_05032_1
-'victims of female genital mutilation': 'Opfer weiblicher Genitalverstümmelung'
+'cases of female genital mutilation recorded by the police': 'Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung'
+#Z_05032_2
+'diagnoses of female genital mutilation in hospitals (personal medical history)': 'Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_3
@@ -768,7 +770,7 @@
 #Z_08061_1
 'neet rates from young people (15 to under 25 years)': 'NEET-Rate von Jugendlichen (15 bis unter 25 Jahre)'
 #Z_08071_1
-'children and young people being exploited': 'Kinder und Jugendliche, die ausgebeutet werden'
+'victims of exploitation': 'Opfer von Ausbeutung'
 #Z_08081_1
 'fatal occupational accidents': 'Tödliche Arbeitsunfälle'
 #Z_08081_2
@@ -1183,6 +1185,24 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'+++symbols': 'Zeichenerklärung'
+'+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
+'+++‒': 'nichts vorhanden'
+'+++…': 'Angabe fällt später an'
+'+++/': 'keine Angaben, da Zahlenwert nicht sicher genug'
+'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
+'+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'+++( )': 'Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist'
+'+++|': 'grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt'
+'+++p': 'vorläufige Zahl'
+'+++r': 'berichtigte Zahl'
+'+++s': 'geschätzte Zahl'
+'+++-': 'nichts vorhanden'
+'+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
+'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/-innen waren'
+'victims of female genital mutilation': 'Opfer weiblicher Genitalverstümmelung'
+'children and young people being exploited': 'Kinder und Jugendliche, die ausgebeutet werden'
 'victim-suspect relationship': 'Opfer-Tatverdächtigen-Beziehung'
 '15 to under 50 years': '15 bis unter 50 Jahre'
 '15 to under 65 years': '15 bis unter 65 Jahre'
@@ -1267,25 +1287,10 @@ area2: Bereich
 'housing deprivation': 'Deprivation der Unterkunft'
 'river water bodies': 'Fließgewässer'
 'open water bodies': 'Seen und Talsperren'
-'+++symbols': 'Zeichenerklärung'
-'+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
-'+++‒': 'nichts vorhanden'
-'+++…': 'Angabe fällt später an'
-'+++/': 'keine Angaben, da Zahlenwert nicht sicher genug'
-'+++.': 'Zahlenwert unbekannt oder geheim zu halten'
-'+++x': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
-'+++( )': 'Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist'
-'+++|': 'grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt'
-'+++p': 'vorläufige Zahl'
-'+++r': 'berichtigte Zahl'
-'+++s': 'geschätzte Zahl'
-'+++-': 'nichts vorhanden'
-'+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
 'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
 'level of risk of extinction (according to national classification)': 'Gefährdungskategorie (nach nationaler Klassifikation)'
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
 'hiv incidence': 'Auftreten von HIV'
-'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 '<u>additional time series:</u> full-time equivalents for employees': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente für Beschäftigte'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'
