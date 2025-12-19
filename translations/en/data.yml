@@ -39,7 +39,7 @@
 'million usd, constant prices (2023)': 'Million USD, constant prices (2023)'
 'no unit': 'No unit'
 'number': 'Number'
-'"number "': '"Number "'
+"'number '": "'Number '"
 'number in full-time equivalents': 'Number in full-time equivalents'
 'number of pieces of platic waste per 100 meters of beach length': 'Number of pieces of platic waste per 100 meters of beach length'
 'per 100 inhabitants': 'Per 100 inhabitants'
@@ -49,13 +49,13 @@
 'per 10,000 inhabitants': 'Per 10,000 inhabitants'
 'per 100,000 adults': 'Per 100,000 adults'
 'per 100,000 inhabitants': 'Per 100,000 inhabitants'
-'"per 100,000 inhabitants "': '"Per 100,000 inhabitants "'
+"'per 100,000 inhabitants '": "'Per 100,000 inhabitants '"
 'per 100,000 live births': 'Per 100,000 live births'
 'per 100,000 employees': 'Per 100,000 employees'
 'ph-value': 'pH-value'
 'per 1 million inhabitants': 'Per 1 million inhabitants'
 'percentage': 'Percentage'
-'"percentage "': '"Percentage "'
+"'percentage '": "'Percentage '"
 'percent of gdp': 'Percent of GDP'
 'km²': 'km²'
 'tonnes': 'Tonnes'
