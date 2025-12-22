@@ -932,8 +932,8 @@
 'national recycling rate': 'Nationale Recyclingquote'
 #Z_12051_2
 'material recovery': 'Stoffliche Verwertung'
-#Z_12061_1
-'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
+#Z_12061_2
+'voluntary sustainability reporting by companies according to the german sustainability code (dnk)': 'Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)'
 #Z_12071_1
 'sustainable public procurement index': 'Index der nachhaltigen öffentlichen Beschaffung'
 #Z_12101_1
@@ -1203,6 +1203,7 @@ area2: Bereich
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
+'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
 'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/-innen waren'
 'victims of female genital mutilation': 'Opfer weiblicher Genitalverstümmelung'
 'children and young people being exploited': 'Kinder und Jugendliche, die ausgebeutet werden'
