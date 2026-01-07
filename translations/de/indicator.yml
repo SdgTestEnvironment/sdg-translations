@@ -44,7 +44,7 @@ no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswa
   verfügbar.
 series: Zeitreihen
 select_all: Alle<br>auswählen
-series_help: Wählen Sie bitte hier aus, was in der Grafik bzw. der Tabelle angezeigt werden soll.
+series_help:
 series_help_dns: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
 source: Datenquelle
 sources: Datenquellen
