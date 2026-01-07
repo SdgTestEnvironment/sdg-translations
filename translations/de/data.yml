@@ -679,7 +679,7 @@
 #Z_05032_1
 'cases of female genital mutilation recorded by the police': 'Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung'
 #Z_05032_2
-'diagnoses of female genital mutilation in hospitals (personal medical history)': 'Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)'
+'cases of inpatient treatment due to female genital mutilation personal medical history)': 'Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_3
@@ -773,7 +773,7 @@
 #Z_08061_1
 'neet rates from young people (15 to under 25 years)': 'NEET-Rate von Jugendlichen (15 bis unter 25 Jahre)'
 #Z_08071_1
-'victims of exploitation': 'Opfer von Ausbeutung'
+'victims of child labor': 'Opfer von Kinderarbeit'
 #Z_08081_1
 'fatal occupational accidents': 'Tödliche Arbeitsunfälle'
 #Z_08081_2
@@ -911,7 +911,7 @@
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Durchschnittlicher Anteil der bebauten Fläche in Städten, der als Freifläche öffentlich zugänglich ist'
 #Z_11072_1
-'victims of non-sexual or sexual harassment': 'Opfer nicht-sexueller oder sexueller Belästigung'
+'victims of non-sexual or sexual harassment': 'Opfer von nicht-sexueller oder sexueller Belästigung'
 #Z_12031_1
 '(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
@@ -1035,7 +1035,7 @@
 #Z_15111_1
 'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
 #Z_16011_1
-'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
+'victims of intentional homicide': 'Opfer von vorsätzlicher Tötung'
 #Z_16012_1
 'conflict-related deaths': 'Konfliktbezogene Todesfälle'
 #Z_16013_1
@@ -1203,6 +1203,7 @@ area2: Bereich
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
+'victims of exploitation': 'Opfer von Ausbeutung'
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
 'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/-innen waren'
 'victims of female genital mutilation': 'Opfer weiblicher Genitalverstümmelung'

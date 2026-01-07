@@ -679,7 +679,7 @@
 #Z_05032_1
 'cases of female genital mutilation recorded by the police': 'Cases of female genital mutilation recorded by the police'
 #Z_05032_2
-'diagnoses of female genital mutilation in hospitals (personal medical history)': 'Diagnoses of female genital mutilation in hospitals (personal medical history)'
+'cases of inpatient treatment due to female genital mutilation personal medical history)': 'Cases of inpatient treatment due to female genital mutilation personal medical history)'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 #Z_05051_3
@@ -773,7 +773,7 @@
 #Z_08061_1
 'neet rates from young people (15 to under 25 years)': 'NEET rates from young people (15 to under 25 years)'
 #Z_08071_1
-'victims of exploitation': 'Victims of exploitation'
+'victims of child labor': 'Victims of child labor'
 #Z_08081_1
 'fatal occupational accidents': 'Fatal occupational accidents'
 #Z_08081_2
@@ -1197,6 +1197,7 @@ area2: Area
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
 'female victims of genital mutilation': 'Female victims of genital mutilation'
+'victims of exploitation': 'Victims of exploitation'
 'organisations with emas registration': 'Organisations with EMAS registration'
 'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
 'victims of female genital mutilation': 'Victims of female genital mutilation'
