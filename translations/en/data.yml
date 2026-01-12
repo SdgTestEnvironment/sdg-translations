@@ -72,6 +72,7 @@
 'area': 'Area'
 'area of law': 'Area of law'
 'type of assistance': 'Type of assistance'
+'bioclimatic belt': 'Bioclimatic belt'
 'bound': 'Bound'
 'cause of death': 'Cause of death'
 'availability': 'Availability'
@@ -93,6 +94,7 @@
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income considered': 'Income considered'
 'indicator': 'Indicator'
+'land cover class': 'Land cover class'
 'level of court': 'Level of court'
 'water use index': 'Water use index'
 'profession': 'Profession'
@@ -109,7 +111,7 @@
 'score': 'Score'
 'goal': 'Goal'
 'sea': 'Sea'
-'fields of work': 'Fields of work'
+'field of work': 'Field of work'
 'section': 'Section'
 'sector': 'Sector'
 'time series': 'Time series'
@@ -208,6 +210,10 @@
 'other': 'Other'
 'sozial participation': 'Sozial participation'
 'participation in working life': 'Participation in working life'
+'alpine': 'Alpine'
+'montane': 'Montane'
+'nival': 'Nival'
+'remaining mountain area': 'Remaining mountain area'
 'upper bound': 'Upper bound'
 'lower bound': 'Lower bound'
 'victim of avalanche, landslide and other earth movements': 'Victim of avalanche, landslide and other earth movements'
@@ -294,6 +300,11 @@
 'sdg-indicator 4.3.1 (25 to under 55 years)': 'SDG-Indicator 4.3.1 (25 to under 55 years)'
 'sdg-indicator 4.3.1 (55 to under 65 years)': 'SDG-Indicator 4.3.1 (55 to under 65 years)'
 'imputed student costs': 'Imputed student costs'
+'croplands': 'Croplands'
+'shrubs and/or herbaceous vegetation, aquatic or regularly flooded': 'Shrubs and/or herbaceous vegetation, aquatic or regularly flooded'
+'grasslands': 'Grasslands'
+'shrub-covered areas': 'Shrub-covered areas'
+'tree-covered areas': 'Tree-covered areas'
 'higher-level courts': 'Higher-level courts'
 'lower-level courts': 'Lower-level courts'
 'supreme/constitutional courts': 'Supreme/Constitutional courts'
@@ -799,7 +810,7 @@
 #Z_08111_2
 'oda (gross disbursement) for aid for trade': 'ODA (gross disbursement) for aid for trade'
 #Z_09011_1
-'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
+'rural population who live within 2 km of an all-season road': 'Rural population who live within 2 km of an all-season road'
 #Z_09012_1
 'passenger transport': 'Passenger transport'
 #Z_09012_2
@@ -1182,6 +1193,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'fields of work': 'Fields of work'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1198,6 +1210,7 @@ area2: Area
 '+++X': 'cell blocked for logical reasons'
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 'victims of exploitation': 'Victims of exploitation'
+'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 'organisations with emas registration': 'Organisations with EMAS registration'
 'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
 'victims of female genital mutilation': 'Victims of female genital mutilation'
