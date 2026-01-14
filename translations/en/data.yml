@@ -592,7 +592,7 @@
 #Z_03022_1
 'neonatal mortality': 'Neonatal mortality'
 #Z_03031_1
-'number of new hiv infections': 'Number of new HIV infections'
+'new hiv infections': 'New HIV infections'
 #Z_03032_1
 'tuberculosis incidence': 'Tuberculosis incidence'
 #Z_03033_1
@@ -906,7 +906,7 @@
 #Z_11031_4
 'population growth rate': 'Population growth rate'
 #Z_11032_1
-'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
+'cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically': 'Cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically'
 #Z_11041_1
 'government expenditure on protection of biodiversity and landscape (cofog division 5.4)': 'Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)'
 #Z_11041_2
@@ -1208,9 +1208,11 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'number of new hiv infections': 'Number of new HIV infections'
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 'victims of exploitation': 'Victims of exploitation'
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
+'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
 'organisations with emas registration': 'Organisations with EMAS registration'
 'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
 'victims of female genital mutilation': 'Victims of female genital mutilation'

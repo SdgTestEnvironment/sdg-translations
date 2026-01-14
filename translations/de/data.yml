@@ -592,7 +592,7 @@
 #Z_03022_1
 'neonatal mortality': 'Neugeborenensterblichkeit'
 #Z_03031_1
-'number of new hiv infections': 'Anzahl der HIV-Neuinfektionen'
+'new hiv infections': 'HIV-Neuinfektionen'
 #Z_03032_1
 'tuberculosis incidence': 'Tuberkulose-Inzidenz'
 #Z_03033_1
@@ -906,7 +906,7 @@
 #Z_11031_4
 'population growth rate': 'Bevölkerungsentwicklung'
 #Z_11032_1
-'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
+'cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically': 'Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
 'government expenditure on protection of biodiversity and landscape (cofog division 5.4)': 'Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)'
 #Z_11041_2
@@ -1100,7 +1100,7 @@
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 #Z_16091_1
-'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist'
+'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert wurde'
 #Z_16102_1
 'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den öffentlichen Zugang zu Informationen'
 #Z_16111_1
@@ -1214,9 +1214,11 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'number of new hiv infections': 'Anzahl der HIV-Neuinfektionen'
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 'victims of exploitation': 'Opfer von Ausbeutung'
 'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
+'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
 'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/-innen waren'
 'victims of female genital mutilation': 'Opfer weiblicher Genitalverstümmelung'
