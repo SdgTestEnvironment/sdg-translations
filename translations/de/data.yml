@@ -536,9 +536,9 @@
 #Z_01031_2
 'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
 #Z_01031_3
-'proportion of population covered by at least one social protection cash benefit': 'Anteil der Bevölkerung, der mindestens eine Sozialschutz-Geldleistung bezieht'
+'population covered by at least one social protection cash benefit': 'Bevölkerung, die mindestens eine Sozialschutz-Geldleistung bezieht'
 #Z_01031_4
-'proportion of persons with disabilities receiving benefits': 'Anteil der Menschen mit Behinderungen, die Leistungen erhalten'
+'persons with disabilities receiving benefits': 'Menschen mit Behinderungen, die Leistungen erhalten'
 #Z_01051_1
 'deaths attributed to natural forces': 'Naturkräften zugeschriebene Sterbefälle'
 #Z_01061_1
@@ -612,9 +612,7 @@
 #Z_03051_2
 'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren'
 #Z_03052_1
-'alcohol consumption (by un factors)': 'Alkoholkonsum (nach UN-Faktoren)'
-#Z_03052_2
-'alcohol consumption (by national factors)': 'Alkoholkonsum (nach nationalen Faktoren)'
+'alcohol consumption': 'Alkoholkonsum'
 #Z_03061_1
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
@@ -666,7 +664,7 @@
 #Z_04031_1
 'participation in formal and non-formal education and training in the previous 12 months': 'Teilnahme an formaler und non-formaler Bildung und Ausbildung in den letzten 12 Monaten'
 #Z_04041_1
-'share of population with computer-related activities': 'Anteil der Bevölkerung mit computerbezogenen Aktivitäten'
+'population with computer-related activities': 'Bevölkerung mit computerbezogenen Aktivitäten'
 #Z_04051_1
 'gender parity index': 'Geschlechterparitätsindex'
 #Z_04061_1
@@ -674,7 +672,7 @@
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration von "Global Citizenship Education" und "Bildung für nachhaltige Entwicklung" im Bildungswesen'
 #Z_04081_1
-'proportion of schools offering basic services': 'Anteil der Schulen mit Basisversorgung'
+'schools offering basic services': 'Schulen mit Basisversorgung'
 #Z_04091_1
 'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben (ODA) für Stipendien'
 #Z_04091_2
@@ -1010,17 +1008,17 @@
 #Z_15042_1
 '(a) mountain green cover index': 'a) Index der Grünbedeckung in Gebirgen'
 #Z_15042_2
-'(b) proportion of degraded mountain area': 'b) Anteil der degradierten Gebirgsfläche'
+'(b) degraded mountain area': 'b) Degradierte Gebirgsfläche'
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
 #Z_15061_1
-'1) countries that are contracting parties to the international treaty on pgrfa': '1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind'
+'1) contracting party to the international treaty on pgrfa': '1) Vertragspartei des Internationalen Vertrags über PGRFA'
 #Z_15061_2
-'2) countries that are parties to the nagoya protocol': '2) Länder, die Vertragsparteien des Nagoya-Protokolls sind'
+'2) contracting party to the nagoya protocol': '2) Vertragspartei des Nagoya-Protokolls'
 #Z_15061_3
-'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa': '3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden'
+'3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa': '3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden'
 #Z_15061_4
-'4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden'
+'4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden'
 #Z_15061_5
 '5) total reported number of smtas transferring pgrfa to germany': '5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden'
 #Z_15071_1
@@ -1050,11 +1048,11 @@
 #Z_16012_1
 'conflict-related deaths': 'Konfliktbezogene Todesfälle'
 #Z_16013_1
-'a) physical violence': 'a) Physische Gewalt'
+'a) prevalence rate of physical violence': 'a) Prävalenzrate bei physischer Gewalt'
 #Z_16013_4
-'b) psychological violence': 'b) Psychische Gewalt'
+'b) prevalence rate of psychological violence': 'b) Prävalenzrate bei psychischer Gewalt'
 #Z_16013_5
-'c) sexual violence': 'c) Sexuelle Gewalt'
+'c) prevalence rate of sexual violence': 'c) Prävalenzrate bei sexueller Gewalt'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)'
 #Z_16014_2
@@ -1215,11 +1213,20 @@ area2: Bereich
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
 'number of new hiv infections': 'Anzahl der HIV-Neuinfektionen'
+'alcohol consumption (by un factors)': 'Alkoholkonsum (nach UN-Faktoren)'
+'alcohol consumption (by national factors)': 'Alkoholkonsum (nach nationalen Faktoren)'
+'share of population with computer-related activities': 'Anteil der Bevölkerung mit computerbezogenen Aktivitäten'
+'proportion of schools offering basic services': 'Anteil der Schulen mit Basisversorgung'
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 'victims of exploitation': 'Opfer von Ausbeutung'
 'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
+'(b) proportion of degraded mountain area': 'b) Anteil der degradierten Gebirgsfläche'
+'1) countries that are contracting parties to the international treaty on pgrfa': '1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind'
+'2) countries that are parties to the nagoya protocol': '2) Länder, die Vertragsparteien des Nagoya-Protokolls sind'
+'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa': '3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden'
+'4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden'
 'female victims of sexual violence by someone other than an intimate partner': 'Weibliche Opfer sexueller Gewalt durch Personen, die keine Intimpartner/-innen waren'
 'victims of female genital mutilation': 'Opfer weiblicher Genitalverstümmelung'
 'children and young people being exploited': 'Kinder und Jugendliche, die ausgebeutet werden'

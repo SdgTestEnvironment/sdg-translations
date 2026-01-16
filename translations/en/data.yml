@@ -536,9 +536,9 @@
 #Z_01031_2
 'population covered by health insurance': 'Population covered by health insurance'
 #Z_01031_3
-'proportion of population covered by at least one social protection cash benefit': 'Proportion of population covered by at least one social protection cash benefit'
+'population covered by at least one social protection cash benefit': 'Population covered by at least one social protection cash benefit'
 #Z_01031_4
-'proportion of persons with disabilities receiving benefits': 'Proportion of persons with disabilities receiving benefits'
+'persons with disabilities receiving benefits': 'Persons with disabilities receiving benefits'
 #Z_01051_1
 'deaths attributed to natural forces': 'Deaths attributed to natural forces'
 #Z_01061_1
@@ -612,9 +612,7 @@
 #Z_03051_2
 'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years'
 #Z_03052_1
-'alcohol consumption (by un factors)': 'Alcohol consumption (by UN factors)'
-#Z_03052_2
-'alcohol consumption (by national factors)': 'Alcohol consumption (by national factors)'
+'alcohol consumption': 'Alcohol consumption'
 #Z_03061_1
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 #Z_03072_1
@@ -666,7 +664,7 @@
 #Z_04031_1
 'participation in formal and non-formal education and training in the previous 12 months': 'Participation in formal and non-formal education and training in the previous 12 months'
 #Z_04041_1
-'share of population with computer-related activities': 'Share of population with computer-related activities'
+'population with computer-related activities': 'Population with computer-related activities'
 #Z_04051_1
 'gender parity index': 'Gender Parity Index'
 #Z_04061_1
@@ -674,7 +672,7 @@
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration of "global citizenship education" and "education for sustainable development" into the education system'
 #Z_04081_1
-'proportion of schools offering basic services': 'Proportion of schools offering basic services'
+'schools offering basic services': 'Schools offering basic services'
 #Z_04091_1
 'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
 #Z_04091_2
@@ -1010,17 +1008,17 @@
 #Z_15042_1
 '(a) mountain green cover index': '(a) Mountain Green Cover Index'
 #Z_15042_2
-'(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
+'(b) degraded mountain area': '(b) Degraded mountain area'
 #Z_15051_1
 '"red list" index': '"Red List" Index'
 #Z_15061_1
-'1) countries that are contracting parties to the international treaty on pgrfa': '1) Countries that are contracting Parties to the International Treaty on PGRFA'
+'1) contracting party to the international treaty on pgrfa': '1) Contracting party to the International Treaty on PGRFA'
 #Z_15061_2
-'2) countries that are parties to the nagoya protocol': '2) Countries that are parties to the Nagoya Protocol'
+'2) contracting party to the nagoya protocol': '2) Contracting party to the Nagoya Protocol'
 #Z_15061_3
-'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa': '3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA'
+'3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa': '3) Existence of legislative, administrative and policy frameworks or measures reported through the Online Reporting System on Compliance with the International Treaty on PGRFA'
 #Z_15061_4
-'4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
+'4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Existence of legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
 #Z_15061_5
 '5) total reported number of smtas transferring pgrfa to germany': '5) Total reported number of SMTAs transferring PGRFA to Germany'
 #Z_15071_1
@@ -1050,11 +1048,11 @@
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
 #Z_16013_1
-'a) physical violence': 'a) Physical violence'
+'a) prevalence rate of physical violence': 'a) Prevalence rate of physical violence'
 #Z_16013_4
-'b) psychological violence': 'b) Psychological violence'
+'b) prevalence rate of psychological violence': 'b) Prevalence rate of psychological violence'
 #Z_16013_5
-'c) sexual violence': 'c) Sexual violence'
+'c) prevalence rate of sexual violence': 'c) Prevalence rate of sexual violence'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
 #Z_16014_2
@@ -1209,11 +1207,20 @@ area2: Area
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
 'number of new hiv infections': 'Number of new HIV infections'
+'alcohol consumption (by un factors)': 'Alcohol consumption (by UN factors)'
+'alcohol consumption (by national factors)': 'Alcohol consumption (by national factors)'
+'share of population with computer-related activities': 'Share of population with computer-related activities'
+'proportion of schools offering basic services': 'Proportion of schools offering basic services'
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 'victims of exploitation': 'Victims of exploitation'
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
 'organisations with emas registration': 'Organisations with EMAS registration'
+'(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
+'1) countries that are contracting parties to the international treaty on pgrfa': '1) Countries that are contracting Parties to the International Treaty on PGRFA'
+'2) countries that are parties to the nagoya protocol': '2) Countries that are parties to the Nagoya Protocol'
+'3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa': '3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA'
+'4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
 'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
 'victims of female genital mutilation': 'Victims of female genital mutilation'
 'children and young people being exploited': 'Children and young people being exploited'
