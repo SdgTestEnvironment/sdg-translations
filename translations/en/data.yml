@@ -169,7 +169,9 @@
 '16 years': '16 years'
 '16.5 years': '16.5 years'
 '16 to under 25 years': '16 to under 25 years'
+'16 to under 66 years': '16 to under 66 years'
 '16 to under 75 years': '16 to under 75 years'
+'16 years and older': '16 years and older'
 '17 years': '17 years'
 '17.5 years': '17.5 years'
 '18 to under 21 years': '18 to under 21 years'
@@ -668,7 +670,7 @@
 #Z_04051_1
 'gender parity index': 'Gender Parity Index'
 #Z_04061_1
-'adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills'
+'adults with a fixed level of proficiency in functional literacy skills': 'Adults with a fixed level of proficiency in functional literacy skills'
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration of "global citizenship education" and "education for sustainable development" into the education system'
 #Z_04081_1
@@ -1210,6 +1212,7 @@ area2: Area
 'alcohol consumption (by un factors)': 'Alcohol consumption (by UN factors)'
 'alcohol consumption (by national factors)': 'Alcohol consumption (by national factors)'
 'share of population with computer-related activities': 'Share of population with computer-related activities'
+'adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Adults with a fixed level of proficiency in functional (a) literacy and (b) numeracy skills'
 'proportion of schools offering basic services': 'Proportion of schools offering basic services'
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 'victims of exploitation': 'Victims of exploitation'
