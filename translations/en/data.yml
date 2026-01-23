@@ -586,9 +586,7 @@
 #Z_03011_1
 'maternal mortality': 'Maternal mortality'
 #Z_03012_1
-'child deliveries in hospitals': 'Child deliveries in hospitals'
-#Z_03012_2
-'live births in total': 'Live births in total'
+'births attended by skilled health personnel': 'Births attended by skilled health personnel'
 #Z_03021_1
 'child mortality': 'Child mortality'
 #Z_03022_1
@@ -1208,6 +1206,8 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'child deliveries in hospitals': 'Child deliveries in hospitals'
+'live births in total': 'Live births in total'
 'number of new hiv infections': 'Number of new HIV infections'
 'alcohol consumption (by un factors)': 'Alcohol consumption (by UN factors)'
 'alcohol consumption (by national factors)': 'Alcohol consumption (by national factors)'

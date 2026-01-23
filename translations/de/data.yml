@@ -586,9 +586,7 @@
 #Z_03011_1
 'maternal mortality': 'Müttersterblichkeit'
 #Z_03012_1
-'child deliveries in hospitals': 'Entbindungen in Krankenhäusern'
-#Z_03012_2
-'live births in total': 'Lebendgeborene insgesamt'
+'births attended by skilled health personnel': 'Von qualifitierten Gesundheitspersonal betreute Geburten'
 #Z_03021_1
 'child mortality': 'Kindersterblichkeit'
 #Z_03022_1
@@ -1214,6 +1212,8 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'child deliveries in hospitals': 'Entbindungen in Krankenhäusern'
+'live births in total': 'Lebendgeborene insgesamt'
 'number of new hiv infections': 'Anzahl der HIV-Neuinfektionen'
 'alcohol consumption (by un factors)': 'Alkoholkonsum (nach UN-Faktoren)'
 'alcohol consumption (by national factors)': 'Alkoholkonsum (nach nationalen Faktoren)'
