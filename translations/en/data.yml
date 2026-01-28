@@ -50,6 +50,7 @@
 'per 100,000 adults': 'Per 100,000 adults'
 'per 100,000 inhabitants': 'Per 100,000 inhabitants'
 "'per 100,000 inhabitants '": Per 100,000 inhabitants
+'per 100,000 female inhabitants': 'Per 100,000 female inhabitants'
 'per 100,000 live births': 'Per 100,000 live births'
 'per 100,000 employees': 'Per 100,000 employees'
 'ph-value': 'pH-value'
@@ -1118,7 +1119,7 @@
 #Z_17061_1
 'fixed internet broadband access lines': 'Fixed internet broadband access lines'
 #Z_17071_1
-'output of the environmental goods and services sector (egss)': 'Output of the environmental goods and services sector (EGSS)'
+'total output of the environmental goods and services sector (egss)': 'Total output of the environmental goods and services sector (EGSS)'
 #Z_17071_2
 'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
 #Z_17081_1

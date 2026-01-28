@@ -50,6 +50,7 @@
 'per 100,000 adults': 'Je 100 000 Erwachsene'
 'per 100,000 inhabitants': 'Je 100 000 Einwohner/-innen'
 "'per 100,000 inhabitants '": 'Je 100 000 Einwohner/-innen'
+'per 100,000 female inhabitants': 'Je 100 000 Einwohnerinnen'
 'per 100,000 live births': 'Je 100 000 Lebendgeborene'
 'per 100,000 employees': 'Je 100 000 Mitarbeiter/-innen'
 'ph-value': 'pH-Wert'
@@ -586,7 +587,7 @@
 #Z_03011_1
 'maternal mortality': 'Müttersterblichkeit'
 #Z_03012_1
-'births attended by skilled health personnel': 'Von qualifitierten Gesundheitspersonal betreute Geburten'
+'births attended by skilled health personnel': 'Von qualifiziertem Gesundheitspersonal betreute Geburten'
 #Z_03021_1
 'child mortality': 'Kindersterblichkeit'
 #Z_03022_1
@@ -1118,7 +1119,7 @@
 #Z_17061_1
 'fixed internet broadband access lines': 'Internet-Breitband-Zugänge'
 #Z_17071_1
-'output of the environmental goods and services sector (egss)': 'Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)'
+'total output of the environmental goods and services sector (egss)': 'Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)'
 #Z_17071_2
 'gross fixed capital formation on environmental protection': 'Bruttoanlageinvestitionen für Umweltschutz'
 #Z_17081_1
