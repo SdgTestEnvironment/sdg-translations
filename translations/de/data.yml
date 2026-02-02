@@ -669,7 +669,7 @@
 #Z_04051_1
 'gender parity index': 'Geschlechterparitätsindex'
 #Z_04061_1
-'adults with a fixed level of proficiency in functional literacy skills': 'Erwachsene mit festgelegtem Mindestniveau in funktionalem Lesen'
+'adults with a defined minimum level of functional literacy': 'Erwachsene mit festgelegtem Mindestniveau in funktionalem Lesen'
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration von "Global Citizenship Education" und "Bildung für nachhaltige Entwicklung" im Bildungswesen'
 #Z_04081_1
@@ -1212,6 +1212,7 @@ area2: Bereich
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'adults with a fixed level of proficiency in functional literacy skills': 'Erwachsene mit festgelegtem Mindestniveau in funktionalem Lesen'
 'fields of work': 'Aufgabenbereiche'
 'child deliveries in hospitals': 'Entbindungen in Krankenhäusern'
 'live births in total': 'Lebendgeborene insgesamt'
