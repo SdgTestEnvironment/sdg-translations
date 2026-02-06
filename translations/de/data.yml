@@ -73,7 +73,7 @@
 'area': 'Gebiet'
 'area of law': 'Rechtsgebiet'
 'type of assistance': 'Art der Leistung'
-'bioclimatic belt': 'Bioklimatischer Gürtel'
+'bioclimatic belt': 'Bioklimatische Zone'
 'bound': 'Grenze'
 'cause of death': 'Todesursache'
 'availability': 'Verfügbarkeit'
@@ -1119,9 +1119,9 @@
 #Z_17061_1
 'fixed internet broadband access lines': 'Internet-Breitband-Zugänge'
 #Z_17071_1
-'total output of the environmental goods and services sector (egss)': 'Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)'
+'output of the environmental goods and services sector (egss)': 'Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)'
 #Z_17071_2
-'gross fixed capital formation on environmental protection': 'Bruttoanlageinvestitionen für Umweltschutz'
+'gross fixed capital formation for environmental protection activities': 'Bruttoanlageinvestitionen für Umweltschutzaktivitäten'
 #Z_17081_1
 'individuals using the internet': 'Internetnutzerinnen und -nutzer'
 #Z_17091_1
@@ -1324,6 +1324,7 @@ area2: Bereich
 'level of risk of extinction (according to national classification)': 'Gefährdungskategorie (nach nationaler Klassifikation)'
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
 'hiv incidence': 'Auftreten von HIV'
+'gross fixed capital formation on environmental protection': 'Bruttoanlageinvestitionen für Umweltschutz'
 '<u>additional time series:</u> full-time equivalents for employees': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente für Beschäftigte'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'

@@ -1119,9 +1119,9 @@
 #Z_17061_1
 'fixed internet broadband access lines': 'Fixed internet broadband access lines'
 #Z_17071_1
-'total output of the environmental goods and services sector (egss)': 'Total output of the environmental goods and services sector (EGSS)'
+'output of the environmental goods and services sector (egss)': 'Output of the environmental goods and services sector (EGSS)'
 #Z_17071_2
-'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
+'gross fixed capital formation for environmental protection activities': 'Gross fixed capital formation for environmental protection activities'
 #Z_17081_1
 'individuals using the internet': 'Individuals using the Internet'
 #Z_17091_1
@@ -1318,6 +1318,7 @@ area2: Area
 'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
 'hiv incidence': 'HIV incidence'
+'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
 '<u>additional time series:</u> full-time equivalents for employees': '<u>Additional time series:</u> Full-time equivalents for Employees'
 'creating electronic presentations with presentation software, including e.g. images, sound, video or charts': 'Creating electronic presentations with presentation software, including e.g. images, sound, video or charts'
 'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
