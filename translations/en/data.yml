@@ -137,8 +137,10 @@
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
 'type of harassment': 'Type of harassment'
-'type of sexual violence': 'Type of sexual violence'
 'type of physical violence': 'Type of physical violence'
+'type of psycological violence': 'Type of psycological violence'
+'type of sexual violence': 'Type of sexual violence'
+'type of violence': 'Type of violence'
 'type of unpaid work': 'Type of unpaid work'
 'degree of urbanisation': 'Degree of urbanisation'
 'type of waste treatment': 'Type of waste treatment'
@@ -493,8 +495,16 @@
 'towns and suburbs': 'Towns and suburbs'
 'cities': 'Cities'
 'urban': 'Urban'
+'personal offense on the internet': 'Personal offense on the Internet'
+'threat of violence offline': 'Threat of violence offline'
+'threat of violence online': 'Threat of violence online'
+'exposure of genitals': 'Exposure of genitals'
 'physical sexual assault': 'Physical sexual assault'
+'sexual abuse or rape': 'Sexual abuse or rape'
+'a) physical violence': 'a) Physical violence'
 'physical assault': 'Physical assault'
+'b) psychological violence': 'b) Psychological violence'
+'c) sexual violence': 'c) Sexual violence'
 'robbery': 'Robbery'
 'care work': 'Care work'
 'domestic work': 'Domestic work'
@@ -1043,11 +1053,7 @@
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
 #Z_16013_1
-'a) prevalence rate of physical violence': 'a) Prevalence rate of physical violence'
-#Z_16013_4
-'b) prevalence rate of psychological violence': 'b) Prevalence rate of psychological violence'
-#Z_16013_5
-'c) prevalence rate of sexual violence': 'c) Prevalence rate of sexual violence'
+'prevalence rate of physical, psychological or sexual violence': 'Prevalence rate of physical, psychological or sexual violence'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
 #Z_16014_2

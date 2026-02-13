@@ -137,8 +137,10 @@
 'type of flow': 'Art des Finanzstroms'
 'type of waste': 'Abfallart'
 'type of harassment': 'Art der Belästigung'
-'type of sexual violence': 'Art der sexuellen Gewalt'
 'type of physical violence': 'Art der physischen Gewalt'
+'type of psycological violence': 'Art der psychischen Gewalt'
+'type of sexual violence': 'Art der sexuellen Gewalt'
+'type of violence': 'Art der Gewalt'
 'type of unpaid work': 'Art der unbezahlten Arbeit'
 'degree of urbanisation': 'Verstädterungsgrad'
 'type of waste treatment': 'Art der Abfallbehandlung'
@@ -493,8 +495,16 @@
 'towns and suburbs': 'Kleinere Städte und Vororte'
 'cities': 'Städte'
 'urban': 'Städte'
+'personal offense on the internet': 'Persönliche Beleidigung im Internet'
+'threat of violence offline': 'Gewaltandrohung offline'
+'threat of violence online': 'Gewaltandrohung online'
+'exposure of genitals': 'Zeigen von Geschlechtsteilen'
 'physical sexual assault': 'Körperliche sexuelle Belästigung'
+'sexual abuse or rape': 'Sexueller Missbrauch oder Vergewaltigung'
+'a) physical violence': 'a) Physische Gewalt'
 'physical assault': 'Körperverletzung'
+'b) psychological violence': 'b) Psychische Gewalt'
+'c) sexual violence': 'c) Sexuelle Gewalt'
 'robbery': 'Raub'
 'care work': 'Pflegearbeit'
 'domestic work': 'Hausarbeit'
@@ -1043,11 +1053,7 @@
 #Z_16012_1
 'conflict-related deaths': 'Konfliktbezogene Todesfälle'
 #Z_16013_1
-'a) prevalence rate of physical violence': 'a) Prävalenzrate bei physischer Gewalt'
-#Z_16013_4
-'b) prevalence rate of psychological violence': 'b) Prävalenzrate bei psychischer Gewalt'
-#Z_16013_5
-'c) prevalence rate of sexual violence': 'c) Prävalenzrate bei sexueller Gewalt'
+'prevalence rate of physical, psychological or sexual violence': 'Prävalenzrate physischer, psychischer oder sexueller Gewalt'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)'
 #Z_16014_2
