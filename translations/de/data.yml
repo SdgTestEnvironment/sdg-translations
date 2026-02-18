@@ -1053,7 +1053,7 @@
 #Z_16012_1
 'conflict-related deaths': 'Konfliktbezogene Todesfälle'
 #Z_16013_1
-'prevalence rate of physical, psychological or sexual violence': 'Prävalenzrate physischer, psychischer oder sexueller Gewalt'
+'prevalence rate of physical, psychological and sexual violence': 'Prävalenzrate von physischer, psychischer und sexueller Gewalt'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)'
 #Z_16014_2
@@ -1065,11 +1065,7 @@
 #Z_16022_1
 'victims of human trafficking': 'Opfer von Menschenhandel'
 #Z_16031_1
-'a) reporting rate for physical violence': 'a) Anzeigequote bei physischer Gewalt'
-#Z_16031_3
-'b) reporting rate for psychological violence': 'b) Anzeigequote bei psychischer Gewalt'
-#Z_16031_4
-'c) reporting rate for sexual violence': 'c) Anzeigequote bei sexueller Gewalt'
+'reporting rate of physical, psychological and sexual violence': 'Anzeigequote von physischer, psychischer und sexueller Gewalt'
 #Z_16032_1
 'unsentenced detainees': 'Nicht strafrechtlich verurteilte Inhaftierte'
 #Z_16033_1

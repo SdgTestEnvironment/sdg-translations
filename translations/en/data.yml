@@ -1053,7 +1053,7 @@
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
 #Z_16013_1
-'prevalence rate of physical, psychological or sexual violence': 'Prevalence rate of physical, psychological or sexual violence'
+'prevalence rate of physical, psychological and sexual violence': 'Prevalence rate of physical, psychological and sexual violence'
 #Z_16014_1
 'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
 #Z_16014_2
@@ -1065,11 +1065,7 @@
 #Z_16022_1
 'victims of human trafficking': 'Victims of human trafficking'
 #Z_16031_1
-'a) reporting rate for physical violence': 'a) Reporting rate for physical violence'
-#Z_16031_3
-'b) reporting rate for psychological violence': 'b) Reporting rate for psychological violence'
-#Z_16031_4
-'c) reporting rate for sexual violence': 'c) Reporting rate for sexual violence'
+'reporting rate of physical, psychological and sexual violence': 'Reporting rate of physical, psychological and sexual violence'
 #Z_16032_1
 'unsentenced detainees': 'Unsentenced detainees'
 #Z_16033_1
