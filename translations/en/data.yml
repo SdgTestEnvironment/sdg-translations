@@ -51,6 +51,7 @@
 'per 100,000 inhabitants': 'Per 100,000 inhabitants'
 "'per 100,000 inhabitants '": Per 100,000 inhabitants
 'per 100,000 female inhabitants': 'Per 100,000 female inhabitants'
+"'per 100,000 female inhabitants '": Per 100,000 female inhabitants
 'per 100,000 live births': 'Per 100,000 live births'
 'per 100,000 employees': 'Per 100,000 employees'
 'ph-value': 'pH-value'
@@ -134,12 +135,12 @@
 'type of account': 'Type of account'
 'type of biomass': 'Type of biomass'
 'type of classification': 'Type of classification'
-'form of exploitation': 'Form of exploitation'
+'type of exploitation': 'Type of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
 'type of harassment': 'Type of harassment'
 'type of physical violence': 'Type of physical violence'
-'type of psycological violence': 'Type of psycological violence'
+'type of psychological violence': 'Type of psychological violence'
 'type of sexual violence': 'Type of sexual violence'
 'type of violence': 'Type of violence'
 'type of unpaid work': 'Type of unpaid work'
@@ -1214,6 +1215,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'form of exploitation': 'Form of exploitation'
+'type of psycological violence': 'Type of psycological violence'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
