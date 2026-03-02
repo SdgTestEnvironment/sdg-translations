@@ -135,7 +135,7 @@
 'type of account': 'Type of account'
 'type of biomass': 'Type of biomass'
 'type of classification': 'Type of classification'
-'type of exploitation': 'Type of exploitation'
+'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
 'type of harassment': 'Type of harassment'
@@ -1215,7 +1215,6 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'form of exploitation': 'Form of exploitation'
 'type of psycological violence': 'Type of psycological violence'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
