@@ -1215,7 +1215,6 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'type of psycological violence': 'Type of psycological violence'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1230,6 +1229,7 @@ area2: Area
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'type of psycological violence': 'Type of psycological violence'
 'adults with a fixed level of proficiency in functional literacy skills': 'Adults with a fixed level of proficiency in functional literacy skills'
 'fields of work': 'Fields of work'
 'child deliveries in hospitals': 'Child deliveries in hospitals'
