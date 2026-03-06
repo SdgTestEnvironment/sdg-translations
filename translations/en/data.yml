@@ -1237,7 +1237,6 @@ year: Year
 Year: Year
 sex of victim: Gender of victims
 age of victim: Age of victims
-area2: Area
 
 #Old stuff that may still be needed
 'mimec': 'MIMEC'
@@ -1268,6 +1267,7 @@ area2: Area
 '+++X': 'cell blocked for logical reasons'
 'level of water stress: share of withdrawal in renewable water resources': 'Level of water stress: share of withdrawal in renewable water resources'
 'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Level of water stress: share of withdrawal in renewable water resources, excluding cooling water'
+'area2': 'Area'
 'type of psycological violence': 'Type of psycological violence'
 'adults with a fixed level of proficiency in functional literacy skills': 'Adults with a fixed level of proficiency in functional literacy skills'
 'fields of work': 'Fields of work'

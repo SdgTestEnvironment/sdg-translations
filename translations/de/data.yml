@@ -1238,7 +1238,6 @@ Year: Jahr
 Value: Wert
 sex of victim: Geschlecht der Opfer
 age of victim: Alter der Opfer
-area2: Bereich
 
 #Old stuff that may still be needed
 'number in 1 000': 'Anzahl in 1 000'
@@ -1274,6 +1273,7 @@ area2: Bereich
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
 'level of water stress: share of withdrawal in renewable water resources': 'Nutzung der Wasserressourcen: Anteil der Entnahme an den erneuerbaren Wasserressourcen'
 'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Nutzung der Wasserressourcen: Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
+'area2': 'Bereich'
 'type of psycological violence': 'Art der psychischen Gewalt'
 'adults with a fixed level of proficiency in functional literacy skills': 'Erwachsene mit festgelegtem Mindestniveau in funktionalem Lesen'
 'fields of work': 'Aufgabenbereiche'
