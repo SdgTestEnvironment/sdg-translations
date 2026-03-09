@@ -113,7 +113,6 @@
 'presentation': 'Presentation'
 'type of receiver/provider': 'Type of receiver/provider'
 'level of risk of extinction': 'Level of risk of extinction'
-'role': 'Role'
 'environmental protection and/or resource management sector': 'Environmental protection and/or resource management sector'
 'score': 'Score'
 'goal': 'Goal'
@@ -393,8 +392,6 @@
 'monitoring population': 'Monitoring Population'
 'conservation population': 'Conservation Population'
 'phenotypic conservation populations': 'Phenotypic Conservation Populations'
-'receiver': 'Receiver'
-'provider': 'Provider'
 'water and sanitation': 'Water and sanitation'
 'air and climate (cep 01)': 'Air and climate (CEP 01)'
 'energy from renewable sources (cep 0201)': 'Energy from renewable sources (CEP 0201)'
@@ -447,13 +444,15 @@
 'health, environment, sport and recreation': 'Health, environment, sport and recreation'
 'social security, family and youth, labour market policy': 'Social security, family and youth, labour market policy'
 'direct transfers of funds': 'Direct transfers of funds'
+'smta received by germany': 'SMTA received by Germany'
+'smta sent by germany': 'SMTA sent by Germany'
 'tax breaks': 'Tax breaks'
 'total': 'Total'
 '<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
 '<u>additional time series:</u> full-time equivalents': '<u>Additional time series:</u> Full-time equivalents'
 '<u>time series of the indicator:</u> employed persons': '<u>Time series of the indicator:</u> Employed persons'
-'share of water withdrawal in renewable water resources': 'Share of water withdrawal in renewable water resources'
-'share of water withdrawal by sector': 'Share of water withdrawal by sector'
+'water withdrawal': 'Water withdrawal'
+'water withdrawal by sector': 'Water withdrawal by sector'
 'divers': 'Divers'
 'female': 'Female'
 'male': 'Male'
@@ -1069,15 +1068,15 @@
 #Z_15051_1
 '"red list" index': '"Red List" Index'
 #Z_15061_1
-'1) contracting party to the international treaty on pgrfa': '1) Contracting party to the International Treaty on PGRFA'
+'(1) contracting party to the pgrfa': '(1) Contracting Party to the PGRFA'
 #Z_15061_2
-'2) contracting party to the nagoya protocol': '2) Contracting party to the Nagoya Protocol'
+'(2) contracting party to the nagoya protocol': '(2) Contracting party to the Nagoya Protocol'
 #Z_15061_3
-'3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa': '3) Existence of legislative, administrative and policy frameworks or measures reported through the Online Reporting System on Compliance with the International Treaty on PGRFA'
+'(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa': '(3) Existence of framework or measures reported through the Online Reporting System on Compliance of the PGRFA'
 #Z_15061_4
-'4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Existence of legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
+'(4) existence of framework or measures reported to the access and benefit-sharing clearing-house': '(4) Existence of framework or measures reported to the Access and Benefit-Sharing Clearing-House'
 #Z_15061_5
-'5) total reported number of smtas transferring pgrfa to germany': '5) Total reported number of SMTAs transferring PGRFA to Germany'
+'(5) number of smtas': '(5) Number of SMTAs'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 #Z_15071_2
@@ -1267,6 +1266,11 @@ age of victim: Age of victims
 '+++X': 'cell blocked for logical reasons'
 'level of water stress: share of withdrawal in renewable water resources': 'Level of water stress: share of withdrawal in renewable water resources'
 'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Level of water stress: share of withdrawal in renewable water resources, excluding cooling water'
+'1) contracting party to the international treaty on pgrfa': '1) Contracting party to the International Treaty on PGRFA'
+'2) contracting party to the nagoya protocol': '2) Contracting party to the Nagoya Protocol'
+'3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa': '3) Existence of legislative, administrative and policy frameworks or measures reported through the Online Reporting System on Compliance with the International Treaty on PGRFA'
+'4) existence of legislative, administrative and policy framework or measures reported to the abs clearing-house': '4) Existence of legislative, administrative and policy framework or measures reported to the ABS Clearing-House'
+'5) total reported number of smtas transferring pgrfa to germany': '5) Total reported number of SMTAs transferring PGRFA to Germany'
 'area2': 'Area'
 'type of psycological violence': 'Type of psycological violence'
 'adults with a fixed level of proficiency in functional literacy skills': 'Adults with a fixed level of proficiency in functional literacy skills'
