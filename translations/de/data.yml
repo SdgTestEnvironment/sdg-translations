@@ -228,7 +228,7 @@
 'area 4: marriage and family': 'Bereich 4: Ehe und Familie'
 'participation in education': 'Teilhabe an Bildung'
 'medical rehabilitation': 'Medizinischen Rehabilitation'
-'other': 'Andere'
+'other': 'Sonstige'
 'sozial participation': 'Sozialen Teilhabe'
 'participation in working life': 'Teilhabe am Arbeitsleben'
 'alpine': 'Alpin'
@@ -445,8 +445,8 @@
 'health, environment, sport and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
 'social security, family and youth, labour market policy': 'Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik'
 'direct transfers of funds': 'Direkte finanzielle Beihilfen'
-'smta received by germany': 'SMTA empfangen von Deutschland'
-'smta sent by germany': 'SMTA gesendet von Deutschland'
+'germany as receiver': 'Deutschland als Empfänger'
+'germany as provider': 'Deutschland als Bereitsteller'
 'tax breaks': 'Steuervergünstigungen'
 'total': 'Insgesamt'
 '<u>additional time series:</u> employees': '<u>Zusätzliche Zeitreihe:</u> Beschäftigte'
@@ -1077,7 +1077,7 @@
 #Z_15061_4
 '(4) existence of framework or measures reported to the access and benefit-sharing clearing-house': '4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden'
 #Z_15061_5
-'(5) number of smtas': '5) Anzahl der standardisierten Materialübertragungs-vereinbarungen'
+'(5) standard material transfer agreements (smtas)': '5) Standardisierte Materialübertragungs-vereinbarungen'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2

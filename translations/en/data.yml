@@ -445,8 +445,8 @@
 'health, environment, sport and recreation': 'Health, environment, sport and recreation'
 'social security, family and youth, labour market policy': 'Social security, family and youth, labour market policy'
 'direct transfers of funds': 'Direct transfers of funds'
-'smta received by germany': 'SMTA received by Germany'
-'smta sent by germany': 'SMTA sent by Germany'
+'germany as receiver': 'Germany as receiver'
+'germany as provider': 'Germany as provider'
 'tax breaks': 'Tax breaks'
 'total': 'Total'
 '<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
@@ -1077,7 +1077,7 @@
 #Z_15061_4
 '(4) existence of framework or measures reported to the access and benefit-sharing clearing-house': '(4) Existence of framework or measures reported to the Access and Benefit-Sharing Clearing-House'
 #Z_15061_5
-'(5) number of smtas': '(5) Number of SMTAs'
+'(5) standard material transfer agreements (smtas)': '(5) Standard Material Transfer Agreements (SMTAs)'
 #Z_15071_1
 'documents issued for the import and export of protected species': 'Documents issued for the import and export of protected species'
 #Z_15071_2
