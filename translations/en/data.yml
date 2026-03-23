@@ -127,6 +127,7 @@
 'skill': 'Skill'
 'data source': 'Data source'
 'speed': 'Speed'
+'satus': 'Satus'
 'standard accounting system': 'Standard accounting system'
 'subject': 'Subject'
 'substance': 'Substance'
@@ -144,6 +145,7 @@
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
+'type of water body': 'Type of water body'
 'type of harassment': 'Type of harassment'
 'type of physical violence': 'Type of physical violence'
 'type of psychological violence': 'Type of psychological violence'
@@ -482,6 +484,11 @@
 'c) 10 mbps to under 30 mbps': 'c) 10 mbps to under 30 mbps'
 'd) 30 mbps to under 100 mbps': 'd) 30 mbps to under 100 mbps'
 'e) 100 mbps and over': 'e) 100 mbps and over'
+'bad': 'Bad'
+'good or very good': 'Good or very good'
+'moderate': 'Moderate'
+'poor': 'Poor'
+'unclear': 'Unclear'
 'seea tables': 'SEEA tables'
 'tsa tables': 'TSA tables'
 'scholarships': 'Scholarships'
@@ -559,6 +566,10 @@
 'private concessional flows (net disbursements)': 'Private concessional flows (net disbursements)'
 'total waste': 'Total waste'
 'municipal waste': 'Municipal waste'
+'water bodies in transitional and coastal waters - baltic sea': 'Water bodies in transitional and coastal waters - Baltic sea'
+'water bodies in transitional and coastal waters - north sea': 'Water bodies in transitional and coastal waters - North sea'
+'lakes': 'Lakes'
+'running waters': 'Running waters'
 'non-sexual harassment': 'Non-sexual harassment'
 'sexual harassment': 'Sexual harassment'
 'rural areas': 'Rural areas'
@@ -800,10 +811,8 @@
 'wastewater that is safely treated or does not require treatment': 'Wastewater that is safely treated or does not require treatment'
 #Z_06031_2
 'wastewater and cooling water': 'Wastewater and cooling water'
-#Z_06032_2
-'flowing water with good ecological status for total phosphorous': 'Flowing water with good ecological status for total phosphorous'
-#Z_06032_3
-'groundwater mesuring points below the threshold value for nitrate': 'Groundwater mesuring points below the threshold value for nitrate'
+#Z_06032_1
+'ecological status of water bodies': 'Ecological status of water bodies'
 #Z_06041_1
 'change in water-use efficiency': 'Change in water-use efficiency'
 #Z_06041_2
@@ -997,7 +1006,7 @@
 #Z_11072_1
 'victims of non-sexual or sexual harassment': 'Victims of non-sexual or sexual harassment'
 #Z_11101_1
-'oda and oof (gross disbursements) in support of urban infrastructure or urban infrastructure projects': 'ODA and OOF (gross disbursements) in support of urban infrastructure or urban infrastructure projects'
+'oda and oof (gross disbursements) in support of urban infrastructure': 'ODA and OOF (gross disbursements) in support of urban infrastructure'
 #Z_12031_1
 '(b) food waste index': '(b) food waste index'
 #Z_12041_1
@@ -1273,6 +1282,8 @@ age of victim: Age of victims
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'flowing water with good ecological status for total phosphorous': 'Flowing water with good ecological status for total phosphorous'
+'groundwater mesuring points below the threshold value for nitrate': 'Groundwater mesuring points below the threshold value for nitrate'
 'mimec': 'MIMEC'
 'agriculture, forestry and fishing (wz-code a)': 'Agriculture, forestry and fishing (WZ-code A)'
 'mining and quarrying (wz-code b)': 'Mining and quarrying (WZ-code B)'

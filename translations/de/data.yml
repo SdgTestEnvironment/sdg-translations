@@ -127,6 +127,7 @@
 'skill': 'Fähigkeit'
 'data source': 'Datenquelle'
 'speed': 'Geschwindigkeit'
+'satus': 'Zustand'
 'standard accounting system': 'Standardrechnungssystem (der Volkswirtschaftlichen Gesamtrechnungen)'
 'subject': 'Schulfach'
 'substance': 'Substanz'
@@ -144,6 +145,7 @@
 'form of exploitation': 'Form der Ausbeutung'
 'type of flow': 'Art des Finanzstroms'
 'type of waste': 'Abfallart'
+'type of water body': 'Art der Wasserkörper'
 'type of harassment': 'Art der Belästigung'
 'type of physical violence': 'Art der physischen Gewalt'
 'type of psychological violence': 'Art der psychischen Gewalt'
@@ -482,6 +484,11 @@
 'c) 10 mbps to under 30 mbps': 'c) 10 Mbit/s bis unter 30 Mbit/s'
 'd) 30 mbps to under 100 mbps': 'd) 30 Mbit/s bis unter 100 Mbit/s'
 'e) 100 mbps and over': 'e) 100 Mbit/s und mehr'
+'bad': 'Schlecht'
+'good or very good': 'Gut oder sehr gut'
+'moderate': 'Mäßig'
+'poor': 'Unbefriedigend'
+'unclear': 'Unklar'
 'seea tables': 'SEEA Tabellen'
 'tsa tables': 'TSA Tabellen'
 'scholarships': 'Stipendien'
@@ -559,6 +566,10 @@
 'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)'
 'total waste': 'Abfallaufkommen insgesamt'
 'municipal waste': 'Siedlungsabfälle insgesamt'
+'water bodies in transitional and coastal waters - baltic sea': 'Übergangs- und Küstengewässern -Ostsee'
+'water bodies in transitional and coastal waters - north sea': 'Übergangs- und Küstengewässern - Nordsee'
+'lakes': 'Seen'
+'running waters': 'Fließgewässer'
 'non-sexual harassment': 'Nicht-sexuelle Belästigung'
 'sexual harassment': 'Sexuelle Belästigung'
 'rural areas': 'Ländliche Gebiete'
@@ -800,10 +811,8 @@
 'wastewater that is safely treated or does not require treatment': 'Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist'
 #Z_06031_2
 'wastewater and cooling water': 'Abwasser und Kühlwasser'
-#Z_06032_2
-'flowing water with good ecological status for total phosphorous': 'Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
-#Z_06032_3
-'groundwater mesuring points below the threshold value for nitrate': 'Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat'
+#Z_06032_1
+'ecological status of water bodies': 'Ökologischr Zustand der Gewässer'
 #Z_06041_1
 'change in water-use efficiency': 'Veränderung der Wassernutzungseffizienz'
 #Z_06041_2
@@ -997,7 +1006,7 @@
 #Z_11072_1
 'victims of non-sexual or sexual harassment': 'Opfer von nicht-sexueller oder sexueller Belästigung'
 #Z_11101_1
-'oda and oof (gross disbursements) in support of urban infrastructure or urban infrastructure projects': 'Bruttoausgaben (ODA und OOF) zur Unterstützung städtischer Infrastruktur oder städtischer Infrastrukturprojekte'
+'oda and oof (gross disbursements) in support of urban infrastructure': 'Bruttoausgaben (ODA und OOF) zur Unterstützung städtischer Infrastruktur'
 #Z_12031_1
 '(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
@@ -1279,6 +1288,8 @@ age of victim: Alter der Opfer
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'flowing water with good ecological status for total phosphorous': 'Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
+'groundwater mesuring points below the threshold value for nitrate': 'Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat'
 'mimec': 'MIMEC'
 'agriculture, forestry and fishing (wz-code a)': 'Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)'
 'mining and quarrying (wz-code b)': 'Bergbau und Gewinnung von Steinen und Erden (WZ-Abschnitt B)'
