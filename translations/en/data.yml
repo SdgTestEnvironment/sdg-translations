@@ -463,8 +463,8 @@
 'social security, family and youth, labour market policy': 'Social security, family and youth, labour market policy'
 'energy': 'Energy'
 'direct transfers of funds': 'Direct transfers of funds'
-'[a] germany as receiver': 'Germany as receiver'
-'[b] germany as provider': 'Germany as provider'
+'[a] germany as receiver': '[a] Germany as receiver'
+'[b] germany as provider': '[b] Germany as provider'
 'tax breaks': 'Tax breaks'
 'total': 'Total'
 '<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
@@ -1268,8 +1268,6 @@ sex of victim: Gender of victims
 age of victim: Age of victims
 
 #Old stuff that may still be needed
-'germany as receiver': 'Germany as receiver'
-'germany as provider': 'Germany as provider'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1284,6 +1282,8 @@ age of victim: Age of victims
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'germany as receiver': 'Germany as receiver'
+'germany as provider': 'Germany as provider'
 'flowing water with good ecological status for total phosphorous': 'Flowing water with good ecological status for total phosphorous'
 'groundwater mesuring points below the threshold value for nitrate': 'Groundwater mesuring points below the threshold value for nitrate'
 'mimec': 'MIMEC'
