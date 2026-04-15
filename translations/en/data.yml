@@ -59,7 +59,7 @@
 'per 1 million inhabitants': 'Per 1 million inhabitants'
 'percentage': 'Percentage'
 "'percentage '": Percentage
-'percent of gdp': 'Percent of GDP'
+'percentage of gdp': 'Percentage of GDP'
 'km²': 'km²'
 'tonnes': 'Tonnes'
 '1 000 m³': '1 000 m³'
@@ -144,6 +144,7 @@
 'type of classification': 'Type of classification'
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
+'typ of subsidy': 'Typ of subsidy'
 'type of waste': 'Type of waste'
 'type of water body': 'Type of water body'
 'type of harassment': 'Type of harassment'
@@ -1268,6 +1269,7 @@ sex of victim: Gender of victims
 age of victim: Age of victims
 
 #Old stuff that may still be needed
+'percent of gdp': 'Percent of GDP'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
