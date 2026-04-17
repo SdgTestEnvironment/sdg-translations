@@ -1011,15 +1011,15 @@
 #Z_12031_1
 '(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
-'basel convention': 'Basler Übereinkommen'
+'(1) contracting party to the basel convention': '1) Vertragspartei des Basler Übereinkommens'
 #Z_12041_2
-'montreal protocol': 'Montrealer Protokoll'
+'(2) contracting party to the montreal protocol': '2) Vertragspartei des Montrealer Protokolls'
 #Z_12041_3
-'rotterdam convention': 'Rotterdamer Übereinkommen'
+'(3) contracting party to the rotterdam convention': '3) Vertragspartei des Rotterdamer Übereinkommens'
 #Z_12041_4
-'stockholm convention': 'Stockholmer Übereinkommen'
+'(4) contracting party to the stockholm convention': '4) Vertragspartei des Stockholmer Übereinkommens'
 #Z_12041_5
-'minamata convention': 'Minamata Übereinkommen'
+'(5) contracting party to the minamata convention': '5) Vertragspartei des Minamata Übereinkommens'
 #Z_12042_1
 'a) hazardous waste generated per capita': 'a) Aufkommen gefährlicher Abfälle'
 #Z_12042_2
@@ -1290,6 +1290,11 @@ age of victim: Alter der Opfer
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'basel convention': 'Basler Übereinkommen'
+'montreal protocol': 'Montrealer Protokoll'
+'rotterdam convention': 'Rotterdamer Übereinkommen'
+'stockholm convention': 'Stockholmer Übereinkommen'
+'minamata convention': 'Minamata Übereinkommen'
 'germany as receiver': 'Deutschland als Empfänger'
 'germany as provider': 'Deutschland als Bereitsteller'
 'flowing water with good ecological status for total phosphorous': 'Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
