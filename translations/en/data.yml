@@ -144,7 +144,7 @@
 'type of classification': 'Type of classification'
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
-'typ of subsidy': 'Typ of subsidy'
+'type of subsidy': 'Type of subsidy'
 'type of waste': 'Type of waste'
 'type of water body': 'Type of water body'
 'type of harassment': 'Type of harassment'
@@ -1035,7 +1035,7 @@
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_12111_1
-'tax breaks and direct transfers of funds': 'Tax breaks and direct transfers of funds'
+'fossil-fuel subsidies': 'Fossil-fuel subsidies'
 #Z_13022_1
 'total greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
@@ -1289,6 +1289,7 @@ age of victim: Age of victims
 'rotterdam convention': 'Rotterdam Convention'
 'stockholm convention': 'Stockholm Convention'
 'minamata convention': 'Minamata Convention'
+'tax breaks and direct transfers of funds': 'Tax breaks and direct transfers of funds'
 'germany as receiver': 'Germany as receiver'
 'germany as provider': 'Germany as provider'
 'flowing water with good ecological status for total phosphorous': 'Flowing water with good ecological status for total phosphorous'

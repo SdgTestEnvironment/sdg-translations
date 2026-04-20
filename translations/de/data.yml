@@ -144,7 +144,7 @@
 'type of classification': 'Art der Klassifikation'
 'form of exploitation': 'Form der Ausbeutung'
 'type of flow': 'Art des Finanzstroms'
-'typ of subsidy': 'Art der Subvention'
+'type of subsidy': 'Art der Subvention'
 'type of waste': 'Abfallart'
 'type of water body': 'Art des Wasserkörpers'
 'type of harassment': 'Art der Belästigung'
@@ -1035,7 +1035,7 @@
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_12111_1
-'tax breaks and direct transfers of funds': 'Steuervergünstigungen und direkte finanzielle Beihilfen'
+'fossil-fuel subsidies': 'Subventionen für fossile Brennstoffe'
 #Z_13022_1
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
@@ -1295,6 +1295,7 @@ age of victim: Alter der Opfer
 'rotterdam convention': 'Rotterdamer Übereinkommen'
 'stockholm convention': 'Stockholmer Übereinkommen'
 'minamata convention': 'Minamata Übereinkommen'
+'tax breaks and direct transfers of funds': 'Steuervergünstigungen und direkte finanzielle Beihilfen'
 'germany as receiver': 'Deutschland als Empfänger'
 'germany as provider': 'Deutschland als Bereitsteller'
 'flowing water with good ecological status for total phosphorous': 'Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
