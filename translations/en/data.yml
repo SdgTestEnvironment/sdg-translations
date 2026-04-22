@@ -157,6 +157,7 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'status': 'Status'
 
 #Characteristics
 'accessibility within 10 minutes on foot': 'Accessibility within 10 minutes on foot'
@@ -600,6 +601,8 @@
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
+'contracting party': 'Contracting party'
+'reporting requirement met': 'Reporting requirement met'
 
 #Data notes
 +++symbols: Explanation of symbols
@@ -653,7 +656,7 @@
 #Z_02031_1
 'labour productivity': 'Labour productivity'
 #Z_02032_1
-'income of small-scale and part-time farms': 'Income of small-scale and part-time farms'
+'average income in small-scale and part-time farms': 'Average income in small-scale and part-time farms'
 #Z_02041_1
 'organically farmed agricultural land': 'Organically farmed agricultural land'
 #Z_02041_3
@@ -1011,15 +1014,15 @@
 #Z_12031_1
 '(b) food waste index': '(b) food waste index'
 #Z_12041_1
-'(1) contracting party to the basel convention': '(1) Contracting Party to the Basel Convention'
+'(1) basel convention': '(1) Basel Convention'
 #Z_12041_2
-'(2) contracting party to the montreal protocol': '(2) Contracting Party to the Montreal Protocol'
+'(2) montreal protocol': '(2) Montreal Protocol'
 #Z_12041_3
-'(3) contracting party to the rotterdam convention': '(3) Contracting Party to the Rotterdam Convention'
+'(3) rotterdam convention': '(3) Rotterdam Convention'
 #Z_12041_4
-'(4) contracting party to the stockholm convention': '(4) Contracting Party to the Stockholm Convention'
+'(4) stockholm convention': '(4) Stockholm Convention'
 #Z_12041_5
-'(5) contracting party to the minamata convention': '(5) Contracting Party to the Minamata Convention'
+'(5) minamata convention': '(5) Minamata Convention'
 #Z_12042_1
 'a) hazardous waste generated per capita': 'a) Hazardous waste generated per capita'
 #Z_12042_2
