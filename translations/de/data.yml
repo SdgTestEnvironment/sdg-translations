@@ -473,7 +473,7 @@
 '<u>additional time series:</u> full-time equivalents': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente'
 '<u>time series of the indicator:</u> employed persons': '<u>Zeitreihe des Indikators:</u> Erwerbstätige'
 'water withdrawal': 'Wasserentnahme'
-'water withdrawal by sector': 'Frischwasserentnahme nach Wirtschaftszweig'
+'water withdrawl by economic activity': 'Wasserentnahme nach Wirtschaftszweig'
 'divers': 'Divers'
 'female': 'Weiblich'
 'male': 'Männlich'
@@ -1200,7 +1200,7 @@
 #Z_17021_2
 'proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)': 'Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)'
 #Z_17032_1
-'personal remittances received': 'Erhaltene Überweisungen von Privatpersonen'
+'personal remittances received from abroad as a percentage of gdp': 'Eingehende Überweisungen von Privatpersonen aus dem Ausland im Verhältnis zum BIP'
 #Z_17051_1
 'number and value of supported outward investment projects to ldcs': 'Anzahl und Wert der geförderten Projekte für Auslandsinvestitionen in den am wenigsten entwickelten Ländern (LDCs)'
 #Z_17061_1
@@ -1323,6 +1323,7 @@ age of victim: Alter der Opfer
 'sdg-indicator 4.3.1 (15 to under 65 years)': 'SDG-Indikator 4.3.1 (15 bis unter 65 Jahre)'
 'sdg-indicator 4.3.1 (25 to under 55 years)': 'SDG-Indikator 4.3.1 (25 bis unter 55 Jahre)'
 'sdg-indicator 4.3.1 (55 to under 65 years)': 'SDG-Indikator 4.3.1 (55 bis unter 65 Jahre)'
+'water withdrawal by sector': 'Frischwasserentnahme nach Wirtschaftszweig'
 'a) literacy skills': 'a) Lesen'
 'b) numeracy skills': 'b) Rechnen'
 'a) over 144 kbps to under 2 mbps': 'a) Über 144 kbit/s bis unter 2 Mbit/s'
