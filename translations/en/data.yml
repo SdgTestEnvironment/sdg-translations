@@ -157,7 +157,7 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'type of treatment': 'Type of treatment'
-'type of obligation under multilateral environmental agreements': 'Type of obligation under multilateral environmental agreements'
+'type of obligation': 'Type of obligation'
 
 #Characteristics
 'accessibility within 10 minutes on foot': 'Accessibility within 10 minutes on foot'
@@ -602,8 +602,8 @@
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
-'compliance with the multilateral environmental agreement': 'Compliance with the multilateral environmental agreement'
-'contracting party': 'Contracting party'
+'compliance with the agreement': 'Compliance with the agreement'
+'contracting party': 'Contracting Party'
 'fulfilment of reporting obligations': 'Fulfilment of reporting obligations'
 
 #Data notes
@@ -634,7 +634,7 @@
 #Z_01031_3
 'rate of minimum social security benefits': 'Rate of minimum social security benefits'
 #Z_01051_1
-'deaths attributed to natural forces': 'Deaths attributed to natural forces'
+'mortality due to exposure to forces of nature': 'Mortality due to exposure to forces of nature'
 #Z_01061_1
 'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
 #Z_01061_2
@@ -1354,6 +1354,7 @@ age of victim: Age of victims
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'deaths attributed to natural forces': 'Deaths attributed to natural forces'
 'basel convention': 'Basel Convention'
 'montreal protocol': 'Montreal Protocol'
 'rotterdam convention': 'Rotterdam Convention'
