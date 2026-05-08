@@ -529,7 +529,7 @@
 'pipelines: crude oil': 'Rohrfernleitungen: Rohöl'
 'people requiring interventions': 'Personen mit Behandlungsbedarf'
 'inpatient treatment': 'Stationäre Behandlung'
-'(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
+'(a) diseases of the circulatory system': 'a) Krankheiten des Kreislaufsystems'
 'leprosy': 'Lepra'
 'buruli ulcer': 'Buruli-Ulkus'
 'human african trypanosomiasis': 'Afrikanische Trypanosomiasis'
@@ -540,7 +540,7 @@
 'chronic obstructive pulmonary disease (copd)': 'Chronisch obstruktive Lungenerkrankung (COPD)'
 'lung cancer': 'Lungenkrebs'
 'stroke': 'Schlaganfall'
-'(b) cancer': 'b) Bösartige Neubildungen'
+'(b) malignant neoplasms': 'b) Bösartige Neubildungen'
 'ischemic heart diseases': 'Ischämische Herzerkrankungen'
 'diabetes mellitus type 2': 'Diabetes mellitus Typ 2'
 '(a) acute respiratory infections': 'a) Akute Atemwegsinfektionen'
@@ -1265,9 +1265,9 @@
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 #Z_17192_2
-'birth registration': 'Registrierung der Geburten'
+'birth registration': 'Registrierung von Geburten'
 #Z_17192_3
-'death registration': 'Registrierung der Sterbefälle'
+'death registration': 'Registrierung von Sterbefällen'
 
 #Zusatz
 total: Insgesamt
@@ -1285,6 +1285,8 @@ age of victim: Alter der Opfer
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
+'(b) cancer': 'b) Bösartige Neubildungen'
 '+++symbols': 'Zeichenerklärung'
 '+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
 '+++‒': 'nichts vorhanden'

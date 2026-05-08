@@ -529,7 +529,7 @@
 'pipelines: crude oil': 'Pipelines: crude oil'
 'people requiring interventions': 'People requiring interventions'
 'inpatient treatment': 'Inpatient treatment'
-'(a) cardiovascular disease': '(a) Cardiovascular disease'
+'(a) diseases of the circulatory system': '(a) Diseases of the circulatory system'
 'leprosy': 'Leprosy'
 'buruli ulcer': 'Buruli ulcer'
 'human african trypanosomiasis': 'Human African Trypanosomiasis'
@@ -540,7 +540,7 @@
 'chronic obstructive pulmonary disease (copd)': 'Chronic obstructive pulmonary disease (COPD)'
 'lung cancer': 'Lung cancer'
 'stroke': 'Stroke'
-'(b) cancer': '(b) Cancer'
+'(b) malignant neoplasms': '(b) Malignant neoplasms'
 'ischemic heart diseases': 'Ischemic heart diseases'
 'diabetes mellitus type 2': 'Diabetes mellitus type 2'
 '(a) acute respiratory infections': '(a) Acute respiratory infections'
@@ -1279,6 +1279,8 @@ sex of victim: Gender of victims
 age of victim: Age of victims
 
 #Old stuff that may still be needed
+'(a) cardiovascular disease': '(a) Cardiovascular disease'
+'(b) cancer': '(b) Cancer'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
