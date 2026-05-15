@@ -145,6 +145,7 @@
 'type of classification': 'Art der Klassifikation'
 'form of exploitation': 'Form der Ausbeutung'
 'type of flow': 'Art des Finanzstroms'
+'type of proceeding': 'Art des Verfahrens'
 'type of fiscal policy tool': 'Art des fiskalpolitischen Instruments'
 'type of waste': 'Abfallart'
 'type of water body': 'Art des Wasserkörpers'
@@ -567,6 +568,8 @@
 'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
 'private sector flows at market terms (net disbursement)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)'
 'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)'
+'administrative offense proceedings': 'Ordnungswidrigkeitenverfahren'
+'criminal proceedings': 'Strafverfahren'
 'tax reliefs': 'Steuervergünstigungen'
 'total waste': 'Abfallaufkommen insgesamt'
 'municipal waste': 'Siedlungsabfälle insgesamt'
@@ -856,6 +859,8 @@
 'annual growth rate of real gdp per capita': 'Jährliche Wachstumsrate des realen BIP pro Kopf'
 #Z_08021_1
 'annual growth rate of real gdp per employed person': 'Jährliche Wachstumsrate des realen BIP je Erwerbstätigen'
+#Z_08031_1
+'proceedings initiated in connection with illegal employment': 'Eingeleitete Verfahren mit Bezug zu Schwarzarbeit'
 #Z_08041_1
 'raw material consumption (rmc)': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
 #Z_08041_2
