@@ -38,6 +38,7 @@
 'million usd, constant prices (2021)': 'Million USD, constant prices (2021)'
 'million usd, constant prices (2022)': 'Million USD, constant prices (2022)'
 'million usd, constant prices (2023)': 'Million USD, constant prices (2023)'
+'million usd, constant prices (2024)': 'Million USD, constant prices (2024)'
 'no unit': 'No unit'
 'number': 'Number'
 "'number '": Number
@@ -174,11 +175,14 @@
 'using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts'
 '11 months and younger': '11 months and younger'
 '4 years and younger': '4 years and younger'
+'5 years and younger': '5 years and younger'
 '13 years and younger': '13 years and younger'
 '14 years and younger': '14 years and younger'
 '17 years and younger': '17 years and younger'
 '24 years and younger': '24 years and younger'
 '3 to under 5 years': '3 to under 5 years'
+'6 to under 12 years': '6 to under 12 years'
+'12 to under 18 years': '12 to under 18 years'
 '14 to under 18 years': '14 to under 18 years'
 '15 years': '15 years'
 '15.5 years': '15.5 years'
@@ -627,6 +631,8 @@
 '+++X': cell blocked for logical reasons
 
 #Time series
+#Z_01011_1
+'population below the international poverty line': 'Population below the international poverty line'
 #Z_01022_1
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 #Z_01022_2
