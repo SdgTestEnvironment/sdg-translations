@@ -100,6 +100,7 @@
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income considered': 'Income considered'
 'sdg indicator': 'SDG indicator'
+'industry': 'Industry'
 'occupation': 'Occupation'
 'land cover class': 'Land cover class'
 'level of court': 'Level of court'
@@ -343,6 +344,10 @@
 '4.3.1 (15 to under 65 years)': '4.3.1 (15 to under 65 years)'
 '4.3.1 (25 to under 55 years)': '4.3.1 (25 to under 55 years)'
 '4.3.1 (55 to under 65 years)': '4.3.1 (55 to under 65 years)'
+'construction industry': 'Construction industry'
+'hairdressing and beauty industry': 'Hairdressing and beauty industry'
+'restaurant and lodging industry': 'Restaurant and lodging industry'
+'freight forwarding, transportation, and logistics industry': 'Freight forwarding, transportation, and logistics industry'
 'armed forces occupations': 'Armed forces occupations'
 'managers': 'Managers'
 'professionals': 'Professionals'
@@ -632,11 +637,11 @@
 
 #Time series
 #Z_01011_1
-'population below the international poverty line': 'Population below the international poverty line'
+'population living below the international poverty line': 'Population living below the international poverty line'
 #Z_01022_1
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 #Z_01022_2
-'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
+'population living below the national poverty line': 'Population living below the national poverty line'
 #Z_01022_3
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
 #Z_01022_4
@@ -1307,6 +1312,7 @@ age of victim: Age of victims
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'percent of gdp': 'Percent of GDP'
 'type of ict competence': 'Type of ICT competence'
 "'area '": 'Area'

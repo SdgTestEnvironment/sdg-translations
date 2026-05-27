@@ -100,6 +100,7 @@
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income considered': 'Betrachtetes Einkommen'
 'sdg indicator': 'SDG-Indikator'
+'industry': 'Branche'
 'occupation': 'Beruf'
 'land cover class': 'Landbedeckungsklasse'
 'level of court': 'Gerichtsebene'
@@ -343,6 +344,10 @@
 '4.3.1 (15 to under 65 years)': '4.3.1 (15 bis unter 65 Jahre)'
 '4.3.1 (25 to under 55 years)': '4.3.1 (25 bis unter 55 Jahre)'
 '4.3.1 (55 to under 65 years)': '4.3.1 (55 bis unter 65 Jahre)'
+'construction industry': 'Baugewerbe'
+'hairdressing and beauty industry': 'Frisör- und Kosmetikgewerbe'
+'restaurant and lodging industry': 'Gaststätten- und Beherbergungsgewerbe'
+'freight forwarding, transportation, and logistics industry': 'Speditions-, Transport- und Logistikgewerbe'
 'armed forces occupations': 'Angehörige der regulären Streitkräfte'
 'managers': 'Führungskräfte'
 'professionals': 'Akademische Berufe'
@@ -632,11 +637,11 @@
 
 #Zeitreihen
 #Z_01011_1
-'population below the international poverty line': 'Bevölkerung unter der internationalen Armutsgrenze'
+'population living below the international poverty line': 'Bevölkerung, die unter der internationalen Armutsgrenze lebt'
 #Z_01022_1
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 #Z_01022_2
-'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
+'population living below the national poverty line': 'Bevölkerung, die unter der nationalen Armutsgrenze lebt'
 #Z_01022_3
 'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
 #Z_01022_4
@@ -1313,6 +1318,7 @@ age of victim: Alter der Opfer
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'percent of gdp': 'Prozent des BIP'
 'type of ict competence': 'Art der IKT-Kompetenz'
 "'area '": 'Bereich'
