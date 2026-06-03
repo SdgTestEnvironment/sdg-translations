@@ -94,17 +94,18 @@
 'type of tenure': 'Art der Nutzungs- und Besitzrechte'
 'enterprise definition': 'Unternehmensdefinition'
 'type of service': 'Art der Versorgungsleistung'
-'länder': 'Bundesland'
+'land': 'Bundesland'
 'degree of feelings of insecurity': 'Grad des Unsicherheitsgefühls'
 'typ of essential service': 'Art der Grundleistung'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income considered': 'Betrachtetes Einkommen'
 'sdg indicator': 'SDG-Indikator'
-'industry': 'Branche'
+'sector': 'Sektor'
 'occupation': 'Beruf'
 'land cover class': 'Landbedeckungsklasse'
 'level of court': 'Gerichtsebene'
 'water use index': 'Wassernutzungsindex'
+'measurement parameter': 'Messgröße'
 'profession': 'Beruf'
 'typ of victim-suspect relationship': 'Art der Opfer-Tatverdächtigen-Beziehung'
 'pathogens and resistance': 'Erreger und Resistenz'
@@ -123,7 +124,6 @@
 'sea': 'Meer'
 'field of work': 'Aufgabenbereich'
 'section': 'Abschnitt'
-'sector': 'Sektor'
 'type of provider': 'Art des Bereitstellers'
 'time series': 'Zeitreihe'
 'sex': 'Geschlecht'
@@ -346,10 +346,10 @@
 '4.3.1 (15 to under 65 years)': '4.3.1 (15 bis unter 65 Jahre)'
 '4.3.1 (25 to under 55 years)': '4.3.1 (25 bis unter 55 Jahre)'
 '4.3.1 (55 to under 65 years)': '4.3.1 (55 bis unter 65 Jahre)'
-'construction industry': 'Baugewerbe'
-'hairdressing and beauty industry': 'Frisör- und Kosmetikgewerbe'
-'restaurant and lodging industry': 'Gaststätten- und Beherbergungsgewerbe'
-'freight forwarding, transportation, and logistics industry': 'Speditions-, Transport- und Logistikgewerbe'
+'construction sector': 'Baugewerbe'
+'hairdressing and beauty sector': 'Friseur- und Kosmetikgewerbe'
+'catering and hotel sector': 'Gaststätten- und Beherbergungsgewerbe'
+'haulage, transport and associated logistics sector': 'Speditions-, Transport- und Logistikgewerbe'
 'armed forces occupations': 'Angehörige der regulären Streitkräfte'
 'managers': 'Führungskräfte'
 'professionals': 'Akademische Berufe'
@@ -759,7 +759,7 @@
 #Z_03111_4
 'pneumococcal vaccination coverage at school entry': 'Pneumokokken-Impfquote zum Schuleintritt'
 #Z_03112_1
-'oda (gross disbursements) to medical research and basic health sectors': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
+'commitments and gross disbursements of official development assistance for medical research and basic health sectors': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für medizinische Forschung und grundlegende Gesundheitsversorgung'
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Gesundheitspersonal mit direktem Patientenkontakt (practising concept)'
 #Z_03131_1
@@ -785,9 +785,7 @@
 #Z_04081_1
 'schools offering basic services': 'Schulen mit Basisversorgung'
 #Z_04091_1
-'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben (ODA) für Stipendien'
-#Z_04091_2
-'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten'
+'commitments and gross disbursements of official development assistance for scholarships and student costs': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher und privater Leistungen für Stipendien und Studienplatzkosten'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
@@ -1205,7 +1203,7 @@
 #Z_16091_1
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert wurde'
 #Z_16101_1
-'verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists and associated media personnel': 'Tötung, Entführung, Verschwindenlassen, willkürliche Inhaftierung und Folter von Journalisten und zugehörigem Medienpersonal'
+'verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists and associated media personnel': 'Bestätigte Fälle von Tötung, Entführung, Verschwindenlassen, willkürlicher Inhaftierung und Folter von Journalisten und zugehörigem Medienpersonal'
 #Z_16102_1
 'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den öffentlichen Zugang zu Informationen'
 #Z_16111_1
@@ -1305,6 +1303,12 @@ age of victim: Alter der Opfer
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'länder': 'Bundesland'
+'industry': 'Branche'
+'construction industry': 'Baugewerbe'
+'hairdressing and beauty industry': 'Frisör- und Kosmetikgewerbe'
+'restaurant and lodging industry': 'Gaststätten- und Beherbergungsgewerbe'
+'freight forwarding, transportation, and logistics industry': 'Speditions-, Transport- und Logistikgewerbe'
 '+++symbols': 'Zeichenerklärung'
 '+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
 '+++‒': 'nichts vorhanden'
@@ -1322,6 +1326,9 @@ age of victim: Alter der Opfer
 'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
 'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
 'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben (ODA) für die Landwirtschaft'
+'oda (gross disbursements) to medical research and basic health sectors': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
+'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben (ODA) für Stipendien'
+'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten'
 'type of sector': 'Art des Sektors'
 '(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
 '(b) cancer': 'b) Bösartige Neubildungen'

@@ -94,17 +94,18 @@
 'type of tenure': 'Type of tenure'
 'enterprise definition': 'Enterprise definition'
 'type of service': 'Type of service'
-'länder': 'Länder'
+'land': 'Land'
 'degree of feelings of insecurity': 'Degree of feelings of insecurity'
 'typ of essential service': 'Typ of essential service'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income considered': 'Income considered'
 'sdg indicator': 'SDG indicator'
-'industry': 'Industry'
+'sector': 'Sector'
 'occupation': 'Occupation'
 'land cover class': 'Land cover class'
 'level of court': 'Level of court'
 'water use index': 'Water use index'
+'measurement parameter': 'Measurement parameter'
 'profession': 'Profession'
 'typ of victim-suspect relationship': 'Typ of victim-suspect relationship'
 'pathogens and resistance': 'Pathogens and resistance'
@@ -123,7 +124,6 @@
 'sea': 'Sea'
 'field of work': 'Field of work'
 'section': 'Section'
-'sector': 'Sector'
 'type of provider': 'Type of provider'
 'time series': 'Time series'
 'sex': 'Sex'
@@ -346,10 +346,10 @@
 '4.3.1 (15 to under 65 years)': '4.3.1 (15 to under 65 years)'
 '4.3.1 (25 to under 55 years)': '4.3.1 (25 to under 55 years)'
 '4.3.1 (55 to under 65 years)': '4.3.1 (55 to under 65 years)'
-'construction industry': 'Construction industry'
-'hairdressing and beauty industry': 'Hairdressing and beauty industry'
-'restaurant and lodging industry': 'Restaurant and lodging industry'
-'freight forwarding, transportation, and logistics industry': 'Freight forwarding, transportation, and logistics industry'
+'construction sector': 'Construction sector'
+'hairdressing and beauty sector': 'Hairdressing and beauty sector'
+'catering and hotel sector': 'Catering and hotel sector'
+'haulage, transport and associated logistics sector': 'Haulage, transport and associated logistics sector'
 'armed forces occupations': 'Armed forces occupations'
 'managers': 'Managers'
 'professionals': 'Professionals'
@@ -759,7 +759,7 @@
 #Z_03111_4
 'pneumococcal vaccination coverage at school entry': 'Pneumococcal vaccination coverage at school entry'
 #Z_03112_1
-'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
+'commitments and gross disbursements of official development assistance for medical research and basic health sectors': 'Commitments and gross disbursements of official development assistance for medical research and basic health sectors'
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Health workers with direct patient contact (practising concept)'
 #Z_03131_1
@@ -785,9 +785,7 @@
 #Z_04081_1
 'schools offering basic services': 'Schools offering basic services'
 #Z_04091_1
-'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
-#Z_04091_2
-'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
+'commitments and gross disbursements of official development assistance for scholarships and student costs': 'Commitments and gross disbursements of official development assistance for scholarships and student costs'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
 #Z_05021_1
@@ -1299,6 +1297,12 @@ sex of victim: Gender of victims
 age of victim: Age of victims
 
 #Old stuff that may still be needed
+'länder': 'Länder'
+'industry': 'Industry'
+'construction industry': 'Construction industry'
+'hairdressing and beauty industry': 'Hairdressing and beauty industry'
+'restaurant and lodging industry': 'Restaurant and lodging industry'
+'freight forwarding, transportation, and logistics industry': 'Freight forwarding, transportation, and logistics industry'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1316,6 +1320,9 @@ age of victim: Age of victims
 'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
+'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
+'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
+'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
 'type of sector': 'Type of sector'
 '(a) cardiovascular disease': '(a) Cardiovascular disease'
 '(b) cancer': '(b) Cancer'
