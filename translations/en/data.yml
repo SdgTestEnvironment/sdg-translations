@@ -851,9 +851,7 @@
 #Z_06061_9
 'area change in comparison to 2015': 'Area change in comparison to 2015'
 #Z_06071_1
-'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
-#Z_06071_2
-'oda (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
+'commitments and gross disbursements of official development assistance for water and sanitation': 'Commitments and gross disbursements of official development assistance for water and sanitation'
 #Z_07011_1
 'population with access to electricity': 'Population with access to electricity'
 #Z_07011_2
@@ -945,9 +943,7 @@
 #Z_09052_1
 'persons working in research and development (in full-time equivalents)': 'Persons working in Research and development (in full-time equivalents)'
 #Z_09061_1
-'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
-#Z_09061_2
-'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
+'commitments and gross disbursements of official development assistance for infrastructure': 'Commitments and gross disbursements of official development assistance for infrastructure'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
@@ -1323,6 +1319,10 @@ age of victim: Age of victims
 'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
 'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
 'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
+'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
+'oda (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
+'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
+'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 'type of sector': 'Type of sector'
 '(a) cardiovascular disease': '(a) Cardiovascular disease'
 '(b) cancer': '(b) Cancer'

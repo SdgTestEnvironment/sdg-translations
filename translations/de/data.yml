@@ -851,9 +851,7 @@
 #Z_06061_9
 'area change in comparison to 2015': 'Veränderung der Fläche im Vergleich zu 2015'
 #Z_06071_1
-'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
-#Z_06071_2
-'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke'
+'commitments and gross disbursements of official development assistance for water and sanitation': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Wasser- und Sanitärversorgung'
 #Z_07011_1
 'population with access to electricity': 'Bevölkerung mit Zugang zu Elektrizität'
 #Z_07011_2
@@ -945,9 +943,7 @@
 #Z_09052_1
 'persons working in research and development (in full-time equivalents)': 'In Forschung und Entwicklung tätige Personen (in Vollzeitäquivalenten)'
 #Z_09061_1
-'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
-#Z_09061_2
-'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
+'commitments and gross disbursements of official development assistance for infrastructure': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Infrastruktur'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
@@ -1329,6 +1325,10 @@ age of victim: Alter der Opfer
 'oda (gross disbursements) to medical research and basic health sectors': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
 'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben (ODA) für Stipendien'
 'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten'
+'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
+'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke'
+'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
+'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 'type of sector': 'Art des Sektors'
 '(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
 '(b) cancer': 'b) Bösartige Neubildungen'
