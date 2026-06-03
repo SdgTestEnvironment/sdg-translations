@@ -263,6 +263,7 @@
 'yes': 'Yes'
 'protection of biodiversity and landscape (cofog 5.4)': 'Protection of biodiversity and landscape (COFOG 5.4)'
 'cultural services (cofog 8.2)': 'Cultural services (COFOG 8.2)'
+'commitments': 'Commitments'
 'fully disaggregated': 'Fully disaggregated'
 'not disaggregated': 'Not disaggregated'
 'partially disaggregated': 'Partially disaggregated'
@@ -271,6 +272,7 @@
 'admissible applications': 'Admissible applications'
 'rejected applications': 'Rejected applications'
 'mobility impaired people': 'Mobility impaired people'
+'gross disbursements': 'Gross disbursements'
 '(1) migrant rights': '(1) Migrant rights'
 '(2) whole-of-government/evidence-based policies': '(2) Whole-of-government/Evidence-based policies'
 '(3) cooperation and partnerships': '(3) Cooperation and partnerships'
@@ -577,6 +579,8 @@
 'oda (net disbursements)': 'ODA (net disbursements)'
 'private sector flows at market terms (net disbursement)': 'Private sector flows at market terms (net disbursement)'
 'private concessional flows (net disbursements)': 'Private concessional flows (net disbursements)'
+'official development assistance': 'Official development assistance'
+'other official flows': 'Other official flows'
 'administrative offense proceedings': 'Administrative Offense Proceedings'
 'criminal proceedings': 'Criminal Proceedings'
 'tax reliefs': 'Tax reliefs'
@@ -651,9 +655,7 @@
 #Z_01051_1
 'mortality due to exposure to forces of nature': 'Mortality due to exposure to forces of nature'
 #Z_01061_1
-'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
-#Z_01061_2
-'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
+'commitments and gross disbursements of official development assistance for poverty reduction': 'Commitments and gross disbursements of official development assistance for poverty reduction'
 #Z_01062_1
 'government expenditure': 'Government expenditure'
 #Z_01063_1
@@ -687,7 +689,7 @@
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
 #Z_02062_1
-'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
+'commitments and gross disbursements of official development assistance and other public expenditures on agriculture': 'Commitments and gross disbursements of official development assistance and other public expenditures on agriculture'
 #Z_02071_1
 'export refunds': 'Export refunds'
 #Z_02081_1
@@ -1295,9 +1297,6 @@ sex of victim: Gender of victims
 age of victim: Age of victims
 
 #Old stuff that may still be needed
-'type of sector': 'Type of sector'
-'(a) cardiovascular disease': '(a) Cardiovascular disease'
-'(b) cancer': '(b) Cancer'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1312,6 +1311,12 @@ age of victim: Age of victims
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
+'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
+'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
+'type of sector': 'Type of sector'
+'(a) cardiovascular disease': '(a) Cardiovascular disease'
+'(b) cancer': '(b) Cancer'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'percent of gdp': 'Percent of GDP'
 'type of ict competence': 'Type of ICT competence'

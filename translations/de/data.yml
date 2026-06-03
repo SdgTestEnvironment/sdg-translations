@@ -263,6 +263,7 @@
 'yes': 'Ja'
 'protection of biodiversity and landscape (cofog 5.4)': 'Arten- und Landschaftsschutz (COFOG 5.4)'
 'cultural services (cofog 8.2)': 'Kultur (COFOG 8.2)'
+'commitments': 'Zusagen'
 'fully disaggregated': 'Vollständig disaggregiert'
 'not disaggregated': 'Nicht disaggregiert'
 'partially disaggregated': 'Teilweise disaggregiert'
@@ -271,6 +272,7 @@
 'admissible applications': 'Zulässige Anträge'
 'rejected applications': 'Abgelehnte Anträge'
 'mobility impaired people': 'Menschen mit Mobilitätseinschränkung'
+'gross disbursements': 'Bruttoentwicklungsausgaben'
 '(1) migrant rights': '1) Rechte von Migranten'
 '(2) whole-of-government/evidence-based policies': '2) Gesamtheitliche/Evidenzbasierte Politik'
 '(3) cooperation and partnerships': '3) Zusammenarbeit und Partnerschaften'
@@ -577,6 +579,8 @@
 'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
 'private sector flows at market terms (net disbursement)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)'
 'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)'
+'official development assistance': 'Öffentliche Entwicklungsleistungen'
+'other official flows': 'Sonstige öffentliche Leistungen'
 'administrative offense proceedings': 'Ordnungswidrigkeitenverfahren'
 'criminal proceedings': 'Strafverfahren'
 'tax reliefs': 'Steuervergünstigungen'
@@ -651,9 +655,7 @@
 #Z_01051_1
 'mortality due to exposure to forces of nature': 'Sterblichkeit infolge von Exposition gegenüber Naturkräften'
 #Z_01061_1
-'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
-#Z_01061_2
-'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
+'commitments and gross disbursements of official development assistance for poverty reduction': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen zur Minderung der Armut'
 #Z_01062_1
 'government expenditure': 'Staatsausgaben'
 #Z_01063_1
@@ -687,7 +689,7 @@
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agrarorientierungs-Index für Staatsausgaben'
 #Z_02062_1
-'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben (ODA) für die Landwirtschaft'
+'commitments and gross disbursements of official development assistance and other public expenditures on agriculture': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen für die Landwirtschaft'
 #Z_02071_1
 'export refunds': 'Ausfuhrerstattungen'
 #Z_02081_1
@@ -1301,9 +1303,6 @@ age of victim: Alter der Opfer
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
-'type of sector': 'Art des Sektors'
-'(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
-'(b) cancer': 'b) Bösartige Neubildungen'
 '+++symbols': 'Zeichenerklärung'
 '+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
 '+++‒': 'nichts vorhanden'
@@ -1318,6 +1317,12 @@ age of victim: Alter der Opfer
 '+++s': 'geschätzte Zahl'
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
+'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
+'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
+'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben (ODA) für die Landwirtschaft'
+'type of sector': 'Art des Sektors'
+'(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
+'(b) cancer': 'b) Bösartige Neubildungen'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'percent of gdp': 'Prozent des BIP'
 'type of ict competence': 'Art der IKT-Kompetenz'
