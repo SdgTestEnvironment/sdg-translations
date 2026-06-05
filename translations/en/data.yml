@@ -273,6 +273,7 @@
 'rejected applications': 'Rejected applications'
 'mobility impaired people': 'Mobility impaired people'
 'gross disbursements': 'Gross disbursements'
+'gross disbursements (nez)': 'Gross disbursements (nez)'
 '(1) migrant rights': '(1) Migrant rights'
 '(2) whole-of-government/evidence-based policies': '(2) Whole-of-government/Evidence-based policies'
 '(3) cooperation and partnerships': '(3) Cooperation and partnerships'
@@ -574,11 +575,11 @@
 'national classification': 'National classification'
 'labour exploitation': 'Labour exploitation'
 'sexual exploitation': 'Sexual exploitation'
-'officially supported export credits': 'Officially supported export credits'
-'private sector flows at market terms': 'Private sector flows at market terms'
-'private grants': 'Private grants'
 'official development assistance': 'Official development assistance'
 'other official flows': 'Other official flows'
+'officially supported export credits': 'Officially supported export credits'
+'private grants': 'Private grants'
+'private sector flows at market terms': 'Private sector flows at market terms'
 'administrative offense proceedings': 'Administrative Offense Proceedings'
 'criminal proceedings': 'Criminal Proceedings'
 'tax reliefs': 'Tax reliefs'
@@ -620,7 +621,6 @@
 'compliance with the agreement': 'Compliance with the agreement'
 'contracting party': 'Contracting Party'
 'fulfilment of reporting obligation': 'Fulfilment of reporting obligation'
-'gross disbursements (nez)': 'Gross disbursements (nez)'
 
 #Data notes
 +++symbols: Explanation of symbols
@@ -978,7 +978,7 @@
 #Z_10074_1
 'german nationals who are refugees abroad': 'German nationals who are refugees abroad'
 #Z_10091_1
-'total official and private resource flows for development (net disbursements)': 'Total official and private resource flows for development (net disbursements)'
+'net financial flows of official development assistance': 'Net financial flows of official development assistance'
 #Z_10101_1
 'remittance costs as a proportion of the amount remitted': 'Remittance costs as a proportion of the amount remitted'
 #Z_11011_06
@@ -1024,7 +1024,7 @@
 #Z_11072_1
 'victims of non-sexual or sexual harassment': 'Victims of non-sexual or sexual harassment'
 #Z_11101_1
-'oda and oof (gross disbursements) in support of urban infrastructure': 'ODA and OOF (gross disbursements) in support of urban infrastructure'
+'commitments and gross disbursements of official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects': 'Commitments and gross disbursements of official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects'
 #Z_12031_1
 '(b) food waste index': '(b) food waste index'
 #Z_12041_1
@@ -1327,6 +1327,7 @@ age of victim: Age of victims
 'oda (gross disbursement) for aid for trade': 'ODA (gross disbursement) for aid for trade'
 'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
 'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
+'total official and private resource flows for development (net disbursements)': 'Total official and private resource flows for development (net disbursements)'
 'type of sector': 'Type of sector'
 '(a) cardiovascular disease': '(a) Cardiovascular disease'
 '(b) cancer': '(b) Cancer'

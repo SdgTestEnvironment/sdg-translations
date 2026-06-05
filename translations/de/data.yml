@@ -273,6 +273,7 @@
 'rejected applications': 'Abgelehnte Anträge'
 'mobility impaired people': 'Menschen mit Mobilitätseinschränkung'
 'gross disbursements': 'Bruttoentwicklungsausgaben'
+'gross disbursements (nez)': 'Bruttoentwicklungsausgaben (netto)'
 '(1) migrant rights': '1) Rechte von Migranten'
 '(2) whole-of-government/evidence-based policies': '2) Gesamtheitliche/Evidenzbasierte Politik'
 '(3) cooperation and partnerships': '3) Zusammenarbeit und Partnerschaften'
@@ -574,11 +575,11 @@
 'national classification': 'Nationale Klassifikation'
 'labour exploitation': 'Arbeitsausbeutung'
 'sexual exploitation': 'Sexuelle Ausbeutung'
-'officially supported export credits': 'Öffentlich unterstützte Exportkredite'
-'private sector flows at market terms': 'Private Leistungen zu marktüblichen Bedingungen'
-'private grants': 'Private Fördermittel'
 'official development assistance': 'Öffentliche Entwicklungsleistungen'
 'other official flows': 'Sonstige öffentliche Leistungen'
+'officially supported export credits': 'Öffentlich unterstützte Exportkredite'
+'private grants': 'Private Fördermittel'
+'private sector flows at market terms': 'Private Leistungen zu marktüblichen Bedingungen'
 'administrative offense proceedings': 'Ordnungswidrigkeitenverfahren'
 'criminal proceedings': 'Strafverfahren'
 'tax reliefs': 'Steuervergünstigungen'
@@ -620,7 +621,6 @@
 'compliance with the agreement': 'Einhaltung des Übereinkommens'
 'contracting party': 'Vertragspartei'
 'fulfilment of reporting obligation': 'Erfüllung der Berichtspflicht'
-'gross disbursements (nez)': 'Bruttoentwicklungsausgaben (netto)'
 
 #Kennzeichen
 +++symbols: Zeichenerklärung
@@ -978,7 +978,7 @@
 #Z_10074_1
 'german nationals who are refugees abroad': 'Deutsche Staatsangehörige, die im Ausland auf der Flucht sind'
 #Z_10091_1
-'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
+'net financial flows of official development assistance': 'Netto-Finanzströme für Entwicklungszusammenarbeit'
 #Z_10101_1
 'remittance costs as a proportion of the amount remitted': 'Überweisungskosten im Verhältnis zum überwiesenen Betrag'
 #Z_11011_06
@@ -1024,7 +1024,7 @@
 #Z_11072_1
 'victims of non-sexual or sexual harassment': 'Opfer von nicht-sexueller oder sexueller Belästigung'
 #Z_11101_1
-'oda and oof (gross disbursements) in support of urban infrastructure': 'Bruttoausgaben (ODA und OOF) zur Unterstützung städtischer Infrastruktur'
+'commitments and gross disbursements of official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen für die Unterstützung städtischer Infrastruktur oder städtischer Infrastrukturprojekte'
 #Z_12031_1
 '(b) food waste index': 'b) Index der Lebensmittelabfälle'
 #Z_12041_1
@@ -1333,6 +1333,7 @@ age of victim: Alter der Opfer
 'oda (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA) für Handelshilfe'
 'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
+'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
 'type of sector': 'Art des Sektors'
 '(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
 '(b) cancer': 'b) Bösartige Neubildungen'
