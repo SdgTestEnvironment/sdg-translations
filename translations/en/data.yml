@@ -1225,9 +1225,7 @@
 #Z_17081_1
 'individuals using the internet': 'Individuals using the Internet'
 #Z_17091_1
-'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)'
-#Z_17091_2
-'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)'
+'commitments and gross disbursements of official development assistance and other public expenditures for capacity building and national planning (without south-south cooperations)': 'Commitments and gross disbursements of official development assistance and other public expenditures for capacity building and national planning (without South-South cooperations)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Annual growth rate of real GDP'
 #Z_17131_10
@@ -1332,6 +1330,8 @@ age of victim: Age of victims
 'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 'oda (gross disbursements) for biodiversity': 'ODA (gross disbursements) for biodiversity'
 'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
+'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)'
+'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)'
 'type of sector': 'Type of sector'
 '(a) cardiovascular disease': '(a) Cardiovascular disease'
 '(b) cancer': '(b) Cancer'

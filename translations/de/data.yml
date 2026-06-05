@@ -1225,9 +1225,7 @@
 #Z_17081_1
 'individuals using the internet': 'Internetnutzerinnen und -nutzer'
 #Z_17091_1
-'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
-#Z_17091_2
-'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'Gesamten öffentlichen Bruttoentwicklungsausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'commitments and gross disbursements of official development assistance and other public expenditures for capacity building and national planning (without south-south cooperations)': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Jährliche Wachstumsrate des realen BIP'
 #Z_17131_10
@@ -1338,6 +1336,8 @@ age of victim: Alter der Opfer
 'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
 'oda (gross disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
 'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
+'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'Gesamten öffentlichen Bruttoentwicklungsausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 'type of sector': 'Art des Sektors'
 '(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
 '(b) cancer': 'b) Bösartige Neubildungen'
