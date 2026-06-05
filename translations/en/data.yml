@@ -574,11 +574,9 @@
 'national classification': 'National classification'
 'labour exploitation': 'Labour exploitation'
 'sexual exploitation': 'Sexual exploitation'
-'oof (net disbursements)': 'OOF (net disbursements)'
-'officially supported export credits (net disbursements)': 'Officially supported export credits (net disbursements)'
-'oda (net disbursements)': 'ODA (net disbursements)'
-'private sector flows at market terms (net disbursement)': 'Private sector flows at market terms (net disbursement)'
-'private concessional flows (net disbursements)': 'Private concessional flows (net disbursements)'
+'officially supported export credits': 'Officially supported export credits'
+'private sector flows at market terms': 'Private sector flows at market terms'
+'private grants': 'Private grants'
 'official development assistance': 'Official development assistance'
 'other official flows': 'Other official flows'
 'administrative offense proceedings': 'Administrative Offense Proceedings'
@@ -622,6 +620,7 @@
 'compliance with the agreement': 'Compliance with the agreement'
 'contracting party': 'Contracting Party'
 'fulfilment of reporting obligation': 'Fulfilment of reporting obligation'
+'gross disbursements (nez)': 'Gross disbursements (nez)'
 
 #Data notes
 +++symbols: Explanation of symbols
@@ -909,9 +908,7 @@
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
 #Z_08111_1
-'oda (commitments) for aid for trade': 'ODA (commitments) for aid for trade'
-#Z_08111_2
-'oda (gross disbursement) for aid for trade': 'ODA (gross disbursement) for aid for trade'
+'commitments and gross disbursements of official development assistance for aid for trade': 'Commitments and gross disbursements of official development assistance for aid for trade'
 #Z_09011_1
 'rural population who live within 2 km of an all-season road': 'Rural population who live within 2 km of an all-season road'
 #Z_09012_1
@@ -1299,6 +1296,11 @@ age of victim: Age of victims
 'hairdressing and beauty industry': 'Hairdressing and beauty industry'
 'restaurant and lodging industry': 'Restaurant and lodging industry'
 'freight forwarding, transportation, and logistics industry': 'Freight forwarding, transportation, and logistics industry'
+'oof (net disbursements)': 'OOF (net disbursements)'
+'officially supported export credits (net disbursements)': 'Officially supported export credits (net disbursements)'
+'oda (net disbursements)': 'ODA (net disbursements)'
+'private sector flows at market terms (net disbursement)': 'Private sector flows at market terms (net disbursement)'
+'private concessional flows (net disbursements)': 'Private concessional flows (net disbursements)'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
@@ -1321,6 +1323,8 @@ age of victim: Age of victims
 'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
 'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
 'oda (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
+'oda (commitments) for aid for trade': 'ODA (commitments) for aid for trade'
+'oda (gross disbursement) for aid for trade': 'ODA (gross disbursement) for aid for trade'
 'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
 'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 'type of sector': 'Type of sector'

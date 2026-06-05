@@ -574,11 +574,9 @@
 'national classification': 'Nationale Klassifikation'
 'labour exploitation': 'Arbeitsausbeutung'
 'sexual exploitation': 'Sexuelle Ausbeutung'
-'oof (net disbursements)': 'Sonstige öffentliche Nettoausgaben (OOF)'
-'officially supported export credits (net disbursements)': 'Öffentlich unterstützte Exportkredite (Nettoausgaben)'
-'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
-'private sector flows at market terms (net disbursement)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)'
-'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)'
+'officially supported export credits': 'Öffentlich unterstützte Exportkredite'
+'private sector flows at market terms': 'Private Leistungen zu marktüblichen Bedingungen'
+'private grants': 'Private Fördermittel'
 'official development assistance': 'Öffentliche Entwicklungsleistungen'
 'other official flows': 'Sonstige öffentliche Leistungen'
 'administrative offense proceedings': 'Ordnungswidrigkeitenverfahren'
@@ -622,6 +620,7 @@
 'compliance with the agreement': 'Einhaltung des Übereinkommens'
 'contracting party': 'Vertragspartei'
 'fulfilment of reporting obligation': 'Erfüllung der Berichtspflicht'
+'gross disbursements (nez)': 'Bruttoentwicklungsausgaben (netto)'
 
 #Kennzeichen
 +++symbols: Zeichenerklärung
@@ -909,9 +908,7 @@
 #Z_08102_1
 'accounts at payment service providers': 'Konten bei Zahlungsverkehrsdienstleistern'
 #Z_08111_1
-'oda (commitments) for aid for trade': 'Zusagen (ODA) für Handelshilfe'
-#Z_08111_2
-'oda (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA) für Handelshilfe'
+'commitments and gross disbursements of official development assistance for aid for trade': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Handelshilfe'
 #Z_09011_1
 'rural population who live within 2 km of an all-season road': 'Ländliche Bevölkerung, die höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
@@ -1305,6 +1302,11 @@ age of victim: Alter der Opfer
 'hairdressing and beauty industry': 'Frisör- und Kosmetikgewerbe'
 'restaurant and lodging industry': 'Gaststätten- und Beherbergungsgewerbe'
 'freight forwarding, transportation, and logistics industry': 'Speditions-, Transport- und Logistikgewerbe'
+'oof (net disbursements)': 'Sonstige öffentliche Nettoausgaben (OOF)'
+'officially supported export credits (net disbursements)': 'Öffentlich unterstützte Exportkredite (Nettoausgaben)'
+'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
+'private sector flows at market terms (net disbursement)': 'Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)'
+'private concessional flows (net disbursements)': 'Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)'
 '+++symbols': 'Zeichenerklärung'
 '+++0': 'weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts'
 '+++‒': 'nichts vorhanden'
@@ -1327,6 +1329,8 @@ age of victim: Alter der Opfer
 'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten'
 'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
 'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke'
+'oda (commitments) for aid for trade': 'Zusagen (ODA) für Handelshilfe'
+'oda (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA) für Handelshilfe'
 'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 'type of sector': 'Art des Sektors'
