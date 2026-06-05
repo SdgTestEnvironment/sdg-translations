@@ -96,6 +96,7 @@
 'type of service': 'Art der Versorgungsleistung'
 'land': 'Bundesland'
 'degree of feelings of insecurity': 'Grad des Unsicherheitsgefühls'
+'field': 'Bereich'
 'typ of essential service': 'Art der Grundleistung'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income considered': 'Betrachtetes Einkommen'
@@ -335,6 +336,8 @@
 'safe': 'Eher sicher'
 'unsafe': 'Eher unsicher'
 'very unsafe': 'Sehr unsicher'
+'biodiversity': 'Biodiversität'
+'forestry sector': 'Forstsektor'
 'education': 'Bildung'
 'health': 'Gesundheit'
 'social protection': 'Soziale Sicherung'
@@ -1140,13 +1143,9 @@
 #Z_15091_2
 '(b) implementation of the principles of biodiversity in the seea': 'b) Umsetzung der Werte der biologischen Vielfalt in die UGR'
 #Z_15101_1
-'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
-#Z_15101_2
-'oda (gross disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
+'commitments and gross disbursements of official development assistance for biodiversity': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität'
 #Z_15101_3
 'environmental protection expenditure': 'Umweltschutzausgaben'
-#Z_15111_1
-'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
 #Z_16011_1
 'victims of intentional homicide': 'Opfer von vorsätzlicher Tötung'
 #Z_16012_1
@@ -1334,6 +1333,9 @@ age of victim: Alter der Opfer
 'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
+'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
+'oda (gross disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
+'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
 'type of sector': 'Art des Sektors'
 '(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
 '(b) cancer': 'b) Bösartige Neubildungen'

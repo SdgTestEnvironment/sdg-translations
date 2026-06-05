@@ -96,6 +96,7 @@
 'type of service': 'Type of service'
 'land': 'Land'
 'degree of feelings of insecurity': 'Degree of feelings of insecurity'
+'field': 'Field'
 'typ of essential service': 'Typ of essential service'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income considered': 'Income considered'
@@ -335,6 +336,8 @@
 'safe': 'Safe'
 'unsafe': 'Unsafe'
 'very unsafe': 'Very unsafe'
+'biodiversity': 'Biodiversity'
+'forestry sector': 'Forestry sector'
 'education': 'Education'
 'health': 'Health'
 'social protection': 'Social protection'
@@ -1140,13 +1143,9 @@
 #Z_15091_2
 '(b) implementation of the principles of biodiversity in the seea': '(b) Implementation of the principles of biodiversity in the SEEA'
 #Z_15101_1
-'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
-#Z_15101_2
-'oda (gross disbursements) for biodiversity': 'ODA (gross disbursements) for biodiversity'
+'commitments and gross disbursements of official development assistance for biodiversity': 'Commitments and gross disbursements of official development assistance for biodiversity'
 #Z_15101_3
 'environmental protection expenditure': 'Environmental protection expenditure'
-#Z_15111_1
-'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 #Z_16011_1
 'victims of intentional homicide': 'Victims of intentional homicide'
 #Z_16012_1
@@ -1328,6 +1327,9 @@ age of victim: Age of victims
 'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
 'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 'total official and private resource flows for development (net disbursements)': 'Total official and private resource flows for development (net disbursements)'
+'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
+'oda (gross disbursements) for biodiversity': 'ODA (gross disbursements) for biodiversity'
+'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 'type of sector': 'Type of sector'
 '(a) cardiovascular disease': '(a) Cardiovascular disease'
 '(b) cancer': '(b) Cancer'
