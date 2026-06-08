@@ -1259,9 +1259,7 @@
 #Z_17161_1
 'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritte bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
 #Z_17171_1
-'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
-#Z_17171_2
-'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
+'commitments and gross disbursements of official development assistance to public-private partnerships (ppp) for infrastructure': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für öffentlich-private Partnerschaften im Bereich Infrastruktur'
 #Z_17181_1
 'sustainable development indicators with achieved disaggregation when relevant to the indicator title': 'Indikatoren für nachhaltige Entwicklung mit den im Indikatorentitel geforderten Disaggregationen'
 #Z_17182_1
@@ -1269,9 +1267,7 @@
 #Z_17183_1
 'national statistical plan that is fully funded and under implementation': 'Vollständig finanzierter und in Umsetzung befindlicher nationaler statistischer Plan'
 #Z_17191_1
-'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zur Stärkung statistischer Kapazitäten'
-#Z_17191_2
-'oda and oof (gross disbursements) to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zur Stärkung statistischer Kapazitäten'
+'commitments and gross disbursements of official development assistance to strengthen statistical capacity': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen zur Stärkung statistischer Kapazitäten'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 #Z_17192_2
@@ -1339,6 +1335,10 @@ age of victim: Alter der Opfer
 'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
 'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'Gesamten öffentlichen Bruttoentwicklungsausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
+'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
+'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zur Stärkung statistischer Kapazitäten'
+'oda and oof (gross disbursements) to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zur Stärkung statistischer Kapazitäten'
 'type of sector': 'Art des Sektors'
 '(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
 '(b) cancer': 'b) Bösartige Neubildungen'
