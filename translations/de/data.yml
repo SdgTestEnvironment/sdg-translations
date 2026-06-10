@@ -147,7 +147,7 @@
 'type of biomass': 'Art der Biomasse'
 'type of classification': 'Art der Klassifikation'
 'form of exploitation': 'Form der Ausbeutung'
-'type of flow': 'Art des Finanzstroms'
+'type of financial flow': 'Art des Finanzstroms'
 'type of proceeding': 'Art des Verfahrens'
 'type of fiscal policy tool': 'Art des fiskalpolitischen Instruments'
 'type of waste': 'Abfallart'
@@ -273,8 +273,8 @@
 'admissible applications': 'Zulässige Anträge'
 'rejected applications': 'Abgelehnte Anträge'
 'mobility impaired people': 'Menschen mit Mobilitätseinschränkung'
-'gross disbursements': 'Bruttoentwicklungsausgaben'
-'gross disbursements (net)': 'Bruttoentwicklungsausgaben (netto)'
+'gross disbursements': 'Bruttoauszahlungen'
+'net disbursements': 'Nettoauszahlungen'
 '(1) migrant rights': '1) Rechte von Migranten'
 '(2) whole-of-government/evidence-based policies': '2) Gesamtheitliche/Evidenzbasierte Politik'
 '(3) cooperation and partnerships': '3) Zusammenarbeit und Partnerschaften'
@@ -691,7 +691,7 @@
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agrarorientierungs-Index für Staatsausgaben'
 #Z_02062_1
-'commitments and gross disbursements of official development assistance and other public expenditures on agriculture': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen für die Landwirtschaft'
+'commitments and gross disbursements of official development assistance and other official flows to the agriculture sector': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen für den Landwirtschaftssektor'
 #Z_02071_1
 'export refunds': 'Ausfuhrerstattungen'
 #Z_02081_1
@@ -787,7 +787,7 @@
 #Z_04081_1
 'schools offering basic services': 'Schulen mit Basisversorgung'
 #Z_04091_1
-'commitments and gross disbursements of official development assistance for scholarships and student costs': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher und privater Leistungen für Stipendien und Studienplatzkosten'
+'commitments and gross disbursements of official development assistance for scholarships and imputed student costs': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Stipendien und kalkulatorische Studienplatzkosten'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
@@ -943,7 +943,7 @@
 #Z_09052_1
 'persons working in research and development (in full-time equivalents)': 'In Forschung und Entwicklung tätige Personen (in Vollzeitäquivalenten)'
 #Z_09061_1
-'commitments and gross disbursements of official development assistance for infrastructure': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Infrastruktur'
+'commitments and gross disbursements of official development assistance and other official flows to infrastructure': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen für Infrastruktur'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
@@ -1225,7 +1225,7 @@
 #Z_17081_1
 'individuals using the internet': 'Internetnutzerinnen und -nutzer'
 #Z_17091_1
-'commitments and gross disbursements of official development assistance and other public expenditures for capacity building and national planning (without south-south cooperations)': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'commitments and gross disbursements of official development assistance and other official flows for capacity building and national planning (without south-south cooperations)': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Jährliche Wachstumsrate des realen BIP'
 #Z_17131_10
@@ -1293,6 +1293,7 @@ age of victim: Alter der Opfer
 '1 000 tonnes': '1 000 Tonnen'
 'länder': 'Bundesland'
 'industry': 'Branche'
+'type of flow': 'Art des Finanzstroms'
 'construction industry': 'Baugewerbe'
 'hairdressing and beauty industry': 'Frisör- und Kosmetikgewerbe'
 'restaurant and lodging industry': 'Gaststätten- und Beherbergungsgewerbe'
