@@ -351,7 +351,7 @@
 '4.3.1 (25 to under 55 years)': '4.3.1 (25 bis unter 55 Jahre)'
 '4.3.1 (55 to under 65 years)': '4.3.1 (55 bis unter 65 Jahre)'
 'construction sector': 'Baugewerbe'
-'hairdressing and beauty sector': 'Friseur- und Kosmetikgewerbe'
+'hairdressing and beauty sector': 'Frisör- und Kosmetikgewerbe'
 'catering and hotel sector': 'Gaststätten- und Beherbergungsgewerbe'
 'haulage, transport and associated logistics sector': 'Speditions-, Transport- und Logistikgewerbe'
 'armed forces occupations': 'Angehörige der regulären Streitkräfte'
@@ -467,9 +467,9 @@
 'management instruments': 'Managementinstrumente'
 'financing': 'Finanzierung'
 'communications': 'Kommunikation'
-'urban development and management': 'Stadtentwicklung und Stadtverwaltung'
-'water supply & sanitation': 'Wasserversorgung und Abwasserentsorgung'
-'transport and storage': 'Transport und Lagerung'
+'urban development and management': 'Stadtentwicklung und -verwaltung'
+'water supply and sanitation': 'Wasser und Abwasser/Abfallentsorgung'
+'transport and storage': 'Transport und Lagerhaltung'
 'general government': 'Staat'
 'transport and communications': 'Verkehrs- und Nachrichtenwesen'
 'housing, urban development, regional planning and municipal community services': 'Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste'
@@ -480,7 +480,7 @@
 'financial services': 'Finanzwirtschaft'
 'health, environment, sport and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
 'social security, family and youth, labour market policy': 'Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik'
-'energy': 'Energie'
+'energy': 'Energieerzeugung, -verteilung und -effizienz'
 'direct transfers of funds': 'Direkte finanzielle Beihilfen'
 '[a] germany as receiver': '[a] Deutschland als Empfänger'
 '[b] germany as provider': '[b] Deutschland als Bereitsteller'
@@ -1225,7 +1225,7 @@
 #Z_17081_1
 'individuals using the internet': 'Internetnutzerinnen und -nutzer'
 #Z_17091_1
-'commitments and gross disbursements of official development assistance and other official flows for capacity building and national planning (without south-south cooperations)': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+'commitments and gross disbursements of official development assistance and other official flows for capacity building and national planning (without south-south cooperations)': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen zur Kapazitätsentwicklung und nationalen Entwicklungsplanung (ohne Süd-Süd-Kooperationen)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Jährliche Wachstumsrate des realen BIP'
 #Z_17131_10
@@ -1298,6 +1298,7 @@ age of victim: Alter der Opfer
 'hairdressing and beauty industry': 'Frisör- und Kosmetikgewerbe'
 'restaurant and lodging industry': 'Gaststätten- und Beherbergungsgewerbe'
 'freight forwarding, transportation, and logistics industry': 'Speditions-, Transport- und Logistikgewerbe'
+'water supply & sanitation': 'Wasserversorgung und Abwasserentsorgung'
 'oof (net disbursements)': 'Sonstige öffentliche Nettoausgaben (OOF)'
 'officially supported export credits (net disbursements)': 'Öffentlich unterstützte Exportkredite (Nettoausgaben)'
 'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
