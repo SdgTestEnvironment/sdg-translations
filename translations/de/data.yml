@@ -96,7 +96,7 @@
 'type of service': 'Art der Versorgungsleistung'
 'land': 'Bundesland'
 'degree of feelings of insecurity': 'Grad des Unsicherheitsgefühls'
-'funding sector': 'Förderbereich'
+'development sector': 'Förderbereich'
 'typ of essential service': 'Art der Grundleistung'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income considered': 'Betrachtetes Einkommen'
@@ -182,12 +182,15 @@
 '14 years and younger': '14 Jahre und jünger'
 '17 years and younger': '17 Jahre und jünger'
 '24 years and younger': '24 Jahre und jünger'
+'1 to under 15 years': '1 bis unter 15 Jahre'
+'1 to under 18 years': '1 bis unter 18 Jahre'
 '3 to under 5 years': '3 bis unter 5 Jahre'
 '6 to under 12 years': '6 bis unter 12 Jahre'
 '12 to under 18 years': '12 bis unter 18 Jahre'
 '14 to under 18 years': '14 bis unter 18 Jahre'
 '15 years': '15 Jahre'
 '15.5 years': '15,5 Jahre'
+'15 to under 18 years': '15 bis unter 18 Jahre'
 '15 to under 25 years': '15 bis unter 25 Jahre'
 '15 years and older': '15 Jahre und älter'
 '16 years': '16 Jahre'
@@ -1197,7 +1200,7 @@
 #Z_16091_1
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert wurde'
 #Z_16101_1
-'verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists and associated media personnel': 'Bestätigte Fälle von Tötung, Entführung, Verschwindenlassen, willkürlicher Inhaftierung und Folter von Journalisten und zugehörigem Medienpersonal'
+'verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists and associated media personnel': 'Bestätigte Fälle von Tötung, Entführung, Verschwindenlassen, willkürlicher Inhaftierung und Folter von Journalistinnen und Journalisten sowie von zugehörigem Medienpersonal'
 #Z_16102_1
 'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den öffentlichen Zugang zu Informationen'
 #Z_16111_1
