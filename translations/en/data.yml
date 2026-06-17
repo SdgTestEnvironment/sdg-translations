@@ -101,7 +101,7 @@
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income considered': 'Income considered'
 'sdg indicator': 'SDG indicator'
-'sector': 'Sector'
+'industry': 'Industry'
 'occupation': 'Occupation'
 'land cover class': 'Land cover class'
 'level of court': 'Level of court'
@@ -125,6 +125,7 @@
 'sea': 'Sea'
 'field of work': 'Field of work'
 'section': 'Section'
+'sector': 'Sector'
 'type of provider': 'Type of provider'
 'time series': 'Time series'
 'sex': 'Sex'
@@ -1289,7 +1290,6 @@ age of victim: Age of victims
 
 #Old stuff that may still be needed
 'länder': 'Länder'
-'industry': 'Industry'
 'type of flow': 'Type of flow'
 'construction industry': 'Construction industry'
 'hairdressing and beauty industry': 'Hairdressing and beauty industry'
