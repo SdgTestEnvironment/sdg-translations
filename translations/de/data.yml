@@ -96,7 +96,7 @@
 'type of service': 'Art der Versorgungsleistung'
 'land': 'Bundesland'
 'degree of feelings of insecurity': 'Grad des Unsicherheitsgefühls'
-'development sector': 'Förderbereich'
+'purpose': 'Förderbereich'
 'typ of essential service': 'Art der Grundleistung'
 'proportion of household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 'income considered': 'Betrachtetes Einkommen'
@@ -965,19 +965,19 @@
 #Z_10042_2
 'gini coefficients': 'Gini-Koeffizientenen'
 #Z_10051_1
-'ratio of regulatory capital to all weighted risk positions': 'Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen'
+'(1) tier-1 capital to assets': '1) Regulatorische Verschuldungsquote'
 #Z_10051_2
-'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+'(2) regulatory tier 1 capital to risk-weighted assets': '2) Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
 #Z_10051_3
-'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+'(3) non-performing loans net of provisions to capital': '3) Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
 #Z_10051_4
-'non-performing loans to total gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+'(4) non-performing loans to total gross loans': '4) Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
 #Z_10051_5
-'total return on assets': 'Gesamtkapitalrentabilität'
+'(5) total return on assets': '5) Gesamtkapitalrentabilität'
 #Z_10051_6
-'ratio of liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+'(6) liquid assets to short-term liabilities': '6) Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
 #Z_10051_7
-'ratio of open foreign exchange position to regulatory capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
+'(7) net open position in foreign exchange to capital': '7) Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 #Z_10072_1
 'state of migration policies': 'Status der Migrationspolitik'
 #Z_10073_1
@@ -1151,7 +1151,7 @@
 #Z_15101_3
 'b) environmental protection expenditure': 'b) Umweltschutzausgaben'
 #Z_15111_1
-'commitments and gross disbursements of official development assistance biodiversity and the forestry sector': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität und den Forstsektor'
+'commitments and gross disbursements of official development assistance for biodiversity and the forestry sector': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität und den Forstsektor'
 #Z_16011_1
 'victims of intentional homicide': 'Opfer von vorsätzlicher Tötung'
 #Z_16012_1
@@ -1333,6 +1333,13 @@ age of victim: Alter der Opfer
 'oda (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA) für Handelshilfe'
 'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
+'ratio of regulatory capital to all weighted risk positions': 'Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen'
+'ratio of regulatory (tier 1) capital to all weighted risk positions': 'Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen'
+'ratio of non-performing loans (net of risk provisions) to balance sheet capital': 'Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital'
+'non-performing loans to total gross loans': 'Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
+'total return on assets': 'Gesamtkapitalrentabilität'
+'ratio of liquid assets to short-term liabilities': 'Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
+'ratio of open foreign exchange position to regulatory capital': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
 'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
 'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
 'oda (gross disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
