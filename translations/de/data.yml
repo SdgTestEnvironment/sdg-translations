@@ -868,6 +868,8 @@
 'renewable energy in final energy consumption': 'Erneuerbare Energien am Endenergieverbrauch'
 #Z_07031_1
 'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen als Primärenergie zum BIP'
+#Z_07041_1
+'commitments and gross disbursements of official development assistance and other official flows in support of clean energy research and development and renewable energy production': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen sowie sonstiger öffentlicher Leistungen zur zur Förderung von Forschung und Entwicklung im Bereich saubere Energie und zur Erzeugung von Energie aus erneuerbaren Energiequellen'
 #Z_07051_1
 'installed renewable energy-generating capacity': 'Installierte Kapazitäten zur Erzeugung erneuerbarer Energie'
 #Z_08011_1
@@ -973,7 +975,7 @@
 #Z_10051_4
 '(4) non-performing loans to total gross loans': '4) Anteil der notleidenden Kredite an den Bruttokrediten insgesamt'
 #Z_10051_5
-'(5) total return on assets': '5) Gesamtkapitalrentabilität'
+'(5) return on assets': '5) Gesamtkapitalrentabilität'
 #Z_10051_6
 '(6) liquid assets to short-term liabilities': '6) Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten'
 #Z_10051_7
