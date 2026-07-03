@@ -939,7 +939,7 @@
 #Z_09031_1
 'gross value added of small-scale industries in manufacturing': 'Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe'
 #Z_09032_1
-'micro-businesses  with an equity ratio below 10 percent': 'Kleinstunternehmen mit einer Eigenkapitalquote von unter 10 Prozent'
+'micro-businesses with an equity ratio below 10 percent': 'Kleinstunternehmen mit einer Eigenkapitalquote von unter 10 Prozent'
 #Z_09041_1
 'co₂ emissions per real gdp': 'CO₂-Emissionen zum realen BIP'
 #Z_09041_2
@@ -1203,7 +1203,7 @@
 #Z_16091_1
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert wurde'
 #Z_16101_1
-'verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists and associated media personnel': 'Bestätigte Fälle von Tötung, Entführung, Verschwindenlassen, willkürlicher Inhaftierung und Folter von Journalistinnen und Journalisten sowie von zugehörigem Medienpersonal'
+'verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists and associated media personnel': 'Bestätigte Fälle von Tötung, Entführung, Verschwindenlassen, willkürlicher Inhaftierung und Folter von Journalistinnen und Journalisten sowie zugehörigem Medienpersonal'
 #Z_16102_1
 'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den öffentlichen Zugang zu Informationen'
 #Z_16111_1
@@ -1333,6 +1333,7 @@ age of victim: Alter der Opfer
 'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke'
 'oda (commitments) for aid for trade': 'Zusagen (ODA) für Handelshilfe'
 'oda (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA) für Handelshilfe'
+'micro-businesses  with an equity ratio below 10 percent': 'Kleinstunternehmen mit einer Eigenkapitalquote von unter 10 Prozent'
 'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
 'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 'ratio of regulatory capital to all weighted risk positions': 'Relation zwischen regulatorischen Eigenmitteln und anrechnungspflichtigen Positionen'
