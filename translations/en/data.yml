@@ -490,9 +490,9 @@
 '[b] germany as provider': '[b] Germany as provider'
 'tax breaks': 'Tax breaks'
 'total': 'Total'
-'<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
-'<u>additional time series:</u> full-time equivalents': '<u>Additional time series:</u> Full-time equivalents'
-'<u>time series of the indicator:</u> employed persons': '<u>Time series of the indicator:</u> Employed persons'
+'employees': 'Employees'
+'full-time equivalents': 'Full-time equivalents'
+'employed persons': 'Employed persons'
 'water withdrawal': 'Water withdrawal'
 'water withdrawl by economic activity': 'Water withdrawl by economic activity'
 'divers': 'Divers'
@@ -1062,6 +1062,8 @@
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_12111_1
 'tax reliefs and direct transfers of funds': 'Tax reliefs and direct transfers of funds'
+#Z_13021_1
+'presentation of a long-term climate protection strategy': 'Presentation of a long-term climate protection strategy'
 #Z_13022_1
 'total greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
@@ -1298,6 +1300,9 @@ age of victim: Age of victims
 'restaurant and lodging industry': 'Restaurant and lodging industry'
 'freight forwarding, transportation, and logistics industry': 'Freight forwarding, transportation, and logistics industry'
 'water supply & sanitation': 'Water supply & sanitation'
+'<u>additional time series:</u> employees': '<u>Additional time series:</u> Employees'
+'<u>additional time series:</u> full-time equivalents': '<u>Additional time series:</u> Full-time equivalents'
+'<u>time series of the indicator:</u> employed persons': '<u>Time series of the indicator:</u> Employed persons'
 'oof (net disbursements)': 'OOF (net disbursements)'
 'officially supported export credits (net disbursements)': 'Officially supported export credits (net disbursements)'
 'oda (net disbursements)': 'ODA (net disbursements)'

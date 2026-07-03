@@ -490,9 +490,9 @@
 '[b] germany as provider': '[b] Deutschland als Bereitsteller'
 'tax breaks': 'Steuervergünstigungen'
 'total': 'Insgesamt'
-'<u>additional time series:</u> employees': '<u>Zusätzliche Zeitreihe:</u> Beschäftigte'
-'<u>additional time series:</u> full-time equivalents': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente'
-'<u>time series of the indicator:</u> employed persons': '<u>Zeitreihe des Indikators:</u> Erwerbstätige'
+'employees': 'Beschäftigte'
+'full-time equivalents': 'Vollzeitäquivalente'
+'employed persons': 'Erwerbstätige'
 'water withdrawal': 'Wasserentnahme'
 'water withdrawl by economic activity': 'Wasserentnahme nach Wirtschaftszweig'
 'divers': 'Divers'
@@ -1062,6 +1062,8 @@
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_12111_1
 'tax reliefs and direct transfers of funds': 'Steuervergünstigungen und direkte finanzielle Beihilfen'
+#Z_13021_1
+'presentation of a long-term climate protection strategy': 'Vorlage einer langfristigen Klimaschutzstrategie'
 #Z_13022_1
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
@@ -1304,6 +1306,9 @@ age of victim: Alter der Opfer
 'restaurant and lodging industry': 'Gaststätten- und Beherbergungsgewerbe'
 'freight forwarding, transportation, and logistics industry': 'Speditions-, Transport- und Logistikgewerbe'
 'water supply & sanitation': 'Wasserversorgung und Abwasserentsorgung'
+'<u>additional time series:</u> employees': '<u>Zusätzliche Zeitreihe:</u> Beschäftigte'
+'<u>additional time series:</u> full-time equivalents': '<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente'
+'<u>time series of the indicator:</u> employed persons': '<u>Zeitreihe des Indikators:</u> Erwerbstätige'
 'oof (net disbursements)': 'Sonstige öffentliche Nettoausgaben (OOF)'
 'officially supported export credits (net disbursements)': 'Öffentlich unterstützte Exportkredite (Nettoausgaben)'
 'oda (net disbursements)': 'Öffentliche Nettoentwicklungsausgaben (ODA)'
