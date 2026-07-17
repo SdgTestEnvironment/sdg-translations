@@ -584,6 +584,7 @@
 'labour exploitation': 'Arbeitsausbeutung'
 'sexual exploitation': 'Sexuelle Ausbeutung'
 'official development assistance': 'Öffentliche Entwicklungsleistungen'
+'bilateral and imputed multilateral official development assistance for ldcs': 'Bilaterale und kalkulatorisch multilaterale öffentliche Entwicklungsausgaben für die am wenigsten entwickelten Länder (LDCs)'
 'other official flows': 'Sonstige öffentliche Leistungen'
 'officially supported export credits': 'Öffentlich unterstützte Exportkredite'
 'private grants': 'Private Fördermittel'
@@ -722,7 +723,7 @@
 #Z_03035_2
 'inpatient treatment of neglected tropical diseases': 'Stationäre Behandlung bei vernachlässigten Tropenkrankheiten'
 #Z_03041_1
-'mortality at the age of 30 to under 70 years': 'Sterblichkeit im Alter von 30 bis unter 70 Jahren'
+'mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease': 'Sterblichkeitsrate infolge von Krankheiten des Kreislaufsystems, bösartigen Neubildungen, Diabetes mellitus oder chronischen Atemwegserkrankungen'
 #Z_03042_1
 'mortality due to suicide': 'Sterblichkeit infolge von Suizid'
 #Z_03051_1
@@ -1218,9 +1219,7 @@
 #Z_17012_2
 'financing of domestic expenditures funded by national taxes and insurance contributions': 'Finanzierung der Staatsausgaben durch Steuern und Sozialversicherungsabgaben'
 #Z_17021_1
-'proportion of oda (net disbursements) to gni': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE'
-#Z_17021_2
-'proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)': 'Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)'
+'net disbursements of official development assistance as a proportion of gross national income': 'Verhältnis der Nettoauszahlungen öffentlicher Entwicklungsleistungen zum Bruttonationaleinkommen'
 #Z_17032_1
 'personal remittances received from abroad as a percentage of gdp': 'Eingehende Überweisungen von Privatpersonen aus dem Ausland im Verhältnis zum BIP'
 #Z_17051_1
@@ -1354,6 +1353,8 @@ age of victim: Alter der Opfer
 'oda (gross disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
 'environmental protection expenditure': 'Umweltschutzausgaben'
 'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
+'proportion of oda (net disbursements) to gni': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE'
+'proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)': 'Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)'
 'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'Gesamten öffentlichen Bruttoentwicklungsausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
@@ -1364,6 +1365,7 @@ age of victim: Alter der Opfer
 '(a) cardiovascular disease': 'a) Herz-Kreislauferkrankungen'
 '(b) cancer': 'b) Bösartige Neubildungen'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
+'mortality at the age of 30 to under 70 years': 'Sterblichkeit im Alter von 30 bis unter 70 Jahren'
 'percent of gdp': 'Prozent des BIP'
 'type of ict competence': 'Art der IKT-Kompetenz'
 "'area '": 'Bereich'

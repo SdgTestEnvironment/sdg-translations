@@ -584,6 +584,7 @@
 'labour exploitation': 'Labour exploitation'
 'sexual exploitation': 'Sexual exploitation'
 'official development assistance': 'Official Development Assistance'
+'bilateral and imputed multilateral official development assistance for ldcs': 'Bilateral and imputed multilateral Official Development Assistance for LDCs'
 'other official flows': 'Other Official Flows'
 'officially supported export credits': 'Officially supported export credits'
 'private grants': 'Private grants'
@@ -722,7 +723,7 @@
 #Z_03035_2
 'inpatient treatment of neglected tropical diseases': 'Inpatient treatment of neglected tropical diseases'
 #Z_03041_1
-'mortality at the age of 30 to under 70 years': 'Mortality at the age of 30 to under 70 years'
+'mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease': 'Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease'
 #Z_03042_1
 'mortality due to suicide': 'Mortality due to suicide'
 #Z_03051_1
@@ -1218,9 +1219,7 @@
 #Z_17012_2
 'financing of domestic expenditures funded by national taxes and insurance contributions': 'Financing of domestic expenditures funded by national taxes and insurance contributions'
 #Z_17021_1
-'proportion of oda (net disbursements) to gni': 'Proportion of ODA (net disbursements) to GNI'
-#Z_17021_2
-'proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)': 'Proportion of bilateral and imputed multilateral ODA (net disbursements) for LDCs to the gross national income (GNI)'
+'net disbursements of official development assistance as a proportion of gross national income': 'Net disbursements of Official Development Assistance as a proportion of gross national income'
 #Z_17032_1
 'personal remittances received from abroad as a percentage of gdp': 'Personal remittances received from abroad as a percentage of GDP'
 #Z_17051_1
@@ -1348,6 +1347,8 @@ age of victim: Age of victims
 'oda (gross disbursements) for biodiversity': 'ODA (gross disbursements) for biodiversity'
 'environmental protection expenditure': 'Environmental protection expenditure'
 'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
+'proportion of oda (net disbursements) to gni': 'Proportion of ODA (net disbursements) to GNI'
+'proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)': 'Proportion of bilateral and imputed multilateral ODA (net disbursements) for LDCs to the gross national income (GNI)'
 'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)'
 'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)'
 'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'ODA (commitments) to public-private partnerships (PPP) for infrastructure'
@@ -1358,6 +1359,7 @@ age of victim: Age of victims
 '(a) cardiovascular disease': '(a) Cardiovascular disease'
 '(b) cancer': '(b) Cancer'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
+'mortality at the age of 30 to under 70 years': 'Mortality at the age of 30 to under 70 years'
 'percent of gdp': 'Percent of GDP'
 'type of ict competence': 'Type of ICT competence'
 "'area '": 'Area'
