@@ -280,6 +280,8 @@
 'mobility impaired people': 'Mobility impaired people'
 'gross disbursements': 'Gross disbursements'
 'net disbursements': 'Net disbursements'
+'net disbursements to least developed countries': 'Net disbursements to least developed countries'
+'net disbursements total': 'Net disbursements total'
 '(1) migrant rights': '(1) Migrant rights'
 '(2) whole-of-government/evidence-based policies': '(2) Whole-of-government/Evidence-based policies'
 '(3) cooperation and partnerships': '(3) Cooperation and partnerships'
@@ -1219,7 +1221,7 @@
 #Z_17012_2
 'financing of domestic expenditures funded by national taxes and insurance contributions': 'Financing of domestic expenditures funded by national taxes and insurance contributions'
 #Z_17021_1
-'net disbursements of official development assistance as a proportion of gross national income': 'Net disbursements of Official Development Assistance as a proportion of gross national income'
+'proportion of official development assistance to gross national income': 'Proportion of Official Development Assistance to gross national income'
 #Z_17032_1
 'personal remittances received from abroad as a percentage of gdp': 'Personal remittances received from abroad as a percentage of GDP'
 #Z_17051_1
