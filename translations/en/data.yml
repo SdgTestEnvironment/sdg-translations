@@ -1185,7 +1185,7 @@
 #Z_16042_1
 'seized arms and parts': 'Seized arms and parts'
 #Z_16051_1
-'population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years'
+'population who had the impression that public officials were corruptible during their interactions with public authorities in the previous two years': 'Population who had the impression that public officials were corruptible during their interactions with public authorities in the previous two years'
 #Z_16051_2
 'private persons (donors) suspected in the context of corruption offences': 'Private persons (donors) suspected in the context of corruption offences'
 #Z_16052_1
@@ -1326,6 +1326,7 @@ age of victim: Age of victims
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
 'organically farmed agricultural land': 'Organically farmed agricultural land'
+'population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years'
 'länder': 'Länder'
 'type of flow': 'Type of flow'
 'construction industry': 'Construction industry'

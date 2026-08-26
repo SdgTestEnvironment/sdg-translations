@@ -1185,7 +1185,7 @@
 #Z_16042_1
 'seized arms and parts': 'Sichergestellte Waffen und Waffenteile'
 #Z_16051_1
-'population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren'
+'population who had the impression that public officials were corruptible during their interactions with public authorities in the previous two years': 'Bevölkerung, die in den letzten zwei Jahren im Umgang mit Behörden den Eindruck hatte, dass Beschäftigte der Behörde bestechlich sind'
 #Z_16051_2
 'private persons (donors) suspected in the context of corruption offences': 'Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten'
 #Z_16052_1
@@ -1332,6 +1332,7 @@ age of victim: Alter der Opfer
 '+++-': 'nichts vorhanden'
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
 'organically farmed agricultural land': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung'
+'population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren'
 'länder': 'Bundesland'
 'type of flow': 'Art des Finanzstroms'
 'construction industry': 'Baugewerbe'
