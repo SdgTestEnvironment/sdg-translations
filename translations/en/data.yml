@@ -533,8 +533,8 @@
 'medium-high-tech': 'Medium-high-tech'
 'high-tech': 'High-tech'
 '(1) maternity care': '(1) Maternity care'
-'(2) contraception and family planning': '(2) Contraception and family planning'
-'(3) comprehensive sexuality education and information': '(3) Comprehensive sexuality education and information'
+'(2) contraception services': '(2) Contraception services'
+'(3) sexuality education': '(3) Sexuality education'
 '(4) hiv and hpv': '(4) HIV and HPV'
 'sports and recreational activities': 'Sports and Recreational activities'
 'accommodation for visitors: hotels and similar establishments': 'Accommodation for visitors: hotels and similar establishments'
@@ -1296,6 +1296,8 @@ sex of victim: Gender of victims
 age of victim: Age of victims
 
 #Old stuff that may still be needed
+'(2) contraception and family planning': '(2) Contraception and family planning'
+'(3) comprehensive sexuality education and information': '(3) Comprehensive sexuality education and information'
 '+++symbols': 'Explanation of symbols'
 '+++0': 'less than half of 1 in the last digit occupied, but more than zero'
 '+++‒': 'no figures or magnitude zero'
