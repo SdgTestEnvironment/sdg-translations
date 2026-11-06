@@ -79,6 +79,7 @@
 'education policy area': 'Education policy area'
 'area of law': 'Area of law'
 'type of assistance': 'Type of assistance'
+'physical access to banking services': 'Physical Access to Banking Services'
 'bioclimatic belt': 'Bioclimatic belt'
 'bound': 'Bound'
 'cause of death': 'Cause of death'
@@ -250,6 +251,8 @@
 'other': 'Other'
 'social participation': 'Social participation'
 'participation in working life': 'Participation in working life'
+'b) atms of national payment service providers': 'b) ATMs of national payment service providers'
+'a) branches of payment service providers': 'a) Branches of payment service providers'
 'alpine': 'Alpine'
 'montane': 'Montane'
 'nival': 'Nival'
@@ -915,10 +918,8 @@
 'employees': 'Employees'
 #Z_08092_3
 'full-time equivalents': 'Full-time equivalents'
-#Z_08101_1
-'a) branches of payment service providers': 'a) Branches of payment service providers'
-#Z_08101_2
-'b) atms of national payment service providers': 'b) ATMs of national payment service providers'
+#Z_08101_3
+'a) branches of payment service providers and b) atms of national payment service providers': 'a) Branches of payment service providers and b) ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
 #Z_08111_1

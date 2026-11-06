@@ -79,6 +79,7 @@
 'education policy area': 'Bildungspolitischer Bereich'
 'area of law': 'Rechtsgebiet'
 'type of assistance': 'Art der Leistung'
+'physical access to banking services': 'Physischer Zugang zu Bankdienstleistungen'
 'bioclimatic belt': 'Bioklimatische Zone'
 'bound': 'Grenze'
 'cause of death': 'Todesursache'
@@ -250,6 +251,8 @@
 'other': 'Sonstige'
 'social participation': 'Sozialen Teilhabe'
 'participation in working life': 'Teilhabe am Arbeitsleben'
+'b) atms of national payment service providers': 'b) Bankautomaten von inländischen Zahlungsdienstleistern'
+'a) branches of payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern'
 'alpine': 'Alpin'
 'montane': 'Montan'
 'nival': 'Nival'
@@ -915,10 +918,8 @@
 'employees': 'Beschäftigte'
 #Z_08092_3
 'full-time equivalents': 'Vollzeitäquivalente'
-#Z_08101_1
-'a) branches of payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern'
-#Z_08101_2
-'b) atms of national payment service providers': 'b) Bankautomaten von inländischen Zahlungsdienstleistern'
+#Z_08101_3
+'a) branches of payment service providers and b) atms of national payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern und b) Bankautomaten von inländischen Zahlungsdienstleistern'
 #Z_08102_1
 'accounts at payment service providers': 'Konten bei Zahlungsverkehrsdienstleistern'
 #Z_08111_1
