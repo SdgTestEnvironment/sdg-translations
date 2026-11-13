@@ -743,7 +743,7 @@
 #Z_03061_2
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
-'births of young women': 'Geburten junger Frauen'
+'births to adolescents': 'Geburten von Jugendlichen'
 #Z_03082_1
 'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-Haushalte mit hohen Ausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben'
 #Z_03091_1
@@ -817,11 +817,11 @@
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Zeitaufwand für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_3
-'women in a) national parliaments': 'Frauen in a) nationalen Parlamenten'
+'women in (a) national parliaments': 'Frauen in a) nationalen Parlamenten'
 #Z_05051_4
-'women in b) local governments': 'Frauen in b) Gemeinden'
+'women in (b) local governments': 'Frauen in b) Gemeinden'
 #Z_05051_6
-'women in a) national parliaments and b) local governments': 'Frauen in nationalen Parlamenten und Gemeinden'
+'women in (a) national parliaments and (b) local governments': 'Frauen in nationalen Parlamenten und Gemeinden'
 #Z_05052_1
 'women in managerial positions': 'Frauen in Führungspositionen'
 #Z_05062_1
@@ -919,7 +919,7 @@
 #Z_08092_3
 'full-time equivalents': 'Vollzeitäquivalente'
 #Z_08101_3
-'a) branches of payment service providers and b) atms of national payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern und b) Bankautomaten von inländischen Zahlungsdienstleistern'
+'(a) branches of payment service providers and (b) atms of national payment service providers': 'a) Zweigstellen von Zahlungsverkehrsdienstleistern und b) Bankautomaten von inländischen Zahlungsdienstleistern'
 #Z_08102_1
 'accounts at payment service providers': 'Konten bei Zahlungsverkehrsdienstleistern'
 #Z_08111_1
@@ -1053,9 +1053,9 @@
 #Z_12041_5
 '(5) minamata convention': '5) Minamata Übereinkommen'
 #Z_12042_1
-'a) hazardous waste generated per capita': 'a) Aufkommen gefährlicher Abfälle'
+'(a) hazardous waste generated per capita': 'a) Aufkommen gefährlicher Abfälle'
 #Z_12042_2
-'b) hazardous waste treated': 'b) Behandelte gefährliche Abfälle'
+'(b) hazardous waste treated': 'b) Behandelte gefährliche Abfälle'
 #Z_12051_1
 'national recycling rate': 'Nationale Recyclingquote'
 #Z_12051_2
@@ -1083,9 +1083,9 @@
 #Z_14031_1
 'average ph-concentration in the german bight': 'Durchschnittliche pH-Konzentration in der Deutschen Bucht'
 #Z_14041_1
-'sustainably managed fish stocks in the north and baltic seas on all msy examined stocks': 'Nachhaltig befischte Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen'
+'sustainably managed fish stocks': 'Nachhaltig bewirtschaftete Fischbestände'
 #Z_14041_2
-'msy examined fish stocks in all managed stocks': 'MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen'
+'msy examined fish stocks': 'MSY-untersuchte Fischbestände'
 #Z_14051_1
 'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
 #Z_14051_3
@@ -1149,17 +1149,17 @@
 #Z_15071_3
 'authorized imports and exports of protected species': 'Genehmigte Ein- und Ausfuhren geschützter Arten'
 #Z_15081_1
-'a) national legislation and policy relevant to ias': 'a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS'
+'(a) national legislation and policy relevant to ias': 'a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS'
 #Z_15081_2
-'b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB'
+'(b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB'
 #Z_15091_1
 '(a) national strategies and action plans in accordance with the global biodiversity framework': 'a) Nationale Strategien und Aktionspläne gemäß des Globalen Biodiversitätsrahmens'
 #Z_15091_2
 '(b) implementation of the principles of biodiversity in the seea': 'b) Umsetzung der Werte der biologischen Vielfalt in die UGR'
 #Z_15101_1
-'a) commitments and gross disbursements of official development assistance for biodiversity': 'a) Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität'
+'(a) commitments and gross disbursements of official development assistance for biodiversity': 'a) Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität'
 #Z_15101_3
-'b) environmental protection expenditure': 'b) Umweltschutzausgaben'
+'(b) environmental protection expenditure': 'b) Umweltschutzausgaben'
 #Z_15111_1
 'commitments and gross disbursements of official development assistance for biodiversity and the forestry sector': 'Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität und den Forstsektor'
 #Z_16011_1
@@ -1319,6 +1319,16 @@ age of victim: Alter der Opfer
 '+++X': 'Tabellenfach gesperrt, weil Aussage nicht sinnvoll'
 'mortality due to exposure to forces of nature': 'Sterblichkeit infolge von Exposition gegenüber Naturkräften'
 'mortality due to suicide': 'Sterblichkeit infolge von Suizid'
+'births of young women': 'Geburten junger Frauen'
+'women in a) national parliaments': 'Frauen in a) nationalen Parlamenten'
+'women in b) local governments': 'Frauen in b) Gemeinden'
+'women in a) national parliaments and b) local governments': 'Frauen in nationalen Parlamenten und Gemeinden'
+'a) hazardous waste generated per capita': 'a) Aufkommen gefährlicher Abfälle'
+'b) hazardous waste treated': 'b) Behandelte gefährliche Abfälle'
+'sustainably managed fish stocks in the north and baltic seas on all msy examined stocks': 'Nachhaltig befischte Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen'
+'msy examined fish stocks in all managed stocks': 'MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen'
+'a) national legislation and policy relevant to ias': 'a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS'
+'b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB'
 '(2) contraception and family planning': '2) Empfängnisverhütung und Familienplanung'
 '(3) comprehensive sexuality education and information': '3) Umfassende Sexualerziehung und Information'
 'environmental protection and/or resource management sector': 'Umweltschutz- und/oder Ressourcenmanagementbereich'

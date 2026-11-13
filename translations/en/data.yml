@@ -79,7 +79,7 @@
 'education policy area': 'Education policy area'
 'area of law': 'Area of law'
 'type of assistance': 'Type of assistance'
-'physical access to banking services': 'Physical Access to Banking Services'
+'physical access to banking services': 'Physical access to banking services'
 'bioclimatic belt': 'Bioclimatic belt'
 'bound': 'Bound'
 'cause of death': 'Cause of death'
@@ -743,7 +743,7 @@
 #Z_03061_2
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 #Z_03072_1
-'births of young women': 'Births of young women'
+'births to adolescents': 'Births to adolescents'
 #Z_03082_1
 'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-households with large expenditures on health in relation to total household expenditure'
 #Z_03091_1
@@ -817,11 +817,11 @@
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 #Z_05051_3
-'women in a) national parliaments': 'Women in a) national parliaments'
+'women in (a) national parliaments': 'Women in (a) national parliaments'
 #Z_05051_4
-'women in b) local governments': 'Women in b) local governments'
+'women in (b) local governments': 'Women in (b) local governments'
 #Z_05051_6
-'women in a) national parliaments and b) local governments': 'Women in a) national parliaments and b) local governments'
+'women in (a) national parliaments and (b) local governments': 'Women in (a) national parliaments and (b) local governments'
 #Z_05052_1
 'women in managerial positions': 'Women in managerial positions'
 #Z_05062_1
@@ -919,7 +919,7 @@
 #Z_08092_3
 'full-time equivalents': 'Full-time equivalents'
 #Z_08101_3
-'a) branches of payment service providers and b) atms of national payment service providers': 'a) Branches of payment service providers and b) ATMs of national payment service providers'
+'(a) branches of payment service providers and (b) atms of national payment service providers': '(a) Branches of payment service providers and (b) ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
 #Z_08111_1
@@ -1053,9 +1053,9 @@
 #Z_12041_5
 '(5) minamata convention': '(5) Minamata Convention'
 #Z_12042_1
-'a) hazardous waste generated per capita': 'a) Hazardous waste generated per capita'
+'(a) hazardous waste generated per capita': '(a) Hazardous waste generated per capita'
 #Z_12042_2
-'b) hazardous waste treated': 'b) Hazardous waste treated'
+'(b) hazardous waste treated': '(b) Hazardous waste treated'
 #Z_12051_1
 'national recycling rate': 'National recycling rate'
 #Z_12051_2
@@ -1083,9 +1083,9 @@
 #Z_14031_1
 'average ph-concentration in the german bight': 'Average pH-concentration in the German Bight'
 #Z_14041_1
-'sustainably managed fish stocks in the north and baltic seas on all msy examined stocks': 'Sustainably managed fish stocks in the North and Baltic Seas on all MSY examined stocks'
+'sustainably managed fish stocks': 'Sustainably managed fish stocks'
 #Z_14041_2
-'msy examined fish stocks in all managed stocks': 'MSY examined fish stocks in all managed stocks'
+'msy examined fish stocks': 'MSY examined fish stocks'
 #Z_14051_1
 'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
 #Z_14051_3
@@ -1149,17 +1149,17 @@
 #Z_15071_3
 'authorized imports and exports of protected species': 'Authorized imports and exports of protected species'
 #Z_15081_1
-'a) national legislation and policy relevant to ias': 'a) National legislation and policy relevant to IAS'
+'(a) national legislation and policy relevant to ias': '(a) National legislation and policy relevant to IAS'
 #Z_15081_2
-'b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'b) Align the NBSAP targets with Aichi Target 9 of the Strategic Plan for Biodiversity'
+'(b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': '(b) Align the NBSAP targets with Aichi Target 9 of the Strategic Plan for Biodiversity'
 #Z_15091_1
 '(a) national strategies and action plans in accordance with the global biodiversity framework': '(a) National strategies and action plans in accordance with the Global Biodiversity Framework'
 #Z_15091_2
 '(b) implementation of the principles of biodiversity in the seea': '(b) Implementation of the principles of biodiversity in the SEEA'
 #Z_15101_1
-'a) commitments and gross disbursements of official development assistance for biodiversity': 'a) Commitments and gross disbursements of Official Development Assistance for biodiversity'
+'(a) commitments and gross disbursements of official development assistance for biodiversity': '(a) Commitments and gross disbursements of Official Development Assistance for biodiversity'
 #Z_15101_3
-'b) environmental protection expenditure': 'b) Environmental protection expenditure'
+'(b) environmental protection expenditure': '(b) Environmental protection expenditure'
 #Z_15111_1
 'commitments and gross disbursements of official development assistance for biodiversity and the forestry sector': 'Commitments and gross disbursements of Official Development Assistance for biodiversity and the forestry sector'
 #Z_16011_1
@@ -1313,6 +1313,16 @@ age of victim: Age of victims
 '+++X': 'cell blocked for logical reasons'
 'mortality due to exposure to forces of nature': 'Mortality due to exposure to forces of nature'
 'mortality due to suicide': 'Mortality due to suicide'
+'births of young women': 'Births of young women'
+'women in a) national parliaments': 'Women in a) national parliaments'
+'women in b) local governments': 'Women in b) local governments'
+'women in a) national parliaments and b) local governments': 'Women in a) national parliaments and b) local governments'
+'a) hazardous waste generated per capita': 'a) Hazardous waste generated per capita'
+'b) hazardous waste treated': 'b) Hazardous waste treated'
+'sustainably managed fish stocks in the north and baltic seas on all msy examined stocks': 'Sustainably managed fish stocks in the North and Baltic Seas on all MSY examined stocks'
+'msy examined fish stocks in all managed stocks': 'MSY examined fish stocks in all managed stocks'
+'a) national legislation and policy relevant to ias': 'a) National legislation and policy relevant to IAS'
+'b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'b) Align the NBSAP targets with Aichi Target 9 of the Strategic Plan for Biodiversity'
 '(2) contraception and family planning': '(2) Contraception and family planning'
 '(3) comprehensive sexuality education and information': '(3) Comprehensive sexuality education and information'
 'environmental protection and/or resource management sector': 'Environmental protection and/or resource management sector'
