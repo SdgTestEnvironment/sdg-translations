@@ -1095,7 +1095,7 @@
 #Z_14061_1
 'degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing': 'Umsetzungsgrad internationaler Übereinkünfte zur Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14071_1
-'sustainable fisheries to gdp': 'Nachhaltige Fischerei am BIP'
+'gross value added of sustainable marine fisheries as a proportion of gdp': 'Bruttowertschöpfung der nachhaltigen Meeresfischerei am BIP'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 #Z_14091_1
@@ -1327,6 +1327,7 @@ age of victim: Alter der Opfer
 'b) hazardous waste treated': 'b) Behandelte gefährliche Abfälle'
 'sustainably managed fish stocks in the north and baltic seas on all msy examined stocks': 'Nachhaltig befischte Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen'
 'msy examined fish stocks in all managed stocks': 'MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen'
+'sustainable fisheries to gdp': 'Nachhaltige Fischerei am BIP'
 'a) national legislation and policy relevant to ias': 'a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS'
 'b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity': 'b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB'
 '(2) contraception and family planning': '2) Empfängnisverhütung und Familienplanung'
